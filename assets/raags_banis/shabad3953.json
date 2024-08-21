@@ -1,0 +1,2716 @@
+{
+    "status": 200,
+    "message": "",
+    "data": [
+        {
+            "albumart": "",
+            "author": "",
+            "song": "ਬਾਵਨ ਅਛਰ ਲੋਕ ਤ੍ਰੈ ਸਭੁ ਕਛੁ ਇਨ ਹੀ ਮਾਹਿ ॥",
+            "json": "https://shabad-guru.org/uploads/data/0.7- Bavan Akhri Bhagat Kabir Ji/ਬਾਵਨ ਅਛਰ ਲੋਕ ਤ੍ਰੈ ਸਭੁ ਕਛੁ ਇਨ ਹੀ ਮਾਹਿ ॥.json",
+            "audio": "https://shabadguru.s3.us-west-1.amazonaws.com/gurbani/lrc n- Project/03 -Raag Gauri(115-255)/mp3/song/0251 _ 252 A Pb.mp3",
+            "punjabi": 1,
+            "english": 1,
+            "english_trans": 1,
+            "spanish": 1,
+            "hindi": null,
+            "file_name_on_s3": "0251 _ 252 A Pb",
+            "english_trans_lyrics": [
+                {
+                    "line": "raag ga-orhee poorbee baavan akhree kabeer jee-o kee\r",
+                    "time": 3078
+                },
+                {
+                    "line": "ik-oNkaar satnaam kartaa purakh gurparsaad.\r",
+                    "time": 29050
+                },
+                {
+                    "line": "baavan achhar lok tarai sabh kachh in hee maahi.\r",
+                    "time": 76056
+                },
+                {
+                    "line": "ay akhar khir jaahigay o-ay akhar in meh naahi. ||1||\r",
+                    "time": 91054
+                },
+                {
+                    "line": "jahaa bol tah achhar aavaa.\r",
+                    "time": 105079
+                },
+                {
+                    "line": "jah abol tah man na rahaavaa.\r",
+                    "time": 112086
+                },
+                {
+                    "line": "bol abol maDh hai so-ee.\r",
+                    "time": 119099
+                },
+                {
+                    "line": "jas oh hai tas lakhai na ko-ee. ||2||\r",
+                    "time": 126095
+                },
+                {
+                    "line": "alah laha-o ta-o ki-aa kaha-o kaha-o ta ko upkaar.\r",
+                    "time": 140081
+                },
+                {
+                    "line": "batak beej meh rav rahi-o jaa ko teen lok bisthaar. ||3||\r",
+                    "time": 154079
+                },
+                {
+                    "line": "alah lahantaa bhayd chhai kachh kachh paa-i-o bhayd.\r",
+                    "time": 168088
+                },
+                {
+                    "line": "ulat bhayd man bayDhi-o paa-i-o abhang achhayd. ||4||\r",
+                    "time": 182070
+                },
+                {
+                    "line": "turak tareekat jaanee-ai hindoo bayd puraan.\r",
+                    "time": 196077
+                },
+                {
+                    "line": "man samjhaavan kaarnay kachhoo-ak parhee-ai gi-aan. ||5||\r",
+                    "time": 210045
+                },
+                {
+                    "line": "o-ankaar aad mai jaanaa.\r",
+                    "time": 238095
+                },
+                {
+                    "line": "likh ar maytai taahi na maanaa.\r",
+                    "time": 245073
+                },
+                {
+                    "line": "o-ankaar lakhai ja-o ko-ee.\r",
+                    "time": 253064
+                },
+                {
+                    "line": "so-ee lakh maytnaa na ho-ee. ||6||\r",
+                    "time": 259050
+                },
+                {
+                    "line": "kakaa kiran kamal meh paavaa.\r",
+                    "time": 266038
+                },
+                {
+                    "line": "sas bigaas sampat nahee aavaa.\r",
+                    "time": 274064
+                },
+                {
+                    "line": "ar jay tahaa kusam ras paavaa.\r",
+                    "time": 280023
+                },
+                {
+                    "line": "akah kahaa kahi kaa samjhaavaa. ||7||\r",
+                    "time": 286089
+                },
+                {
+                    "line": "khakhaa ihai khorh man aavaa.\r",
+                    "time": 300062
+                },
+                {
+                    "line": "khorhay chhaad na dah dis Dhaavaa.\r",
+                    "time": 307043
+                },
+                {
+                    "line": "khasmahi jaan khimaa kar rahai.\r",
+                    "time": 314025
+                },
+                {
+                    "line": "ta-o ho-ay nikhi-a-o akhai pad lahai. ||8||\r",
+                    "time": 321023
+                },
+                {
+                    "line": "gagaa gur kay bachan pachhaanaa.\r",
+                    "time": 328044
+                },
+                {
+                    "line": "doojee baat na Dhar-ee kaanaa.\r",
+                    "time": 335027
+                },
+                {
+                    "line": "rahai bihamgam kateh na jaa-ee.\r",
+                    "time": 342041
+                },
+                {
+                    "line": "agah gahai geh gagan rahaa-ee. ||9||\r",
+                    "time": 349022
+                },
+                {
+                    "line": "ghaghaa ghat ghat nimsai so-ee.\r",
+                    "time": 356006
+                },
+                {
+                    "line": "ghat footay ghat kabeh na ho-ee.\r",
+                    "time": 362063
+                },
+                {
+                    "line": "taa ghat maahi ghaat ja-o paavaa.\r",
+                    "time": 369048
+                },
+                {
+                    "line": "so ghat chhaad avghat kat Dhaavaa. ||10||\r",
+                    "time": 376032
+                },
+                {
+                    "line": "nyanyaa nigrahi sanayhu kar nirvaaro sandayh.\r",
+                    "time": 396085
+                },
+                {
+                    "line": "naahee daykh na bhaajee-ai param si-aanap ayh. ||11||\r",
+                    "time": 410062
+                },
+                {
+                    "line": "chachaa rachit chitar hai bhaaree.\r",
+                    "time": 424035
+                },
+                {
+                    "line": "taj chitrai chaytahu chitkaaree.\r",
+                    "time": 430090
+                },
+                {
+                    "line": "chitar bachitar ihai avjhayraa.\r",
+                    "time": 438021
+                },
+                {
+                    "line": "taj chitrai chit raakh chitayraa. ||12||\r",
+                    "time": 444083
+                },
+                {
+                    "line": "chhachhaa ihai chhatarpat paasaa.\r",
+                    "time": 458032
+                },
+                {
+                    "line": "chhak ke na rahhu chhaad ke na aasaa.\r",
+                    "time": 465007
+                },
+                {
+                    "line": "ray man mai ta-o chhin chhin samjhaavaa.\r",
+                    "time": 471077
+                },
+                {
+                    "line": "taahi chhaad kat aap baDhaavaa. ||13||\r",
+                    "time": 478048
+                },
+                {
+                    "line": "jajaa ja-o tan jeevat jaraavai.\r",
+                    "time": 485042
+                },
+                {
+                    "line": "joban jaar jugat so paavai.\r",
+                    "time": 492014
+                },
+                {
+                    "line": "as jar par jar jar jab rahai.\r",
+                    "time": 498095
+                },
+                {
+                    "line": "tab jaa-ay jot ujaara-o lahai. ||14||\r",
+                    "time": 505075
+                },
+                {
+                    "line": "jhajhaa urajh surajh nahee jaanaa.\r",
+                    "time": 512055
+                },
+                {
+                    "line": "rahi-o jhajhak naahee parvaanaa.\r",
+                    "time": 519015
+                },
+                {
+                    "line": "kat jhakh jhakh a-uran samjhaavaa.\r",
+                    "time": 525093
+                },
+                {
+                    "line": "jhagar kee-ay jhagara-o hee paavaa. ||15||\r",
+                    "time": 532079
+                },
+                {
+                    "line": "njanjaa nikat jo ghat rahi-o door kahaa taj jaa-ay.\r",
+                    "time": 553052
+                },
+                {
+                    "line": "jaa kaaran jag dhoodhi-a-o nayra-o paa-i-a-o taahi. ||16||\r",
+                    "time": 567040
+                },
+                {
+                    "line": "tataa bikat ghaat ghat maahee.\r",
+                    "time": 580047
+                },
+                {
+                    "line": "khol kapaat mahal ke na jaahee.\r",
+                    "time": 587025
+                },
+                {
+                    "line": "daykh atal tal kateh na jaavaa.\r",
+                    "time": 594000
+                },
+                {
+                    "line": "rahai lapat ghat parcha-o paavaa. ||17||\r",
+                    "time": 600061
+                },
+                {
+                    "line": "thathaa ihai door thag neeraa.\r",
+                    "time": 614051
+                },
+                {
+                    "line": "neeth neeth man kee-aa Dheeraa.\r",
+                    "time": 621074
+                },
+                {
+                    "line": "jin thag thagi-aa sagal jag khaavaa.\r",
+                    "time": 628016
+                },
+                {
+                    "line": "so thag thagi-aa tha-ur man aavaa. ||18||\r",
+                    "time": 634050
+                },
+                {
+                    "line": "dadaa dar upjay dar jaa-ee.\r",
+                    "time": 641038
+                },
+                {
+                    "line": "taa dar meh dar rahi-aa samaa-ee.\r",
+                    "time": 648054
+                },
+                {
+                    "line": "ja-o dar darai ta fir dar laagai.\r",
+                    "time": 655058
+                },
+                {
+                    "line": "nidar hoo-aa dar ur ho-ay bhaagai. ||19||\r",
+                    "time": 662011
+                },
+                {
+                    "line": "dhadhaa dhig dhoodheh kat aanaa.\r",
+                    "time": 668058
+                },
+                {
+                    "line": "dhoodhat hee dheh ga-ay paraanaa.\r",
+                    "time": 675043
+                },
+                {
+                    "line": "charh sumayr dhoodh jab aavaa.\r",
+                    "time": 681096
+                },
+                {
+                    "line": "jih garh garhi-o so garh meh paavaa. ||20||\r",
+                    "time": 688058
+                },
+                {
+                    "line": "naanaa ran roota-o nar nayhee karai.\r",
+                    "time": 709020
+                },
+                {
+                    "line": "naa nivai naa fun sanchrai.\r",
+                    "time": 723017
+                },
+                {
+                    "line": "Dhan janam taahee ko ganai.\r",
+                    "time": 729090
+                },
+                {
+                    "line": "maarai aykeh taj jaa-ay ghanai. ||21||\r",
+                    "time": 736080
+                },
+                {
+                    "line": "tataa atar tari-o nah jaa-ee.\r",
+                    "time": 751012
+                },
+                {
+                    "line": "tan taribhavan meh rahi-o samaa-ee.\r",
+                    "time": 757024
+                },
+                {
+                    "line": "ja-o taribhavan tan maahi samaavaa.\r",
+                    "time": 764009
+                },
+                {
+                    "line": "ta-o tateh tat mili-aa sach paavaa. ||22||\r",
+                    "time": 771037
+                },
+                {
+                    "line": "thathaa athaah thaah nahee paavaa.\r",
+                    "time": 777060
+                },
+                {
+                    "line": "oh athaah ih thir na rahaavaa.\r",
+                    "time": 784033
+                },
+                {
+                    "line": "thorhai thal thaanak aarambhai.\r",
+                    "time": 791025
+                },
+                {
+                    "line": "bin hee thaabhah mandir thambhai. ||23||\r",
+                    "time": 804082
+                },
+                {
+                    "line": "dadaa daykh jo binsanhaaraa.\r",
+                    "time": 818043
+                },
+                {
+                    "line": "jas adaykh tas raakh bichaaraa.\r",
+                    "time": 845071
+                },
+                {
+                    "line": "dasvai du-aar kunchee jab deejai.\r",
+                    "time": 853077
+                },
+                {
+                    "line": "ta-o da-i-aal ko darsan keejai. ||24||\r",
+                    "time": 862022
+                },
+                {
+                    "line": "DhaDhaa arDhahi uraDh nibayraa.\r",
+                    "time": 878020
+                },
+                {
+                    "line": "arDhahi urDhah manjh basayraa.\r",
+                    "time": 885047
+                },
+                {
+                    "line": "arDhah chhaad uraDh ja-o aavaa.\r",
+                    "time": 893010
+                },
+                {
+                    "line": "ta-o arDhahi uraDh mili-aa sukh paavaa. ||25||\r",
+                    "time": 900097
+                },
+                {
+                    "line": "nannaa nis din nirkhat jaa-ee.\r",
+                    "time": 908068
+                },
+                {
+                    "line": "nirkhat nain rahay ratvaa-ee.\r",
+                    "time": 916024
+                },
+                {
+                    "line": "nirkhat nirkhat jab jaa-ay paavaa.\r",
+                    "time": 923093
+                },
+                {
+                    "line": "tab lay nirkhahi nirakh milaavaa. ||26||\r",
+                    "time": 931067
+                },
+                {
+                    "line": "papaa apar paar nahee paavaa.\r",
+                    "time": 947007
+                },
+                {
+                    "line": "param jot si-o parcha-o laavaa.\r",
+                    "time": 954067
+                },
+                {
+                    "line": "paaNcha-o indree nigreh kar-ee.\r",
+                    "time": 963026
+                },
+                {
+                    "line": "paap punn do-oo nirvar-ee. ||27||\r",
+                    "time": 969098
+                },
+                {
+                    "line": "fafaa bin foolah fal ho-ee.\r",
+                    "time": 977087
+                },
+                {
+                    "line": "taa fal fank lakhai ja-o ko-ee.\r",
+                    "time": 985015
+                },
+                {
+                    "line": "doon na par-ee fank bichaarai.\r",
+                    "time": 992091
+                },
+                {
+                    "line": "taa fal fank sabhai tan faarai. ||28||\r",
+                    "time": 999091
+                },
+                {
+                    "line": "babaa bindeh bind milaavaa.\r",
+                    "time": 1015027
+                },
+                {
+                    "line": "bindeh bind na bichhuran paavaa.\r",
+                    "time": 1022084
+                },
+                {
+                    "line": "banda-o ho-ay bandagee gahai.\r",
+                    "time": 1030030
+                },
+                {
+                    "line": "bandak ho-ay banDh suDh lahai. ||29||\r",
+                    "time": 1037092
+                },
+                {
+                    "line": "bhabhaa bhaydeh bhayd milaavaa.\r",
+                    "time": 1045049
+                },
+                {
+                    "line": "ab bha-o bhaan bharosa-o aavaa.\r",
+                    "time": 1052077
+                },
+                {
+                    "line": "jo baahar so bheetar jaani-aa.\r",
+                    "time": 1060013
+                },
+                {
+                    "line": "bha-i-aa bhayd bhoopat pehchaani-aa. ||30||\r",
+                    "time": 1067080
+                },
+                {
+                    "line": "mamaa mool gahi-aa man maanai.\r",
+                    "time": 1082090
+                },
+                {
+                    "line": "marmee ho-ay so man ka-o jaanai.\r",
+                    "time": 1090037
+                },
+                {
+                    "line": "mat ko-ee man miltaa bilmaavai.\r",
+                    "time": 1097084
+                },
+                {
+                    "line": "magan bha-i-aa tay so sach paavai. ||31||\r",
+                    "time": 1105038
+                },
+                {
+                    "line": "mamaa man si-o kaaj hai man saaDhay siDh ho-ay.\r",
+                    "time": 1114026
+                },
+                {
+                    "line": "man hee man si-o kahai kabeeraa man saa mili-aa na ko-ay. ||32||\r",
+                    "time": 1120040
+                },
+                {
+                    "line": "ih man saktee ih man see-o.\r",
+                    "time": 1150031
+                },
+                {
+                    "line": "ih man panch tat ko jee-o.\r",
+                    "time": 1157072
+                },
+                {
+                    "line": "ih man lay ja-o unman rahai.\r",
+                    "time": 1165023
+                },
+                {
+                    "line": "ta-o teen lok kee baatai kahai. ||33||\r",
+                    "time": 1172053
+                },
+                {
+                    "line": "ya-yaa ja-o jaaneh ta-o durmat han kar bas kaa-i-aa gaa-o.\r",
+                    "time": 1179098
+                },
+                {
+                    "line": "ran roota-o bhaajai nahee soora-o thaara-o naa-o. ||34||\r",
+                    "time": 1205030
+                },
+                {
+                    "line": "raaraa ras niras kar jaani-aa.\r",
+                    "time": 1217026
+                },
+                {
+                    "line": "ho-ay niras so ras pehchaani-aa.\r",
+                    "time": 1224054
+                },
+                {
+                    "line": "ih ras chhaaday uh ras aavaa.\r",
+                    "time": 1232033
+                },
+                {
+                    "line": "uh ras pee-aa ih ras nahee bhaavaa. ||35||\r",
+                    "time": 1239074
+                },
+                {
+                    "line": "lalaa aisay liv man laavai.\r",
+                    "time": 1247010
+                },
+                {
+                    "line": "anat na jaa-ay param sach paavai.\r",
+                    "time": 1254037
+                },
+                {
+                    "line": "ar ja-o tahaa paraym liv laavai.\r",
+                    "time": 1262065
+                },
+                {
+                    "line": "ta-o alah lahai leh charan samaavai. ||36||\r",
+                    "time": 1269037
+                },
+                {
+                    "line": "vavaa baar baar bisan samHaar.\r",
+                    "time": 1284046
+                },
+                {
+                    "line": "bisan sammhaar na aavai haar.\r",
+                    "time": 1291037
+                },
+                {
+                    "line": "bal bal jay bisantanaa jas gaavai.\r",
+                    "time": 1298026
+                },
+                {
+                    "line": "visan milay sabh hee sach paavai. ||37||\r",
+                    "time": 1308004
+                },
+                {
+                    "line": "vaavaa vaahee jaanee-ai vaa jaanay ih ho-ay.\r",
+                    "time": 1314068
+                },
+                {
+                    "line": "ih ar oh jab milai tab milat na jaanai ko-ay. ||38||\r",
+                    "time": 1328023
+                },
+                {
+                    "line": "sasaa so neekaa kar soDhhu.\r",
+                    "time": 1349080
+                },
+                {
+                    "line": "ghat parchaa kee baat niroDhahu.\r",
+                    "time": 1357009
+                },
+                {
+                    "line": "ghat parchai ja-o upjai bhaa-o.\r",
+                    "time": 1364060
+                },
+                {
+                    "line": "poor rahi-aa tah taribhavan raa-o. ||39||\r",
+                    "time": 1371080
+                },
+                {
+                    "line": "khakhaa khoj parai ja-o ko-ee. jo khojai so bahur na ho-ee.\r",
+                    "time": 1379047
+                },
+                {
+                    "line": "khoj boojh ja-o karai beechaaraa.\r",
+                    "time": 1393099
+                },
+                {
+                    "line": "ta-o bhavjal tarat na laavai baaraa. ||40||\r",
+                    "time": 1401074
+                },
+                {
+                    "line": "sasaa so sah sayj savaarai.\r",
+                    "time": 1415038
+                },
+                {
+                    "line": "so-ee sahee sandayh nivaarai.\r",
+                    "time": 1422085
+                },
+                {
+                    "line": "alap sukh chhaad param sukh paavaa.\r",
+                    "time": 1430070
+                },
+                {
+                    "line": "tab ih taree-a ohu kant kahaavaa. ||41||\r",
+                    "time": 1437099
+                },
+                {
+                    "line": "haahaa hot ho-ay nahee jaanaa.\r",
+                    "time": 1445060
+                },
+                {
+                    "line": "jab hee ho-ay tabeh man maanaa.\r",
+                    "time": 1452069
+                },
+                {
+                    "line": "hai ta-o sahee lakhai ja-o ko-ee.\r",
+                    "time": 1459098
+                },
+                {
+                    "line": "tab ohee uho ayhu na ho-ee. ||42||\r",
+                    "time": 1467023
+                },
+                {
+                    "line": "liN-o liN-o karat firai sabh log.\r",
+                    "time": 1474059
+                },
+                {
+                    "line": "taa kaaran bi-aapai baho sog.\r",
+                    "time": 1482070
+                },
+                {
+                    "line": "lakhimee bar si-o ja-o li-o laavai.\r",
+                    "time": 1489016
+                },
+                {
+                    "line": "sog mitai sabh hee sukh paavai. ||43||\r",
+                    "time": 1496037
+                },
+                {
+                    "line": "khakhaa khirat khapat ga-ay kaytay.\r",
+                    "time": 1518058
+                },
+                {
+                    "line": "khirat khapat ajahooN nah chaytay.\r",
+                    "time": 1525047
+                },
+                {
+                    "line": "ab jag jaan ja-o manaa rahai.\r",
+                    "time": 1533046
+                },
+                {
+                    "line": "jah kaa bichhuraa tah thir lahai. ||44||\r",
+                    "time": 1540031
+                },
+                {
+                    "line": "baavan akhar joray aan.\r",
+                    "time": 1555004
+                },
+                {
+                    "line": "saki-aa na akhar ayk pachhaan.\r",
+                    "time": 1562025
+                },
+                {
+                    "line": "sat kaa sabad kabeeraa kahai.\r",
+                    "time": 1569059
+                },
+                {
+                    "line": "pandit ho-ay so anbhai rahai.\r",
+                    "time": 1577020
+                },
+                {
+                    "line": "pandit logah ka-o bi-uhaar.\r",
+                    "time": 1584075
+                },
+                {
+                    "line": "gi-aanvant ka-o tat beechaar.\r",
+                    "time": 1591090
+                },
+                {
+                    "line": "jaa kai jee-a jaisee buDh ho-ee.\r",
+                    "time": 1599034
+                },
+                {
+                    "line": "kahi kabeer jaanaigaa so-ee. ||45||\r",
+                    "time": 1620074
+                },
+                {
+                    "line": "ik-oNkaar satgur parsaad.\r",
+                    "time": 1629070
+                }
+            ],
+            "english_lyrics": [
+                {
+                    "line": "Raag Gauree Poorbee, Baawan Akhree Of Kabeer Jee:\r",
+                    "time": 3078
+                },
+                {
+                    "line": "One Universal Creator God. Truth Is The Name. Creative Being Personified. By Guru's Grace:\r",
+                    "time": 29050
+                },
+                {
+                    "line": "Through these fifty-two letters, the three worlds and all things are described.\r",
+                    "time": 76056
+                },
+                {
+                    "line": "These letters shall perish; they cannot describe the Imperishable Lord. ||1||\r",
+                    "time": 91054
+                },
+                {
+                    "line": "Wherever there is speech, there are letters.\r",
+                    "time": 105079
+                },
+                {
+                    "line": "Where there is no speech, there, the mind rests on nothing.\r",
+                    "time": 112086
+                },
+                {
+                    "line": "He is in both speech and silence.\r",
+                    "time": 119099
+                },
+                {
+                    "line": "No one can know Him as He is. ||2||\r",
+                    "time": 126095
+                },
+                {
+                    "line": "If I come to know the Lord, what can I say; what good does it do to speak?\r",
+                    "time": 140081
+                },
+                {
+                    "line": "He is contained in the seed of the banyan-tree, and yet, His expanse spreads across the three worlds. ||3||\r",
+                    "time": 154079
+                },
+                {
+                    "line": "One who knows the Lord understands His mystery, and bit by bit, the mystery disappears.\r",
+                    "time": 168088
+                },
+                {
+                    "line": "Turning away from the world, one's mind is pierced through with this mystery, and one obtains the Indestructible, Impenetrable Lord. ||4||\r",
+                    "time": 182070
+                },
+                {
+                    "line": "The Muslim knows the Muslim way of life; the Hindu knows the Vedas and Puraanas.\r",
+                    "time": 196077
+                },
+                {
+                    "line": "To instruct their minds, people ought to study some sort of spiritual wisdom. ||5||\r",
+                    "time": 210045
+                },
+                {
+                    "line": "I know only the One, the Universal Creator, the Primal Being.\r",
+                    "time": 238095
+                },
+                {
+                    "line": "I do not believe in anyone whom the Lord writes and erases.\r",
+                    "time": 245073
+                },
+                {
+                    "line": "If someone knows the One, the Universal Creator,\r",
+                    "time": 253064
+                },
+                {
+                    "line": "he shall not perish, since he knows Him. ||6||\r",
+                    "time": 259050
+                },
+                {
+                    "line": "KAKKA: When the rays of Divine Light come into the heart-lotus,\r",
+                    "time": 266038
+                },
+                {
+                    "line": "the moon-light of Maya cannot enter the basket of the mind.\r",
+                    "time": 274064
+                },
+                {
+                    "line": "And if one obtains the subtle fragrance of that spiritual flower,\r",
+                    "time": 280023
+                },
+                {
+                    "line": "he cannot describe the indescribable; he could speak, but who would understand? ||7||\r",
+                    "time": 286089
+                },
+                {
+                    "line": "KHAKHA: The mind has entered this cave.\r",
+                    "time": 300062
+                },
+                {
+                    "line": "It does not leave this cave to wander in the ten directions.\r",
+                    "time": 307043
+                },
+                {
+                    "line": "Knowing their Lord and Master, people show compassion;\r",
+                    "time": 314025
+                },
+                {
+                    "line": "then, they become immortal, and attain the state of eternal dignity. ||8||\r",
+                    "time": 321023
+                },
+                {
+                    "line": "GAGGA: One who understands the Guru's Word\r",
+                    "time": 328044
+                },
+                {
+                    "line": "does not listen to anything else.\r",
+                    "time": 335027
+                },
+                {
+                    "line": "He remains like a hermit and does not go anywhere,\r",
+                    "time": 342041
+                },
+                {
+                    "line": "when he grasps the Ungraspable Lord and dwells in the sky of the Tenth Gate. ||9||\r",
+                    "time": 349022
+                },
+                {
+                    "line": "GHAGHA: He dwells in each and every heart.\r",
+                    "time": 356006
+                },
+                {
+                    "line": "Even when the body-pitcher bursts, he does not diminish.\r",
+                    "time": 362063
+                },
+                {
+                    "line": "When someone finds the Path to the Lord within his own heart,\r",
+                    "time": 369048
+                },
+                {
+                    "line": "why should he abandon that Path to follow some other path? ||10||\r",
+                    "time": 376032
+                },
+                {
+                    "line": "NGANGA: Restrain yourself, love the Lord, and dismiss your doubts.\r",
+                    "time": 396085
+                },
+                {
+                    "line": "Even if you do not see the Path, do not run away; this is the highest wisdom. ||11||\r",
+                    "time": 410062
+                },
+                {
+                    "line": "CHACHA: He painted the great picture of the world.\r",
+                    "time": 424035
+                },
+                {
+                    "line": "Forget this picture, and remember the Painter.\r",
+                    "time": 430090
+                },
+                {
+                    "line": "This wondrous painting is now the problem.\r",
+                    "time": 438021
+                },
+                {
+                    "line": "Forget this picture and focus your consciousness on the Painter. ||12||\r",
+                    "time": 444083
+                },
+                {
+                    "line": "CHHACHHA: The Sovereign Lord of the Universe is here with you.\r",
+                    "time": 458032
+                },
+                {
+                    "line": "Why are you so unhappy? Why don't you abandon your desires?\r",
+                    "time": 465007
+                },
+                {
+                    "line": "O my mind, each and every moment I try to instruct you,\r",
+                    "time": 471077
+                },
+                {
+                    "line": "but you forsake Him, and entangle yourself with others. ||13||\r",
+                    "time": 478048
+                },
+                {
+                    "line": "JAJJA: If someone burns his body while he is still alive,\r",
+                    "time": 485042
+                },
+                {
+                    "line": "and burns away the desires of his youth, then he finds the right way.\r",
+                    "time": 492014
+                },
+                {
+                    "line": "When he burns his desire for his own wealth, and that of others,\r",
+                    "time": 498095
+                },
+                {
+                    "line": "then he finds the Divine Light. ||14||\r",
+                    "time": 505075
+                },
+                {
+                    "line": "JHAJHA: You are entangled in the world, and you do not know how to get untangled.\r",
+                    "time": 512055
+                },
+                {
+                    "line": "You hold back in fear, and are not approved by the Lord.\r",
+                    "time": 519015
+                },
+                {
+                    "line": "Why do you talk such nonsense, trying to convince others?\r",
+                    "time": 525093
+                },
+                {
+                    "line": "Stirring up arguments, you shall only obtain more arguments. ||15||\r",
+                    "time": 532079
+                },
+                {
+                    "line": "NYANYA: He dwells near you, deep within your heart; why do you leave Him and go far away?\r",
+                    "time": 553052
+                },
+                {
+                    "line": "I searched the whole world for Him, but I found Him near myself. ||16||\r",
+                    "time": 567040
+                },
+                {
+                    "line": "TATTA: It is such a difficult path, to find Him within your own heart.\r",
+                    "time": 580047
+                },
+                {
+                    "line": "Open the doors within, and enter the Mansion of His Presence.\r",
+                    "time": 587025
+                },
+                {
+                    "line": "Beholding the Immovable Lord, you shall not slip and go anywhere else.\r",
+                    "time": 594000
+                },
+                {
+                    "line": "You shall remain firmly attached to the Lord, and your heart will be happy. ||17||\r",
+                    "time": 600061
+                },
+                {
+                    "line": "T'HAT'HA: Keep yourself far away from this mirage.\r",
+                    "time": 614051
+                },
+                {
+                    "line": "With great difficulty, I have calmed my mind.\r",
+                    "time": 621074
+                },
+                {
+                    "line": "That cheater, who cheated and devoured the whole world\r",
+                    "time": 628016
+                },
+                {
+                    "line": "I have cheated that cheater, and my mind is now at peace. ||18||\r",
+                    "time": 634050
+                },
+                {
+                    "line": "DADDA: When the Fear of God wells up, other fears depart.\r",
+                    "time": 641038
+                },
+                {
+                    "line": "Other fears are absorbed into that Fear.\r",
+                    "time": 648054
+                },
+                {
+                    "line": "When one rejects the Fear of God, then other fears cling to him.\r",
+                    "time": 655058
+                },
+                {
+                    "line": "But if he becomes fearless, the fears of his heart run away. ||19||\r",
+                    "time": 662011
+                },
+                {
+                    "line": "DHADHA: Why do you search in other directions?\r",
+                    "time": 668058
+                },
+                {
+                    "line": "Searching for Him like this, the breath of life runs out.\r",
+                    "time": 675043
+                },
+                {
+                    "line": "When I returned after climbing the mountain,\r",
+                    "time": 681096
+                },
+                {
+                    "line": "I found Him in the fortress - the fortress which He Himself made. ||20||\r",
+                    "time": 688058
+                },
+                {
+                    "line": "NANNA: The warrior who fights on the battle-field should keep up and press on.\r",
+                    "time": 709020
+                },
+                {
+                    "line": "He should not yield, and he should not retreat.\r",
+                    "time": 723017
+                },
+                {
+                    "line": "Blessed is the coming of one\r",
+                    "time": 729090
+                },
+                {
+                    "line": "who conquers the one and renounces the many. ||21||\r",
+                    "time": 736080
+                },
+                {
+                    "line": "TATTA: The impassable world-ocean cannot be crossed over;\r",
+                    "time": 751012
+                },
+                {
+                    "line": "the body remains embroiled in the three worlds.\r",
+                    "time": 757024
+                },
+                {
+                    "line": "But when the Lord of the three worlds enters into the body,\r",
+                    "time": 764009
+                },
+                {
+                    "line": "then one's essence merges with the essence of reality, and the True Lord is attained. ||22||\r",
+                    "time": 771037
+                },
+                {
+                    "line": "T'HAT'HA: He is Unfathomable; His depths cannot be fathomed.\r",
+                    "time": 777060
+                },
+                {
+                    "line": "He is Unfathomable; this body is impermanent, and unstable.\r",
+                    "time": 784033
+                },
+                {
+                    "line": "The mortal builds his dwelling upon this tiny space;\r",
+                    "time": 791025
+                },
+                {
+                    "line": "without any pillars, he wishes to support a mansion. ||23||\r",
+                    "time": 804082
+                },
+                {
+                    "line": "DADDA: Whatever is seen shall perish.\r",
+                    "time": 818043
+                },
+                {
+                    "line": "Contemplate the One who is unseen.\r",
+                    "time": 845071
+                },
+                {
+                    "line": "When the key is inserted in the Tenth Gate,\r",
+                    "time": 853077
+                },
+                {
+                    "line": "then the Blessed Vision of the Merciful Lord's Darshan is seen. ||24||\r",
+                    "time": 862022
+                },
+                {
+                    "line": "DHADHA: When one ascends from the lower realms of the earth to the higher realms of the heavens, then everything is resolved.\r",
+                    "time": 878020
+                },
+                {
+                    "line": "The Lord dwells in both the lower and higher worlds.\r",
+                    "time": 885047
+                },
+                {
+                    "line": "Leaving the earth, the soul ascends to the heavens;\r",
+                    "time": 893010
+                },
+                {
+                    "line": "then, the lower and higher join together, and peace is obtained. ||25||\r",
+                    "time": 900097
+                },
+                {
+                    "line": "NANNA: The days and nights go by; I am looking for the Lord.\r",
+                    "time": 908068
+                },
+                {
+                    "line": "Looking for Him, my eyes have become blood-shot.\r",
+                    "time": 916024
+                },
+                {
+                    "line": "After looking and looking,when He is finally found,\r",
+                    "time": 923093
+                },
+                {
+                    "line": "then the one who was looking merges into the One who was looked for. ||26||\r",
+                    "time": 931067
+                },
+                {
+                    "line": "PAPPA: He is limitless; His limits cannot be found.\r",
+                    "time": 947007
+                },
+                {
+                    "line": "I have attuned myself to the Supreme Light.\r",
+                    "time": 954067
+                },
+                {
+                    "line": "One who controls his five senses\r",
+                    "time": 963026
+                },
+                {
+                    "line": "rises above both sin and virtue. ||27||\r",
+                    "time": 969098
+                },
+                {
+                    "line": "FAFFA: Even without the flower, the fruit is produced.\r",
+                    "time": 977087
+                },
+                {
+                    "line": "One who looks at a slice of that fruit\r",
+                    "time": 985015
+                },
+                {
+                    "line": "and reflects on it, will not be consigned to reincarnation.\r",
+                    "time": 992091
+                },
+                {
+                    "line": "A slice of that fruit slices all bodies. ||28||\r",
+                    "time": 999091
+                },
+                {
+                    "line": "BABBA: When one drop blends with another drop,\r",
+                    "time": 1015027
+                },
+                {
+                    "line": "then these drops cannot be separated again.\r",
+                    "time": 1022084
+                },
+                {
+                    "line": "Become the Lord's slave, and hold tight to His meditation.\r",
+                    "time": 1030030
+                },
+                {
+                    "line": "If you turn your thoughts to the Lord, the Lord will take care of you like a relative. ||29||\r",
+                    "time": 1037092
+                },
+                {
+                    "line": "BHABHA: When doubt is pierced, union is achieved.\r",
+                    "time": 1045049
+                },
+                {
+                    "line": "I have shattered my fear, and now I have come to have faith.\r",
+                    "time": 1052077
+                },
+                {
+                    "line": "I thought that He was outside of me, but now I know that He is within me.\r",
+                    "time": 1060013
+                },
+                {
+                    "line": "When I came to understand this mystery, then I recognized the Lord. ||30||\r",
+                    "time": 1067080
+                },
+                {
+                    "line": "MAMMA: Clinging to the source, the mind is satisfied.\r",
+                    "time": 1082090
+                },
+                {
+                    "line": "One who knows this mystery understands his own mind.\r",
+                    "time": 1090037
+                },
+                {
+                    "line": "Let no one delay in uniting his mind.\r",
+                    "time": 1097084
+                },
+                {
+                    "line": "Those who obtain the True Lord are immersed in delight. ||31||\r",
+                    "time": 1105038
+                },
+                {
+                    "line": "MAMMA: The mortal's business is with his own mind; one who disciplines his mind attains perfection.\r",
+                    "time": 1114026
+                },
+                {
+                    "line": "Only the mind can deal with the mind; says Kabeer, I have not met anything like the mind. ||32||\r",
+                    "time": 1120040
+                },
+                {
+                    "line": "This mind is Shakti; this mind is Shiva.\r",
+                    "time": 1150031
+                },
+                {
+                    "line": "This mind is the life of the five elements.\r",
+                    "time": 1157072
+                },
+                {
+                    "line": "When this mind is channeled, and guided to enlightenment,\r",
+                    "time": 1165023
+                },
+                {
+                    "line": "it can describe the secrets of the three worlds. ||33||\r",
+                    "time": 1172053
+                },
+                {
+                    "line": "YAYYA: If you know anything, then destroy your evil-mindedness, and subjugate the body-village.\r",
+                    "time": 1179098
+                },
+                {
+                    "line": "When you are engaged in the battle, don't run away; then, you shall be known as a spiritual hero. ||34||\r",
+                    "time": 1205030
+                },
+                {
+                    "line": "RARRA: I have found tastes to be tasteless.\r",
+                    "time": 1217026
+                },
+                {
+                    "line": "Becoming tasteless, I have realized that taste.\r",
+                    "time": 1224054
+                },
+                {
+                    "line": "Abandoning these tastes, I have found that taste.\r",
+                    "time": 1232033
+                },
+                {
+                    "line": "Drinking in that taste, this taste is no longer pleasing. ||35||\r",
+                    "time": 1239074
+                },
+                {
+                    "line": "LALLA: Embrace such love for the Lord in your mind,\r",
+                    "time": 1247010
+                },
+                {
+                    "line": "that you shall not have to go to any other; you shall attain the supreme truth.\r",
+                    "time": 1254037
+                },
+                {
+                    "line": "And if you embrace love and affection for Him there,\r",
+                    "time": 1262065
+                },
+                {
+                    "line": "then you shall obtain the Lord; obtaining Him, you shall be absorbed in His Feet. ||36||\r",
+                    "time": 1269037
+                },
+                {
+                    "line": "WAWA: Time and time again, dwell upon the Lord.\r",
+                    "time": 1284046
+                },
+                {
+                    "line": "Dwelling upon the Lord, defeat shall not come to you.\r",
+                    "time": 1291037
+                },
+                {
+                    "line": "I am a sacrifice, a sacrifice to those, who sing the praises of the Saints, the sons of the Lord.\r",
+                    "time": 1298026
+                },
+                {
+                    "line": "Meeting the Lord, total Truth is obtained. ||37||\r",
+                    "time": 1308004
+                },
+                {
+                    "line": "WAWA: Know Him. By knowing Him, this mortal becomes Him.\r",
+                    "time": 1314068
+                },
+                {
+                    "line": "When this soul and that Lord are blended, then, having been blended, they cannot be known separately. ||38||\r",
+                    "time": 1328023
+                },
+                {
+                    "line": "SASSA: Discipline your mind with sublime perfection.\r",
+                    "time": 1349080
+                },
+                {
+                    "line": "Refrain from that talk which attracts the heart.\r",
+                    "time": 1357009
+                },
+                {
+                    "line": "The heart is attracted, when love wells up.\r",
+                    "time": 1364060
+                },
+                {
+                    "line": "The King of the three worlds is perfectly pervading and permeating there. ||39||\r",
+                    "time": 1371080
+                },
+                {
+                    "line": "KHAKHA: Anyone who seeks Him, and by seeking Him, finds Him, shall not be born again.\r",
+                    "time": 1379047
+                },
+                {
+                    "line": "When someone seeks Him, and comes to understand and contemplate Him,\r",
+                    "time": 1393099
+                },
+                {
+                    "line": "then he crosses over the terrifying world-ocean in an instant. ||40||\r",
+                    "time": 1401074
+                },
+                {
+                    "line": "SASSA: The bed of the soul-bride is adorned by her Husband Lord;\r",
+                    "time": 1415038
+                },
+                {
+                    "line": "her skepticism is dispelled.\r",
+                    "time": 1422085
+                },
+                {
+                    "line": "Renouncing the shallow pleasures of the world, she obtains the supreme delight.\r",
+                    "time": 1430070
+                },
+                {
+                    "line": "Then, she is the soul-bride; He is called her Husband Lord. ||41||\r",
+                    "time": 1437099
+                },
+                {
+                    "line": "HAHA: He exists, but He is not known to exist.\r",
+                    "time": 1445060
+                },
+                {
+                    "line": "When He is known to exist, then the mind is pleased and appeased.\r",
+                    "time": 1452069
+                },
+                {
+                    "line": "Of course the Lord exists, if one could only understand Him.\r",
+                    "time": 1459098
+                },
+                {
+                    "line": "Then, He alone exists, and not this mortal being. ||42||\r",
+                    "time": 1467023
+                },
+                {
+                    "line": "Everyone goes around saying, \"I'll take this, and I'll take that.\"\r",
+                    "time": 1474059
+                },
+                {
+                    "line": "Because of that, they suffer in terrible pain.\r",
+                    "time": 1482070
+                },
+                {
+                    "line": "When someone comes to love the Lord of Lakhshmi,\r",
+                    "time": 1489016
+                },
+                {
+                    "line": "his sorrow departs, and he obtains total peace. ||43||\r",
+                    "time": 1496037
+                },
+                {
+                    "line": "KHAKHA: Many have wasted their lives, and then perished.\r",
+                    "time": 1518058
+                },
+                {
+                    "line": "Wasting away, they do not remember the Lord, even now.\r",
+                    "time": 1525047
+                },
+                {
+                    "line": "But if someone, even now, comes to know the transitory nature of the world and restrain his mind,\r",
+                    "time": 1533046
+                },
+                {
+                    "line": "he shall find his permanent home, from which he was separated. ||44||\r",
+                    "time": 1540031
+                },
+                {
+                    "line": "The fifty-two letters have been joined together.\r",
+                    "time": 1555004
+                },
+                {
+                    "line": "But people cannot recognize the One Word of God.\r",
+                    "time": 1562025
+                },
+                {
+                    "line": "Kabeer speaks the Shabad, the Word of Truth.\r",
+                    "time": 1569059
+                },
+                {
+                    "line": "One who is a Pandit, a religious scholar, must remain fearless.\r",
+                    "time": 1577020
+                },
+                {
+                    "line": "It is the business of the scholarly person to join letters.\r",
+                    "time": 1584075
+                },
+                {
+                    "line": "The spiritual person contemplates the essence of reality.\r",
+                    "time": 1591090
+                },
+                {
+                    "line": "According to the wisdom within the mind,\r",
+                    "time": 1599034
+                },
+                {
+                    "line": "says Kabeer, so does one come to understand. ||45||\r",
+                    "time": 1620074
+                },
+                {
+                    "line": "One Universal Creator God. Truth Is The Name. Creative Being Personified. By Guru's Grace:\r",
+                    "time": 1629070
+                }
+            ],
+            "spanish_lyrics": [
+                {
+                    "line": "Rag Gauri Purbi. Bawan Akjri de Kabir ji.\r",
+                    "time": 3078
+                },
+                {
+                    "line": "Por la Gracia del Único Ser Supremo, el Eterno, Todo Prevaleciente, el Creador, el Espíritu Divino, el Iluminador.\r",
+                    "time": 29050
+                },
+                {
+                    "line": "A través de todas las letras del alfabeto, uno puede describir los tres mundos y todo su contenido.\r",
+                    "time": 76056
+                },
+                {
+                    "line": "Estas letras serán olvidadas, pero Él, Quien permanece Eterno, está más allá de ellas. (1)\r",
+                    "time": 91054
+                },
+                {
+                    "line": "Donde hay conversación, hay palabras.\r",
+                    "time": 105079
+                },
+                {
+                    "line": "Cuando uno se enmudece, entonces ahí no hay nada.\r",
+                    "time": 112086
+                },
+                {
+                    "line": "Al hablar y en el silencio habita el Señor;\r",
+                    "time": 119099
+                },
+                {
+                    "line": "nadie puede acabar de conocer toda Su Extensión. (2)\r",
+                    "time": 126095
+                },
+                {
+                    "line": "Si obtengo al Adorable Señor, ¿qué diría entonces? Por más que canto Su Alabanza, alcanzo a decir muy poco.\r",
+                    "time": 140081
+                },
+                {
+                    "line": "Como la higuera de Bengala, de semilla más pequeña, Su Vastedad se extiende a través y sobre los tres mundos. (3)\r",
+                    "time": 154079
+                },
+                {
+                    "line": "Cuando alguien conoce a Dios y penetra en Su Misterio, para él la separación desaparece, pero nunca acaba de explorar todo.\r",
+                    "time": 168088
+                },
+                {
+                    "line": "Cuando el hombre no corre tras lo mundano, su mente se compenetra al Susurro de Dios y obtiene al Señor Inmortal e Insondable. (4)\r",
+                    "time": 182070
+                },
+                {
+                    "line": "Uno es musulmán si uno sigue la enseñanza musulmana, y uno es hindú si uno sigue a los Vedas y a los Puranas.\r",
+                    "time": 196077
+                },
+                {
+                    "line": "Pero la mente de uno se vuelve sabia sólo si uno aprende la Sabiduría de Dios de alguna forma. (5)\r",
+                    "time": 210045
+                },
+                {
+                    "line": "Yo sólo conozco a Ong Kar, el Ser Supremo, quien es la fuente de todo.\r",
+                    "time": 238095
+                },
+                {
+                    "line": "Y nadie, siendo mortal como yo, puede tener dominio sobre mi Conciencia,\r",
+                    "time": 245073
+                },
+                {
+                    "line": "pues quien conoce al Señor\r",
+                    "time": 253064
+                },
+                {
+                    "line": "nunca dejará de existir, porque se vuelve Uno con el Dios Eterno. (6)\r",
+                    "time": 259050
+                },
+                {
+                    "line": "Ka ka Cuando los rayos de la Sabiduría Divina iluminan el loto del corazón,\r",
+                    "time": 266038
+                },
+                {
+                    "line": "entonces el reflejo de la luz lunar de Maya no influye en la mente.\r",
+                    "time": 274064
+                },
+                {
+                    "line": "Y si el hombre obtiene ahí la fragancia de la Flor Espiritual, sería imposible describir cuánto está gozando,\r",
+                    "time": 280023
+                },
+                {
+                    "line": "y aún contándolo, ¿quién lo entendería? (7)\r",
+                    "time": 286089
+                },
+                {
+                    "line": "Kja kja Mi mente ha entrado en su cueva interior,\r",
+                    "time": 300062
+                },
+                {
+                    "line": "y habitando ahí, sus divagaciones terminan.\r",
+                    "time": 307043
+                },
+                {
+                    "line": "El que practica la técnica del Conocimiento, conoce al Maestro, la Compasión llega a su corazón,\r",
+                    "time": 314025
+                },
+                {
+                    "line": "se vuelve inmortal y alcanza la Dignidad Imperecedera. (8)\r",
+                    "time": 321023
+                },
+                {
+                    "line": "Ga ga Aquél que entiende la Instrucción del Guru,\r",
+                    "time": 328044
+                },
+                {
+                    "line": "no escucha nada más.\r",
+                    "time": 335027
+                },
+                {
+                    "line": "Aquél que comprende al Señor Inefable\r",
+                    "time": 342041
+                },
+                {
+                    "line": "y habita en la Décima Puerta permanece desapegado y no vacila. (9)\r",
+                    "time": 349022
+                },
+                {
+                    "line": "Gha gha El Señor habita en todos los corazones;\r",
+                    "time": 356006
+                },
+                {
+                    "line": "aún cuando el cántaro del cuerpo se rompe, Él no se va.\r",
+                    "time": 362063
+                },
+                {
+                    "line": "Si dentro de mi corazón he encontrado Su Sendero,\r",
+                    "time": 369048
+                },
+                {
+                    "line": "¿por qué abandonarlo e irme con otro? (10)\r",
+                    "time": 376032
+                },
+                {
+                    "line": "Gan gan Controla tu ser, ama a tu Dios, y apacigua tu duda;\r",
+                    "time": 396085
+                },
+                {
+                    "line": "no huyas de lo que no has visto, ésta es la más elevada Sabiduría. (11)\r",
+                    "time": 410062
+                },
+                {
+                    "line": "Cha cha Maravilloso es el retrato del mundo que el Señor ha pintado ante ti.\r",
+                    "time": 424035
+                },
+                {
+                    "line": "Sin embargo, no le hagas caso a la pintura, sino recuerda al Pintor.\r",
+                    "time": 430090
+                },
+                {
+                    "line": "La pintura es maravillosa; esto es lo que crea la confusión en la mente y la desvía.\r",
+                    "time": 438021
+                },
+                {
+                    "line": "Deja a un lado tus pensamientos de la pintura y medita en el gran Pintor, el Único Dios. (12)\r",
+                    "time": 444083
+                },
+                {
+                    "line": "Cjja Cjja Este en verdad es el Sendero del Rey del Universo.\r",
+                    "time": 458032
+                },
+                {
+                    "line": "¿Por qué no dejar entonces todo tipo de esperanzas falsas.\r",
+                    "time": 465007
+                },
+                {
+                    "line": "y estar complacido con tu Señor?\r",
+                    "time": 471077
+                },
+                {
+                    "line": "Oh mi mente, tu instrucción para cada momento es que no olvides a tu Señor, y no estés atada a las idas y venidas. (13)\r",
+                    "time": 478048
+                },
+                {
+                    "line": "Ja jja Aquél que mientras vivo, muere para sí mismo\r",
+                    "time": 485042
+                },
+                {
+                    "line": "y no malgasta su juventud y su belleza, encuentra el Sendero.\r",
+                    "time": 492014
+                },
+                {
+                    "line": "Y quien quema y consume su deseo de tener posesiones y también la esperanza de obtener el tesoro de otros,\r",
+                    "time": 498095
+                },
+                {
+                    "line": "él se encuentra iluminado en su corazón por la Luz de Dios. (14)\r",
+                    "time": 505075
+                },
+                {
+                    "line": "Jha Jha Estoy enredado en el mundo, y no se como desenredarme.\r",
+                    "time": 512055
+                },
+                {
+                    "line": "Guiado por mis miedos, no estoy siendo aprobado por el Señor.\r",
+                    "time": 519015
+                },
+                {
+                    "line": "Por qué debo de instruir a otros en el método discursivo?\r",
+                    "time": 525093
+                },
+                {
+                    "line": "El discurso no te lleva más que a la pelea y a la confrontación. (15)\r",
+                    "time": 532079
+                },
+                {
+                    "line": "Jan jan ¿Por qué olvidar a Quien habita tan cerca de nuestro propio corazón e ir al más allá en Su búsqueda?\r",
+                    "time": 553052
+                },
+                {
+                    "line": "Él, a Quien he buscado a través de todo el mundo, se encuentra tan cerca en mi interior. (16)\r",
+                    "time": 567040
+                },
+                {
+                    "line": "Ta tta El sendero que parece tan traicionero está dentro del corazón.\r",
+                    "time": 580047
+                },
+                {
+                    "line": "¿Por qué no abrir la puerta y entrar en el Ser?\r",
+                    "time": 587025
+                },
+                {
+                    "line": "Cuando veo al Ser Eterno e Inamovible, entonces no soy mal guiado.\r",
+                    "time": 594000
+                },
+                {
+                    "line": "Entonces me aferro a Él, y Lo encuentro en mi propio hogar. (17)\r",
+                    "time": 600061
+                },
+                {
+                    "line": "Tha tha He removido el espejo falso de mi mente\r",
+                    "time": 614051
+                },
+                {
+                    "line": "y con gran esfuerzo he calmado mis ondas mentales.\r",
+                    "time": 621074
+                },
+                {
+                    "line": "A Maya, que ha seducido a todo el mundo,\r",
+                    "time": 628016
+                },
+                {
+                    "line": "la he atrapado, y así mi mente está en paz. (18)\r",
+                    "time": 634050
+                },
+                {
+                    "line": "Da dda Si la Reverencia de Dios toma lugar en la mente, uno no tiene miedo de nada,\r",
+                    "time": 641038
+                },
+                {
+                    "line": "porque el Temor Reverencial de Dios destruye todos los demás temores.\r",
+                    "time": 648054
+                },
+                {
+                    "line": "Si uno no tiene Reverencia por Dios, entonces todos los demás temores se aferran a uno.\r",
+                    "time": 655058
+                },
+                {
+                    "line": "Pero si uno se vuelve libre de miedos como el Señor, entonces todos los demás miedos mundanos se alejan de nuestro corazón. (19)\r",
+                    "time": 662011
+                },
+                {
+                    "line": "Dja dja ¿Por qué buscarlo afuera y lejos?\r",
+                    "time": 668058
+                },
+                {
+                    "line": "En esta búsqueda sin sentido, uno pierde el mérito de la vida.\r",
+                    "time": 675043
+                },
+                {
+                    "line": "Cuando regresas de tu vana búsqueda a través de las muy lejanas montañas,\r",
+                    "time": 681096
+                },
+                {
+                    "line": "encuentra a Quien construyó la fortaleza de tu cuerpo habitando en el interior de tu corazón. (20)\r",
+                    "time": 688058
+                },
+                {
+                    "line": "Na na El hombre que entra en el campo de batalla,\r",
+                    "time": 709020
+                },
+                {
+                    "line": "no pierde de vista sus armas, ni cede ante la maldad.\r",
+                    "time": 723017
+                },
+                {
+                    "line": "Es considerada Bendecida la vida de aquél que calma su mente\r",
+                    "time": 729090
+                },
+                {
+                    "line": "y deshecha de su ser muchos deseos. (21)\r",
+                    "time": 736080
+                },
+                {
+                    "line": "Ta tta El mar tremendo de las existencias materiales\r",
+                    "time": 751012
+                },
+                {
+                    "line": "no es cruzado por aquél que está envuelto en los asuntos de los tres mundos.\r",
+                    "time": 757024
+                },
+                {
+                    "line": "Pero cuando los tres mundos se funden en la mente,\r",
+                    "time": 764009
+                },
+                {
+                    "line": "entonces en la sincronización, la Verdad es obtenida. (22)\r",
+                    "time": 771037
+                },
+                {
+                    "line": "Tha tha El Señor es Insondable; nadie puede saber Su Profundidad,\r",
+                    "time": 777060
+                },
+                {
+                    "line": "porque el Señor es Infinito mientras el buscador no lo es.\r",
+                    "time": 784033
+                },
+                {
+                    "line": "Y sin embargo, en su pequeño mundo limitado, uno construye neciamente sus propias esperanzas\r",
+                    "time": 791025
+                },
+                {
+                    "line": "y busca el soporte de estructuras sin pilares. (23)\r",
+                    "time": 804082
+                },
+                {
+                    "line": "Da dda Todo lo que vemos a nuestro alrededor es pasajero y no irá con nosotros;\r",
+                    "time": 818043
+                },
+                {
+                    "line": "entonces contempla a Dios aunque todavía no Lo veas.\r",
+                    "time": 845071
+                },
+                {
+                    "line": "Y cuando abras y pases a través de la décima puerta,\r",
+                    "time": 853077
+                },
+                {
+                    "line": "verás entonces la Presencia del Señor Compasivo. (24)\r",
+                    "time": 862022
+                },
+                {
+                    "line": "Dja dja Si uno va de este mundo al Mundo más Elevado, es salvado.\r",
+                    "time": 878020
+                },
+                {
+                    "line": "Entonces el ser inferior se inmerge en el Ser Superior.\r",
+                    "time": 885047
+                },
+                {
+                    "line": "Aquél que abandona lo inferior para montarse en lo Superior,\r",
+                    "time": 893010
+                },
+                {
+                    "line": "gana la Paz, el ser inferior se inmerge en el Ser Superior. (25)\r",
+                    "time": 900097
+                },
+                {
+                    "line": "Na nna Mis días y noches pasan mirando hacia el más allá\r",
+                    "time": 908068
+                },
+                {
+                    "line": "y mis ojos se han enrojecido de tanto esperar.\r",
+                    "time": 916024
+                },
+                {
+                    "line": "Pero cuando después de la espera, mis ojos contemplan la Visión,\r",
+                    "time": 923093
+                },
+                {
+                    "line": "entonces me inmerjo en Quien he estado añorando. (26)\r",
+                    "time": 931067
+                },
+                {
+                    "line": "Pa ppa El Señor no tiene fronteras;\r",
+                    "time": 947007
+                },
+                {
+                    "line": "no puedo conocer Sus Límites.\r",
+                    "time": 954067
+                },
+                {
+                    "line": "Yo entono mi ser en la Luz de luces y disciplinando mis cinco sentidos,\r",
+                    "time": 963026
+                },
+                {
+                    "line": "me elevo más allá de la dualidad. (27)\r",
+                    "time": 969098
+                },
+                {
+                    "line": "Pha pha Uno obtiene el Fruto del Conocimiento, a través de la Gracia de Dios,\r",
+                    "time": 977087
+                },
+                {
+                    "line": "esto es, sin los méritos de acciones realizadas.\r",
+                    "time": 985015
+                },
+                {
+                    "line": "Si uno prueba el Fruto del Conocimiento, entonces no pasa otra vez por el valle de la muerte.\r",
+                    "time": 992091
+                },
+                {
+                    "line": "Una sola probadita de ésta Fruta te salva de tener que volver a nacer. (28)\r",
+                    "time": 999091
+                },
+                {
+                    "line": "Ba bba Cuando la gota se junta con la otra,\r",
+                    "time": 1015027
+                },
+                {
+                    "line": "entonces las dos no se separan más.\r",
+                    "time": 1022084
+                },
+                {
+                    "line": "Vuélvete Esclavo del Señor y aférrate a Su Meditación.\r",
+                    "time": 1030030
+                },
+                {
+                    "line": "Si entonas tus pensamientos en el Señor, Él te cuidará como a un pariente. (29)\r",
+                    "time": 1037092
+                },
+                {
+                    "line": "Bja bja Cuando la cavidad de la duda es llenada,\r",
+                    "time": 1045049
+                },
+                {
+                    "line": "uno pierde el miedo, y la Fe es instalada en su lugar.\r",
+                    "time": 1052077
+                },
+                {
+                    "line": "Él, Quien es afuera, también se revela en el interior.\r",
+                    "time": 1060013
+                },
+                {
+                    "line": "Y conociendo el misterio, uno realiza al Soberano Señor. (30)\r",
+                    "time": 1067080
+                },
+                {
+                    "line": "Ma mma Cuando uno se aferra al Ser Real, la mente es reconciliada con Él;\r",
+                    "time": 1082090
+                },
+                {
+                    "line": "aquél a quien le es revelado el misterio, conoce su mente.\r",
+                    "time": 1090037
+                },
+                {
+                    "line": "Por tanto, no tardes en contactar tu mente con tu Señor,\r",
+                    "time": 1097084
+                },
+                {
+                    "line": "porque sólo aquél que está entonado en el Señor conoce la Verdad. (31)\r",
+                    "time": 1105038
+                },
+                {
+                    "line": "Ma mma La verdadera tarea está en la mente, porque si disciplinas tu mente, logras la perfección.\r",
+                    "time": 1114026
+                },
+                {
+                    "line": "Dice Kabir, la mente sólo puede conversar con la mente, no hay mejor encuentro que el encuentro de las mentes. (32)\r",
+                    "time": 1120040
+                },
+                {
+                    "line": "Hay una mente energética, y hay una mente espiritual,\r",
+                    "time": 1150031
+                },
+                {
+                    "line": "Shakti y Shiva, y la mente es la esencia de los cinco elementos.\r",
+                    "time": 1157072
+                },
+                {
+                    "line": "Aquél que lleva su mente a las regiones superiores\r",
+                    "time": 1165023
+                },
+                {
+                    "line": "y habita ahí, a él, y sólo a él le es revelado el misterio de los tres mundos. (33)\r",
+                    "time": 1172053
+                },
+                {
+                    "line": "Ya yya Sin Sabiduría que erradique la maldad y discipline el cuerpo no se logra nada;\r",
+                    "time": 1179098
+                },
+                {
+                    "line": "uno es llamado héroe sólo si estando peleando en una batalla, no la abandona. (34)\r",
+                    "time": 1205030
+                },
+                {
+                    "line": "Ra ra He encontrado el sabor del sinsabor;\r",
+                    "time": 1217026
+                },
+                {
+                    "line": "probando esta Neutralidad, he entendido cuál es su gozo.\r",
+                    "time": 1224054
+                },
+                {
+                    "line": "Porque aquél que es indiferente al mundo de los sentidos, disfruta del Mundo del Espíritu;\r",
+                    "time": 1232033
+                },
+                {
+                    "line": "aquél que disfruta de Dios, encuentra insípidos los placeres del mundo de Maya. (35)\r",
+                    "time": 1239074
+                },
+                {
+                    "line": "La lla Uno debería de entonar su ser en Dios,\r",
+                    "time": 1247010
+                },
+                {
+                    "line": "y sin ir con nadie más, obtener el Estado Elevado de Verdad.\r",
+                    "time": 1254037
+                },
+                {
+                    "line": "Aquél quien ama a su Dios, y se apoya sólo en Él,\r",
+                    "time": 1262065
+                },
+                {
+                    "line": "Lo conoce, y conociéndolo, se inmerge en Su Presencia. (36)\r",
+                    "time": 1269037
+                },
+                {
+                    "line": "Va va Contempla a tu Dios una y otra vez,\r",
+                    "time": 1284046
+                },
+                {
+                    "line": "porque contemplándolo, uno gana la batalla de la vida.\r",
+                    "time": 1291037
+                },
+                {
+                    "line": "Yo ofrezco mi ser en sacrificio a aquél que canta las Alabanzas de los Santos del Señor.\r",
+                    "time": 1298026
+                },
+                {
+                    "line": "Aquél que se encuentra con su Dios, le es revelada la Verdad entera. (37)\r",
+                    "time": 1308004
+                },
+                {
+                    "line": "Va va Conoce a tu Dios, porque conociéndolo, uno se vuelve Uno con Él.\r",
+                    "time": 1314068
+                },
+                {
+                    "line": "Cuando Dios te encuentra, entonces no hay ninguna diferencia entre tú y Él. (38)\r",
+                    "time": 1328023
+                },
+                {
+                    "line": "Sa ssa Disciplina perfectamente tu mente,\r",
+                    "time": 1349080
+                },
+                {
+                    "line": "y así contrólala para que esté complacida con tu ser interior.\r",
+                    "time": 1357009
+                },
+                {
+                    "line": "Sabe que en tal Estado en donde el Amor del Señor brota,\r",
+                    "time": 1364060
+                },
+                {
+                    "line": "ahí, el Señor de los tres mundos habita. (39)\r",
+                    "time": 1371080
+                },
+                {
+                    "line": "Kha kha Si uno va a buscar a Dios, y busca con todo su corazón, no encarnará más.\r",
+                    "time": 1379047
+                },
+                {
+                    "line": "Aquél que busca, encuentra, y si medita en ese encuentro,\r",
+                    "time": 1393099
+                },
+                {
+                    "line": "en un instante logra nadar a través del mar de las existencias. (40)\r",
+                    "time": 1401074
+                },
+                {
+                    "line": "Sa ssa La verdadera novia es aquélla cuya alcoba la decora el Señor con Su Presencia.\r",
+                    "time": 1415038
+                },
+                {
+                    "line": "Ella sólo está bien si disipa su duda, habiendo sacrificado los pequeños placeres,\r",
+                    "time": 1422085
+                },
+                {
+                    "line": "obtiene el Supremo Éxtasis,\r",
+                    "time": 1430070
+                },
+                {
+                    "line": "y entonces es llamada la verdadera Novia, y Él, su Único Señor. (41)\r",
+                    "time": 1437099
+                },
+                {
+                    "line": "Ha ha Dios es, y sin embargo, no estoy consciente de eso.\r",
+                    "time": 1445060
+                },
+                {
+                    "line": "Pero cuando me percato que Él es, mi mente obtiene la Paz.\r",
+                    "time": 1452069
+                },
+                {
+                    "line": "Él sin duda es, a mí sólo me hace falta entenderlo.\r",
+                    "time": 1459098
+                },
+                {
+                    "line": "Y cuando Lo veo, entonces mi yo desaparece y somos Uno. (42)\r",
+                    "time": 1467023
+                },
+                {
+                    "line": "Yo quiero esto, yo quiero lo otro, el mundo entero grita.\r",
+                    "time": 1474059
+                },
+                {
+                    "line": "Esta es la causa de las aflicciones del mundo.\r",
+                    "time": 1482070
+                },
+                {
+                    "line": "Pero aquél que ama al Señor de Lakshmi,\r",
+                    "time": 1489016
+                },
+                {
+                    "line": "todas sus aflicciones son quitadas y obtiene el Éxtasis. (43)\r",
+                    "time": 1496037
+                },
+                {
+                    "line": "Kha kha Muchos han desperdiciado sus vidas en la banalidad, y en ese desperdicio,\r",
+                    "time": 1518058
+                },
+                {
+                    "line": "no enfocan su mente en el Señor.\r",
+                    "time": 1525047
+                },
+                {
+                    "line": "Si uno ahora viera la realidad del mundo y tranquilizara su mente,\r",
+                    "time": 1533046
+                },
+                {
+                    "line": "se uniría a Dios, de Quien ha sido separado, desde tiempo inmemorial. (44)\r",
+                    "time": 1540031
+                },
+                {
+                    "line": "Todos juntan las cincuenta y dos letras del alfabeto para hacer palabras,\r",
+                    "time": 1555004
+                },
+                {
+                    "line": "pero nadie puede descifrar la Única Palabra de Dios.\r",
+                    "time": 1562025
+                },
+                {
+                    "line": "Kabir habla nada más que palabras de Verdad,\r",
+                    "time": 1569059
+                },
+                {
+                    "line": "pues aquél que se considera erudito, debería de conservar su intuición despierta.\r",
+                    "time": 1577020
+                },
+                {
+                    "line": "Los eruditos comercian sólo con palabras,\r",
+                    "time": 1584075
+                },
+                {
+                    "line": "pero los sabios reflexionan sólo en la Quintaesencia de la Verdad.\r",
+                    "time": 1591090
+                },
+                {
+                    "line": "Sólo aquél que tiene una mente así,\r",
+                    "time": 1599034
+                },
+                {
+                    "line": "va a conocer lo Real, la Esencia de las cosas. (45)\r",
+                    "time": 1620074
+                },
+                {
+                    "line": "Un Dios Creador del Universo, por la Gracia del Verdadero Guru.\r",
+                    "time": 1629070
+                }
+            ],
+            "hindi_lyrics": [
+                {
+                    "line": "à¤°à¤¾à¤à¥ à¤à¤à¥à¥ à¤ªà¥à¤°à¤¬à¥ à¤¬à¤¾à¤µà¤¨ à¤à¤à¤°à¥ à¤à¤¬à¥à¤° à¤à¥à¤ à¤à¥ |\r",
+                    "time": 3078
+                },
+                {
+                    "line": "à©´ à¤¸à¤¤à¤¿à¤¨à¤¾à¤®à¥ à¤à¤°à¤¤à¤¾ à¤ªà¥à¤°à¤à¥ à¤à¥à¤°à¤ªà¥à¤°à¤¸à¤¾à¤¦à¤¿ à¥¥\r",
+                    "time": 29050
+                },
+                {
+                    "line": "à¤à¤à¤¤ à¤à¤¾ à¤¸à¤¾à¤°à¤¾ à¤à¤¾à¤®à¤à¤¾à¤ à¤à¤¨ (à¤²à¤¿à¤ªà¤¿à¤¯à¥à¤ à¤à¥) à¤à¤à¥à¤·à¤°à¥à¤ à¤¸à¥ à¤à¤² à¤°à¤¹à¤¾ à¤¹à¥à¥¤ à¤ªà¤° à¤¯à¥ à¤à¤à¥à¤·à¤° à¤¨à¤¾à¤¶ à¤¹à¥ à¤à¤¾à¤à¤à¤à¥ (à¤­à¤¾à¤µà¥¤ à¤à¥à¤¸à¥ à¤à¤à¤¤ à¤¨à¤¾à¤¶à¤µà¤à¤¤ à¤¹à¥à¥¤ à¤à¤à¤¤ à¤®à¥à¤ à¤¬à¤°à¤¤à¥ à¤à¤¾à¤¨à¥ à¤µà¤¾à¤²à¥ à¤¹à¤°à¥à¤ à¤à¥à¤ à¤­à¥ à¤¨à¤¾à¤¶à¤µà¤à¤¤ à¤¹à¥à¥¤ à¤à¤° à¤¬à¥à¤²à¤¿à¤¯à¥à¤à¥¤ à¤­à¤¾à¤·à¤¾à¤à¤ à¤®à¥à¤ à¤¬à¤°à¤¤à¥ à¤à¤¾à¤¨à¥ à¤µà¤¾à¤²à¥ à¤à¤à¥à¤·à¤° à¤­à¥ à¤¨à¤¾à¤¶à¤µà¤¾à¤¨ à¤¹à¥à¤)à¥¤\r",
+                    "time": 76056
+                },
+                {
+                    "line": "à¤à¤à¤¾à¤²-à¤ªà¥à¤°à¤ à¤¸à¥ à¤®à¤¿à¤²à¤¾à¤ª à¤à¤¿à¤¸ à¤¶à¤à¤² à¤®à¥à¤ à¤à¤¨à¥à¤­à¤µ à¤¹à¥à¤¤à¤¾ à¤¹à¥à¥¤ à¤à¤¸à¤à¥ à¤¬à¤¯à¤¾à¤¨ à¤à¤°à¤¨à¥ à¤à¥ à¤²à¤¿à¤ à¤à¥à¤ à¤à¤à¥à¤·à¤° à¤à¤¸à¥ à¤¨à¤¹à¥à¤ à¤¹à¥à¤ à¤à¥ à¤à¤¨ à¤à¤à¥à¤·à¤°à¥à¤ à¤®à¥à¤ à¤ à¤¸à¤à¥à¤à¥¤ 1à¥¤\r",
+                    "time": 91054
+                },
+                {
+                    "line": "à¤à¥ à¤µà¤°à¤¤à¤¾à¤°à¤¾ à¤¬à¤¯à¤¾à¤¨ à¤à¤¿à¤¯à¤¾ à¤à¤¾ à¤¸à¤à¤¤à¤¾ à¤¹à¥à¥¤ à¤à¤à¥à¤·à¤° (à¤à¥à¤µà¤²) à¤µà¤¹à¥à¤ (à¤¹à¥) à¤¬à¤°à¤¤à¥ à¤à¤¾à¤¤à¥ à¤¹à¥à¤;\r",
+                    "time": 105079
+                },
+                {
+                    "line": "à¤à¥ à¤à¤µà¤¸à¥à¤¥à¤¾ à¤¬à¤¯à¤¾à¤¨ à¤¸à¥ à¤ªà¤°à¥ à¤¹à¥ (à¤­à¤¾à¤µà¥¤ à¤à¤¬ à¤à¤à¤¾à¤²-à¤ªà¥à¤°à¤ à¤®à¥à¤ à¤²à¥à¤¨à¤¤à¤¾ à¤¹à¥à¤¤à¥ à¤¹à¥) à¤µà¤¹à¤¾à¤ (à¤¬à¤¯à¤¾à¤¨ à¤à¤°à¤¨à¥ à¤µà¤¾à¤²à¤¾) à¤®à¤¨ (à¤à¥à¤¦ à¤¹à¥) à¤¨à¤¹à¥à¤ à¤°à¤¹ à¤à¤¾à¤¤à¤¾à¥¤\r",
+                    "time": 112086
+                },
+                {
+                    "line": "à¤à¤¹à¤¾à¤ à¤à¤à¥à¤·à¤° à¤ªà¥à¤°à¤¯à¥à¤ à¤à¤¿à¤ à¤à¤¾ à¤¸à¤à¤¤à¥ à¤¹à¥à¤ (à¤­à¤¾à¤µà¥¤ à¤à¥ à¤à¤µà¤¸à¥à¤¥à¤¾ à¤¬à¤¯à¤¾à¤¨ à¤à¥ à¤à¤¾ à¤¸à¤à¤¤à¥ à¤¹à¥) à¤à¤° à¤à¤¿à¤¸ à¤¹à¤¾à¤²à¤¤ à¤à¤¾ à¤¬à¤¯à¤¾à¤¨ à¤¨à¤¹à¥à¤ à¤¹à¥ à¤¸à¤à¤¤à¤¾ (à¤­à¤¾à¤µà¥¤ à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤®à¥à¤ à¤²à¥à¤¨à¤¤à¤¾ à¤à¥ à¤à¤µà¤¸à¥à¤¥à¤¾) ||\r",
+                    "time": 119099
+                },
+                {
+                    "line": "à¤à¤¨ (à¤¦à¥à¤¨à¥à¤) à¤à¤à¤¹ à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¥à¤¦ à¤¹à¥ à¤¹à¥ à¤à¤° à¤à¥à¤¸à¤¾ à¤µà¤¹ (à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾) à¤¹à¥ à¤µà¥à¤¸à¤¾ (à¤¹à¥-à¤¬-à¤¹à¥) à¤à¥à¤ à¤¬à¤¯à¤¾à¤¨ à¤¨à¤¹à¥à¤ à¤à¤° à¤¸à¤à¤¤à¤¾à¥¤ 2à¥¤\r",
+                    "time": 126095
+                },
+                {
+                    "line": "à¤à¤à¤° à¤µà¤¹ à¤à¤²à¥à¤­ (à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾) à¤®à¥à¤ à¤¢à¥à¤à¤¢ à¤­à¥ à¤²à¥à¤ à¤¤à¥ à¤®à¥à¤ (à¤à¤¸à¤à¤¾ à¤¸à¤¹à¥ à¤¸à¥à¤µà¤°à¥à¤ª) à¤¬à¤¯à¤¾à¤¨ à¤¨à¤¹à¥à¤ à¤à¤° à¤¸à¤à¤¤à¤¾; à¤à¤à¤° (à¤¬à¤¯à¤¾à¤¨) à¤à¤°à¥à¤ à¤­à¥ à¤¤à¥ à¤à¤¸à¤à¤¾ à¤à¤¿à¤¸à¥ à¤à¥ à¤²à¤¾à¤­ à¤¨à¤¹à¥à¤ à¤¹à¥ à¤¸à¤à¤¤à¤¾à¥¤ (à¤µà¥à¤¸à¥)|\r",
+                    "time": 140081
+                },
+                {
+                    "line": "à¤à¤¿à¤¸ à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¥ à¤¯à¥ à¤¤à¥à¤¨à¥à¤ à¤²à¥à¤ (à¤­à¤¾à¤µà¥¤ à¤¸à¤¾à¤°à¤¾ à¤à¤à¤¤) à¤ªà¤¸à¤¾à¤°à¤¾ à¤¹à¥à¤à¥¤ à¤µà¤¹ à¤à¤¸à¤®à¥à¤ à¤à¤¸à¥ à¤µà¥à¤¯à¤¾à¤ªà¤ à¤¹à¥ à¤à¥à¤¸à¥ à¤¬à¤°à¤à¤¦ (à¤à¤¾ à¤ªà¥à¤¡à¤¼) à¤¬à¥à¤ à¤®à¥à¤ (à¤à¤° à¤¬à¥à¤à¥¤ à¤¬à¥à¤¹à¤¡à¤¼ à¤®à¥à¤) à¤¹à¥à¥¤ 3à¥¤\r",
+                    "time": 154079
+                },
+                {
+                    "line": "à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¥ à¤®à¤¿à¤²à¤¨à¥ à¤à¤¾ à¤¯à¤¤à¥à¤¨ à¤à¤°à¤¤à¥-à¤à¤°à¤¤à¥ (à¤®à¥à¤°à¥) à¤¦à¥à¤µà¤¿à¤§à¤¾ à¤à¤¾ à¤¨à¤¾à¤¶ à¤¹à¥ à¤à¤¯à¤¾ à¤¹à¥à¥¤ à¤à¤° (à¤¦à¥à¤µà¤¿à¤§à¤¾ à¤à¤¾ à¤¨à¤¾à¤¶ à¤¹à¥à¤¨à¥ à¤¸à¥ à¤®à¥à¤à¤¨à¥ à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¥) à¤à¥à¤-à¤à¥à¤ à¤°à¤®à¥à¤à¤¼ à¤¸à¤®à¤ à¤²à¥ à¤¹à¥à¥¤\r",
+                    "time": 168088
+                },
+                {
+                    "line": "à¤¦à¥à¤µà¤¿à¤§à¤¾ à¤à¥ à¤à¤²à¤à¤¨à¥ à¤¸à¥ (à¤®à¥à¤°à¤¾) à¤®à¤¨ (à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤®à¥à¤) à¤à¥à¤¦à¤¾ (à¤­à¥à¤¦ à¤¦à¤¿à¤¯à¤¾) à¤à¤¯à¤¾ à¤¹à¥ à¤à¤° à¤®à¥à¤à¤¨à¥ à¤à¤¸ à¤à¤µà¤¿à¤¨à¤¾à¤¶à¥ à¤µ à¤à¤­à¥à¤¦à¥ à¤ªà¥à¤°à¤­à¥ à¤à¥ à¤ªà¥à¤°à¤¾à¤ªà¥à¤¤ à¤à¤° à¤²à¤¿à¤¯à¤¾ à¤¹à¥à¥¤ 4à¥¤\r",
+                    "time": 182070
+                },
+                {
+                    "line": "(à¤à¤à¥à¤à¤¾) à¤®à¥à¤¸à¤²à¤®à¤¾à¤¨ à¤à¤¸à¥ à¤¸à¤®à¤à¤¾ à¤à¤¾à¤¤à¤¾ à¤¹à¥ à¤à¥ à¤¤à¤°à¥à¤à¤¤ à¤®à¥à¤ à¤²à¤à¤¾ à¤¹à¥à¥¤ à¤à¤° (à¤à¤à¥à¤à¤¾) à¤¹à¤¿à¤¨à¥à¤¦à¥ à¤à¤¸à¥à¥¤ à¤à¥ à¤µà¥à¤¦-à¤ªà¥à¤°à¤¾à¤£à¥à¤ à¤à¥ à¤à¥à¤ à¤à¤°à¤¤à¤¾ à¤¹à¥\r",
+                    "time": 196077
+                },
+                {
+                    "line": "(à¤¦à¥à¤µà¤¿à¤§à¤¾ à¤à¥ à¤®à¤¿à¤à¤¾ à¤à¥ à¤ªà¥à¤°à¤­à¥ à¤à¥ à¤à¤°à¤£à¥à¤ à¤®à¥à¤ à¤à¥à¤¡à¤¼à¥ à¤°à¤¹à¤¨à¥ à¤à¥ à¤²à¤¿à¤) à¤®à¤¨ à¤à¥ à¤à¤à¥à¤ à¤à¥à¤µà¤¨ à¤à¥ à¤¸à¥à¤ à¤¦à¥à¤¨à¥ à¤à¥ à¤µà¤¾à¤¸à¥à¤¤à¥ (à¤à¤à¤à¥) à¤µà¤¿à¤à¤¾à¤° à¤µà¤¾à¤²à¥ à¤¬à¤¾à¤£à¥ à¤¥à¥à¤¡à¤¼à¥ à¤¬à¤¹à¥à¤¤ à¤ªà¤¢à¤¼à¤¨à¥ à¤à¤°à¥à¤°à¥ à¤¹à¥; à¥¤ 5à¥¤\r",
+                    "time": 210045
+                },
+                {
+                    "line": "à¤à¥ à¤à¤-à¤°à¤¸ à¤¸à¤¬ à¤à¤à¤¹ à¤µà¥à¤¯à¤¾à¤ªà¤ à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤¸à¤¬à¤à¥ à¤¬à¤¨à¤¾à¤¨à¥ à¤µà¤¾à¤²à¤¾ à¤¹à¥à¥¤ à¤®à¥à¤ à¤à¤¸à¥ à¤à¤µà¤¿à¤¨à¤¾à¤¶à¥ à¤¸à¤®à¤à¤¤à¤¾ à¤¹à¥à¤à¥¤\r",
+                    "time": 238095
+                },
+                {
+                    "line": "à¤à¤° à¤à¤¿à¤¸ à¤µà¥à¤¯à¤¾à¤à¥à¤¤à¤¿ à¤à¥ à¤µà¤¹ à¤ªà¥à¤°à¤­à¥ à¤ªà¥à¤¦à¤¾ à¤à¤°à¤¤à¤¾ à¤¹à¥ à¤à¤° à¤«à¤¿à¤° à¤®à¤¿à¤à¤¾ à¤¦à¥à¤¤à¤¾ à¤¹à¥ à¤à¤¸à¤à¥ à¤®à¥à¤ (à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¥ à¤¬à¤°à¤¾à¤¬à¤°) à¤¨à¤¹à¥à¤ à¤®à¤¾à¤¨à¤¤à¤¾à¥¤\r",
+                    "time": 245073
+                },
+                {
+                    "line": "à¤à¤à¤° à¤à¥à¤ à¤®à¤¨à¥à¤·à¥à¤¯ à¤à¤¸ à¤¸à¤°à¥à¤µ-à¤µà¥à¤¯à¤¾à¤ªà¤ à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¥ à¤¸à¤®à¤ à¤²à¥ (à¤­à¤¾à¤µà¥¤ à¤à¤ªà¤¨à¥ à¤à¤à¤¦à¤° à¤à¤¨à¥à¤­à¤µ à¤à¤° à¤²à¥)|\r",
+                    "time": 253064
+                },
+                {
+                    "line": "à¤¤à¥ à¤à¤¸à¥ à¤¸à¤®à¤à¤¨à¥ à¤¸à¥ (à¤à¤¸ à¤®à¤¨à¥à¤·à¥à¤¯ à¤à¥ à¤à¤¸ à¤à¤à¥à¤ à¤à¤¤à¥à¤®à¤¿à¤ à¤¸à¥à¤°à¤¤à¤¿ à¤à¤¾) à¤¨à¤¾à¤¶ à¤¨à¤¹à¥à¤ à¤¹à¥à¤¤à¤¾à¥¤ 6à¥¤\r",
+                    "time": 259050
+                },
+                {
+                    "line": "à¤à¤à¤° à¤®à¥à¤ (à¤à¥à¤à¤¾à¤¨ à¤°à¥à¤ªà¥ à¤¸à¥à¤°à¤ à¤à¥) à¤à¤¿à¤°à¤¨ (à¤¹à¥à¤¦à¤¯-à¤°à¥à¤ªà¥) à¤à¤®à¤² à¤«à¥à¤² à¤®à¥à¤ à¤à¤¿à¤à¤¾ à¤²à¥à¤à¥¤\r",
+                    "time": 266038
+                },
+                {
+                    "line": "à¤¤à¥ (à¤®à¤¾à¤¯à¤¾ à¤°à¥à¤ªà¥) à¤à¤à¤¦à¥à¤°à¤®à¤¾ à¤à¥ à¤à¤¾à¤à¤¦à¤¨à¥ à¤¸à¥à¥¤\r",
+                    "time": 274064
+                },
+                {
+                    "line": "à¤µà¤¹ (à¤à¤¿à¤²à¤¾ à¤¹à¥à¤ à¤¹à¥à¤¦à¤¯-à¤«à¥à¤²) (à¤¦à¥à¤¬à¤¾à¤°à¤¾) à¤¬à¤à¤¦ à¤¨à¤¹à¥à¤ à¤¹à¥ à¤¸à¤à¤¤à¤¾à¥¤\r",
+                    "time": 280023
+                },
+                {
+                    "line": "à¤à¤° à¤à¤à¤° à¤à¤­à¥ à¤®à¥à¤ à¤à¤¸ à¤à¤¿à¤²à¥ à¤¹à¥à¤ à¤¹à¤¾à¤²à¤¤ à¤®à¥à¤ (à¤ªà¤¹à¥à¤à¤ à¤à¥) (à¤à¤¸ à¤à¤¿à¤²à¥ à¤¹à¥à¤ à¤¹à¥à¤¦à¤¯-à¤°à¥à¤ª à¤à¤®à¤²) à¤«à¥à¤² à¤à¤¾ à¤à¤¨à¤à¤¦ (à¤­à¥) à¤²à¥ à¤¸à¤à¥à¤à¥¤ à¤¤à¥ à¤à¤¸à¤à¤¾ à¤¬à¤¯à¤¾à¤¨ à¤à¤¥à¤¨ à¤¸à¥ à¤ªà¤°à¥ à¤¹à¥à¥¤ à¤µà¤¹ à¤®à¥à¤ à¤à¤¹ à¤à¥ à¤à¥à¤¯à¤¾ à¤¸à¤®à¤ à¤¸à¤à¤¤à¤¾ à¤¹à¥à¤?à¥¤ 7à¥¤\r",
+                    "time": 286089
+                },
+                {
+                    "line": "à¤à¤¬ à¤¯à¤¹ à¤®à¤¨ (-à¤ªà¤à¤à¥ à¤à¤¿à¤¸à¥ à¤à¥à¤à¤¾à¤¨-à¤à¤¿à¤°à¤£ à¤®à¤¿à¤² à¤à¥à¤à¥ à¤¹à¥) à¤¸à¥à¤µà¥-à¤¸à¥à¤µà¤°à¥à¤ª à¤à¥ à¤à¥à¤¡à¤¼ à¤®à¥à¤ (à¤­à¤¾à¤µà¥¤à¤ªà¥à¤°à¤­à¥ à¤à¤°à¤£à¥à¤ à¤®à¥à¤) à¤ à¤à¤¿à¤à¤¤à¤¾ à¤¹à¥ à¤à¤°\r",
+                    "time": 300062
+                },
+                {
+                    "line": "à¤à¤¸ à¤à¥à¤à¤¸à¤²à¥ (à¤­à¤¾à¤µà¥¤ à¤ªà¥à¤°à¤­à¥ à¤à¤°à¤£à¥à¤) à¤à¥ à¤à¥à¤¡à¤¼ à¤à¥ à¤¦à¤¸à¥à¤ à¤¦à¤¿à¤¶à¤¾à¤à¤ à¤®à¥à¤ à¤¨à¤¹à¥à¤ à¤¦à¥à¤¡à¤¼à¤¤à¤¾à¥¤\r",
+                    "time": 307043
+                },
+                {
+                    "line": "à¤ªà¤¤à¤¿ à¤ªà¥à¤°à¤­à¥ à¤¸à¤¬ à¤¸à¥ à¤¸à¤¾à¤à¤ à¤¡à¤¾à¤² à¤à¥ à¤à¥à¤·à¤®à¤¾ à¤à¥ à¤¶à¥à¤°à¥à¤¤ à¤ªà¥à¤°à¤­à¥ à¤®à¥à¤ à¤à¤¿à¤à¤¾ à¤°à¤¹à¤¤à¤¾ à¤¹à¥à¥¤\r",
+                    "time": 314025
+                },
+                {
+                    "line": "à¤¤à¥ à¤¤à¤¬ à¤à¤µà¤¿à¤¨à¤¾à¤¶à¥ (à¤ªà¥à¤°à¤­à¥ à¤à¥ à¤¸à¤¾à¤¥ à¤à¤-à¤°à¥à¤ª à¤¹à¥ à¤à¥) à¤µà¤¹ à¤ªà¤¦à¤µà¥ à¤ªà¥à¤°à¤¾à¤ªà¥à¤¤ à¤à¤° à¤²à¥à¤¤à¤¾ à¤¹à¥ à¤à¥ à¤à¤­à¥ à¤¨à¤¾à¤¶ à¤¨à¤¹à¥à¤ à¤¹à¥à¤¤à¥à¥¤ 8à¥¤\r",
+                    "time": 321023
+                },
+                {
+                    "line": "à¤à¤¿à¤¸ à¤®à¤¨à¥à¤·à¥à¤¯ à¤¨à¥ à¤¸à¤¤à¤¿à¤à¥à¤°à¥ à¤à¥ à¤¬à¤¾à¤£à¥ à¤à¥ à¤®à¤¾à¤§à¥à¤¯à¤® à¤¸à¥ à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤¸à¥ à¤¸à¤¾à¤à¤ à¤¡à¤¾à¤² à¤²à¥ à¤¹à¥à¥¤\r",
+                    "time": 328044
+                },
+                {
+                    "line": "à¤à¤¸à¥ (à¤ªà¥à¤°à¤­à¥ à¤à¥ à¤¸à¤¿à¤«à¤¤ à¤¸à¤¾à¤²à¤¾à¤¹ à¤à¥ à¤¬à¤¿à¤¨à¤¾) à¤à¥à¤ à¤à¤° à¤¬à¤¾à¤¤ à¤à¤à¤°à¥à¤·à¤¿à¤¤ à¤¨à¤¹à¥à¤ à¤à¤° à¤ªà¤¾à¤¤à¥à¥¤\r",
+                    "time": 335027
+                },
+                {
+                    "line": "à¤µà¤¹ à¤ªà¤à¥à¤·à¥ (à¤à¥ à¤¤à¤°à¤¹ à¤¸à¤¦à¤¾ à¤¨à¤¿à¤°à¥à¤®à¥à¤¹à¥) à¤°à¤¹à¤¤à¤¾ à¤¹à¥; à¤à¤¹à¥à¤ à¤­à¥ à¤­à¤à¤à¤¤à¤¾ à¤¨à¤¹à¥à¤; à¤à¤¿à¤¸ à¤ªà¥à¤°à¤­à¥ à¤à¥ à¤à¤à¤¤ à¤à¥ à¤®à¤¾à¤¯à¤¾ à¤à¥à¤°à¤¸ à¤¨à¤¹à¥à¤ à¤¸à¤à¤¤à¥à¥¤\r",
+                    "time": 342041
+                },
+                {
+                    "line": "à¤à¤¸à¥ à¤µà¤¹ à¤à¤ªà¤¨à¥ à¤¹à¥à¤¦à¤¯ à¤®à¥à¤ à¤¬à¤¸à¤¾ à¤²à¥à¤¤à¤¾ à¤¹à¥; à¤¹à¥à¤¦à¤¯ à¤®à¥à¤ à¤¬à¤¸à¤¾ à¤à¥ à¤à¤ªà¤¨à¥ à¤¸à¥à¤°à¤¤à¤¿ à¤à¥ à¤ªà¥à¤°à¤­à¥ à¤à¤°à¤£à¥à¤ à¤®à¥à¤ à¤à¤¿à¤à¤¾à¤ à¤°à¤à¤¤à¤¾ à¤¹à¥ (à¤à¥à¤¸à¥ à¤à¥à¤ à¤¸à¥ à¤ªà¥à¤ à¤­à¤° à¤à¥ à¤ªà¤à¥à¤·à¥ à¤®à¥à¤ à¤®à¥à¤ à¤ à¤à¥ à¤à¤à¤à¥ à¤à¤à¤¾à¤¶ à¤®à¥à¤ à¤à¤¡à¤¼à¤¾à¤¨à¥à¤ à¤­à¤°à¤¤à¤¾ à¤¹à¥)à¥¤ 9à¥¤\r",
+                    "time": 349022
+                },
+                {
+                    "line": "à¤¹à¤°à¥à¤ à¤¶à¤°à¥à¤° à¤®à¥à¤ à¤µà¤¹ à¤ªà¥à¤°à¤­à¥ à¤¹à¥ à¤¬à¤¸à¤¤à¤¾ à¤¹à¥à¥¤\r",
+                    "time": 356006
+                },
+                {
+                    "line": "à¤à¤à¤° à¤à¥à¤ à¤¶à¤°à¥à¤° (-à¤°à¥à¤ªà¥ à¤à¤¡à¤¼à¤¾) à¤à¥à¤ à¤à¤¾à¤ à¤¤à¥ à¤à¤­à¥ à¤ªà¥à¤°à¤­à¥ à¤à¥ à¤à¤¸à¥à¤¤à¤¿à¤¤à¥à¤µ à¤®à¥à¤ à¤à¥à¤ à¤à¤¾à¤à¤¾ à¤¨à¤¹à¥à¤ à¤ªà¤¡à¤¼à¤¤à¤¾à¥¤\r",
+                    "time": 362063
+                },
+                {
+                    "line": "à¤à¤¬ (à¤à¥à¤ à¤à¥à¤µ) à¤à¤¸ à¤¶à¤°à¥à¤° à¤à¥ à¤à¤à¤¦à¤° à¤¹à¥ (à¤¸à¤à¤¸à¤¾à¤° à¤¸à¤®à¥à¤à¤¦à¥à¤° à¤¸à¥ à¤ªà¤¾à¤° à¤²à¤¾à¤à¤à¤¨à¥ à¤à¥ à¤²à¤¿à¤) à¤ªà¤¤à¥à¤¤à¤¨ à¤¤à¤²à¤¾à¤¶ à¤²à¥à¤¤à¤¾ à¤¹à¥à¥¤\r",
+                    "time": 369048
+                },
+                {
+                    "line": "à¤¤à¥ à¤à¤¸ à¤à¤¾à¤ (à¤ªà¤¤à¥à¤¤à¤¨) à¤à¥ à¤à¥à¤¡à¤¼ à¤à¥ à¤µà¤¹ à¤à¤¡à¥à¤¡à¥à¤ à¤®à¥à¤ à¤à¤¹à¥à¤ à¤¨à¤¹à¥à¤ à¤­à¤à¤à¤¤à¤¾ à¤«à¤¿à¤°à¤¤à¤¾à¥¤ 10à¥¤\r",
+                    "time": 376032
+                },
+                {
+                    "line": "(à¤¹à¥ à¤­à¤¾à¤ ! à¤à¤ªà¤¨à¥ à¤à¤à¤¦à¥à¤°à¤¿à¤¯à¥à¤ à¤à¥) à¤à¤à¥à¤à¥ à¤¤à¤°à¤¹ à¤°à¥à¤à¥¤ (à¤ªà¥à¤°à¤­à¥ à¤¸à¥) à¤ªà¥à¤¯à¤¾à¤° à¤¬à¤¨à¤¾à¥¤ à¤à¤° à¤¸à¤¿à¤¦à¤-à¤¹à¥à¤¨à¤¤à¤¾ à¤¦à¥à¤° à¤à¤°à¥¤\r",
+                    "time": 396085
+                },
+                {
+                    "line": "(à¤¯à¥ à¤à¤¾à¤® à¤®à¥à¤¶à¥à¤à¤¿à¤² à¤à¤°à¥à¤° à¤¹à¥à¥¤ à¤ªà¤°) à¤¯à¥ à¤¸à¥à¤ à¤à¥ à¤à¤¿ à¤¯à¥ à¤à¤¾à¤® à¤¨à¤¹à¥à¤ à¤¹à¥ à¤¸à¤à¤¤à¤¾ (à¤à¤¸ à¤à¤¾à¤® à¤¸à¥) à¤­à¤¾à¤à¤¨à¤¾ à¤¨à¤¹à¥à¤ à¤à¤¾à¤¹à¤¿à¤- (à¤¬à¤¸) à¤¸à¤¬à¤¸à¥ à¤¬à¤¡à¤¼à¥ à¤à¤à¤² (à¤à¥ à¤¬à¤¾à¤¤) à¤¯à¤¹à¥ à¤¹à¥à¥¤ 11à¥¤\r",
+                    "time": 410062
+                },
+                {
+                    "line": "(à¤ªà¥à¤°à¤­à¥ à¤à¤¾) à¤¬à¤¨à¤¾à¤¯à¤¾ à¤¹à¥à¤ à¤¯à¥ à¤à¤à¤¤ (à¤®à¤¾à¤¨à¥) à¤à¤ à¤¬à¤¹à¥à¤¤ à¤¬à¤¡à¤¼à¥ à¤¤à¤¸à¥à¤µà¥à¤° à¤¹à¥à¥¤\r",
+                    "time": 424035
+                },
+                {
+                    "line": "(à¤¹à¥ à¤­à¤¾à¤ !) à¤à¤¸ à¤¤à¤¸à¥à¤µà¥à¤° à¤à¥ (à¤à¥ à¤®à¥à¤¹ à¤à¥) à¤à¥à¤¡à¤¼ à¤à¥ à¤¤à¤¸à¥à¤µà¥à¤° à¤¬à¤¨à¤¾à¤¨à¥ à¤µà¤¾à¤²à¥ à¤à¥ à¤¯à¤¾à¤¦ à¤°à¤;\r",
+                    "time": 430090
+                },
+                {
+                    "line": "(à¤à¥à¤¯à¥à¤à¤à¤¿ à¤¬à¤¡à¤¼à¤¾) à¤à¤®à¥à¤²à¤¾ à¤¯à¥ à¤¹à¥ à¤à¤¿ à¤¯à¤¹ (à¤¸à¤à¤¸à¤¾à¤°-à¤°à¥à¤ªà¥) à¤¤à¤¸à¥à¤µà¥à¤° à¤®à¤¨ à¤à¥ à¤®à¥à¤¹ à¤²à¥à¤¨à¥ à¤µà¤¾à¤²à¥ à¤¹à¥à¥¤ (à¤¸à¥à¥¤\r",
+                    "time": 438021
+                },
+                {
+                    "line": "à¤à¤¸ à¤®à¥à¤¹ à¤¸à¥ à¤¬à¤à¤¨à¥ à¤à¥ à¤²à¤¿à¤) à¤¤à¤¸à¥à¤µà¥à¤° (à¤à¤¾ à¤à¥à¤¯à¤¾à¤²) à¤à¥à¤¡à¤¼ à¤à¥ à¤¤à¤¸à¥à¤µà¥à¤° à¤à¥ à¤¬à¤¨à¤¾à¤¨à¥ à¤µà¤¾à¤²à¥ à¤®à¥à¤ à¤à¤ªà¤¨à¤¾ à¤à¤¿à¤¤à¥à¤¤ à¤ªà¤°à¥ à¤à¥ à¤°à¤à¥¤ 12à¥¤\r",
+                    "time": 444083
+                },
+                {
+                    "line": "à¤à¤¸ (à¤à¤¿à¤¤à¥à¤°à¤à¤¾à¤° à¤ªà¥à¤°à¤­à¥) à¤à¥ à¤ªà¤¾à¤¸ à¤¨à¤¹à¥à¤ à¤°à¤¹à¤¤à¤¾ à¤à¥ (à¤¸à¤¬à¤à¤¾) à¤¬à¤¾à¤¦à¤¶à¤¾à¤¹ à¤¹à¥?\r",
+                    "time": 458032
+                },
+                {
+                    "line": "(à¤¹à¥ à¤®à¥à¤°à¥ à¤®à¤¨ ! à¤à¤°) à¤à¤®à¥à¤®à¥à¤¦à¥à¤ à¤à¥à¤¡à¤¼ à¤à¥ à¤¤à¤à¤¡à¤¼à¤¾ à¤¹à¥\r",
+                    "time": 465007
+                },
+                {
+                    "line": "à¤¹à¥ à¤®à¤¨ ! à¤®à¥à¤ à¤¤à¥à¤à¥ à¤¹à¤° à¤¸à¤®à¤¯ à¤¸à¤®à¤à¤¾à¤¤à¤¾ à¤¹à¥à¤ à¤à¤¿\r",
+                    "time": 471077
+                },
+                {
+                    "line": "à¤à¤¸ (à¤à¤¿à¤¤à¥à¤°à¤à¤¾à¤°) à¤à¥ à¤­à¥à¤²à¤¾ à¤à¥ à¤à¤¹à¤¾à¤ (à¤à¤¸à¤à¥ à¤¬à¤¨à¤¾à¤ à¤¹à¥à¤ à¤à¤¿à¤¤à¥à¤° à¤®à¥à¤) à¤¤à¥ à¤à¤ªà¤¨à¥ à¤à¤ª à¤à¥ à¤à¤à¤¡à¤¼ à¤°à¤¹à¤¾ à¤¹à¥à¥¤ 13à¥¤\r",
+                    "time": 478048
+                },
+                {
+                    "line": "à¤à¤¬ (à¤à¥à¤ à¤à¥à¤µ) à¤®à¤¾à¤¯à¤¾ à¤®à¥à¤ à¤°à¤¹à¤¤à¤¾ à¤¹à¥à¤ à¤¹à¥ à¤¶à¤°à¥à¤° (à¤à¥ à¤µà¤¾à¤¸à¤¨à¤¾à¤à¤) à¤à¤²à¤¾ à¤²à¥à¤¤à¤¾ à¤¹à¥à¥¤\r",
+                    "time": 485042
+                },
+                {
+                    "line": "à¤µà¤¹ à¤®à¤¨à¥à¤·à¥à¤¯ à¤à¤µà¤¾à¤¨à¥ (à¤à¤¾ à¤®à¤¦) à¤à¤²à¤¾ à¤à¥ à¤à¥à¤¨à¥ à¤à¥ (à¤¸à¤¹à¥) à¤à¤¾à¤ à¤¸à¥à¤ à¤²à¥à¤¤à¤¾ à¤¹à¥à¥¤\r",
+                    "time": 492014
+                },
+                {
+                    "line": "à¤à¤¬ à¤®à¤¨à¥à¤·à¥à¤¯ à¤à¤ªà¤¨à¥ (à¤§à¤¨ à¤à¥ à¤à¤¹à¤à¤à¤¾à¤°) à¤à¥ à¤à¤° à¤ªà¤°à¤¾à¤ (à¤¦à¥à¤²à¤¤ à¤à¥ à¤à¤¸) à¤à¥ à¤à¤²à¤¾ à¤à¥ à¤à¤ªà¤¨à¥ à¤¦à¤¾à¤¯à¤°à¥ à¤®à¥à¤ à¤°à¤¹à¤¤à¤¾ à¤¹à¥à¥¤\r",
+                    "time": 498095
+                },
+                {
+                    "line": "à¤¤à¤¬ à¤à¤à¥à¤ à¤à¤¤à¥à¤®à¤¿à¤ à¤à¤µà¤¸à¥à¤¥à¤¾ à¤®à¥à¤ à¤ªà¤¹à¥à¤à¤ à¤à¥ à¤ªà¥à¤°à¤­à¥ à¤à¥ à¤à¥à¤¯à¥à¤¤à¤¿ à¤à¤¾ à¤ªà¥à¤°à¤à¤¾à¤¶ à¤ªà¥à¤°à¤¾à¤ªà¥à¤¤ à¤à¤°à¤¤à¤¾ à¤¹à¥à¥¤ 14à¥¤\r",
+                    "time": 505075
+                },
+                {
+                    "line": "à¤à¤¿à¤¸ à¤®à¤¨à¥à¤·à¥à¤¯ à¤¨à¥ (à¤à¤°à¥à¤à¤¾ à¤à¤¦à¤¿ à¤®à¥à¤ à¤ªà¤¡à¤¼ à¤à¤° à¤¨à¤¿à¤à¤®à¥à¤®à¥) à¤à¤²à¤à¤¨à¥à¤ à¤®à¥à¤ à¤¹à¥ à¤«à¤à¤¸à¤¨à¤¾ à¤¸à¥à¤à¤¾à¥¤ à¤à¤²à¤à¤¨à¥à¤ à¤®à¥à¤ à¤¸à¥ à¤¨à¤¿à¤à¤²à¤¨à¥ à¤à¥ à¤à¤¾à¤ à¤¨à¤¹à¥à¤ à¤¸à¥à¤à¥à¥¤\r",
+                    "time": 512055
+                },
+                {
+                    "line": "à¤µà¤¹ (à¤¸à¤¾à¤°à¥ à¤à¤®à¥à¤°) à¤¶à¤à¤à¤¾à¤à¤ à¤®à¥à¤ à¤¹à¥ à¤ªà¤¡à¤¼à¤¾ à¤°à¤¹à¤¾à¥¤ (à¤à¤¸à¤à¤¾ à¤à¥à¤µà¤¨) à¤à¤¬à¥à¤² à¤¨à¤¾ à¤¹à¥ à¤¸à¤à¤¾à¥¤\r",
+                    "time": 519015
+                },
+                {
+                    "line": "à¤¬à¤¹à¤¸ à¤à¤° à¤à¤°à¤à¥ à¤à¤°à¥à¤ à¤à¥ à¤¸à¤®à¤à¤¾à¤¨à¥ à¤à¤¾ à¤à¥à¤¯à¤¾ à¤²à¤¾à¤­?\r",
+                    "time": 525093
+                },
+                {
+                    "line": "à¤à¤°à¥à¤à¤¾ à¤à¤°à¤¤à¥-à¤à¤°à¤¤à¥ à¤à¥à¤¦ à¤à¥ à¤¤à¥ à¤¨à¤¿à¤°à¥ à¤à¤°à¥à¤à¤¾ à¤à¤°à¤¨à¥ à¤à¤¾ à¤¹à¥ à¤¸à¥à¤µà¤­à¤¾à¤µ à¤ªà¤¡à¤¼ à¤à¤¯à¤¾à¥¤ 15à¥¤\r",
+                    "time": 532079
+                },
+                {
+                    "line": "(à¤¹à¥ à¤­à¤¾à¤ !) à¤à¥ à¤ªà¥à¤°à¤­à¥ à¤¨à¤à¤¦à¥à¤ à¤¬à¤¸ à¤°à¤¹à¤¾ à¤¹à¥à¥¤ à¤à¥ à¤¹à¥à¤¦à¤¯ à¤®à¥à¤ à¤¬à¤¸ à¤°à¤¹à¤¾ à¤¹à¥à¥¤ à¤à¤¸à¤à¥ à¤à¥à¤¡à¤¼ à¤à¥ à¤¦à¥à¤° à¤à¤¹à¤¾à¤ à¤à¤¾à¤¤à¤¾ à¤¹à¥?\r",
+                    "time": 553052
+                },
+                {
+                    "line": "(à¤à¤¿à¤¸ à¤ªà¥à¤°à¤­à¥ à¤à¥) à¤®à¤¿à¤²à¤¨à¥ à¤à¥ à¤à¤¾à¤¤à¤¿à¤° (à¤¹à¤®à¤¨à¥ à¤¸à¤¾à¤°à¤¾) à¤à¤à¤¤ à¤¤à¤²à¤¾à¤¶à¤¾ à¤¥à¤¾à¥¤ à¤à¤¸à¥ à¤¨à¤à¤¦à¥à¤ à¤¹à¥ (à¤à¤ªà¤¨à¥ à¤à¤à¤¦à¤° à¤¹à¥) à¤ªà¤¾ à¤²à¤¿à¤¯à¤¾ à¤¹à¥à¥¤ 16à¥¤\r",
+                    "time": 567040
+                },
+                {
+                    "line": "(à¤ªà¥à¤°à¤­à¥ à¤à¥ à¤®à¤¹à¤² à¤®à¥à¤ à¤ªà¤¹à¥à¤à¤à¤¾à¤¨à¥ à¤µà¤¾à¤²à¤¾) à¤®à¥à¤¶à¥à¤à¤¿à¤² à¤à¤¾à¤ à¤¹à¥ (à¤ªà¤° à¤µà¤¹ à¤à¤¾à¤) à¤¹à¥à¤¦à¤¯ à¤®à¥à¤ à¤¹à¥ à¤¹à¥à¥¤\r",
+                    "time": 580047
+                },
+                {
+                    "line": "(à¤¹à¥ à¤­à¤¾à¤ ! à¤®à¤¾à¤¯à¤¾ à¤à¥ à¤®à¥à¤¹ à¤µà¤¾à¤²à¥) à¤à¤¿à¤µà¤¾à¤¡à¤¼ à¤à¥à¤² à¤à¥ à¤¤à¥ à¤ªà¥à¤°à¤­à¥ à¤à¥ à¤¹à¤à¥à¤°à¥ à¤®à¥à¤ à¤à¥à¤¯à¥à¤ à¤¨à¤¹à¥à¤ à¤ªà¤¹à¥à¤à¤à¤¤à¤¾?\r",
+                    "time": 587025
+                },
+                {
+                    "line": "(à¤à¤¿à¤¸ à¤®à¤¨à¥à¤·à¥à¤¯ à¤¨à¥ à¤¹à¥à¤¦à¤¯ à¤®à¥à¤ à¤¹à¥) à¤¸à¤¦à¤¾ à¤¸à¥à¤¥à¤¿à¤° à¤°à¤¹à¤¨à¥ à¤µà¤¾à¤²à¥ à¤ªà¥à¤°à¤­à¥ à¤à¤¾ à¤¦à¥à¤¦à¤¾à¤° à¤à¤° à¤²à¤¿à¤¯à¤¾ à¤¹à¥à¥¤ à¤µà¤¹ à¤¡à¥à¤² à¤à¥ à¤à¤¿à¤¸à¥ à¤à¤° à¤¤à¤°à¤« à¤¨à¤¹à¥à¤ à¤à¤¾à¤¤à¤¾à¥¤\r",
+                    "time": 594000
+                },
+                {
+                    "line": "à¤µà¤¹ (à¤ªà¥à¤°à¤­à¥ à¤à¤°à¤£à¥à¤ à¤¸à¥) à¤¸à¤¾à¤à¤ à¤ªà¤¾ à¤²à¥à¤¤à¤¾ à¤¹à¥à¥¤ 17à¥¤\r",
+                    "time": 600061
+                },
+                {
+                    "line": "à¤¯à¥ à¤®à¤¾à¤¯à¤¾ à¤à¤¸à¥ à¤¹à¥ à¤à¥à¤¸à¤¾ à¤¦à¥à¤° à¤¸à¥ à¤¦à¥à¤à¥ à¤¹à¥à¤ à¤°à¥à¤¤ à¤à¥ à¤ªà¤¾à¤¨à¥ à¤ªà¥à¤°à¤¤à¥à¤¤ à¤¹à¥à¤¤à¥ à¤¹à¥à¥¤\r",
+                    "time": 614051
+                },
+                {
+                    "line": "à¤¸à¥ à¤®à¥à¤à¤¨à¥ à¤§à¥à¤¯à¤¾à¤¨ à¤¸à¥ (à¤à¤¸ à¤®à¤¾à¤¯à¤¾ à¤à¥ à¤à¤¸à¥à¤²à¤¿à¤¯à¤¤) à¤¦à¥à¤ à¤à¥ à¤®à¤¨ à¤à¥ à¤§à¥à¤°à¥à¤¯à¤µà¤¾à¤¨ à¤¬à¤¨à¤¾ à¤²à¤¿à¤¯à¤¾ à¤¹à¥ (à¤­à¤¾à¤µà¥¤ à¤®à¤¨ à¤à¥ à¤à¤¸à¤à¥ à¤ªà¥à¤à¥ à¤¦à¥à¤¡à¤¼à¤¨à¥ à¤¸à¥ à¤¬à¤à¤¾ à¤²à¤¿à¤¯à¤¾ à¤¹à¥)à¥¤\r",
+                    "time": 621074
+                },
+                {
+                    "line": "à¤à¤¿à¤¸ (à¤®à¤¾à¤¯à¤¾à¤µà¥ à¤®à¥à¤¹ à¤°à¥à¤ªà¥) à¤ à¤ à¤¨à¥ à¤¸à¤¾à¤°à¥ à¤à¤à¤¤ à¤à¥ à¤­à¥à¤²à¥à¤à¥ à¤®à¥à¤ à¤¡à¤¾à¤² à¤¦à¤¿à¤¯à¤¾ à¤¹à¥à¥¤ à¤¸à¤¾à¤°à¥ à¤à¤à¤¤ à¤à¥ à¤à¤ªà¤¨à¥ à¤µà¤¶ à¤®à¥à¤ à¤à¤° à¤²à¤¿à¤¯à¤¾ à¤¹à¥à¥¤\r",
+                    "time": 628016
+                },
+                {
+                    "line": "à¤à¤¸ (à¤®à¥à¤¹-) à¤ à¥à¤ à¤à¥ à¤à¤¾à¤¬à¥ à¤à¤°à¤à¥ à¤®à¥à¤°à¤¾ à¤®à¤¨ à¤ à¤¿à¤à¤¾à¤¨à¥ à¤ªà¤° à¤ à¤à¤¯à¤¾ à¤¹à¥à¥¤ 18à¥¤\r",
+                    "time": 634050
+                },
+                {
+                    "line": "à¤à¤à¤° à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¤¾ à¤¡à¤° (à¤­à¤¾à¤µà¥¤ à¤à¤¦à¤¬-à¤¸à¤¤à¥à¤à¤¾à¤°) à¤®à¤¨à¥à¤·à¥à¤¯ à¤à¥ à¤¹à¥à¤¦à¤¯ à¤®à¥à¤ à¤ªà¥à¤¦à¤¾ à¤¹à¥ à¤à¤¾à¤ à¤¤à¥ (à¤¦à¥à¤¨à¤¿à¤¯à¤¾ à¤µà¤¾à¤²à¤¾) à¤¡à¤° (à¤¦à¤¿à¤² à¤¸à¥) à¤¦à¥à¤° à¤¹à¥ à¤à¤¾à¤¤à¤¾ à¤¹à¥ à¤à¤°\r",
+                    "time": 641038
+                },
+                {
+                    "line": "à¤à¤¸ à¤¡à¤° à¤®à¥à¤ à¤¦à¥à¤¨à¤¿à¤¯à¤¾ à¤µà¤¾à¤²à¤¾ à¤¡à¤° à¤¸à¤®à¤¾à¤ªà¥à¤¤ à¤¹à¥ à¤à¤¾à¤¤à¤¾ à¤¹à¥à¥¤\r",
+                    "time": 648054
+                },
+                {
+                    "line": "à¤ªà¤° à¤à¤à¤° à¤®à¤¨à¥à¤·à¥à¤¯ à¤ªà¥à¤°à¤­à¥ à¤à¤¾ à¤¡à¤° à¤®à¤¨ à¤®à¥à¤ à¤¨à¤¾ à¤¬à¤¸à¤¾à¤ à¤¤à¥ (à¤¦à¥à¤¨à¤¿à¤¯à¤¾ à¤µà¤¾à¤²à¤¾) à¤¡à¤° à¤¦à¥à¤¬à¤¾à¤°à¤¾ à¤ à¤à¤¿à¤ªà¤à¤¤à¤¾ à¤¹à¥à¥¤\r",
+                    "time": 655058
+                },
+                {
+                    "line": "(à¤à¤° à¤ªà¥à¤°à¤­à¥ à¤à¤¾ à¤¡à¤° à¤¦à¤¿à¤² à¤®à¥à¤ à¤¬à¤¸à¤¾ à¤à¥ à¤à¥ à¤®à¤¨à¥à¤·à¥à¤¯) à¤¨à¤¿à¤°à¥à¤­à¤¯ à¤¹à¥ à¤à¤¯à¤¾à¥¤ à¤à¤¸à¤à¥ à¤®à¤¨ à¤à¤¾ à¤à¥ à¤­à¥ à¤¸à¤¹à¤® à¤¹à¥à¥¤ à¤¸à¤¬ à¤­à¤¾à¤ à¤à¤¾à¤¤à¤¾ à¤¹à¥à¥¤ 19à¥¤\r",
+                    "time": 662011
+                },
+                {
+                    "line": "(à¤¹à¥ à¤­à¤¾à¤ ! à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤¤à¥ à¤¤à¥à¤°à¥) à¤¨à¤à¤¦à¥à¤ à¤¹à¥ à¤¹à¥à¥¤\r",
+                    "time": 668058
+                },
+                {
+                    "line": "à¤¤à¥ (à¤à¤¸à¥ à¤¬à¤¾à¤¹à¤°) à¤à¤° à¤à¤¹à¤¾à¤ à¤¢à¥à¤à¤¢à¤¤à¤¾ à¤¹à¥? (à¤¬à¤¾à¤¹à¤°) à¤¢à¥à¤à¤¢à¤¤à¥-à¤¢à¥à¤à¤¢à¤¤à¥ à¤¤à¥à¤°à¥ à¤ªà¥à¤°à¤¾à¤£ à¤­à¥ à¤¥à¤ à¤à¤ à¤¹à¥à¤à¥¤\r",
+                    "time": 675043
+                },
+                {
+                    "line": "à¤¸à¥à¤®à¥à¤° à¤ªà¤°à¥à¤µà¤¤ à¤ªà¥ (à¤­à¥) à¤à¤¢à¤¼ à¤à¥ à¤à¤° (à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¥ à¤µà¤¹à¤¾à¤) à¤¢à¥à¤à¤¢-à¤¢à¥à¤à¤¢ à¤à¥ à¤à¤¬ à¤®à¤¨à¥à¤·à¥à¤¯ (à¤à¤ªà¤¨à¥ à¤¶à¤°à¥à¤° à¤®à¥à¤) à¤à¤¤à¤¾ à¤¹à¥ (à¤­à¤¾à¤µà¥¤ à¤à¤¬ à¤à¤ªà¤¨à¥ à¤à¤à¤¦à¤° à¤¹à¥ à¤à¤¾à¤à¤à¤¤à¤¾ à¤¹à¥)à¥¤\r",
+                    "time": 681096
+                },
+                {
+                    "line": "à¤¤à¥ à¤µà¤¹ à¤ªà¥à¤°à¤­à¥ à¤à¤¸ (à¤¶à¤°à¥à¤° à¤°à¥à¤ªà¥) à¤à¤¿à¤²à¥ à¤®à¥à¤ à¤¹à¥ à¤®à¤¿à¤² à¤à¤¾à¤¤à¤¾ à¤¹à¥ à¤à¤¿à¤¸à¤¨à¥ à¤¯à¥ à¤¶à¤°à¥à¤° à¤à¤¿à¤²à¤¾ à¤¬à¤¨à¤¾à¤¯à¤¾ à¤¹à¥à¥¤ 20à¥¤\r",
+                    "time": 688058
+                },
+                {
+                    "line": "(à¤à¤à¤¤ à¤°à¥à¤ªà¥ à¤à¤¸) à¤°à¤£à¤­à¥à¤®à¤¿ à¤®à¥à¤ (à¤µà¤¿à¤à¤¾à¤°à¥à¤ à¤à¥ à¤¸à¤¾à¤¥ à¤¯à¥à¤¦à¥à¤§ à¤®à¥à¤) à¤µà¥à¤¯à¤¸à¥à¤¤ à¤à¥ à¤®à¤¨à¥à¤·à¥à¤¯ à¤µà¤¿à¤à¤¾à¤°à¥à¤ à¤à¥ à¤µà¤¶ à¤®à¥à¤ à¤à¤°à¤¨à¥ à¤à¥ à¤¸à¤®à¤°à¥à¤¥à¤¾ à¤ªà¥à¤°à¤¾à¤ªà¥à¤¤ à¤à¤° à¤²à¥à¤¤à¤¾ à¤¹à¥\r",
+                    "time": 709020
+                },
+                {
+                    "line": "à¤à¥ (à¤µà¤¿à¤à¤¾à¤°à¥à¤ à¤à¥ à¤à¤à¥) à¤¨à¤¾ à¤à¥à¤à¤¤à¤¾ à¤¹à¥à¥¤ à¤¨à¤¾ à¤¹à¥ (à¤à¤¨à¤¸à¥) à¤®à¥à¤² à¤à¤°à¤¤à¤¾ à¤¹à¥à¥¤\r",
+                    "time": 723017
+                },
+                {
+                    "line": "à¤à¤à¤¤ à¤à¤¸à¥ à¤®à¤¨à¥à¤·à¥à¤¯ à¤à¥ à¤à¥à¤µà¤¨ à¤à¥ à¤­à¤¾à¤à¥à¤¯à¤¶à¤¾à¤²à¥ à¤à¤¿à¤¨à¤¤à¤¾ à¤¹à¥à¥¤\r",
+                    "time": 729090
+                },
+                {
+                    "line": "à¤à¥à¤¯à¥à¤à¤à¤¿ à¤µà¤¹ à¤®à¤¨à¥à¤·à¥à¤¯ (à¤à¤ªà¤¨à¥) à¤à¤ à¤®à¤¨ à¤à¥ à¤®à¤¾à¤°à¤¤à¤¾ à¤¹à¥ à¤à¤° à¤¬à¤¹à¥à¤¤ à¤¸à¤¾à¤°à¥ (à¤µà¤¿à¤à¤¾à¤°à¥à¤) à¤à¥ à¤à¥à¤¡à¤¼ à¤¦à¥à¤¤à¤¾ à¤¹à¥à¥¤ 21à¥¤\r",
+                    "time": 736080
+                },
+                {
+                    "line": "à¤¯à¥ à¤à¤à¤¤ à¤à¤ à¤à¤¸à¤¾ à¤¸à¤®à¥à¤à¤¦à¥à¤° à¤¹à¥ à¤à¤¿à¤¸à¥ à¤¤à¥à¤°à¤¨à¤¾ à¤®à¥à¤¶à¥à¤à¤¿à¤² à¤¹à¥à¥¤\r",
+                    "time": 751012
+                },
+                {
+                    "line": "à¤à¤¿à¤¸à¤®à¥à¤ à¤¸à¥ à¤ªà¤¾à¤° à¤²à¤¾à¤à¤à¤¾ à¤¨à¤¹à¥à¤ à¤à¤¾ à¤¸à¤à¤¤à¤¾ (à¤¤à¤¬ à¤¤à¤ à¤à¤¬ à¤¤à¤) à¤à¤à¤à¥¤ à¤à¤¾à¤¨à¥¤ à¤¨à¤¾à¤ à¤à¤¦à¤¿ à¤à¥à¤à¤¾à¤¨à¥à¤à¤¦à¥à¤°à¤¿à¤¯à¤¾à¤ à¤¦à¥à¤¨à¤¿à¤¯à¤¾à¤ (à¤à¥ à¤°à¤¸à¥à¤) à¤®à¥à¤ à¤¡à¥à¤¬à¥ à¤°à¤¹à¤¤à¥ à¤¹à¥à¤;\r",
+                    "time": 757024
+                },
+                {
+                    "line": "à¤ªà¤° à¤à¤¬ à¤¸à¤à¤¸à¤¾à¤° (à¤à¥ à¤°à¤¸) à¤¶à¤°à¥à¤° à¤à¥ à¤à¤à¤¦à¤° à¤¹à¥ à¤®à¤¿à¤ à¤à¤¾à¤¤à¥ à¤¹à¥à¤ (à¤­à¤¾à¤µà¥¤ à¤®à¤¨à¥à¤·à¥à¤¯ à¤à¥ à¤à¤à¤¦à¥à¤°à¤¿à¤¯à¥à¤ à¤à¥ à¤à¤à¤°à¥à¤·à¤¿à¤¤ à¤à¤°à¤¨à¥ à¤®à¥à¤ à¤à¤¸à¤«à¤² à¤¹à¥ à¤à¤¾à¤¤à¥ à¤¹à¥à¤)à¥¤\r",
+                    "time": 764009
+                },
+                {
+                    "line": "à¤¤à¤¬ (à¤à¥à¤µ à¤à¥) à¤à¤¤à¥à¤®à¤¾ (à¤ªà¥à¤°à¤­à¥ à¤à¥) à¤à¥à¤¯à¥à¤¤à¤¿ à¤®à¥à¤ à¤®à¤¿à¤² à¤à¤¾à¤¤à¥ à¤¹à¥à¥¤ à¤¤à¤¬ à¤¸à¤¦à¤¾ à¤¸à¥à¤¥à¤¿à¤° à¤°à¤¹à¤¨à¥ à¤µà¤¾à¤²à¤¾ à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤®à¤¿à¤² à¤à¤¾à¤¤à¤¾ à¤¹à¥à¥¤ 22à¥¤\r",
+                    "time": 771037
+                },
+                {
+                    "line": "(à¤®à¤¨à¥à¤·à¥à¤¯ à¤à¤¾ à¤®à¤¨) à¤à¤¥à¤¾à¤¹ à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¥ à¤¥à¤¾à¤¹ à¤¨à¤¹à¥à¤ à¤ªà¤¾ à¤¸à¤à¤¤à¤¾ (à¤à¥à¤¯à¥à¤à¤à¤¿à¥¤ à¤à¤ à¤¤à¤°à¤« à¤¤à¥)||\r",
+                    "time": 777060
+                },
+                {
+                    "line": "à¤µà¤¹ à¤ªà¥à¤°à¤­à¥ à¤¬à¥à¤à¤à¤¤ à¤à¤¹à¤°à¤¾ à¤¹à¥ (à¤à¤°à¥¤ à¤¦à¥à¤¸à¤°à¥ à¤¤à¤°à¤«à¥¤ à¤®à¤¨à¥à¤·à¥à¤¯ à¤à¤¾) à¤¯à¥ à¤®à¤¨ à¤à¤­à¥ à¤à¤¿à¤ à¤à¥ à¤¨à¤¹à¥à¤ à¤°à¤¹à¤¤à¤¾ (à¤­à¤¾à¤µà¥¤ à¤à¤­à¥ à¤ªà¥à¤°à¤­à¥ à¤à¤°à¤£à¥à¤ à¤®à¥à¤à¤à¥à¤¡à¤¼à¤¨à¥ à¤à¤¾ à¤à¤¦à¥à¤¯à¤® à¤¹à¥ à¤¨à¤¹à¥à¤ à¤à¤°à¤¤à¤¾)à¥¤\r",
+                    "time": 784033
+                },
+                {
+                    "line": "à¤¯à¥ à¤®à¤¨ à¤¥à¥à¤¡à¤¼à¥ à¤à¤¿à¤¤à¤¨à¥ (à¤®à¤¿à¤²à¥) à¤à¤®à¥à¤¨ à¤®à¥à¤ (à¤à¤) à¤¨à¤à¤° (à¤¬à¤¨à¤¾à¤¨à¥) à¤à¤°à¤®à¥à¤­ à¤à¤° à¤¦à¥à¤¤à¤¾ à¤¹à¥ (à¤­à¤¾à¤µà¥¤ à¤¥à¥à¤¡à¤¼à¥ à¤à¤¿à¤¤à¤¨à¥ à¤®à¤¿à¤²à¥ à¤à¤®à¥à¤° à¤®à¥à¤ à¤à¤ à¤ªà¤¸à¤¾à¤°à¥ à¤ªà¤¸à¤¾à¤° à¤¬à¥à¤ à¤¤à¤¾ à¤¹à¥);|\r",
+                    "time": 791025
+                },
+                {
+                    "line": "à¤à¤° à¤à¤¸à¤à¥ à¤¯à¥ à¤¸à¤¾à¤°à¥ à¤ªà¤¸à¤¾à¤°à¥ à¤ªà¤¸à¤¾à¤°à¤¨à¥ à¤µà¥à¤¯à¤°à¥à¤¥ à¤à¥ à¤à¤¾à¤® à¤¹à¥à¤à¥¤ à¤¯à¥ (à¤®à¤¾à¤¨à¥) à¤à¤®à¥à¤­à¥à¤ (à¤¦à¥à¤µà¤¾à¤°à¥à¤) à¤à¥ à¤¬à¤¿à¤¨à¤¾ à¤¹à¥ à¤à¤° à¤à¤¾ à¤¨à¤¿à¤°à¥à¤®à¤¾à¤£ à¤à¤° à¤°à¤¹à¤¾ à¤¹à¥à¥¤ 23à¥¤\r",
+                    "time": 804082
+                },
+                {
+                    "line": "à¤à¥ à¤¯à¥ à¤¸à¤à¤¸à¤¾à¤° (à¤à¤¨ à¤à¤à¤à¥à¤ à¤¸à¥) à¤¦à¤¿à¤à¤¾à¤ à¤¦à¥ à¤°à¤¹à¤¾ à¤¹à¥à¥¤ à¤¯à¥ à¤¸à¤¾à¤°à¤¾ à¤¨à¤¾à¤¶à¤µà¤à¤¤ à¤¹à¥à¥¤\r",
+                    "time": 818043
+                },
+                {
+                    "line": "(à¤¹à¥ à¤­à¤¾à¤ !) à¤¤à¥ à¤¸à¤¦à¤¾ à¤ªà¥à¤°à¤­à¥ à¤®à¥à¤ à¤¸à¥à¤°à¤¤à¤¿ à¤à¥à¤¡à¤¼à¥¤ à¤à¥ (à¤à¤¨ à¤à¤à¤à¥à¤ à¤¸à¥) à¤¦à¤¿à¤à¤¾à¤ à¤¨à¤¹à¥à¤ à¤¦à¥à¤¤à¤¾ (à¤­à¤¾à¤µà¥¤ à¤à¥ à¤¦à¤¿à¤à¤¾à¤ à¤¦à¥à¤¤à¥ à¤¤à¥à¤°à¤¿à¤à¥à¤£à¥ à¤¸à¤à¤¸à¤¾à¤° à¤¸à¥ à¤à¤²à¤ à¤­à¥ à¤¹à¥)à¥¤ à¤ªà¤°à¥¤\r",
+                    "time": 845071
+                },
+                {
+                    "line": "à¤à¤¬ (à¤à¥à¤°à¤¬à¤¾à¤£à¥-à¤°à¥à¤ªà¥) à¤à¥à¤à¤à¥ à¤¦à¤¸à¤µà¥à¤ à¤¦à¥à¤µà¤¾à¤° à¤®à¥à¤ à¤²à¤à¤¾à¤à¤ (à¤­à¤¾à¤µà¥¤ à¤à¤¬ à¤®à¤¨ à¤à¥ à¤¸à¤¤à¤¿à¤à¥à¤°à¥ à¤à¥ à¤¬à¤¾à¤£à¥ à¤à¥ à¤¸à¤¾à¤¥ à¤à¥à¤¡à¤¼à¥à¤)-\r",
+                    "time": 853077
+                },
+                {
+                    "line": "à¤à¤¸ à¤¦à¤¯à¤¾à¤² à¤ªà¥à¤°à¤­à¥ à¤à¤¾ à¤¦à¥à¤¦à¤¾à¤° à¤¤à¤­à¥ à¤à¤¿à¤¯à¤¾ à¤à¤¾ à¤¸à¤à¤¤à¤¾ à¤¹à¥à¥¤ à¥¤ 24à¥¤\r",
+                    "time": 862022
+                },
+                {
+                    "line": "à¤à¤¬ à¤à¥à¤µà¤¾à¤¤à¥à¤®à¤¾ à¤à¤¾ à¤¨à¤¿à¤µà¤¾à¤¸ à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤®à¥à¤ à¤¹à¥à¤¤à¤¾ à¤¹à¥ (à¤­à¤¾à¤µà¥¤ à¤à¤¬ à¤à¥à¤µ à¤ªà¥à¤°à¤­à¥ à¤à¤°à¤£à¥à¤ à¤®à¥à¤ à¤à¥à¤¡à¤¼à¤¤à¤¾ à¤¹à¥)à¥¤\r",
+                    "time": 878020
+                },
+                {
+                    "line": "à¤¤à¥ à¤ªà¥à¤°à¤­à¥ à¤¸à¥ (à¤à¤ à¤°à¥à¤ª) à¤¹à¥ à¤à¥ à¤¹à¥ à¤à¥à¤µ (à¤à¥ à¤à¤¨à¤®-à¤®à¤°à¤£) à¤à¤¾ à¤à¤¾à¤¤à¥à¤®à¤¾ à¤¹à¥à¤¤à¤¾ à¤¹à¥à¥¤ (à¤à¥à¤µà¤¾à¤¤à¥à¤®à¤¾ à¤à¤° à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¥ à¤¦à¥à¤°à¥ à¤à¤¤à¥à¤® à¤¹à¥ à¤à¤¾à¤¤à¥ à¤¹à¥)à¥¤\r",
+                    "time": 885047
+                },
+                {
+                    "line": "à¤à¤¬ à¤à¥à¤µ à¤¨à¤¿à¤à¤²à¥ à¤à¤µà¤¸à¥à¤¥à¤¾ à¤à¥ (à¤­à¤¾à¤µà¥¤ à¤®à¤¾à¤¯à¤¾ à¤à¥ à¤®à¥à¤¹ à¤à¥) à¤à¥à¤¡à¤¼ à¤à¥ à¤à¤à¥à¤ à¤à¤µà¤¸à¥à¤¥à¤¾ à¤®à¥à¤ à¤ªà¤¹à¥à¤à¤à¤¤à¤¾ à¤¹à¥ à¤¤à¥ |\r",
+                    "time": 893010
+                },
+                {
+                    "line": "à¤à¥à¤µ à¤à¥ à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤®à¤¿à¤² à¤à¤¾à¤¤à¤¾ à¤¹à¥à¥¤ à¤à¤° à¤à¤¸à¥ (à¤à¤¸à¤²) à¤¸à¥à¤ à¤ªà¥à¤°à¤¾à¤ªà¥à¤¤ à¤¹à¥ à¤à¤¾à¤¤à¤¾ à¤¹à¥à¥¤ 25à¥¤\r",
+                    "time": 900097
+                },
+                {
+                    "line": "(à¤à¤¿à¤¸ à¤à¥à¤µ à¤à¥) à¤¦à¤¿à¤¨ à¤°à¤¾à¤¤ (à¤­à¤¾à¤µà¥¤ à¤¸à¤¾à¤°à¤¾ à¤¸à¤®à¤¯) (à¤ªà¥à¤°à¤­à¥ à¤à¥ à¤¦à¥à¤¦à¤¾à¤° à¤à¤¾) à¤à¤¨à¥à¤¤à¤à¤¾à¤° à¤à¤°à¤¤à¥ à¤à¥à¤à¤°à¤¤à¤¾ à¤¹à¥à¥¤\r",
+                    "time": 908068
+                },
+                {
+                    "line": "à¤¤à¤¾à¤à¤¤à¥ à¤¹à¥à¤ (à¤­à¤¾à¤µà¥¤ à¤¦à¥à¤¦à¤¾à¤° à¤à¥ à¤²à¤à¤¨ à¤®à¥à¤ à¤¹à¥) à¤à¤¸à¤à¥ à¤¨à¥à¤¤à¥à¤° (à¤ªà¥à¤°à¤­à¥ à¤¦à¥à¤¦à¤¾à¤° à¤à¥ à¤²à¤¿à¤) à¤®à¤¤à¤µà¤¾à¤²à¥ à¤¹à¥ à¤à¤¾à¤¤à¥ à¤¹à¥à¤à¥¤\r",
+                    "time": 916024
+                },
+                {
+                    "line": "à¤¦à¥à¤¦à¤¾à¤° à¤à¥ à¤¤à¤®à¤¨à¥à¤¨à¤¾ à¤à¤°à¤¤à¥-à¤à¤°à¤¤à¥ à¤à¤¬ à¤à¤à¤¿à¤° à¤¦à¥à¤¦à¤¾à¤° à¤¹à¥à¤¤à¤¾ à¤¹à¥\r",
+                    "time": 923093
+                },
+                {
+                    "line": "à¤¤à¥ à¤µà¤¹ à¤à¤·à¥à¤ à¤ªà¥à¤°à¤­à¥ à¤à¥ à¤¦à¤°à¥à¤¶à¤¨à¥à¤ à¤à¥ à¤à¤¾à¤¹à¤¤ à¤°à¤à¤¨à¥ à¤µà¤¾à¤²à¥ (à¤à¤ªà¤¨à¥ à¤ªà¥à¤°à¥à¤®à¥) à¤à¥ à¤à¤ªà¤¨à¥ à¤¸à¤¾à¤¥ à¤®à¤¿à¤²à¤¾ à¤²à¥à¤¤à¤¾ à¤¹à¥à¥¤ 26à¥¤\r",
+                    "time": 931067
+                },
+                {
+                    "line": "à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤¸à¤¬à¤¸à¥ à¤¬à¤¡à¤¼à¤¾ à¤¹à¥à¥¤ à¤à¤¸à¤à¤¾ à¤à¤¿à¤¸à¥ à¤¨à¥ à¤à¤à¤¤ à¤¨à¤¹à¥à¤ à¤ªà¤¾à¤¯à¤¾à¥¤\r",
+                    "time": 947007
+                },
+                {
+                    "line": "à¤à¤¿à¤¸ à¤à¥à¤µ à¤¨à¥ à¤°à¥à¤¶à¤¨à¥ à¤à¥ à¤¶à¥à¤°à¥à¤¤ à¤ªà¥à¤°à¤­à¥ à¤¸à¥ à¤ªà¥à¤¯à¤¾à¤° à¤à¥à¤¡à¤¼à¤¾ à¤¹à¥à¥¤\r",
+                    "time": 954067
+                },
+                {
+                    "line": "à¤µà¤¹ à¤à¤ªà¤¨à¥ à¤ªà¤¾à¤à¤à¥à¤ à¤¹à¥ à¤à¥à¤à¤¾à¤¨à¥à¤à¤¦à¥à¤°à¤¿à¤¯à¥à¤ à¤à¥ (à¤à¤¸ à¤ªà¥à¤°à¤à¤¾à¤°) à¤µà¤¶ à¤®à¥à¤ à¤à¤° à¤²à¥à¤¤à¤¾ à¤¹à¥ à¤à¤¿\r",
+                    "time": 963026
+                },
+                {
+                    "line": "à¤µà¤¹ à¤à¥à¤µ à¤ªà¤¾à¤ª à¤à¤° à¤ªà¥à¤à¤¨ à¤¦à¥à¤¨à¥à¤ à¤à¥ à¤¦à¥à¤° à¤à¤° à¤¦à¥à¤¤à¤¾ à¤¹à¥ (à¤­à¤¾à¤µà¥¤ à¤ªà¤¾à¤à¤à¥à¤ à¤à¥à¤à¤¾à¤¨à¥à¤à¤¦à¥à¤°à¤¿à¤¯à¥à¤ à¤à¥ à¤µà¤¹ à¤à¤¸ à¤¤à¤°à¤¹ à¤ªà¥à¤°à¥à¤£ à¤¤à¥à¤° à¤ªà¤° à¤à¤¾à¤¬à¥ à¤à¤°à¤¤à¤¾ à¤¹à¥à¤à¤¿ à¤à¤¸à¤à¥ à¤à¤ªà¤¨à¥ à¤à¤¾à¤®à¥à¤ à¤à¥ à¤¬à¤¾à¤°à¥ à¤®à¥à¤ à¤¯à¥ à¤¸à¥à¤à¤¨à¥ à¤à¥ à¤à¤°à¥à¤°à¤¤ à¤¨à¤¹à¥à¤ à¤°à¤¹à¤¤à¥ à¤à¤¿ à¤®à¥à¤ à¤à¥ à¤à¤¾à¤® à¤à¤°à¤¤à¤¾ à¤¹à¥à¤ à¤¯à¥ à¤ªà¤¾à¤ª à¤¹à¥ à¤à¤¥à¤µà¤¾ à¤ªà¥à¤à¤¨à¥¤ à¤¸à¤¹à¤ à¤¹à¥ à¤à¤¸à¤à¤¾ à¤¹à¤°à¥à¤ à¤à¤¾à¤® à¤à¤¾à¤®à¤¾à¤¦à¤¿à¤ à¤µà¤¿à¤à¤¾à¤°à¥à¤ à¤¸à¥ à¤¬à¤°à¥ à¤¹à¥à¤¤à¤¾ à¤¹à¥)à¥¤ 27à¥¤\r",
+                    "time": 969098
+                },
+                {
+                    "line": "à¤à¤à¤° à¤à¥à¤µ à¤à¤ªà¤¨à¥ à¤à¤ª à¤ªà¤° à¤à¥à¤®à¤¾à¤¨ à¤à¥à¤¡à¤¼ à¤¦à¥à¥¤ à¤¤à¥ à¤à¤¸à¥ (à¤¨à¤¾à¤®-à¤ªà¤¦à¤¾à¤°à¥à¤¥ à¤°à¥à¤ªà¥ à¤µà¤¹) à¤«à¤² à¤ªà¥à¤°à¤¾à¤ªà¥à¤¤ à¤¹à¥ à¤à¤¾à¤¤à¤¾ à¤¹à¥ (à¤à¤¿à¤¸à¤à¥ à¤à¤¾à¤¤à¤¿à¤° à¤®à¤¾à¤¨à¤¸ à¤à¤¨à¤® à¤®à¤¿à¤²à¤¾ à¤¹à¥)à¥¤ à¤à¤°à¥¤\r",
+                    "time": 977087
+                },
+                {
+                    "line": "à¤à¤à¤° à¤à¥à¤ à¤à¤¸ à¤°à¥à¤¬à¥ à¤¸à¥à¤ à¤à¤¾ à¤°à¥à¤¤à¥à¤¤à¥ à¤­à¤° à¤­à¥ à¤à¤²à¤ à¤¸à¤®à¤ à¤²à¥à¥¤ à¤à¤° à¤à¤à¤° à¤à¤¸ à¤à¤²à¤ à¤à¥ à¤µà¤¿à¤à¤¾à¤°à¥à¥¤\r",
+                    "time": 985015
+                },
+                {
+                    "line": "à¤¤à¥ à¤µà¤¹ à¤à¤¨à¤®-à¤®à¤°à¤¨ à¤à¥ à¤à¤¡à¥à¤¢à¥ à¤®à¥à¤ à¤¨à¤¹à¥à¤ à¤à¤¿à¤°à¤¤à¤¾à¥¤\r",
+                    "time": 992091
+                },
+                {
+                    "line": "(à¤à¥à¤¯à¥à¤à¤à¤¿) à¤à¤¶à¥à¤µà¤°à¥à¤¯ à¤¸à¥à¤ à¤à¥ à¤µà¤¹ à¤à¥à¤à¥ à¤¸à¥ à¤à¤®à¤ à¤­à¥ à¤à¤¸à¤à¥ à¤¦à¥à¤¹-à¤à¤§à¥à¤¯à¤¾à¤¸ (à¤¸à¥à¤µà¥ à¤ªà¤° à¤à¥à¤®à¤¾à¤¨) à¤à¥ à¤ªà¥à¤°à¥ à¤¤à¥à¤° à¤ªà¤° à¤à¤¤à¥à¤® à¤à¤° à¤¦à¥à¤¤à¥ à¤¹à¥à¥¤ 28à¥¤\r",
+                    "time": 999091
+                },
+                {
+                    "line": "(à¤à¥à¤¸à¥ à¤ªà¤¾à¤¨à¥ à¤à¥) à¤¬à¥à¤à¤¦ à¤®à¥à¤ (à¤ªà¤¾à¤¨à¥ à¤à¥) à¤¬à¥à¤à¤¦ à¤®à¤¿à¤² à¤à¤¾à¤¤à¥ à¤¹à¥à¥¤ (à¤à¤°à¥¤\r",
+                    "time": 1015027
+                },
+                {
+                    "line": "à¤«à¤¿à¤° à¤à¤²à¤ à¤¨à¤¹à¥à¤ à¤¹à¥ à¤¸à¤à¤¤à¥à¥¤\r",
+                    "time": 1022084
+                },
+                {
+                    "line": "à¤µà¥à¤¸à¥ à¤¹à¥ à¤ªà¥à¤°à¤­à¥ à¤¸à¥) à¤¨à¤¿à¤®à¤ à¤®à¤¾à¤¤à¥à¤° à¤­à¥ à¤¸à¤¾à¤à¤ à¤¡à¤¾à¤² à¤à¥ (à¤à¥à¤µ à¤ªà¥à¤°à¤­à¥ à¤¸à¥) à¤µà¤¿à¤à¥à¤¡à¤¼ à¤¨à¤¹à¥à¤ à¤¸à¤à¤¤à¤¾ (à¤à¥à¤¯à¥à¤à¤à¤¿ à¤à¥ à¤®à¤¨à¥à¤·à¥à¤¯ à¤ªà¥à¤°à¤­à¥ à¤à¤¾) à¤¸à¥à¤µà¤ à¤¬à¤¨ à¤à¥ à¤ªà¥à¤°à¥à¤® à¤¸à¥ (à¤ªà¥à¤°à¤­à¥ à¤à¥) à¤­à¤à¤¤à¥ à¤à¤°à¤¤à¤¾ à¤¹à¥à¥¤\r",
+                    "time": 1030030
+                },
+                {
+                    "line": "à¤µà¤¹ (à¤ªà¥à¤°à¤­à¥ à¤à¥ à¤¦à¤° à¤à¤¾) à¤¢à¤¾à¤¢à¥ à¤¬à¤¨ à¤à¥ (à¤®à¤¾à¤¯à¤¾ à¤à¥ à¤®à¥à¤¹ à¤à¥) à¤à¤à¤à¥à¤°à¥à¤ à¤à¤¾ à¤­à¥à¤¦ à¤ªà¤¾ à¤²à¥à¤¤à¤¾ à¤¹à¥ (à¤à¤° à¤à¤¨à¤à¥ à¤§à¥à¤à¥ à¤®à¥à¤ à¤¨à¤¹à¥à¤ à¤à¤¤à¤¾)à¥¤ 29à¥¤\r",
+                    "time": 1037092
+                },
+                {
+                    "line": "à¤à¥ à¤®à¤¨à¥à¤·à¥à¤¯ (à¤ªà¥à¤°à¤­à¥ à¤¸à¥ à¤¬à¤¨à¥ à¤¹à¥à¤) à¤¦à¥à¤°à¥ à¤à¥ à¤¸à¤®à¤¾à¤ªà¥à¤¤ à¤à¤°à¤à¥ (à¤à¤ªà¤¨à¥ à¤®à¤¨ à¤à¥ à¤ªà¥à¤°à¤­à¥ à¤à¥ à¤¯à¤¾à¤¦ à¤®à¥à¤) à¤à¥à¤¡à¤¼à¤¤à¤¾ à¤¹à¥à¥¤\r",
+                    "time": 1045049
+                },
+                {
+                    "line": "à¤à¤¸ à¤¯à¤¾à¤¦ à¤à¥ à¤¬à¤°à¤à¤¤à¤¿ à¤¸à¥ (à¤¸à¤¾à¤à¤¸à¤¾à¤°à¤¿à¤) à¤¡à¤° à¤¦à¥à¤° à¤à¤°à¤¨à¥ à¤¸à¥ à¤à¤¸à¥ à¤ªà¥à¤°à¤­à¥ à¤®à¥à¤ à¤¶à¥à¤°à¤¦à¥à¤§à¤¾ à¤¬à¤¨ à¤à¤¾à¤¤à¥ à¤¹à¥à¥¤\r",
+                    "time": 1052077
+                },
+                {
+                    "line": "à¤à¥ à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤¸à¤¾à¤°à¥ à¤à¤à¤¤ à¤®à¥à¤ à¤µà¥à¤¯à¤¾à¤ªà¤ à¤¹à¥à¥¤ à¤à¤¸à¥ à¤µà¤¹ à¤à¤ªà¤¨à¥ à¤à¤à¤¦à¤° à¤¬à¤¸à¤¤à¤¾ à¤à¤¾à¤¨ à¤²à¥à¤¤à¤¾ à¤¹à¥à¥¤\r",
+                    "time": 1060013
+                },
+                {
+                    "line": "(à¤à¤° à¤à¥à¤¯à¥à¤-à¤à¥à¤¯à¥à¤) à¤¯à¥ à¤°à¤¾à¤ à¤à¤¸à¥ à¤à¥à¤²à¤¤à¤¾ à¤¹à¥ (à¤à¤¿ à¤à¤à¤¦à¤°-à¤¬à¤¾à¤¹à¤° à¤¹à¤° à¤à¤à¤¹ à¤ªà¥à¤°à¤­à¥ à¤¬à¤¸ à¤°à¤¹à¤¾ à¤¹à¥) à¤µà¤¹ à¤¸à¥à¤·à¥à¤à¤¿ à¤à¥ à¤®à¤¾à¤²à¤¿à¤-à¤ªà¥à¤°à¤­à¥ à¤¸à¥ (à¤¯à¤¾à¤¦à¥à¤ à¤à¥) à¤¸à¤¾à¤à¤ à¤¡à¤¾à¤² à¤²à¥à¤¤à¤¾ à¤¹à¥à¥¤ 30à¥¤\r",
+                    "time": 1067080
+                },
+                {
+                    "line": "à¤à¤à¤° à¤à¤à¤¤ à¤à¥ à¤®à¥à¤² à¤ªà¥à¤°à¤­à¥ à¤à¥ à¤à¤ªà¤¨à¥ à¤®à¤¨ à¤®à¥à¤ à¤¬à¤¸à¤¾ à¤²à¥à¤à¥¤ à¤¤à¥ à¤®à¤¨ à¤­à¤à¤à¤¨à¥ à¤¸à¥ à¤¹à¤ à¤à¤¾à¤¤à¤¾ à¤¹à¥à¥¤\r",
+                    "time": 1082090
+                },
+                {
+                    "line": "à¤à¥ à¤à¥à¤µ à¤¯à¥ à¤­à¥à¤¦ à¤ªà¤¾ à¤²à¥à¤¤à¤¾ à¤¹à¥ (à¤à¤¿ à¤ªà¥à¤°à¤­à¥ à¤à¤°à¤£à¥à¤ à¤®à¥à¤ à¤à¤¿à¤à¤¨à¥ à¤¸à¥ à¤®à¤¨ à¤à¤¿à¤ à¤à¤¾à¤¤à¤¾ à¤¹à¥) à¤µà¤¹ à¤à¥à¤µ à¤®à¤¨ (à¤à¥ à¤¦à¥à¤¡à¤¼ à¤­à¤¾à¤) à¤à¥ à¤¸à¤®à¤ à¤²à¥à¤¤à¤¾ à¤¹à¥à¥¤ (à¤¸à¥à¥¤ )\r",
+                    "time": 1090037
+                },
+                {
+                    "line": "à¤à¤à¤° à¤®à¤¨ (à¤ªà¥à¤°à¤­à¥ à¤à¤°à¤£à¥à¤ à¤®à¥à¤) à¤à¥à¤¡à¤¼à¤¨à¥ à¤²à¤à¥ à¤¤à¥ à¤à¥à¤ (à¤à¤¸ à¤¨à¥à¤ à¤à¤¾à¤® à¤®à¥à¤) à¤¦à¥à¤° à¤¨à¤¾ à¤à¤°à¥;\r",
+                    "time": 1097084
+                },
+                {
+                    "line": "(à¤à¥à¤¯à¥à¤à¤à¤¿à¥¤ à¤ªà¥à¤°à¤­à¥ à¤à¤°à¤£à¥à¤ à¤®à¥à¤ à¤à¥à¤¡à¤¼à¤¨à¥ à¤à¥ à¤¬à¤°à¤à¤¤à¤¿ à¤¸à¥) à¤®à¤¨ (à¤ªà¥à¤°à¤­à¥ à¤®à¥à¤) à¤²à¥à¤¨ à¤¹à¥ à¤à¤¾à¤¤à¤¾ à¤¹à¥à¥¤ à¤à¤° à¤à¤¸ à¤¸à¤¦à¤¾ à¤¸à¥à¤¥à¤¿à¤° à¤°à¤¹à¤¨à¥ à¤µà¤¾à¤²à¥ à¤ªà¥à¤°à¤­à¥ à¤à¥ à¤ªà¥à¤°à¤¾à¤ªà¥à¤¤ à¤à¤° à¤²à¥à¤¤à¤¾ à¤¹à¥à¥¤ 31à¥¤\r",
+                    "time": 1105038
+                },
+                {
+                    "line": "(à¤¹à¤°à¥à¤ à¤à¥à¤µ à¤à¤¾ à¤à¤à¤¤ à¤®à¥à¤ à¤à¤¨à¥ à¤à¤¾ à¤à¤¸à¤²) à¤à¤¾à¤® à¤®à¤¨ à¤¸à¥ à¤¹à¥ (à¤µà¤¹ à¤à¤¾à¤® à¤¯à¥ à¤¹à¥ à¤à¤¿ à¤à¥à¤µ à¤à¤ªà¤¨à¥ à¤®à¤¨ à¤à¥ à¤à¤¾à¤¬à¥ à¤®à¥à¤ à¤°à¤à¥)à¥¤ à¤®à¤¨ à¤à¥ à¤µà¤¶ à¤®à¥à¤ à¤à¤°à¤¨à¥ à¤¸à¥ à¤¹à¥ (à¤à¥à¤µ à¤à¥ à¤à¤¸à¤² à¤®à¤¨à¥à¤°à¤¥ à¤à¥) à¤à¤¾à¤®à¤¯à¤¾à¤¬à¥ à¤¹à¥à¤¤à¥ à¤¹à¥à¥¤\r",
+                    "time": 1114026
+                },
+                {
+                    "line": "à¤à¤¬à¥à¤° à¤à¤¹à¤¤à¤¾ à¤¹à¥ (à¤à¤¿ à¤à¥à¤µ à¤à¤¾ à¤à¤¸à¤² à¤à¤¾à¤®) à¤ªà¥à¤°à¥ à¤¤à¤°à¤¹ à¤¸à¥ à¤¸à¤¿à¤°à¥à¤« à¤®à¤¨ à¤¸à¥ à¤¹à¥ à¤¹à¥à¥¤ à¤®à¤¨ à¤à¥à¤¸à¤¾ (à¤à¥à¤µ à¤à¥) à¤à¤° à¤à¥à¤ à¤¨à¤¹à¥à¤ à¤®à¤¿à¤²à¤¾ (à¤à¤¿à¤¸à¤à¥ à¤¸à¤¾à¤¥ à¤à¤¸à¤à¤¾ à¤à¤¸à¤² à¤®à¤¤à¤²à¤¬ à¤ªà¤¡à¤¼à¤¤à¤¾ à¤¹à¥)à¥¤ 32à¥¤\r",
+                    "time": 1120040
+                },
+                {
+                    "line": "(à¤®à¤¾à¤¯à¤¾ à¤à¥ à¤¸à¤¾à¤¥ à¤®à¤¿à¤² à¤à¥) à¤¯à¥ à¤®à¤¨ à¤®à¤¾à¤¯à¤¾ (à¤à¤¾ à¤°à¥à¤ª) à¤¹à¥ à¤à¤¾à¤¤à¤¾ à¤¹à¥à¥¤ (à¤à¤¨à¤à¤¦ à¤¸à¥à¤µà¤°à¥à¤ª à¤¹à¤°à¥ à¤à¥ à¤¸à¤¾à¤¥ à¤®à¤¿à¤² à¤à¥) à¤¯à¥ à¤®à¤¨ à¤à¤¨à¤à¤¦ à¤¸à¥à¤µà¤°à¥à¤ª à¤¹à¤°à¥ à¤¬à¤¨ à¤à¤¾à¤¤à¤¾ à¤¹à¥à¥¤ (à¤ªà¤°à¥¤\r",
+                    "time": 1150031
+                },
+                {
+                    "line": "à¤¶à¤°à¥à¤° à¤à¥ à¤¸à¤¾à¤¥ à¤à¥à¤¡à¤¼ à¤à¥) à¤¯à¥ à¤®à¤¨ à¤¶à¤°à¥à¤°-à¤°à¥à¤ª à¤¹à¥ à¤¹à¥ à¤à¤¾à¤¤à¤¾ à¤¹à¥ (à¤­à¤¾à¤µà¥¤ à¤à¤ªà¤¨à¥ à¤à¤ª à¤à¥ à¤¶à¤°à¥à¤° à¤¸à¥ à¤à¤²à¤ à¤¨à¤¹à¥à¤ à¤¸à¤®à¤à¤¤à¤¾)à¥¤\r",
+                    "time": 1157072
+                },
+                {
+                    "line": "à¤ªà¤° à¤à¤¬ à¤®à¤¨à¥à¤·à¥à¤¯ à¤à¤¸ à¤®à¤¨ à¤à¥ à¤µà¤¶ à¤®à¥à¤ à¤à¤°à¤à¥ à¤ªà¥à¤°à¥à¤£ à¤à¤¿à¤¡à¤¼à¤¾à¤µ à¤®à¥à¤ à¤à¤¿à¤à¤¤à¤¾ à¤¹à¥à¥¤\r",
+                    "time": 1165023
+                },
+                {
+                    "line": "à¤¤à¤¬ à¤µà¤¹ à¤¸à¤¾à¤°à¥ à¤à¤à¤¤ à¤®à¥à¤ à¤µà¥à¤¯à¤¾à¤ªà¤ à¤ªà¥à¤°à¤­à¥ à¤à¥ à¤¹à¥ à¤¬à¤¾à¤¤à¥à¤ à¤à¤°à¤¤à¤¾ à¤¹à¥à¥¤ 33à¥¤\r",
+                    "time": 1172053
+                },
+                {
+                    "line": "(à¤¹à¥ à¤­à¤¾à¤ !) à¤à¤à¤° à¤¤à¥ (à¤à¥à¤µà¤¨ à¤à¤¾ à¤¸à¤¹à¥ à¤°à¤¾à¤¸à¥à¤¤à¤¾) à¤à¤¾à¤¨à¤¨à¤¾ à¤à¤¾à¤¹à¤¤à¤¾ à¤¹à¥à¥¤ à¤¤à¥ (à¤à¤ªà¤¨à¥) à¤¬à¥à¤°à¥ à¤®à¤¤à¤¿ à¤à¥ à¤¸à¤®à¤¾à¤ªà¥à¤¤ à¤à¤° à¤¦à¥à¥¤ à¤à¤¸ à¤¶à¤°à¥à¤° (-à¤°à¥à¤ª) à¤ªà¤¿à¤à¤¡ à¤à¥ (à¤à¤ªà¤¨à¥) à¤µà¤¶ à¤®à¥à¤ à¤²à¥ à¤ (à¤­à¤¾à¤µà¥¤ à¤à¤à¤à¥¤ à¤à¤¾à¤¨ à¤à¤¦à¤¿ à¤à¥à¤à¤¾à¤¨à¥à¤à¤¦à¥à¤°à¤¿à¤¯à¥à¤ à¤à¥ à¤µà¤¿à¤à¤¾à¤°à¥à¤ à¤à¥ à¤¤à¤°à¤« à¤¨à¤¾ à¤à¤¾à¤¨à¥ à¤¦à¥)à¥¤\r",
+                    "time": 1179098
+                },
+                {
+                    "line": "(à¤à¤¸ à¤¶à¤°à¥à¤° à¤à¥ à¤µà¤¶ à¤®à¥à¤ à¤²à¥ à¤à¤¨à¤¾à¥¤ à¤®à¤¾à¤¨à¥à¥¤ à¤à¤ à¤¯à¥à¤¦à¥à¤§ à¤¹à¥) à¤à¤à¤° à¤¤à¥ à¤à¤¸ à¤¯à¥à¤¦à¥à¤§ à¤®à¥à¤ à¤à¤²à¤ à¤à¥ à¤®à¤¾à¤¤ à¤¨à¤¾ à¤à¤¾à¤ à¤¤à¥ à¤¤à¥à¤°à¤¾ à¤¨à¤¾à¤® à¤¶à¥à¤°à¤µà¥à¤° (à¤¹à¥ à¤¸à¤à¤¤à¤¾) à¤¹à¥à¥¤ 34à¥¤\r",
+                    "time": 1205030
+                },
+                {
+                    "line": "à¤à¤¿à¤¸ à¤®à¤¨à¥à¤·à¥à¤¯ à¤¨à¥ à¤®à¤¾à¤¯à¤¾ à¤à¥ à¤¸à¥à¤µà¤¾à¤¦ à¤«à¥à¤à¤¾ à¤¸à¤¾ à¤¸à¤®à¤ à¤²à¤¿à¤¯à¤¾ à¤¹à¥à¥¤\r",
+                    "time": 1217026
+                },
+                {
+                    "line": "à¤à¤¸à¤¨à¥ à¤®à¤¾à¤¯à¤¾à¤µà¥ à¤à¤¸à¥à¤à¥à¤ à¤¸à¥ à¤¬à¤à¥ à¤°à¤¹ à¤à¥ à¤µà¤¹ à¤à¤¤à¥à¤®à¤¿à¤ à¤à¤¨à¤à¤¦ à¤ªà¤¾ à¤²à¤¿à¤¯à¤¾ à¤¹à¥à¥¤\r",
+                    "time": 1224054
+                },
+                {
+                    "line": "à¤à¤¿à¤¸à¤¨à¥ à¤¯à¥ (à¤¦à¥à¤¨à¤¿à¤¯à¤¾ à¤µà¤¾à¤²à¥) à¤à¤¸à¥à¤à¥ à¤à¥à¤¡à¤¼ à¤¦à¤¿à¤ à¤¹à¥à¤à¥¤ à¤à¤¸à¥ à¤µà¤¹ (à¤ªà¥à¤°à¤­à¥ à¤à¥ à¤¨à¤¾à¤® à¤à¤¾) à¤à¤¨à¤à¤¦ à¤ªà¥à¤°à¤¾à¤ªà¥à¤¤ à¤¹à¥ à¤à¤¯à¤¾ à¤¹à¥;\r",
+                    "time": 1232033
+                },
+                {
+                    "line": "(à¤à¥à¤¯à¥à¤à¤à¤¿) à¤à¤¿à¤¸ à¤¨à¥ à¤µà¤¹ (à¤¨à¤¾à¤®-) à¤°à¤¸ à¤ªà¥à¤¯à¤¾ à¤¹à¥ à¤à¤¸à¥ à¤¯à¤¹ (à¤®à¤¾à¤¯à¤¾ à¤µà¤¾à¤²à¤¾) à¤¸à¥à¤µà¤¾à¤¦ à¤à¤à¥à¤à¤¾ à¤¨à¤¹à¥à¤ à¤²à¤à¤¤à¤¾à¥¤ 35à¥¤\r",
+                    "time": 1239074
+                },
+                {
+                    "line": "à¤à¤à¤° (à¤à¤¿à¤¸à¥ à¤®à¤¨à¥à¤·à¥à¤¯ à¤à¤¾) à¤®à¤¨ à¤à¤¸à¥ à¤à¤à¤à¥à¤°à¤¤à¤¾ à¤¸à¥ (à¤ªà¥à¤°à¤­à¥ à¤à¥ à¤¯à¤¾à¤¦ à¤®à¥à¤) à¤¬à¤¿à¤°à¤¤à¥ à¤à¥à¤¡à¤¼ à¤²à¥ à¤à¤¿ à¤à¤¿à¤¸à¥ à¤à¤° à¤¤à¤°à¤« à¤¨à¤¾ à¤­à¤à¤à¥ à¤¤à¥\r",
+                    "time": 1247010
+                },
+                {
+                    "line": "à¤à¤¸à¥ à¤¸à¤¬à¤¸à¥ à¤à¤à¤à¤¾ à¤µ à¤¸à¤¦à¤¾ à¤¸à¥à¤¥à¤¿à¤° à¤°à¤¹à¤¨à¥ à¤µà¤¾à¤²à¤¾ à¤ªà¥à¤°à¤­à¥ à¤®à¤¿à¤² à¤à¤¾à¤¤à¤¾ à¤¹à¥à¥¤\r",
+                    "time": 1254037
+                },
+                {
+                    "line": "à¤à¤° à¤à¤à¤° à¤à¤¸ à¤²à¤¿à¤µ à¤à¥ à¤¹à¤¾à¤²à¤¤ à¤®à¥à¤ à¤ªà¥à¤°à¥à¤® à¤à¥ à¤¤à¤¾à¤° à¤²à¤à¤¾ à¤²à¥ à¤¤à¥ (à¤­à¤¾à¤µà¥¤\r",
+                    "time": 1262065
+                },
+                {
+                    "line": "à¤à¤-à¤¤à¤¾à¤° à¤®à¤à¤¨ à¤°à¤¹à¥) à¤¤à¥ à¤à¤¸ à¤¦à¥à¤°à¥à¤²à¤­ à¤ªà¥à¤°à¤­à¥ à¤à¥ à¤µà¤¹ à¤ªà¤¾ à¤²à¥à¤¤à¤¾ à¤¹à¥ à¤à¤° à¤ªà¤¾ à¤à¥ à¤¸à¤¦à¤¾ à¤à¥ à¤²à¤¿à¤ à¤à¤¸à¤à¥ à¤à¤°à¤£à¥à¤ à¤®à¥à¤ à¤à¤¿à¤à¤¾ à¤°à¤¹à¤¤à¤¾ à¤¹à¥à¥¤ 36à¥¤\r",
+                    "time": 1269037
+                },
+                {
+                    "line": "(à¤¹à¥ à¤­à¤¾à¤ !) à¤¸à¤¦à¤¾ à¤ªà¥à¤°à¤­à¥ à¤à¥ (à¤à¤ªà¤¨à¥ à¤¹à¥à¤¦à¤¯ à¤®à¥à¤) à¤¯à¤¾à¤¦ à¤°à¤ à¤à¥\r",
+                    "time": 1284046
+                },
+                {
+                    "line": "(à¤à¥à¤µ à¤®à¤¾à¤¨à¤¸ à¤à¤¨à¤® à¤à¥ à¤¬à¤¾à¤à¥) à¤¹à¤¾à¤° à¤à¥ à¤¨à¤¹à¥à¤ à¤à¤¤à¤¾à¥¤\r",
+                    "time": 1291037
+                },
+                {
+                    "line": "à¤®à¥à¤ à¤à¤¸ à¤­à¤à¤¤-à¤à¤¨ à¤¸à¥ à¤¸à¤¦à¤à¥ à¤¹à¥à¤ à¤à¥ à¤ªà¥à¤°à¤­à¥ à¤à¥ à¤à¥à¤£ à¤à¤¾à¤¤à¤¾ à¤¹à¥à¥¤\r",
+                    "time": 1298026
+                },
+                {
+                    "line": "à¤ªà¥à¤°à¤­à¥ à¤à¥ à¤®à¤¿à¤² à¤à¥ à¤µà¤¹ à¤¹à¤° à¤à¤à¤¹ à¤¸à¤¦à¤¾-à¤¸à¥à¤¥à¤¿à¤° à¤°à¤¹à¤¨à¥ à¤µà¤¾à¤²à¥ à¤ªà¥à¤°à¤­à¥ à¤à¥ à¤¹à¥ à¤¦à¥à¤à¤¤à¤¾ à¤¹à¥à¥¤ 37à¥¤\r",
+                    "time": 1308004
+                },
+                {
+                    "line": "(à¤¹à¥ à¤­à¤¾à¤ !) à¤à¤¸ à¤ªà¥à¤°à¤­à¥ à¤¸à¥ à¤¹à¥ à¤à¤¾à¤¨-à¤ªà¤¹à¤¿à¤à¤¾à¤¨ à¤à¤°à¤¨à¥ à¤à¤¾à¤¹à¤¿à¤à¥¤ à¤à¤¸ à¤ªà¥à¤°à¤­à¥ à¤¸à¥ à¤¸à¤¾à¤à¤ à¤¡à¤¾à¤²à¤¨à¥ à¤¸à¥ à¤¯à¤¹ à¤à¥à¤µ (à¤à¤¸ à¤ªà¥à¤°à¤­à¥ à¤à¤¾ à¤°à¥à¤ª à¤¹à¥) à¤¹à¥ à¤à¤¾à¤¤à¤¾ à¤¹à¥à¥¤\r",
+                    "time": 1314068
+                },
+                {
+                    "line": "à¤à¤¬ à¤¯à¥ à¤à¥à¤µ à¤à¤° à¤µà¤¹ à¤ªà¥à¤°à¤­à¥ à¤à¤-à¤°à¥à¤ª à¤¹à¥ à¤à¤¾à¤¤à¥ à¤¹à¥à¤à¥¤ à¤¤à¥ à¤à¤¨ à¤®à¤¿à¤²à¥ à¤¹à¥à¤à¤ à¤à¥ à¤à¥à¤ à¤à¤° à¤¨à¤¹à¥à¤ à¤¸à¤®à¤ à¤¸à¤à¤¤à¤¾ (à¤­à¤¾à¤µà¥¤ à¤«à¤¿à¤° à¤à¥à¤ à¤à¤¨ à¤®à¤¿à¤²à¥ à¤¹à¥à¤à¤ à¤®à¥à¤ à¤¦à¥à¤°à¥ à¤¨à¤¹à¥à¤ à¤¡à¤¾à¤² à¤¸à¤à¤¤à¤¾)à¥¤ 38à¥¤\r",
+                    "time": 1328023
+                },
+                {
+                    "line": "à¤à¤à¥à¤à¥ à¤¤à¤°à¤¹ à¤à¤¸ à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¥ à¤¸à¤à¤­à¤¾à¤² à¤à¤°à¥à¥¤\r",
+                    "time": 1349080
+                },
+                {
+                    "line": "à¤à¤ªà¤¨à¥ à¤®à¤¨ à¤à¥ à¤à¤¨ à¤µà¤à¤¨à¥à¤ à¤®à¥à¤ à¤²à¤¾ à¤à¥ à¤à¥à¤¡à¤¼à¥à¥¤ à¤à¤¿à¤¨à¤¸à¥ à¤¯à¥ à¤®à¤¨ à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤®à¥à¤ à¤ªà¤°à¤ à¤à¤¾à¤à¥¤\r",
+                    "time": 1357009
+                },
+                {
+                    "line": "à¤ªà¥à¤°à¤­à¥ à¤®à¥à¤ à¤®à¤¨ à¤ªà¤°à¤à¤¨à¥ à¤¸à¥ à¤à¤¬ (à¤à¤à¤¦à¤°) à¤ªà¥à¤°à¥à¤® à¤à¤ªà¤à¤¤à¤¾ à¤¹à¥ à¤¤à¥|\r",
+                    "time": 1364060
+                },
+                {
+                    "line": "à¤à¤¸ à¤à¤µà¤¸à¥à¤¥à¤¾ à¤®à¥à¤ à¤¤à¥à¤¨à¥à¤ à¤­à¤µà¤¨à¥à¤ à¤à¤¾ à¤®à¤¾à¤²à¤¿à¤ à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤¹à¥ (à¤¹à¤° à¤à¤à¤¹) à¤µà¥à¤¯à¤¾à¤ªà¤ à¤¦à¤¿à¤à¤¾à¤ à¤¦à¥à¤¤à¤¾ à¤¹à¥à¥¤ 39à¥¤\r",
+                    "time": 1371080
+                },
+                {
+                    "line": "à¤à¤à¤° à¤à¥à¤ à¤®à¤¨à¥à¤·à¥à¤¯ à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¥ à¤¤à¤²à¤¾à¤¶ à¤®à¥à¤ à¤²à¤ à¤à¤¾à¤à¥¤ (à¤à¤¸ à¤¤à¤°à¤¹) à¤à¥ à¤­à¥ à¤®à¤¨à¥à¤·à¥à¤¯ à¤ªà¥à¤°à¤­à¥ à¤à¥ à¤ªà¤¾ à¤²à¥à¤¤à¤¾ à¤¹à¥ à¤µà¤¹ à¤«à¤¿à¤° à¤ªà¥à¤¦à¤¾ à¤¹à¥à¤¤à¤¾-à¤®à¤°à¤¤à¤¾ à¤¨à¤¹à¥à¤à¥¤\r",
+                    "time": 1379047
+                },
+                {
+                    "line": "à¤à¤à¤° à¤à¥à¤ à¤à¥à¤µ à¤ªà¥à¤°à¤­à¥ à¤à¥ à¤à¥à¤£à¥à¤ à¤à¥ à¤¸à¤®à¤ à¤à¥ à¤à¤¨à¤à¥ à¤¬à¤¾à¤°à¤à¤¬à¤¾à¤° à¤¯à¤¾à¤¦ à¤à¤°à¤¤à¤¾ à¤¹à¥à¥¤\r",
+                    "time": 1393099
+                },
+                {
+                    "line": "à¤à¤¸à¥ à¤¸à¤à¤¸à¤¾à¤°-à¤¸à¤®à¤à¤¦à¥à¤° à¤à¥ à¤ªà¤¾à¤° à¤à¤°à¤¨à¥ à¤®à¥à¤ à¤¦à¥à¤° à¤¨à¤¹à¥à¤ à¤²à¤à¤¤à¥à¥¤ 40à¥¤\r",
+                    "time": 1401074
+                },
+                {
+                    "line": "à¤à¥ (à¤à¥à¤µ-à¤¸à¥à¤¤à¥à¤°à¥ à¤¦à¥à¤¨à¤¿à¤¯à¤¾ à¤µà¤¾à¤²à¥) à¤¤à¥à¤à¥à¤ à¤¸à¥à¤ à¤à¥à¤¡à¤¼ à¤à¥ (à¤ªà¥à¤°à¤­à¥ à¤à¥ à¤ªà¥à¤¯à¤¾à¤° à¤à¤¾) à¤¸à¤¬à¤¸à¥ à¤à¤à¤à¤¾ à¤¸à¥à¤ à¤¹à¤¾à¤¸à¤¿à¤² à¤à¤°à¤¤à¥ à¤¹à¥à¥¤\r",
+                    "time": 1415038
+                },
+                {
+                    "line": "à¤µà¤¹ (à¤à¤ªà¤¨à¤¾ à¤¹à¥à¤¦à¤¯-à¤°à¥à¤ª) à¤ªà¤¤à¤¿ à¤ªà¥à¤°à¤­à¥ à¤à¥ à¤¸à¥à¤ à¤¸à¤µà¤¾à¤°à¤¤à¥ à¤¹à¥à¥¤\r",
+                    "time": 1422085
+                },
+                {
+                    "line": "à¤µà¤¹à¥ (à¤à¥à¤µ) -à¤¸à¤à¥ (à¤à¤ªà¤¨à¥ à¤®à¤¨ à¤à¥) à¤¸à¤à¤¶à¤¯ à¤¦à¥à¤° à¤à¤°à¤¤à¥ à¤¹à¥à¥¤\r",
+                    "time": 1430070
+                },
+                {
+                    "line": "(à¤à¤¸ à¤à¤µà¤¸à¥à¤¥à¤¾ à¤à¥ à¤¬à¤¨à¤¨à¥ à¤ªà¤° à¤¹à¥ à¤à¤¸à¤² à¤­à¤¾à¤µ à¤®à¥à¤) à¤¤à¤­à¥ à¤¯à¥ (à¤à¥à¤µ à¤ªà¥à¤°à¤­à¥ à¤à¥) à¤¸à¥à¤¤à¥à¤°à¥à¥¤ à¤à¤° à¤µà¤¹ (à¤ªà¥à¤°à¤­à¥ à¤à¥à¤µ-à¤¸à¥à¤¤à¥à¤°à¥ à¤à¤¾) à¤ªà¤¤à¤¿ à¤à¤¹à¤²à¤µà¤¾à¤¤à¤¾ à¤¹à¥à¥¤ 41à¥¤\r",
+                    "time": 1437099
+                },
+                {
+                    "line": "à¤à¥à¤µ à¤¨à¥ à¤®à¤¾à¤¨à¤¸ à¤à¤¨à¤® à¤¹à¤¾à¤¸à¤¿à¤² à¤à¤°à¤à¥ à¤à¤¸ à¤ªà¥à¤°à¤­à¥ à¤à¥ à¤¨à¤¹à¥à¤ à¤ªà¤¹à¤à¤¾à¤¨à¤¾à¥¤ à¤à¥ à¤¸à¤à¤®à¥à¤ à¤¹à¤¸à¥à¤¤à¥ à¤µà¤¾à¤²à¤¾ à¤¹à¥à¥¤\r",
+                    "time": 1445060
+                },
+                {
+                    "line": "à¤à¤¬ à¤à¥à¤µ à¤à¥ à¤ªà¥à¤°à¤­à¥ à¤à¥ à¤µà¤à¥à¤¦ à¤à¤¾ à¤¨à¤¿à¤¶à¥à¤à¤¯ à¤¹à¥ à¤à¤¾à¤¤à¤¾ à¤¹à¥à¥¤ à¤¤à¤¬ à¤à¤¸à¤à¤¾ à¤®à¤¨ (à¤ªà¥à¤°à¤­à¥ à¤®à¥à¤) à¤ªà¤¤à¥à¤ à¤à¤¾à¤¤à¤¾ à¤¹à¥à¥¤\r",
+                    "time": 1452069
+                },
+                {
+                    "line": "(à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾) à¤¹à¥ à¤¤à¥ à¤à¤°à¥à¤° (à¤ªà¤° à¤à¤¸ à¤µà¤¿à¤¶à¥à¤µà¤¾à¤¸ à¤à¤¾ à¤²à¤¾à¤­ à¤¤à¤¬ à¤¹à¥ à¤¹à¥à¤¤à¤¾ à¤¹à¥) à¤à¤¬ à¤à¥à¤ à¤à¥à¤µ (à¤à¤¸ à¤¬à¤¾à¤¤ à¤à¥) à¤¸à¤®à¤ à¤²à¥à¥¤\r",
+                    "time": 1459098
+                },
+                {
+                    "line": "à¤¤à¤¬ à¤¯à¥ à¤à¥à¤µ à¤à¤¸ à¤ªà¥à¤°à¤­à¥ à¤à¤¾ à¤¹à¥ à¤°à¥à¤ª à¤¹à¥ à¤à¤¾à¤¤à¤¾ à¤¹à¥à¥¤ à¤¯à¥ (à¤à¤²à¤ à¤¹à¤¸à¥à¤¤à¥ à¤µà¤¾à¤²à¤¾) à¤¨à¤¹à¥à¤ à¤°à¤¹ à¤à¤¾à¤¤à¤¾à¥¤ 42à¥¤\r",
+                    "time": 1467023
+                },
+                {
+                    "line": "à¤¸à¤¾à¤°à¤¾ à¤à¤à¤¤ à¤¯à¤¹à¥ à¤à¤¹à¤¤à¤¾ à¤«à¤¿à¤°à¤¤à¤¾ à¤¹à¥ (à¤­à¤¾à¤µà¥¤ à¤à¤¸à¥ à¤²à¤¾à¤²à¤¸à¤¾ à¤®à¥à¤ à¤­à¤à¤à¤¤à¤¾ à¤«à¤¿à¤°à¤¤à¤¾ à¤¹à¥) à¤à¤¿ à¤®à¥à¤ (à¤®à¤¾à¤¯à¤¾) à¤¸à¤à¤­à¤¾à¤² à¤²à¥à¤à¥¤ à¤®à¥à¤ (à¤®à¤¾à¤¯à¤¾) à¤à¤à¤¤à¥à¤° à¤à¤° à¤²à¥à¤à¥¤\r",
+                    "time": 1474059
+                },
+                {
+                    "line": "à¤à¤¸ à¤®à¤¾à¤¯à¤¾ à¤à¥ à¤à¤¾à¤¤à¤¿à¤° à¤¹à¥ (à¤«à¤¿à¤° à¤à¥à¤µ à¤à¥) à¤¬à¤¡à¤¼à¥ à¤à¤¿à¤à¤¤à¤¾à¤à¤ à¤ à¤à¥à¤°à¤¤à¥ à¤¹à¥à¤à¥¤\r",
+                    "time": 1482070
+                },
+                {
+                    "line": "à¤ªà¤° à¤à¤¬ à¤à¥à¤µ à¤®à¤¾à¤¯à¤¾ à¤à¥ à¤ªà¤¤à¤¿ à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¥ à¤¸à¤¾à¤¥ à¤ªà¥à¤°à¥à¤¤ à¤à¥à¤¡à¤¼à¤¤à¤¾ à¤¹à¥ à¤¤à¤¬ |\r",
+                    "time": 1489016
+                },
+                {
+                    "line": "(à¤à¤¸à¤à¥) à¤à¤¿à¤à¤¤à¤¾à¤à¤ à¤¸à¤®à¤¾à¤ªà¥à¤¤ à¤¹à¥ à¤à¤¾à¤¤à¥ à¤¹à¥à¤ à¤à¤° à¤¯à¥ à¤¸à¤¾à¤°à¥ à¤¸à¥à¤ à¤¹à¤¾à¤¸à¤¿à¤² à¤à¤° à¤²à¥à¤¤à¤¾ à¤¹à¥à¥¤ 43à¥¤\r",
+                    "time": 1496037
+                },
+                {
+                    "line": "à¤®à¤°à¤¤à¥-à¤à¤ªà¤¤à¥ à¤à¥à¤µ à¤à¥ à¤à¤ à¤à¤¨à¤® à¤à¥à¤à¤° à¤à¤ à¤¹à¥à¤à¥¤\r",
+                    "time": 1518058
+                },
+                {
+                    "line": "à¤à¤à¥à¤à¤°à¥à¤ à¤®à¥à¤ à¤ªà¤¡à¤¼à¤¾ à¤à¤­à¥ à¤¤à¤ à¤¯à¥ (à¤ªà¥à¤°à¤­à¥ à¤à¥) à¤¯à¤¾à¤¦ à¤¨à¤¹à¥à¤ à¤à¤°à¤¤à¤¾à¥¤\r",
+                    "time": 1525047
+                },
+                {
+                    "line": "à¤à¤¬ (à¤à¤¸ à¤à¤¨à¤® à¤®à¥à¤ à¤¹à¥) à¤à¤à¤° à¤à¤à¤¤ à¤à¥ à¤à¤¸à¥à¤²à¤¿à¤¯à¤¤ à¤à¥ à¤¸à¤®à¤ à¤à¥ (à¤à¤¸à¤à¤¾) à¤®à¤¨ (à¤ªà¥à¤°à¤­à¥ à¤®à¥à¤) à¤à¤¿à¤ à¤à¤¾à¤ à¤¤à¥\r",
+                    "time": 1533046
+                },
+                {
+                    "line": "à¤à¤¿à¤¸ à¤ªà¥à¤°à¤­à¥ à¤¸à¥ à¤¯à¥ à¤µà¤¿à¤à¥à¤¡à¤¼à¤¾ à¤¹à¥à¤ à¤¹à¥ à¤à¤¸à¥ à¤®à¥à¤ à¤à¤¸à¥ à¤ à¤¿à¤à¤¾à¤¨à¤¾ à¤®à¤¿à¤² à¤¸à¤à¤¤à¤¾ à¤¹à¥à¥¤ 44à¥¤\r",
+                    "time": 1540031
+                },
+                {
+                    "line": "(à¤à¤à¤¤ à¤¨à¥) à¤¬à¤¾à¤µà¤¨ à¤à¤à¥à¤·à¤°à¥à¤ à¤à¤¾ à¤ªà¥à¤°à¤¯à¥à¤ à¤à¤°à¤à¥ à¤ªà¥à¤¸à¥à¤¤à¤à¥à¤ à¤²à¤¿à¤ à¤¦à¥ à¤¹à¥à¤à¥¤\r",
+                    "time": 1555004
+                },
+                {
+                    "line": "à¤ªà¤° (à¤¯à¥ à¤à¤à¤¤ à¤à¤¨ à¤ªà¥à¤¸à¥à¤¤à¤à¥à¤ à¤à¥ à¤¦à¥à¤µà¤¾à¤°à¤¾) à¤à¤¸ à¤à¤ à¤ªà¥à¤°à¤­à¥ à¤à¥ à¤¨à¤¹à¥à¤ à¤ªà¤¹à¤à¤¾à¤¨ à¤¸à¤à¤¾à¥¤ à¤à¥ à¤¨à¤¾à¤¶-à¤°à¤¹à¤¿à¤¤ à¤¹à¥à¥¤\r",
+                    "time": 1562025
+                },
+                {
+                    "line": "à¤¹à¥ à¤à¤¬à¥à¤° ! à¤à¥ à¤®à¤¨à¥à¤·à¥à¤¯ (à¤à¤¨ à¤à¤à¥à¤·à¤°à¥à¤ à¤à¥ à¤®à¤¦à¤¦ à¤¸à¥) à¤ªà¥à¤°à¤­à¥ à¤à¥ à¤¸à¤¿à¤«à¥à¤¤à¤¸à¤¾à¤²à¤¾à¤¹ à¤à¤°à¤¤à¤¾ à¤¹à¥à¥¤\r",
+                    "time": 1569059
+                },
+                {
+                    "line": "à¤µà¤¹à¥ à¤¹à¥ à¤ªà¤à¤¡à¤¿à¤¤à¥¤ à¤à¤°à¥¤ à¤µà¤¹ à¤à¥à¤à¤¾à¤¨à¤¾à¤µà¤¸à¥à¤¥à¤¾ à¤®à¥à¤ à¤à¤¿à¤à¤¾ à¤°à¤¹à¤¤à¤¾ à¤¹à¥à¥¤\r",
+                    "time": 1577020
+                },
+                {
+                    "line": "à¤ªà¤° à¤ªà¤à¤¡à¤¿à¤¤ à¤²à¥à¤à¥à¤ à¤à¥ à¤¤à¥ à¤¯à¥ à¤µà¤¿à¤à¤¾à¤° à¤®à¤¿à¤²à¤¾ à¤¹à¥à¤ à¤¹à¥ (à¤à¤¿ à¤à¤à¥à¤·à¤° à¤à¥à¤¡à¤¼ à¤à¥ à¤à¤°à¥à¤ à¤à¥ à¤¸à¥à¤¨à¤¾ à¤¦à¥à¤¤à¥ à¤¹à¥à¤)à¥¤\r",
+                    "time": 1584075
+                },
+                {
+                    "line": "à¤à¥à¤à¤¾à¤¨à¤µà¤¾à¤¨ à¤²à¥à¤à¥à¤ à¤à¥ à¤²à¤¿à¤ (à¤¯à¥ à¤à¤à¥à¤·à¤°) à¤¤à¤¤à¥à¤µ à¤à¥ à¤µà¤¿à¤à¤¾à¤° à¤à¤¾ à¤µà¤¸à¥à¤²à¤¾ à¤¹à¥à¤à¥¤\r",
+                    "time": 1591090
+                },
+                {
+                    "line": "à¤à¤¬à¥à¤° à¤à¤¹à¤¤à¤¾ à¤¹à¥â à¤à¤¿à¤¸ à¤à¥à¤µ à¤à¥ à¤à¤à¤¦à¤° à¤à¥à¤¸à¥ à¤¬à¥à¤¦à¥à¤§à¤¿ à¤¹à¥à¤¤à¥ à¤¹à¥à¥¤\r",
+                    "time": 1599034
+                },
+                {
+                    "line": "à¤µà¤¹ (à¤à¤¨ à¤à¤à¥à¤·à¤°à¥à¤ à¤à¥ à¤¦à¥à¤µà¤¾à¤°à¤¾ à¤­à¥) à¤µà¤¹à¥ à¤à¥à¤ à¤¸à¤®à¤à¥à¤à¤¾ (à¤­à¤¾à¤µà¥¤ à¤ªà¥à¤¸à¥à¤¤à¤à¥à¤ à¤²à¤¿à¤-à¤ªà¤¢à¤¼ à¤à¥ à¤à¤¤à¥à¤®à¤¿à¤ à¤à¥à¤µà¤¨ à¤à¥ à¤à¤¾à¤¨à¤¨à¥ à¤µà¤¾à¤²à¤¾ à¤¹à¥ à¤à¤¾à¤¨à¤¾ à¤à¤°à¥à¤°à¥ à¤¨à¤¹à¥à¤ à¤¹à¥)à¥¤ 45à¥¤\r",
+                    "time": 1620074
+                },
+                {
+                    "line": "à©´ à¤¸à¤¤à¤¿à¤à¥à¤° à¤ªà¥à¤°à¤¸à¤¾à¤¦à¤¿ à¥¥",
+                    "time": 1629070
+                }
+            ]
+        }
+    ],
+    "info": "testings"
+}

@@ -1,0 +1,3595 @@
+{
+    "status": 200,
+    "message": "",
+    "data": [
+        {
+            "albumart": "",
+            "author": "",
+            "song": "ਜਿਤੁ ਦਿਹਾੜੈ ਧਨ ਵਰੀ ਸਾਹੇ ਲਏ ਲਿਖਾਇ ॥",
+            "json": "https://shabad-guru.org/uploads/data/37 - Sloak Bhagat Farid Ji/ਜਿਤੁ ਦਿਹਾੜੈ ਧਨ ਵਰੀ ਸਾਹੇ ਲਏ ਲਿਖਾਇ ॥.json",
+            "audio": "https://shabadguru.s3.us-west-1.amazonaws.com/gurbani/lrc n- Project/37 - Sloak Bhagat Farid Ji/mp3/song/1047 B TO 1052 A Pb.mp3",
+            "punjabi": 1,
+            "english": 1,
+            "english_trans": 1,
+            "spanish": 1,
+            "hindi": null,
+            "file_name_on_s3": "1047 B TO 1052 A Pb",
+            "english_trans_lyrics": [
+                {
+                    "line": "salok saykh fareed kay\r",
+                    "time": 85
+                },
+                {
+                    "line": "ik-oNkaar satgur parsaad.\r",
+                    "time": 8000
+                },
+                {
+                    "line": "jit dihaarhai Dhan varee saahay la-ay likhaa-ay.\r",
+                    "time": 28099
+                },
+                {
+                    "line": "malak je kannee suneedaa muhu daykhaalay aa-ay.\r",
+                    "time": 43045
+                },
+                {
+                    "line": "jind nimaanee kadhee-ai hadaa koo karhkaa-ay.\r",
+                    "time": 57067
+                },
+                {
+                    "line": "saahay likhay na chalnee jindoo kooN samjhaa-ay.\r",
+                    "time": 71085
+                },
+                {
+                    "line": "jind vahutee maran var lai jaasee parnaa-ay.\r",
+                    "time": 85071
+                },
+                {
+                    "line": "aapan hathee jol kai kai gal lagai Dhaa-ay.\r",
+                    "time": 99079
+                },
+                {
+                    "line": "vaalahu nikee puraslaat kannee na sunee aa-ay.\r",
+                    "time": 114022
+                },
+                {
+                    "line": "fareedaa kirhee pavaNdee-ee kharhaa na aap muhaa-ay. ||1||\r",
+                    "time": 127072
+                },
+                {
+                    "line": "fareedaa dar darvaysee gaakh-rhee chalaaN dunee-aaN bhat.\r",
+                    "time": 141075
+                },
+                {
+                    "line": "baneh uthaa-ee potlee kithai vanjaa ghat. ||2||\r",
+                    "time": 155093
+                },
+                {
+                    "line": "kijh na bujhai kijh na sujhai dunee-aa gujhee bhaahi.\r",
+                    "time": 170023
+                },
+                {
+                    "line": "saa-eeN mayrai changa keetaa naahee ta haN bhee dajhaaN aahi. ||3||\r",
+                    "time": 184018
+                },
+                {
+                    "line": "fareedaa jay jaanaa til thorh-rhay sammal buk bharee.\r",
+                    "time": 198037
+                },
+                {
+                    "line": "jay jaanaa saho nandh-rhaa taaN thorhaa maan karee. ||4||\r",
+                    "time": 212054
+                },
+                {
+                    "line": "jay jaanaa larh chhijnaa peedee paa-eeN gandh.\r",
+                    "time": 240054
+                },
+                {
+                    "line": "tai jayvad mai naahi ko sabh jag dithaa handh. ||5||\r",
+                    "time": 255098
+                },
+                {
+                    "line": "fareedaa jay too akal lateef kaalay likh na laykh.\r",
+                    "time": 278000
+                },
+                {
+                    "line": "aapnarhay gireevaan meh sir neeNvaaN kar daykh. ||6||\r",
+                    "time": 290018
+                },
+                {
+                    "line": "fareedaa jo tai maaran mukee-aaN tinHaa na maaray ghumm.\r",
+                    "time": 302058
+                },
+                {
+                    "line": "aapnarhai ghar jaa-ee-ai pair tinHaa day chumm. ||7||\r",
+                    "time": 314099
+                },
+                {
+                    "line": "fareedaa jaaN ta-o khatan vayl taaN too rataa dunee si-o.\r",
+                    "time": 327027
+                },
+                {
+                    "line": "marag savaa-ee neehi jaaN bhari-aa taaN ladi-aa. ||8||\r",
+                    "time": 340012
+                },
+                {
+                    "line": "daykh fareedaa jo thee-aa daarhee ho-ee bhoor.\r",
+                    "time": 353030
+                },
+                {
+                    "line": "agahu nayrhaa aa-i-aa pichhaa rahi-aa door. ||9||\r",
+                    "time": 365014
+                },
+                {
+                    "line": "daykh fareedaa je thee-aa sakar ho-ee vis.\r",
+                    "time": 377094
+                },
+                {
+                    "line": "saaN-ee baajhahu aapnay vaydan kahee-ai kis. ||10||\r",
+                    "time": 389081
+                },
+                {
+                    "line": "fareedaa akhee daykh pateenee-aaN sun sun reenay kann.\r",
+                    "time": 402014
+                },
+                {
+                    "line": "saakh pakandee aa-ee-aa hor karayNdee vann. ||11||\r",
+                    "time": 417042
+                },
+                {
+                    "line": "fareedaa kaaleeN jinee na raavi-aa Dha-ulee raavai ko-ay.\r",
+                    "time": 438096
+                },
+                {
+                    "line": "kar saaN-ee si-o pirharhee rang navaylaa ho-ay. ||12||\r",
+                    "time": 451054
+                },
+                {
+                    "line": "mehlaa 3.\r",
+                    "time": 463059
+                },
+                {
+                    "line": "fareedaa kaalee Dha-ulee saahib sadaa hai jay ko chit karay.\r",
+                    "time": 475081
+                },
+                {
+                    "line": "aapnaa laa-i-aa piram na lag-ee jay lochai sabh ko-ay.\r",
+                    "time": 487095
+                },
+                {
+                    "line": "ayhu piram pi-aalaa khasam kaa jai bhaavai tai day-ay. ||13||\r",
+                    "time": 500041
+                },
+                {
+                    "line": "fareedaa jinH lo-in jag mohi-aa say lo-in mai dith.\r",
+                    "time": 512036
+                },
+                {
+                    "line": "kajal raykh na sehdi-aa say pankhee soo-ay bahith. ||14||\r",
+                    "time": 524046
+                },
+                {
+                    "line": "fareedaa kookaydi-aa chaaNgaydi-aa matee daydi-aa nit.\r",
+                    "time": 536074
+                },
+                {
+                    "line": "jo saitaan vanjaa-i-aa say kit fayreh chit. ||15||\r",
+                    "time": 548084
+                },
+                {
+                    "line": "fareedaa thee-o pavaahee dabh.\r",
+                    "time": 561034
+                },
+                {
+                    "line": "jay saaN-ee lorheh sabh.\r",
+                    "time": 567068
+                },
+                {
+                    "line": "ik chhijeh bi-aa lataarhee-ah.\r",
+                    "time": 576071
+                },
+                {
+                    "line": "taaN saa-ee dai dar vaarhee-ah. ||16||\r",
+                    "time": 582069
+                },
+                {
+                    "line": "fareedaa khaak na nindee-ai khaakoo jayd na ko-ay.\r",
+                    "time": 597078
+                },
+                {
+                    "line": "jeevdi-aa pairaa talai mu-i-aa upar ho-ay. ||17||\r",
+                    "time": 610071
+                },
+                {
+                    "line": "fareedaa jaa lab taa nayhu ki-aa lab ta koorhaa nayhu.\r",
+                    "time": 622028
+                },
+                {
+                    "line": "kichar jhat laghaa-ee-ai chhapar tutai mayhu. ||18||\r",
+                    "time": 635028
+                },
+                {
+                    "line": "fareedaa jangal jangal ki-aa bhaveh van kandaa morhayhi.\r",
+                    "time": 647021
+                },
+                {
+                    "line": "vasee rab hi-aalee-ai jangal ki-aa dhoodhayhi. ||19||\r",
+                    "time": 659065
+                },
+                {
+                    "line": "fareedaa inee nikee janghee-ai thal doongar bhavi-omiH.\r",
+                    "time": 671062
+                },
+                {
+                    "line": "aj fareedai koojrhaa sai kohaaN thee-om. ||20||\r",
+                    "time": 684012
+                },
+                {
+                    "line": "fareedaa raatee vadee-aaN Dhukh Dhukh uthan paas.\r",
+                    "time": 696014
+                },
+                {
+                    "line": "Dhig tinHaa daa jeevi-aa jinaa vidaanee aas. ||21||\r",
+                    "time": 711062
+                },
+                {
+                    "line": "fareedaa jay mai hodaa vaari-aa mitaa aa-irhi-aaN.\r",
+                    "time": 732089
+                },
+                {
+                    "line": "hayrhaa jalai majeeth ji-o upar angaaraa. ||22||\r",
+                    "time": 745063
+                },
+                {
+                    "line": "fareedaa lorhai daakh bij-uree-aaN kikar beejai jat.\r",
+                    "time": 758032
+                },
+                {
+                    "line": "handhai unn kataa-idaa paiDhaa lorhai pat. ||23||\r",
+                    "time": 770037
+                },
+                {
+                    "line": "fareedaa galee-ay chikarh door ghar naal pi-aaray nayhu.\r",
+                    "time": 782068
+                },
+                {
+                    "line": "chalaa ta bhijai kamblee rahaaN ta tutai nayhu. ||24||\r",
+                    "time": 795049
+                },
+                {
+                    "line": "bhija-o sija-o kamblee alah varsa-o mayhu.\r",
+                    "time": 807084
+                },
+                {
+                    "line": "jaa-ay milaa tinaa sajnaa tuta-o naahee nayhu. ||25||\r",
+                    "time": 819082
+                },
+                {
+                    "line": "fareedaa mai bholaavaa pag daa mat mailee ho-ay jaa-ay.\r",
+                    "time": 832030
+                },
+                {
+                    "line": "gahilaa roohu na jaan-ee sir bhee mitee khaa-ay. ||26||\r",
+                    "time": 847081
+                },
+                {
+                    "line": "fareedaa sakar khand nivaat gurh maakhi-o maaNjhaa duDh.\r",
+                    "time": 869001
+                },
+                {
+                    "line": "sabhay vastoo mithee-aaN rab na pujan tuDh. ||27||\r",
+                    "time": 882006
+                },
+                {
+                    "line": "fareedaa rotee mayree kaath kee laavan mayree bhukh.\r",
+                    "time": 893081
+                },
+                {
+                    "line": "jinaa khaaDhee choprhee ghanay sehnigay dukh. ||28||\r",
+                    "time": 906042
+                },
+                {
+                    "line": "rukhee sukhee khaa-ay kai thandhaa paanee pee-o.\r",
+                    "time": 919004
+                },
+                {
+                    "line": "fareedaa daykh paraa-ee choprhee naa tarsaa-ay jee-o. ||29||\r",
+                    "time": 931027
+                },
+                {
+                    "line": "aj na sutee kant si-o ang murhay murh jaa-ay.\r",
+                    "time": 943051
+                },
+                {
+                    "line": "jaa-ay puchhahu dohaaganee tum ki-o rain vihaa-ay. ||30||\r",
+                    "time": 956017
+                },
+                {
+                    "line": "saahurai dho-ee naa lahai pay-ee-ai naahee thaa-o.\r",
+                    "time": 984006
+                },
+                {
+                    "line": "pir vaat-rhee na puchh-ee Dhan sohagan naa-o. ||31||\r",
+                    "time": 999097
+                },
+                {
+                    "line": "saahurai pay-ee-ai kant kee kant agamm athaahu.\r",
+                    "time": 1015077
+                },
+                {
+                    "line": "naanak so sohaaganee jo bhaavai bayparvaah. ||32||\r",
+                    "time": 1031032
+                },
+                {
+                    "line": "naatee Dhotee sambhee sutee aa-ay nachind.\r",
+                    "time": 1047054
+                },
+                {
+                    "line": "fareedaa rahee so bayrhee hiny dee ga-ee kathooree ganDh. ||33||\r",
+                    "time": 1063022
+                },
+                {
+                    "line": "joban jaaNday naa daraaN jay sah pareet na jaa-ay.\r",
+                    "time": 1079046
+                },
+                {
+                    "line": "fareedaa kiteeN joban pareet bin suk ga-ay kumlaa-ay. ||34||\r",
+                    "time": 1094035
+                },
+                {
+                    "line": "fareedaa chint khatolaa vaan dukh bireh vichhaavan layf.\r",
+                    "time": 1117089
+                },
+                {
+                    "line": "ayhu hamaaraa jeevnaa too saahib sachay vaykh. ||35||\r",
+                    "time": 1133040
+                },
+                {
+                    "line": "birhaa birhaa aakhee-ai birhaa too sultaan.\r",
+                    "time": 1149033
+                },
+                {
+                    "line": "fareedaa jit tan birahu na oopjai so tan jaan masaan. ||36||\r",
+                    "time": 1164078
+                },
+                {
+                    "line": "fareedaa ay vis gandlaa Dharee-aaN khand livaarh.\r",
+                    "time": 1188067
+                },
+                {
+                    "line": "ik raahayday reh ga-ay ik raaDhee ga-ay ujaarh. ||37||\r",
+                    "time": 1204014
+                },
+                {
+                    "line": "fareedaa chaar gavaa-i-aa handh kai chaar gavaa-i-aa samm.\r",
+                    "time": 1227040
+                },
+                {
+                    "line": "laykhaa rab mangaysee-aa too aaNho kayrHay kamm. ||38||\r",
+                    "time": 1242079
+                },
+                {
+                    "line": "fareedaa dar darvaajai jaa-ay kai ki-o ditho gharhee-aal.\r",
+                    "time": 1257094
+                },
+                {
+                    "line": "ayhu nidosaaN maaree-ai ham dosaaN daa ki-aa haal. ||39||\r",
+                    "time": 1273041
+                },
+                {
+                    "line": "gharhee-ay gharhee-ay maaree-ai pahree lahai sajaa-ay.\r",
+                    "time": 1288094
+                },
+                {
+                    "line": "so hayrhaa gharhee-aal ji-o dukhee rain vihaa-ay. ||40||\r",
+                    "time": 1304002
+                },
+                {
+                    "line": "budhaa ho-aa saykh fareed kamban lagee dayh.\r",
+                    "time": 1319072
+                },
+                {
+                    "line": "jay sa-o vareh-aa jeevnaa bhee tan hosee khayh. ||41||\r",
+                    "time": 1334098
+                },
+                {
+                    "line": "fareedaa baar paraa-i-ai baisnaa saaN-ee mujhai na deh.\r",
+                    "time": 1357096
+                },
+                {
+                    "line": "jay too ayvai rakhsee jee-o sareerahu layhi. ||42||\r",
+                    "time": 1373043
+                },
+                {
+                    "line": "kanDh kuhaarhaa sir gharhaa van kai sar lohaar.\r",
+                    "time": 1388062
+                },
+                {
+                    "line": "fareedaa ha-o lorhee saho aapnaa too lorheh angi-aar. ||43||\r",
+                    "time": 1406030
+                },
+                {
+                    "line": "fareedaa iknaa aataa aglaa iknaa naahee lon.\r",
+                    "time": 1419031
+                },
+                {
+                    "line": "agai ga-ay sinjaapsan chotaaN khaasee ka-un. ||44||\r",
+                    "time": 1434063
+                },
+                {
+                    "line": "paas damaamay chhat sir bhayree sado rad.\r",
+                    "time": 1450018
+                },
+                {
+                    "line": "jaa-ay sutay jeeraan meh thee-ay ateemaa gad. ||45||\r",
+                    "time": 1465022
+                },
+                {
+                    "line": "fareedaa kothay mandap maarhee-aa usaarayday bhee ga-ay.\r",
+                    "time": 1488049
+                },
+                {
+                    "line": "koorhaa sa-udaa kar ga-ay goree aa-ay pa-ay. ||46||\r",
+                    "time": 1503057
+                },
+                {
+                    "line": "fareedaa khintharh maykhaa aglee-aa jind na kaa-ee maykh.\r",
+                    "time": 1518084
+                },
+                {
+                    "line": "vaaree aapo aapnee chalay masaa-ik saykh. ||47||\r",
+                    "time": 1533094
+                },
+                {
+                    "line": "fareedaa duhu deevee balandi-aa malak bahithaa aa-ay.\r",
+                    "time": 1549036
+                },
+                {
+                    "line": "garh leetaa ghat luti-aa deevrhay ga-i-aa bujhaa-ay. ||48||\r",
+                    "time": 1564075
+                },
+                {
+                    "line": "fareedaa vaykh kapaahai je thee-aa je sir thee-aa tilaah.\r",
+                    "time": 1580005
+                },
+                {
+                    "line": "kamaadai ar kaagdai kunnay ko-ili-aah.\r",
+                    "time": 1595002
+                },
+                {
+                    "line": "manday amal karaydi-aa ayh sajaa-ay tinaah. ||49||\r",
+                    "time": 1610073
+                },
+                {
+                    "line": "fareedaa kann muslaa soof gal dil kaatee gurh vaat.\r",
+                    "time": 1625086
+                },
+                {
+                    "line": "baahar disai chaannaa dil anDhi-aaree raat. ||50||\r",
+                    "time": 1640069
+                },
+                {
+                    "line": "fareedaa ratee rat na niklai jay tan cheerai ko-ay.\r",
+                    "time": 1656020
+                },
+                {
+                    "line": "jo tan ratay rab si-o tin tan rat na ho-ay. ||51||\r",
+                    "time": 1671023
+                },
+                {
+                    "line": "mehlaa 3.\r",
+                    "time": 1685083
+                },
+                {
+                    "line": "ih tan sabho rat hai rat bin tann na ho-ay.\r",
+                    "time": 1697044
+                },
+                {
+                    "line": "jo sah ratay aapnay tit tan lobh rat na ho-ay.\r",
+                    "time": 1712024
+                },
+                {
+                    "line": "bhai pa-i-ai tan kheen ho-ay lobh rat vichahu jaa-ay.\r",
+                    "time": 1727063
+                },
+                {
+                    "line": "ji-o baisantar Dhaat suDh ho-ay ti-o har kaa bha-o durmat mail gavaa-ay.\r",
+                    "time": 1742050
+                },
+                {
+                    "line": "naanak tay jan sohnay je ratay har rang laa-ay. ||52||\r",
+                    "time": 1757056
+                },
+                {
+                    "line": "fareedaa so-ee sarvar dhoodh lahu jithahu labhee vath.\r",
+                    "time": 1772065
+                },
+                {
+                    "line": "chhaparh dhoodhai ki-aa hovai chikarh dubai hath. ||53||\r",
+                    "time": 1787044
+                },
+                {
+                    "line": "fareedaa nandhee kant na raavi-o vadee thee mu-ee-aas.\r",
+                    "time": 1808097
+                },
+                {
+                    "line": "Dhan kookayNdee gor mayN tai sah naa milee-aas. ||54||\r",
+                    "time": 1824043
+                },
+                {
+                    "line": "fareedaa sir pali-aa daarhee palee muchhaaN bhee palee-aaN.\r",
+                    "time": 1838092
+                },
+                {
+                    "line": "ray man gahilay baavlay maaneh ki-aa ralee-aaN. ||55||\r",
+                    "time": 1882050
+                },
+                {
+                    "line": "fareedaa kothay Dhukan kayt-rhaa pir need-rhee nivaar.\r",
+                    "time": 1897028
+                },
+                {
+                    "line": "jo dih laDhay gaanvay ga-ay vilaarh vilaarh. ||56||\r",
+                    "time": 1912076
+                },
+                {
+                    "line": "fareedaa kothay mandap maarhee-aa ayt na laa-ay chit.\r",
+                    "time": 1943027
+                },
+                {
+                    "line": "mitee pa-ee atolavee ko-ay na hosee mit. ||57||\r",
+                    "time": 1958075
+                },
+                {
+                    "line": "fareedaa mandap maal na laa-ay marag sataanee chit Dhar.\r",
+                    "time": 1973030
+                },
+                {
+                    "line": "saa-ee jaa-ay samHaal jithai hee ta-o vanjnaa. ||58||\r",
+                    "time": 1988044
+                },
+                {
+                    "line": "fareedaa jinHee kammee naahi gun tay kammrhay visaar.\r",
+                    "time": 2003046
+                },
+                {
+                    "line": "mat sarmindaa theevhee saaN-ee dai darbaar. ||59||\r",
+                    "time": 2018049
+                },
+                {
+                    "line": "fareedaa saahib dee kar chaakree dil dee laahi bharaaNd.\r",
+                    "time": 2032080
+                },
+                {
+                    "line": "darvaysaaN no lorhee-ai rukhaaN dee jeeraaNd. ||60||\r",
+                    "time": 2047069
+                },
+                {
+                    "line": "fareedaa kaalay maiday kaprhay kaalaa maidaa vays.\r",
+                    "time": 2062009
+                },
+                {
+                    "line": "gunhee bhari-aa mai firaa lok kahai darvays. ||61||\r",
+                    "time": 2077002
+                },
+                {
+                    "line": "tatee to-ay na palvai jay jal tubee day-ay.\r",
+                    "time": 2091073
+                },
+                {
+                    "line": "fareedaa jo dohaagan rab dee jhooraydee jooray-ay. ||62||\r",
+                    "time": 2105096
+                },
+                {
+                    "line": "jaaN ku-aaree taa chaa-o veevaahee taaN maamlay.\r",
+                    "time": 2120016
+                },
+                {
+                    "line": "fareedaa ayho pachhotaa-o vat ku-aaree na thee-ai. ||63||\r",
+                    "time": 2134054
+                },
+                {
+                    "line": "kalar kayree chhaprhee aa-ay ulthay hanjh.\r",
+                    "time": 2149022
+                },
+                {
+                    "line": "chinjoo borhniH naa peeveh udan sandee danjh. ||64||\r",
+                    "time": 2163055
+                },
+                {
+                    "line": "hans udar koDhrai pa-i-aa lok vidaaran jaa-ay.\r",
+                    "time": 2178043
+                },
+                {
+                    "line": "gahilaa lok na jaandaa hans na koDhraa khaa-ay. ||65||\r",
+                    "time": 2192064
+                },
+                {
+                    "line": "chal chal ga-ee-aa pankhee-aaN jinHee vasaa-ay tal.\r",
+                    "time": 2207042
+                },
+                {
+                    "line": "fareedaa sar bhari-aa bhee chalsee thakay kaval ikal. ||66||\r",
+                    "time": 2221063
+                },
+                {
+                    "line": "fareedaa it siraanay bhu-ay savan keerhaa larhi-o maas.\r",
+                    "time": 2236000
+                },
+                {
+                    "line": "kayt-rhi-aa jug vaapray ikat pa-i-aa paas. ||67||\r",
+                    "time": 2250097
+                },
+                {
+                    "line": "fareedaa bhannee gharhee savannvee tutee naagar laj.\r",
+                    "time": 2264090
+                },
+                {
+                    "line": "ajraa-eel faraystaa kai ghar naathee aj. ||68||\r",
+                    "time": 2279057
+                },
+                {
+                    "line": "fareedaa bhannee gharhee savannvee tootee naagar laj.\r",
+                    "time": 2293070
+                },
+                {
+                    "line": "jo sajan bhu-ay bhaar thay say ki-o aavahi aj. ||69||\r",
+                    "time": 2308018
+                },
+                {
+                    "line": "fareedaa bay nivaajaa kuti-aa ayh na bhalee reet.\r",
+                    "time": 2322030
+                },
+                {
+                    "line": "kabhee chal na aa-i-aa panjay vakhat maseet. ||70||\r",
+                    "time": 2336049
+                },
+                {
+                    "line": "uth fareedaa ujoo saaj subah nivaaj gujaar.\r",
+                    "time": 2350076
+                },
+                {
+                    "line": "jo sir saaN-ee naa nivai so sir kap utaar. ||71||\r",
+                    "time": 2365013
+                },
+                {
+                    "line": "jo sir saa-ee naa nivai so sir keejai kaaN-ay.\r",
+                    "time": 2379038
+                },
+                {
+                    "line": "kunnay hayth jalaa-ee-ai baalan sandai thaa-ay. ||72||\r",
+                    "time": 2393098
+                },
+                {
+                    "line": "fareedaa kithai taiday maapi-aa jinHee too jani-ohi.\r",
+                    "time": 2407068
+                },
+                {
+                    "line": "tai paashu o-ay lad ga-ay tooN ajai na pateenohi. ||73||\r",
+                    "time": 2422016
+                },
+                {
+                    "line": "fareedaa man maidaan kar to-ay tibay laahi.\r",
+                    "time": 2436020
+                },
+                {
+                    "line": "agai mool na aavsee dojak sandee bhaahi. ||74||\r",
+                    "time": 2450048
+                },
+                {
+                    "line": "mehlaa 5.\r",
+                    "time": 2464041
+                },
+                {
+                    "line": "fareedaa khaalak khalak meh khalak vasai rab maahi.\r",
+                    "time": 2472026
+                },
+                {
+                    "line": "mandaa kis no aakhee-ai jaaN tis bin ko-ee naahi. ||75||\r",
+                    "time": 2486029
+                },
+                {
+                    "line": "fareedaa je dihi naalaa kapi-aa jay gal kapeh chukh.\r",
+                    "time": 2500022
+                },
+                {
+                    "line": "pavan na itee maamlay sahaaN na itee dukh. ||76||\r",
+                    "time": 2514026
+                },
+                {
+                    "line": "chaban chalan ratann say sunee-ar bahi ga-ay.\r",
+                    "time": 2528036
+                },
+                {
+                    "line": "hayrhay mutee Dhaah say jaanee chal ga-ay. ||77||\r",
+                    "time": 2542084
+                },
+                {
+                    "line": "fareedaa buray daa bhalaa kar gusaa man na hadhaa-ay.\r",
+                    "time": 2556073
+                },
+                {
+                    "line": "dayhee rog na lag-ee palai sabh kichh paa-ay. ||78||\r",
+                    "time": 2570082
+                },
+                {
+                    "line": "fareedaa pankh paraahunee dunee suhaavaa baag.\r",
+                    "time": 2585021
+                },
+                {
+                    "line": "na-ubat vajee subah si-o chalan kaa kar saaj. ||79||\r",
+                    "time": 2599023
+                },
+                {
+                    "line": "fareedaa raat kathooree vandee-ai suti-aa milai na bhaa-o.\r",
+                    "time": 2613010
+                },
+                {
+                    "line": "jinHaa nain neeNdraavalay tinHaa milan ku-aa-o. ||80||\r",
+                    "time": 2627057
+                },
+                {
+                    "line": "fareedaa mai jaani-aa dukh mujh koo dukh sabaa-i-ai jag.\r",
+                    "time": 2642058
+                },
+                {
+                    "line": "oochay charh kai daykhi-aa taaN ghar ghar ayhaa ag. ||81||\r",
+                    "time": 2656017
+                },
+                {
+                    "line": "fareedaa bhoom rangaavalee manjh visoolaa baag.\r",
+                    "time": 2685094
+                },
+                {
+                    "line": "jo jan peer nivaaji-aa tinHaa anch na laag. ||82||\r",
+                    "time": 2700078
+                },
+                {
+                    "line": "mehlaa 5.\r",
+                    "time": 2716036
+                },
+                {
+                    "line": "fareedaa umar suhaavarhee sang suvannrhee dayh.\r",
+                    "time": 2728097
+                },
+                {
+                    "line": "virlay kay-ee paa-ee-an jinHaa pi-aaray nayh. ||83||\r",
+                    "time": 2742001
+                },
+                {
+                    "line": "kanDhee vahan na dhaahi ta-o bhee laykhaa dayvnaa.\r",
+                    "time": 2754089
+                },
+                {
+                    "line": "jiDhar rab rajaa-ay vahan tiDhaa-oo gaN-o karay. ||84||\r",
+                    "time": 2767054
+                },
+                {
+                    "line": "fareedaa dukhaa saytee dihu ga-i-aa soolaaN saytee raat.\r",
+                    "time": 2779051
+                },
+                {
+                    "line": "kharhaa pukaaray paat-nee bayrhaa kapar vaat. ||85||\r",
+                    "time": 2792007
+                },
+                {
+                    "line": "lammee lammee nadee vahai kanDhee kayrai hayt.\r",
+                    "time": 2805003
+                },
+                {
+                    "line": "bayrhay no kapar ki-aa karay jay paatan rahai suchayt. ||86||\r",
+                    "time": 2817044
+                },
+                {
+                    "line": "fareedaa galeeN so sajan veeh ik dhooNdhaydee na lahaaN.\r",
+                    "time": 2830002
+                },
+                {
+                    "line": "DhukhaaN ji-o maaNleeh kaaran tinHaa maa piree. ||87||\r",
+                    "time": 2843005
+                },
+                {
+                    "line": "fareedaa ih tan bha-ukanaa nit nit dukhee-ai ka-un.\r",
+                    "time": 2855045
+                },
+                {
+                    "line": "kannee bujay day rahaaN kitee vagai pa-un. ||88||\r",
+                    "time": 2871006
+                },
+                {
+                    "line": "fareedaa rab khajooree pakee-aaN maakhi-a na-ee vahaNniH.\r",
+                    "time": 2892059
+                },
+                {
+                    "line": "jo jo vanjaiN deehrhaa so umar hath pavann. ||89||\r",
+                    "time": 2906080
+                },
+                {
+                    "line": "fareedaa tan sukaa pinjar thee-aa talee-aaN khooNdeh kaag.\r",
+                    "time": 2917086
+                },
+                {
+                    "line": "ajai so rab na baahurhi-o daykh banday kay bhaag. ||90||\r",
+                    "time": 2930045
+                },
+                {
+                    "line": "kaagaa karang dhandholi-aa saglaa khaa-i-aa maas.\r",
+                    "time": 2942090
+                },
+                {
+                    "line": "ay du-ay nainaa mat chhuha-o pir daykhan kee aas. ||91||\r",
+                    "time": 2955045
+                },
+                {
+                    "line": "kaagaa choond na pinjraa basai ta udar jaahi.\r",
+                    "time": 2968012
+                },
+                {
+                    "line": "jit pinjrai mayraa saho vasai maas na tidoo khaahi. ||92||\r",
+                    "time": 2980065
+                },
+                {
+                    "line": "fareedaa gor nimaanee sad karay nighri-aa ghar aa-o.\r",
+                    "time": 2992058
+                },
+                {
+                    "line": "sarpar maithai aavnaa marnahu naa dari-aahu. ||93||\r",
+                    "time": 3008049
+                },
+                {
+                    "line": "aynee lo-inee daykh-di-aa kaytee chal ga-ee.\r",
+                    "time": 3029079
+                },
+                {
+                    "line": "fareedaa lokaaN aapo aapnee mai aapnee pa-ee. ||94||\r",
+                    "time": 3042084
+                },
+                {
+                    "line": "aap savaareh mai mileh mai mili-aa sukh ho-ay.\r",
+                    "time": 3055032
+                },
+                {
+                    "line": "fareedaa jay too mayraa ho-ay raheh sabh jag tayraa ho-ay. ||95||\r",
+                    "time": 3067055
+                },
+                {
+                    "line": "kanDhee utai rukh-rhaa kichrak bannai Dheer.\r",
+                    "time": 3079099
+                },
+                {
+                    "line": "fareedaa kachai bhaaNdai rakhee-ai kichar taa-ee neer. ||96||\r",
+                    "time": 3092096
+                },
+                {
+                    "line": "fareedaa mahal nisakhan reh ga-ay vaasaa aa-i-aa tal.\r",
+                    "time": 3105017
+                },
+                {
+                    "line": "goraaN say nimaanee-aa bahsan roohaaN mal.\r",
+                    "time": 3117093
+                },
+                {
+                    "line": "aakheeN saykhaa bandagee chalan aj ke kal. ||97||\r",
+                    "time": 3131015
+                },
+                {
+                    "line": "fareedaa ma-utai daa bannaa ayvai disai ji-o daree-aavai dhaahaa.\r",
+                    "time": 3157091
+                },
+                {
+                    "line": "agai dojak tapi-aa sunee-ai hool pavai kaahaahaa.\r",
+                    "time": 3173071
+                },
+                {
+                    "line": "iknaa no sabh sojhee aa-ee ik firday vayparvaahaa.\r",
+                    "time": 3195022
+                },
+                {
+                    "line": "amal je keeti-aa dunee vich say dargeh ohaagaa. ||98||\r",
+                    "time": 3220074
+                },
+                {
+                    "line": "fareedaa daree-aavai kanHai bagulaa baithaa kayl karay.\r",
+                    "time": 3220074
+                },
+                {
+                    "line": "kayl karayday hanjh no achintay baaj pa-ay.\r",
+                    "time": 3232052
+                },
+                {
+                    "line": "baaj pa-ay tis rab day kaylaaN visree-aaN.\r",
+                    "time": 3244076
+                },
+                {
+                    "line": "jo man chit na chaytay san so gaalee rab kee-aaN. ||99||\r",
+                    "time": 3257021
+                },
+                {
+                    "line": "saadhay tarai man dayhuree chalai paanee ann.\r",
+                    "time": 3269093
+                },
+                {
+                    "line": "aa-i-o bandaa dunee vich vat aasoonee baneh.\r",
+                    "time": 3285024
+                },
+                {
+                    "line": "malkal ma-ut jaaN aavsee sabh darvaajay bhann.\r",
+                    "time": 3306096
+                },
+                {
+                    "line": "tinHaa pi-aari-aa bhaa-ee-aaN agai ditaa baneh.\r",
+                    "time": 3319069
+                },
+                {
+                    "line": "vaykhhu bandaa chali-aa chahu jani-aa dai kaNniH.\r",
+                    "time": 3332036
+                },
+                {
+                    "line": "fareedaa amal je keetay dunee vich dargeh aa-ay kamm. ||100||\r",
+                    "time": 3344006
+                },
+                {
+                    "line": "fareedaa ha-o balihaaree tinH pankhee-aa jangal jinHaa vaas.\r",
+                    "time": 3356068
+                },
+                {
+                    "line": "kakar chugan thal vasan rab na chhodan paas. ||101||\r",
+                    "time": 3369012
+                },
+                {
+                    "line": "fareedaa rut firee van kambi-aa pat jharhay jharh paahi.\r",
+                    "time": 3381023
+                },
+                {
+                    "line": "chaaray kundaa dhooNdhee-aaN rahan kithaa-oo naahi. ||102||\r",
+                    "time": 3396084
+                },
+                {
+                    "line": "fareedaa paarh patolaa Dhaj karee kamblarhee pahiray-o.\r",
+                    "time": 3418033
+                },
+                {
+                    "line": "jinHee vaysee saho milai say-ee vays karay-o. ||103||\r",
+                    "time": 3430079
+                },
+                {
+                    "line": "mehlaa 3.\r",
+                    "time": 3459090
+                },
+                {
+                    "line": "kaa-ay patolaa paarh-tee kamblarhee pahiray-ay.\r",
+                    "time": 3483043
+                },
+                {
+                    "line": "naanak ghar hee baithi-aa saho milai jay nee-at raas karay-i. ||104||\r",
+                    "time": 3497061
+                },
+                {
+                    "line": "mehlaa 5.\r",
+                    "time": 3511096
+                },
+                {
+                    "line": "fareedaa garab jinHaa vadi-aa-ee-aa Dhan joban aagaah.\r",
+                    "time": 3515045
+                },
+                {
+                    "line": "khaalee chalay Dhanee si-o tibay ji-o meehahu. ||105||\r",
+                    "time": 3529088
+                },
+                {
+                    "line": "fareedaa tinaa mukh daraavanay jinaa visaari-on naa-o.\r",
+                    "time": 3543028
+                },
+                {
+                    "line": "aithai dukh ghanayri-aa agai tha-ur na thaa-o. ||106||\r",
+                    "time": 3558004
+                },
+                {
+                    "line": "fareedaa pichhal raat na jaagi-ohi jeevad-rho mu-i-ohi.\r",
+                    "time": 3571093
+                },
+                {
+                    "line": "jay tai rab visaari-aa ta rab na visari-ohi. ||107||\r",
+                    "time": 3585092
+                },
+                {
+                    "line": "mehlaa 5.\r",
+                    "time": 3599055
+                },
+                {
+                    "line": "fareedaa kant rangvaalaa vadaa vaymuhtaaj.\r",
+                    "time": 3601119
+                },
+                {
+                    "line": "alah saytee rati-aa ayhu sachaavaaN saaj. ||108||\r",
+                    "time": 3616072
+                },
+                {
+                    "line": "mehlaa 5.\r",
+                    "time": 3629113
+                },
+                {
+                    "line": "fareedaa dukh sukh ik kar dil tay laahi vikaar.\r",
+                    "time": 3632135
+                },
+                {
+                    "line": "alah bhaavai so bhalaa taaN labhee darbaar. ||109||\r",
+                    "time": 3647119
+                },
+                {
+                    "line": "mehlaa 5.\r",
+                    "time": 3660127
+                },
+                {
+                    "line": "fareedaa dunee vajaa-ee vajdee tooN bhee vajeh naal.\r",
+                    "time": 3665116
+                },
+                {
+                    "line": "so-ee jee-o na vajdaa jis alhu kardaa saar. ||110||\r",
+                    "time": 3678111
+                },
+                {
+                    "line": "mehlaa 5.\r",
+                    "time": 3692101
+                },
+                {
+                    "line": "fareedaa dil rataa is dunee si-o dunee na kitai kamm.\r",
+                    "time": 3695121
+                },
+                {
+                    "line": "misal fakeeraaN gaakh-rhee so paa-ee-ai poor karamm. ||111||\r",
+                    "time": 3709095
+                },
+                {
+                    "line": "pahilai pahrai fulrhaa fal bhee pachhaa raat.\r",
+                    "time": 3723107
+                },
+                {
+                    "line": "jo jaagaNniH lahann say saa-ee kanno daat. ||112||\r",
+                    "time": 3737121
+                },
+                {
+                    "line": "daatee saahib sandee-aa ki-aa chalai tis naal.\r",
+                    "time": 3751090
+                },
+                {
+                    "line": "ik jaaganday naa lahniH iknHaa suti-aa day-ay uthaal. ||113||\r",
+                    "time": 3765091
+                },
+                {
+                    "line": "dhoodhaydee-ay suhaag koo ta-o tan kaa-ee kor.\r",
+                    "time": 3779085
+                },
+                {
+                    "line": "jinHaa naa-o suhaaganee tinHaa jhaak na hor. ||114||\r",
+                    "time": 3792110
+                },
+                {
+                    "line": "sabar manjh kamaan ay sabar kaa neehno.\r",
+                    "time": 3806112
+                },
+                {
+                    "line": "sabar sandaa baan khaalak khataa na karee. ||115||\r",
+                    "time": 3820056
+                },
+                {
+                    "line": "sabar andar saabree tan ayvai jaalayniH.\r",
+                    "time": 3834065
+                },
+                {
+                    "line": "hon najeek khudaa-ay dai bhayt na kisai dayn. ||116||\r",
+                    "time": 3847138
+                },
+                {
+                    "line": "sabar ayhu su-aa-o jay tooN bandaa dirh karahi.\r",
+                    "time": 3861115
+                },
+                {
+                    "line": "vaDh theeveh daree-aa-o tut na theeveh vaahrhaa. ||117||\r",
+                    "time": 3875068
+                },
+                {
+                    "line": "fareedaa darvaysee gaakh-rhee choprhee pareet.\r",
+                    "time": 3888149
+                },
+                {
+                    "line": "ikan kinai chaalee-ai darvaysaavee reet. ||118||\r",
+                    "time": 3902107
+                },
+                {
+                    "line": "tan tapai tanoor ji-o baalan had balaNniH.\r",
+                    "time": 3916143
+                },
+                {
+                    "line": "pairee thakaaN sir julaaN jay mooN piree milaNniH. ||119||\r",
+                    "time": 3930074
+                },
+                {
+                    "line": "tan na tapaa-ay tanoor ji-o baalan had na baal.\r",
+                    "time": 3944134
+                },
+                {
+                    "line": "sir pairee ki-aa fayrhi-aa andar piree nihaal. ||120||\r",
+                    "time": 3958077
+                },
+                {
+                    "line": "ha-o dhoodhaydee sajnaa sajan maiday naal.\r",
+                    "time": 3972101
+                },
+                {
+                    "line": "naanak alakh na lakhee-ai gurmukh day-ay dikhaal. ||121||\r",
+                    "time": 3985143
+                },
+                {
+                    "line": "hansaa daykh tarandi-aa bagaa aa-i-aa chaa-o.\r",
+                    "time": 4000074
+                },
+                {
+                    "line": "dub mu-ay bag bapurhay sir tal upar paa-o. ||122||\r",
+                    "time": 4013149
+                },
+                {
+                    "line": "mai jaani-aa vad hans hai taaN mai keetaa sang.\r",
+                    "time": 4027148
+                },
+                {
+                    "line": "jay jaanaa bag bapurhaa janam na bhayrhee ang. ||123||\r",
+                    "time": 4042097
+                },
+                {
+                    "line": "ki-aa hans ki-aa bagulaa jaa ka-o nadar Dharay.\r",
+                    "time": 4055140
+                },
+                {
+                    "line": "jay tis bhaavai naankaa kaagahu hans karay. ||124||\r",
+                    "time": 4070074
+                },
+                {
+                    "line": "sarvar pankhee haykrho faaheevaal pachaas.\r",
+                    "time": 4083143
+                },
+                {
+                    "line": "ih tan lahree gad thi-aa sachay tayree aas. ||125||\r",
+                    "time": 4097108
+                },
+                {
+                    "line": "kavan so akhar kavan gun kavan so manee-aa mant.\r",
+                    "time": 4111142
+                },
+                {
+                    "line": "kavan so vayso ha-o karee jit vas aavai kant. ||126||\r",
+                    "time": 4126096
+                },
+                {
+                    "line": "nivan so akhar khavan gun jihbaa manee-aa mant.\r",
+                    "time": 4139091
+                },
+                {
+                    "line": "ay tarai bhainay vays kar taaN vas aavee kant. ||127||\r",
+                    "time": 4153075
+                },
+                {
+                    "line": "mat hodee ho-ay i-aanaa.\r",
+                    "time": 4167093
+                },
+                {
+                    "line": "taan hoday ho-ay nitaanaa.\r",
+                    "time": 4173133
+                },
+                {
+                    "line": "anhoday aap vandaa-ay.\r",
+                    "time": 4181069
+                },
+                {
+                    "line": "ko aisaa bhagat sadaa-ay. ||128||\r",
+                    "time": 4187133
+                },
+                {
+                    "line": "ik fikaa na gaalaa-ay sabhnaa mai sachaa Dhanee.\r",
+                    "time": 4195102
+                },
+                {
+                    "line": "hi-aa-o na kaihee thaahi maanak sabh amolvay. ||129||\r",
+                    "time": 4208096
+                },
+                {
+                    "line": "sabhnaa man maanik thaahan mool machaaNgvaa.\r",
+                    "time": 4222106
+                },
+                {
+                    "line": "jay ta-o piree-aa dee sik hi-aa-o na thaahay kahee daa. ||130||\r",
+                    "time": 4236070
+                },
+                {
+                    "line": "jay ta-o piree-aa dee sik hi-aa-o na thaahay kahee daa. ||130||\r",
+                    "time": 4250096
+                }
+            ],
+            "english_lyrics": [
+                {
+                    "line": "Shaloks Of Shaykh Fareed Jee:\r",
+                    "time": 85
+                },
+                {
+                    "line": "One Universal Creator God. By The Grace Of The True Guru:\r",
+                    "time": 8000
+                },
+                {
+                    "line": "The day of the bride's wedding is pre-ordained.\r",
+                    "time": 28099
+                },
+                {
+                    "line": "On that day, the Messenger of Death, of whom she had only heard, comes and shows its face.\r",
+                    "time": 43045
+                },
+                {
+                    "line": "It breaks the bones of the body and pulls the helpless soul out.\r",
+                    "time": 57067
+                },
+                {
+                    "line": "That pre-ordained time of marriage cannot be avoided. Explain this to your soul.\r",
+                    "time": 71085
+                },
+                {
+                    "line": "The soul is the bride, and death is the groom. He will marry her and take her away.\r",
+                    "time": 85071
+                },
+                {
+                    "line": "After the body sends her away with its own hands, whose neck will it embrace?\r",
+                    "time": 99079
+                },
+                {
+                    "line": "The bridge to hell is narrower than a hair; haven't you heard of it with your ears?\r",
+                    "time": 114022
+                },
+                {
+                    "line": "Fareed, the call has come; be careful now - don't let yourself be robbed. ||1||\r",
+                    "time": 127072
+                },
+                {
+                    "line": "Fareed, it is so difficult to become a humble Saint at the Lord's Door.\r",
+                    "time": 141075
+                },
+                {
+                    "line": "I am so accustomed to walking in the ways of the world. I have tied and picked up the bundle; where can I go to throw it away? ||2||\r",
+                    "time": 155093
+                },
+                {
+                    "line": "I know nothing; I understand nothing. The world is a smouldering fire.\r",
+                    "time": 170023
+                },
+                {
+                    "line": "My Lord did well to warn me about it; otherwise, I would have been burnt as well. ||3||\r",
+                    "time": 184018
+                },
+                {
+                    "line": "Fareed, if I had known that I had so few sesame seeds, I would have been more careful with them in my hands.\r",
+                    "time": 198037
+                },
+                {
+                    "line": "If I had known that my Husband Lord was so young and innocent, I would not have been so arrogant. ||4||\r",
+                    "time": 212054
+                },
+                {
+                    "line": "If I had known that my robe would come loose, I would have tied a tighter knot.\r",
+                    "time": 240054
+                },
+                {
+                    "line": "I have found none as great as You, Lord; I have looked and searched throughout the world. ||5||\r",
+                    "time": 255098
+                },
+                {
+                    "line": "Fareed, if you have a keen understanding, then do not write black marks against anyone else.\r",
+                    "time": 278000
+                },
+                {
+                    "line": "Look underneath your own collar instead. ||6||\r",
+                    "time": 290018
+                },
+                {
+                    "line": "Fareed, do not turn around and strike those who strike you with their fists.\r",
+                    "time": 302058
+                },
+                {
+                    "line": "Kiss their feet, and return to your own home. ||7||\r",
+                    "time": 314099
+                },
+                {
+                    "line": "Fareed, when there was time for you to earn good karma, you were in love with the world instead.\r",
+                    "time": 327027
+                },
+                {
+                    "line": "Now, death has a strong foothold; when the load is full, it is taken away. ||8||\r",
+                    "time": 340012
+                },
+                {
+                    "line": "See, Fareed, what has happened: your beard has become grey.\r",
+                    "time": 353030
+                },
+                {
+                    "line": "That which is coming is near, and the past is left far behind. ||9||\r",
+                    "time": 365014
+                },
+                {
+                    "line": "See, Fareed, what has happened: sugar has become poison.\r",
+                    "time": 377094
+                },
+                {
+                    "line": "Without my Lord, who can I tell of my sorrow? ||10||\r",
+                    "time": 389081
+                },
+                {
+                    "line": "Fareed, my eyes have become weak, and my ears have become hard of hearing.\r",
+                    "time": 402014
+                },
+                {
+                    "line": "The body's crop has become ripe and turned color. ||11||\r",
+                    "time": 417042
+                },
+                {
+                    "line": "Fareed, those who did not enjoy their Spouse when their hair was black - hardly any of them enjoy Him when their hair turns grey.\r",
+                    "time": 438096
+                },
+                {
+                    "line": "So be in love with the Lord, so that your color may ever be new. ||12||\r",
+                    "time": 451054
+                },
+                {
+                    "line": "Third Mehl:\r",
+                    "time": 463059
+                },
+                {
+                    "line": "Fareed, whether one's hair is black or grey, our Lord and Master is always here if one remembers Him.\r",
+                    "time": 475081
+                },
+                {
+                    "line": "This loving devotion to the Lord does not come by one's own efforts, even though all may long for it.\r",
+                    "time": 487095
+                },
+                {
+                    "line": "This cup of loving devotion belongs to our Lord and Master; He gives it to whomever He likes. ||13||\r",
+                    "time": 500041
+                },
+                {
+                    "line": "Fareed, those eyes which have enticed the world - I have seen those eyes.\r",
+                    "time": 512036
+                },
+                {
+                    "line": "Once, they could not endure even a bit of mascara; now, the birds hatch their young in them! ||14||\r",
+                    "time": 524046
+                },
+                {
+                    "line": "Fareed, they shouted and yelled, and constantly gave good advice.\r",
+                    "time": 536074
+                },
+                {
+                    "line": "But those whom the devil has spoiled - how can they turn their consciousness towards God? ||15||\r",
+                    "time": 548084
+                },
+                {
+                    "line": "Fareed, become the grass on the path,\r",
+                    "time": 561034
+                },
+                {
+                    "line": "if you long for the Lord of all.\r",
+                    "time": 567068
+                },
+                {
+                    "line": "One will cut you down, and another will trample you underfoot;\r",
+                    "time": 576071
+                },
+                {
+                    "line": "then, you shall enter the Court of the Lord. ||16||\r",
+                    "time": 582069
+                },
+                {
+                    "line": "Fareed, do not slander the dust; noting is as great as dust.\r",
+                    "time": 597078
+                },
+                {
+                    "line": "When we are alive, it is under our feet, and when we are dead, it is above us. ||17||\r",
+                    "time": 610071
+                },
+                {
+                    "line": "Fareed, when there is greed, what love can there be? When there is greed, love is false.\r",
+                    "time": 622028
+                },
+                {
+                    "line": "How long can one remain in a thatched hut which leaks when it rains? ||18||\r",
+                    "time": 635028
+                },
+                {
+                    "line": "Fareed, why do you wander from jungle to jungle, crashing through the thorny trees?\r",
+                    "time": 647021
+                },
+                {
+                    "line": "The Lord abides in the heart; why are you looking for Him in the jungle? ||19||\r",
+                    "time": 659065
+                },
+                {
+                    "line": "Fareed, with these small legs, I crossed deserts and mountains.\r",
+                    "time": 671062
+                },
+                {
+                    "line": "But today, Fareed, my water jug seems hundreds of miles away. ||20||\r",
+                    "time": 684012
+                },
+                {
+                    "line": "Fareed, the nights are long, and my sides are aching in pain.\r",
+                    "time": 696014
+                },
+                {
+                    "line": "Cursed are the lives of those who place their hopes in others. ||21||\r",
+                    "time": 711062
+                },
+                {
+                    "line": "Fareed, if I had been there when my friend came, I would have made myself a sacrifice to him.\r",
+                    "time": 732089
+                },
+                {
+                    "line": "Now my flesh is burning red on the hot coals. ||22||\r",
+                    "time": 745063
+                },
+                {
+                    "line": "Fareed, the farmer plants acacia trees, and wishes for grapes.\r",
+                    "time": 758032
+                },
+                {
+                    "line": "He is spinning wool, but he wishes to wear silk. ||23||\r",
+                    "time": 770037
+                },
+                {
+                    "line": "Fareed, the path is muddy, and the house of my Beloved is so far away.\r",
+                    "time": 782068
+                },
+                {
+                    "line": "If I go out, my blanket will get soaked, but if I remain at home, then my heart will be broken. ||24||\r",
+                    "time": 795049
+                },
+                {
+                    "line": "My blanket is soaked, drenched with the downpour of the Lord's Rain.\r",
+                    "time": 807084
+                },
+                {
+                    "line": "I am going out to meet my Friend, so that my heart will not be broken. ||25||\r",
+                    "time": 819082
+                },
+                {
+                    "line": "Fareed, I was worried that my turban might become dirty.\r",
+                    "time": 832030
+                },
+                {
+                    "line": "My thoughtless self did not realize that one day, dust will consume my head as well. ||26||\r",
+                    "time": 847081
+                },
+                {
+                    "line": "Fareed: sugar cane, candy, sugar, molasses, honey and buffalo's milk\r",
+                    "time": 869001
+                },
+                {
+                    "line": "all these things are sweet, but they are not equal to You. ||27||\r",
+                    "time": 882006
+                },
+                {
+                    "line": "Fareed, my bread is made of wood, and hunger is my appetizer.\r",
+                    "time": 893081
+                },
+                {
+                    "line": "Those who eat buttered bread, will suffer in terrible pain. ||28||\r",
+                    "time": 906042
+                },
+                {
+                    "line": "Eat dry bread, and drink cold water.\r",
+                    "time": 919004
+                },
+                {
+                    "line": "Fareed, if you see someone else's buttered bread, do not envy him for it. ||29||\r",
+                    "time": 931027
+                },
+                {
+                    "line": "This night, I did not sleep with my Husband Lord, and now my body is suffering in pain.\r",
+                    "time": 943051
+                },
+                {
+                    "line": "Go and ask the deserted bride, how she passes her night. ||30||\r",
+                    "time": 956017
+                },
+                {
+                    "line": "She finds no place of rest in her father-in-law's home, and no place in her parents' home either.\r",
+                    "time": 984006
+                },
+                {
+                    "line": "Her Husband Lord does not care for her; what sort of a blessed, happy soul-bride is she? ||31||\r",
+                    "time": 999097
+                },
+                {
+                    "line": "In her father-in-law's home hereafter, and in her parents' home in this world, she belongs to her Husband Lord. Her Husband is Inaccessible and Unfathomable.\r",
+                    "time": 1015077
+                },
+                {
+                    "line": "O Nanak, she is the happy soul-bride, who is pleasing to her Carefree Lord. ||32||\r",
+                    "time": 1031032
+                },
+                {
+                    "line": "Bathing, washing and decorating herself, she comes and sleeps without anxiety.\r",
+                    "time": 1047054
+                },
+                {
+                    "line": "Fareed, she still smells like asafoetida; the fragrance of musk is gone. ||33||\r",
+                    "time": 1063022
+                },
+                {
+                    "line": "I am not afraid of losing my youth, as long as I do not lose the Love of my Husband Lord.\r",
+                    "time": 1079046
+                },
+                {
+                    "line": "Fareed, so many youths, without His Love, have dried up and withered away. ||34||\r",
+                    "time": 1094035
+                },
+                {
+                    "line": "Fareed, anxiety is my bed, pain is my mattress, and the pain of separation is my blanket and quilt.\r",
+                    "time": 1117089
+                },
+                {
+                    "line": "Behold, this is my life, O my True Lord and Master. ||35||\r",
+                    "time": 1133040
+                },
+                {
+                    "line": "Many talk of the pain and suffering of separation; O pain, you are the ruler of all.\r",
+                    "time": 1149033
+                },
+                {
+                    "line": "Fareed, that body, within which love of the Lord does not well up - look upon that body as a cremation ground. ||36||\r",
+                    "time": 1164078
+                },
+                {
+                    "line": "Fareed, these are poisonous sprouts coated with sugar.\r",
+                    "time": 1188067
+                },
+                {
+                    "line": "Some die planting them, and some are ruined, harvesting and enjoying them. ||37||\r",
+                    "time": 1204014
+                },
+                {
+                    "line": "Fareed, the hours of the day are lost wandering around, and the hours of the night are lost in sleep.\r",
+                    "time": 1227040
+                },
+                {
+                    "line": "God will call for your account, and ask you why you came into this world. ||38||\r",
+                    "time": 1242079
+                },
+                {
+                    "line": "Fareed, you have gone to the Lord's Door. Have you seen the gong there?\r",
+                    "time": 1257094
+                },
+                {
+                    "line": "This blameless object is being beaten - imagine what is in store for us sinners! ||39||\r",
+                    "time": 1273041
+                },
+                {
+                    "line": "Each and every hour, it is beaten; it is punished every day.\r",
+                    "time": 1288094
+                },
+                {
+                    "line": "This beautiful body is like the gong; it passes the night in pain. ||40||\r",
+                    "time": 1304002
+                },
+                {
+                    "line": "Shaykh Fareed has grown old, and his body has begun to tremble.\r",
+                    "time": 1319072
+                },
+                {
+                    "line": "Even if he could live for hundreds of years, his body will eventually turn to dust. ||41||\r",
+                    "time": 1334098
+                },
+                {
+                    "line": "Fareed begs, O Lord, do not make me sit at another's door.\r",
+                    "time": 1357096
+                },
+                {
+                    "line": "If this is the way you are going to keep me, then go ahead and take the life out of my body. ||42||\r",
+                    "time": 1373043
+                },
+                {
+                    "line": "With the axe on his shoulder, and a bucket on his head, the blacksmith is ready to cut down the tree.\r",
+                    "time": 1388062
+                },
+                {
+                    "line": "Fareed, I long for my Lord; you long only for the charcoal. ||43||\r",
+                    "time": 1406030
+                },
+                {
+                    "line": "Fareed, some have lots of flour, while others do not even have salt.\r",
+                    "time": 1419031
+                },
+                {
+                    "line": "When they go beyond this world, it shall be seen, who will be punished. ||44||\r",
+                    "time": 1434063
+                },
+                {
+                    "line": "Drums were beaten in their honor, there were canopies above their heads, and bugles announced their coming.\r",
+                    "time": 1450018
+                },
+                {
+                    "line": "They have gone to sleep in the cemetary, buried like poor orphans. ||45||\r",
+                    "time": 1465022
+                },
+                {
+                    "line": "Fareed, those who built houses, mansions and lofty buildings, are also gone.\r",
+                    "time": 1488049
+                },
+                {
+                    "line": "They made false deals, and were dropped into their graves. ||46||\r",
+                    "time": 1503057
+                },
+                {
+                    "line": "Fareed, there are many seams on the patched coat, but there are no seams on the soul.\r",
+                    "time": 1518084
+                },
+                {
+                    "line": "The shaykhs and their disciples have all departed, each in his own turn. ||47||\r",
+                    "time": 1533094
+                },
+                {
+                    "line": "Fareed, the two lamps are lit, but death has come anyway.\r",
+                    "time": 1549036
+                },
+                {
+                    "line": "It has captured the fortress of the body, and plundered the home of the heart; it extinguishes the lamps and departs. ||48||\r",
+                    "time": 1564075
+                },
+                {
+                    "line": "Fareed, look at what has happened to the cotton and the sesame seed,\r",
+                    "time": 1580005
+                },
+                {
+                    "line": "the sugar cane and paper, the clay pots and the charcoal.\r",
+                    "time": 1595002
+                },
+                {
+                    "line": "This is the punishment for those who do evil deeds. ||49||\r",
+                    "time": 1610073
+                },
+                {
+                    "line": "Fareed, you wear your prayer shawl on your shoulders and the robes of a Sufi; your words are sweet, but there is a dagger in your heart.\r",
+                    "time": 1625086
+                },
+                {
+                    "line": "Outwardly, you look bright, but your heart is dark as night. ||50||\r",
+                    "time": 1640069
+                },
+                {
+                    "line": "Fareed, not even a drop of blood would issue forth, if someone cut my body.\r",
+                    "time": 1656020
+                },
+                {
+                    "line": "Those bodies which are imbued with the Lord - those bodies contain no blood. ||51||\r",
+                    "time": 1671023
+                },
+                {
+                    "line": "Third Mehl:\r",
+                    "time": 1685083
+                },
+                {
+                    "line": "This body is all blood; without blood, this body could not exist.\r",
+                    "time": 1697044
+                },
+                {
+                    "line": "Those who are imbued with their Lord, do not have the blood of greed in their bodies.\r",
+                    "time": 1712024
+                },
+                {
+                    "line": "When the Fear of God fills the body, it becomes thin; the blood of greed departs from within.\r",
+                    "time": 1727063
+                },
+                {
+                    "line": "Just as metal is purified by fire, the Fear of God removes the filthy residues of evil-mindedness.\r",
+                    "time": 1742050
+                },
+                {
+                    "line": "O Nanak, those humble beings are beautiful, who are imbued with the Lord's Love. ||52||\r",
+                    "time": 1757056
+                },
+                {
+                    "line": "Fareed, seek that sacred pool, in which the genuine article is found.\r",
+                    "time": 1772065
+                },
+                {
+                    "line": "Why do you bother to search in the pond? Your hand will only sink into the mud. ||53||\r",
+                    "time": 1787044
+                },
+                {
+                    "line": "Fareed, when she is young, she does not enjoy her Husband. When she grows up, she dies.\r",
+                    "time": 1808097
+                },
+                {
+                    "line": "Lying in the grave, the soul-bride cries, \"I did not meet You, my Lord.\"||54||\r",
+                    "time": 1824043
+                },
+                {
+                    "line": "Fareed, your hair has turned grey, your beard has turned grey, and your moustache has turned grey.\r",
+                    "time": 1838092
+                },
+                {
+                    "line": "O my thoughtless and insane mind, why are you indulging in pleasures? ||55||\r",
+                    "time": 1882050
+                },
+                {
+                    "line": "Fareed, how long can you run on the rooftop? You are asleep to your Husband Lord - give it up!\r",
+                    "time": 1897028
+                },
+                {
+                    "line": "The days which were allotted to you are numbered, and they are passing, passing away. ||56||\r",
+                    "time": 1912076
+                },
+                {
+                    "line": "Fareed, houses, mansions and balconies - do not attach your consciousness to these.\r",
+                    "time": 1943027
+                },
+                {
+                    "line": "When these collapse into heaps of dust, none of them will be your friend. ||57||\r",
+                    "time": 1958075
+                },
+                {
+                    "line": "Fareed, do not focus on mansions and wealth; center your consciousness on death, your powerful enemy.\r",
+                    "time": 1973030
+                },
+                {
+                    "line": "Remember that place where you must go. ||58||\r",
+                    "time": 1988044
+                },
+                {
+                    "line": "Fareed, those deeds which do not bring merit - forget about those deeds.\r",
+                    "time": 2003046
+                },
+                {
+                    "line": "Otherwise, you shall be put to shame, in the Court of the Lord. ||59||\r",
+                    "time": 2018049
+                },
+                {
+                    "line": "Fareed, work for your Lord and Master; dispel the doubts of your heart.\r",
+                    "time": 2032080
+                },
+                {
+                    "line": "The dervishes, the humble devotees, have the patient endurance of trees. ||60||\r",
+                    "time": 2047069
+                },
+                {
+                    "line": "Fareed, my clothes are black, and my outfit is black.\r",
+                    "time": 2062009
+                },
+                {
+                    "line": "I wander around full of sins, and yet people call me a dervish - a holy man. ||61||\r",
+                    "time": 2077002
+                },
+                {
+                    "line": "The crop which is burnt will not bloom, even if it is soaked in water.\r",
+                    "time": 2091073
+                },
+                {
+                    "line": "Fareed, she who is forsaken by her Husband Lord, grieves and laments. ||62||\r",
+                    "time": 2105096
+                },
+                {
+                    "line": "When she is a virgin, she is full of desire; but when she is married, then her troubles begin.\r",
+                    "time": 2120016
+                },
+                {
+                    "line": "Fareed, she has this one regret, that she cannot be a virgin again. ||63||\r",
+                    "time": 2134054
+                },
+                {
+                    "line": "The swans have landed in a small pond of salt water.\r",
+                    "time": 2149022
+                },
+                {
+                    "line": "They dip in their bills, but do not drink; they fly away, still thirsty. ||64||\r",
+                    "time": 2163055
+                },
+                {
+                    "line": "The swans fly away, and land in the fields of grain. The people go to chase them away.\r",
+                    "time": 2178043
+                },
+                {
+                    "line": "The thoughtless people do not know, that the swans do not eat the grain. ||65||\r",
+                    "time": 2192064
+                },
+                {
+                    "line": "The birds which lived in the pools have flown away and left.\r",
+                    "time": 2207042
+                },
+                {
+                    "line": "Fareed, the overflowing pool shall also pass away, and only the lotus flowers shall remain. ||66||\r",
+                    "time": 2221063
+                },
+                {
+                    "line": "Fareed, a stone will be your pillow, and the earth will be your bed. The worms shall eat into your flesh.\r",
+                    "time": 2236000
+                },
+                {
+                    "line": "Countless ages will pass, and you will still be lying on one side. ||67||\r",
+                    "time": 2250097
+                },
+                {
+                    "line": "Fareed, your beautiful body shall break apart, and the subtle thread of the breath shall be snapped.\r",
+                    "time": 2264090
+                },
+                {
+                    "line": "In which house will the Messenger of Death be a guest today? ||68||\r",
+                    "time": 2279057
+                },
+                {
+                    "line": "Fareed, your beautiful body shall break apart, and the subtle thread of the breath shall be snapped.\r",
+                    "time": 2293070
+                },
+                {
+                    "line": "Those friends who were a burden on the earth - how can they come today? ||69||\r",
+                    "time": 2308018
+                },
+                {
+                    "line": "Fareed: O faithless dog, this is not a good way of life.\r",
+                    "time": 2322030
+                },
+                {
+                    "line": "You never come to the mosque for your five daily prayers. ||70||\r",
+                    "time": 2336049
+                },
+                {
+                    "line": "Rise up, Fareed, and cleanse yourself; chant your morning prayer.\r",
+                    "time": 2350076
+                },
+                {
+                    "line": "The head which does not bow to the Lord - chop off and remove that head. ||71||\r",
+                    "time": 2365013
+                },
+                {
+                    "line": "That head which does not bow to the Lord - what is to be done with that head?\r",
+                    "time": 2379038
+                },
+                {
+                    "line": "Put it in the fireplace, instead of firewood. ||72||\r",
+                    "time": 2393098
+                },
+                {
+                    "line": "Fareed, where are your mother and father, who gave birth to you?\r",
+                    "time": 2407068
+                },
+                {
+                    "line": "They have left you, but even so, you are not convinced that you shall also have to go. ||73||\r",
+                    "time": 2422016
+                },
+                {
+                    "line": "Fareed, flatten out your mind; smooth out the hills and valleys.\r",
+                    "time": 2436020
+                },
+                {
+                    "line": "Hereafter, the fires of hell shall not even approach you. ||74||\r",
+                    "time": 2450048
+                },
+                {
+                    "line": "Fifth Mehl:\r",
+                    "time": 2464041
+                },
+                {
+                    "line": "Fareed, the Creator is in the Creation, and the Creation abides in God.\r",
+                    "time": 2472026
+                },
+                {
+                    "line": "Whom can we call bad? There is none without Him. ||75||\r",
+                    "time": 2486029
+                },
+                {
+                    "line": "Fareed, if on that day when my umbilical cord was cut, my throat had been cut instead,\r",
+                    "time": 2500022
+                },
+                {
+                    "line": "I would not have fallen into so many troubles, or undergone so many hardships. ||76||\r",
+                    "time": 2514026
+                },
+                {
+                    "line": "My teeth, feet, eyes and ears have stopped working.\r",
+                    "time": 2528036
+                },
+                {
+                    "line": "My body cries out, \"Those whom I knew have left me!\"||77||\r",
+                    "time": 2542084
+                },
+                {
+                    "line": "Fareed, answer evil with goodness; do not fill your mind with anger.\r",
+                    "time": 2556073
+                },
+                {
+                    "line": "Your body shall not suffer from any disease, and you shall obtain everything. ||78||\r",
+                    "time": 2570082
+                },
+                {
+                    "line": "Fareed, the bird is a guest in this beautiful world-garden.\r",
+                    "time": 2585021
+                },
+                {
+                    "line": "The morning drums are beating - get ready to leave! ||79||\r",
+                    "time": 2599023
+                },
+                {
+                    "line": "Fareed, musk is released at night. Those who are sleeping do not receive their share.\r",
+                    "time": 2613010
+                },
+                {
+                    "line": "Those whose eyes are heavy with sleep - how can they receive it? ||80||\r",
+                    "time": 2627057
+                },
+                {
+                    "line": "Fareed, I thought that I was in trouble; the whole world is in trouble!\r",
+                    "time": 2642058
+                },
+                {
+                    "line": "When I climbed the hill and looked around, I saw this fire in each and every home. ||81||\r",
+                    "time": 2656017
+                },
+                {
+                    "line": "Fareed, in the midst of this beautiful earth, there is a garden of thorns.\r",
+                    "time": 2685094
+                },
+                {
+                    "line": "Those humble beings who are blessed by their spiritual teacher, do not suffer even a scratch. ||82||\r",
+                    "time": 2700078
+                },
+                {
+                    "line": "Fifth Mehl:\r",
+                    "time": 2716036
+                },
+                {
+                    "line": "Fareed, life is blessed and beautiful, along with the beautiful body.\r",
+                    "time": 2728097
+                },
+                {
+                    "line": "Only a rare few are found, who love their Beloved Lord. ||83||\r",
+                    "time": 2742001
+                },
+                {
+                    "line": "O river, do not destroy your banks; you too will be asked to give your account.\r",
+                    "time": 2754089
+                },
+                {
+                    "line": "The river flows in whatever direction the Lord orders. ||84||\r",
+                    "time": 2767054
+                },
+                {
+                    "line": "Fareed, the day passes painfully; the night is spent in anguish.\r",
+                    "time": 2779051
+                },
+                {
+                    "line": "The boatman stands up and shouts, \"The boat is caught in the whirlpool!\"||85||\r",
+                    "time": 2792007
+                },
+                {
+                    "line": "The river flows on and on; it loves to eat into its banks.\r",
+                    "time": 2805003
+                },
+                {
+                    "line": "What can the whirlpool do to the boat, if the boatman remains alert? ||86||\r",
+                    "time": 2817044
+                },
+                {
+                    "line": "Fareed, there are dozens who say they are friends; I search, but I cannot find even one.\r",
+                    "time": 2830002
+                },
+                {
+                    "line": "I yearn for my beloved like a smouldering fire. ||87||\r",
+                    "time": 2843005
+                },
+                {
+                    "line": "Fareed, this body is always barking. Who can stand this constant suffering?\r",
+                    "time": 2855045
+                },
+                {
+                    "line": "I have put plugs in my ears; I don't care how much the wind is blowing. ||88||\r",
+                    "time": 2871006
+                },
+                {
+                    "line": "Fareed, God's dates have ripened, and rivers of honey flow.\r",
+                    "time": 2892059
+                },
+                {
+                    "line": "With each passing day, your life is being stolen away. ||89||\r",
+                    "time": 2906080
+                },
+                {
+                    "line": "Fareed, my withered body has become a skeleton; the crows are pecking at my palms.\r",
+                    "time": 2917086
+                },
+                {
+                    "line": "Even now, God has not come to help me; behold, this is the fate of all mortal beings. ||90||\r",
+                    "time": 2930045
+                },
+                {
+                    "line": "The crows have searched my skeleton, and eaten all my flesh.\r",
+                    "time": 2942090
+                },
+                {
+                    "line": "But please do not touch these eyes; I hope to see my Lord. ||91||\r",
+                    "time": 2955045
+                },
+                {
+                    "line": "O crow, do not peck at my skeleton; if you have landed on it, fly away.\r",
+                    "time": 2968012
+                },
+                {
+                    "line": "Do not eat the flesh from that skeleton, within which my Husband Lord abides. ||92||\r",
+                    "time": 2980065
+                },
+                {
+                    "line": "Fareed, the poor grave calls out, \"O homeless one, come back to your home.\r",
+                    "time": 2992058
+                },
+                {
+                    "line": "You shall surely have to come to me; do not be afraid of death.\"||93||\r",
+                    "time": 3008049
+                },
+                {
+                    "line": "These eyes have seen a great many leave.\r",
+                    "time": 3029079
+                },
+                {
+                    "line": "Fareed, the people have their fate, and I have mine. ||94||\r",
+                    "time": 3042084
+                },
+                {
+                    "line": "God says, \"If you reform yourself, you shall meet me, and meeting me, you shall be at peace.\r",
+                    "time": 3055032
+                },
+                {
+                    "line": "O Fareed, if you will be mine, the whole world will be yours.\"||95||\r",
+                    "time": 3067055
+                },
+                {
+                    "line": "How long can the tree remain implanted on the river-bank?\r",
+                    "time": 3079099
+                },
+                {
+                    "line": "Fareed, how long can water be kept in a soft clay pot? ||96||\r",
+                    "time": 3092096
+                },
+                {
+                    "line": "Fareed, the mansions are vacant; those who lived in them have gone to live underground.\r",
+                    "time": 3105017
+                },
+                {
+                    "line": "They remain there, in those unhonored graves.\r",
+                    "time": 3117093
+                },
+                {
+                    "line": "O Shaykh, dedicate yourself to God; you will have to depart, today or tomorrow. ||97||\r",
+                    "time": 3131015
+                },
+                {
+                    "line": "Fareed, the shore of death looks like the river-bank, being eroded away.\r",
+                    "time": 3157091
+                },
+                {
+                    "line": "Beyond is the burning hell, from which cries and shrieks are heard.\r",
+                    "time": 3173071
+                },
+                {
+                    "line": "Some understand this completely, while others wander around carelessly.\r",
+                    "time": 3195022
+                },
+                {
+                    "line": "Those actions which are done in this world, shall be examined in the Court of the Lord. ||98||\r",
+                    "time": 3207087
+                },
+                {
+                    "line": "Fareed, the crane perches on the river bank, playing joyfully.\r",
+                    "time": 3220074
+                },
+                {
+                    "line": "While it is playing, a hawk suddenly pounces on it.\r",
+                    "time": 3232052
+                },
+                {
+                    "line": "When the Hawk of God attacks, playful sport is forgotten.\r",
+                    "time": 3244076
+                },
+                {
+                    "line": "God does what is not expected or even considered. ||99||\r",
+                    "time": 3257021
+                },
+                {
+                    "line": "The body is nourished by water and grain.\r",
+                    "time": 3269093
+                },
+                {
+                    "line": "The mortal comes into the world with high hopes.\r",
+                    "time": 3285024
+                },
+                {
+                    "line": "But when the Messenger of Death comes, it breaks down all the doors.\r",
+                    "time": 3306096
+                },
+                {
+                    "line": "It binds and gags the mortal, before the eyes of his beloved brothers.\r",
+                    "time": 3319069
+                },
+                {
+                    "line": "Behold, the mortal being is going away, carried on the shoulders of four men.\r",
+                    "time": 3332036
+                },
+                {
+                    "line": "Fareed, only those good deeds done in the world will be of any use in the Court of the Lord. ||100||\r",
+                    "time": 3344006
+                },
+                {
+                    "line": "Fareed, I am a sacrifice to those birds which live in the jungle.\r",
+                    "time": 3356068
+                },
+                {
+                    "line": "They peck at the roots and live on the ground, but they do not leave the Lord's side. ||101||\r",
+                    "time": 3369012
+                },
+                {
+                    "line": "Fareed, the seasons change, the woods shake and the leaves drop from the trees.\r",
+                    "time": 3381023
+                },
+                {
+                    "line": "I have searched in the four directions, but I have not found any resting place anywhere. ||102||\r",
+                    "time": 3396084
+                },
+                {
+                    "line": "Fareed, I have torn my clothes to tatters; now I wear only a rough blanket.\r",
+                    "time": 3418033
+                },
+                {
+                    "line": "I wear only those clothes which will lead me to meet my Lord. ||103||\r",
+                    "time": 3430079
+                },
+                {
+                    "line": "Third Mehl:\r",
+                    "time": 3459090
+                },
+                {
+                    "line": "Why do you tear apart your fine clothes, and take to wearing a rough blanket?\r",
+                    "time": 3483043
+                },
+                {
+                    "line": "O Nanak, even sitting in your own home, you can meet the Lord, if your mind is in the right place. ||104||\r",
+                    "time": 3497061
+                },
+                {
+                    "line": "Fifth Mehl:\r",
+                    "time": 3511096
+                },
+                {
+                    "line": "Fareed, those who are very proud of their greatness, wealth and youth,\r",
+                    "time": 3515045
+                },
+                {
+                    "line": "shall return empty-handed from their Lord, like sandhills after the rain. ||105||\r",
+                    "time": 3529088
+                },
+                {
+                    "line": "Fareed, the faces of those who forget the Lord's Name are dreadful.\r",
+                    "time": 3543028
+                },
+                {
+                    "line": "They suffer terrible pain here, and hereafter they find no place of rest or refuge. ||106||\r",
+                    "time": 3558004
+                },
+                {
+                    "line": "Fareed, if you do not awaken in the early hours before dawn, you are dead while yet alive.\r",
+                    "time": 3571093
+                },
+                {
+                    "line": "Although you have forgotten God, God has not forgotten you. ||107||\r",
+                    "time": 3585092
+                },
+                {
+                    "line": "Fifth Mehl:\r",
+                    "time": 3599055
+                },
+                {
+                    "line": "Fareed, my Husband Lord is full of joy; He is Great and Self-sufficient.\r",
+                    "time": 3601119
+                },
+                {
+                    "line": "To be imbued with the Lord God - this is the most beautiful decoration. ||108||\r",
+                    "time": 3616072
+                },
+                {
+                    "line": "Fifth Mehl:\r",
+                    "time": 3629113
+                },
+                {
+                    "line": "Fareed, look upon pleasure and pain as the same; eradicate corruption from your heart.\r",
+                    "time": 3632135
+                },
+                {
+                    "line": "Whatever pleases the Lord God is good; understand this, and you will reach His Court. ||109||\r",
+                    "time": 3647119
+                },
+                {
+                    "line": "Fifth Mehl:\r",
+                    "time": 3660127
+                },
+                {
+                    "line": "Fareed, the world dances as it dances, and you dance with it as well.\r",
+                    "time": 3665116
+                },
+                {
+                    "line": "That soul alone does not dance with it, who is under the care of the Lord God. ||110||\r",
+                    "time": 3678111
+                },
+                {
+                    "line": "Fifth Mehl:\r",
+                    "time": 3692101
+                },
+                {
+                    "line": "Fareed, the heart is imbued with this world, but the world is of no use to it at all.\r",
+                    "time": 3695121
+                },
+                {
+                    "line": "It is so difficult to be like the fakeers - the Holy Saints; it is only achieved by perfect karma. ||111||\r",
+                    "time": 3709095
+                },
+                {
+                    "line": "The first watch of the night brings flowers, and the later watches of the night bring fruit.\r",
+                    "time": 3723107
+                },
+                {
+                    "line": "Those who remain awake and aware, receive the gifts from the Lord. ||112||\r",
+                    "time": 3737121
+                },
+                {
+                    "line": "The gifts are from our Lord and Master; who can force Him to bestow them?\r",
+                    "time": 3751090
+                },
+                {
+                    "line": "Some are awake, and do not receive them, while He awakens others from sleep to bless them. ||113||\r",
+                    "time": 3765091
+                },
+                {
+                    "line": "You search for your Husband Lord; you must have some fault in your body.\r",
+                    "time": 3779085
+                },
+                {
+                    "line": "Those who are known as happy soul-brides, do not look to others. ||114||\r",
+                    "time": 3792110
+                },
+                {
+                    "line": "Within yourself, make patience the bow, and make patience the bowstring.\r",
+                    "time": 3806112
+                },
+                {
+                    "line": "Make patience the arrow, the Creator will not let you miss the target. ||115||\r",
+                    "time": 3820056
+                },
+                {
+                    "line": "Those who are patient abide in patience; in this way, they burn their bodies.\r",
+                    "time": 3834065
+                },
+                {
+                    "line": "They are close to the Lord, but they do not reveal their secret to anyone. ||116||\r",
+                    "time": 3847138
+                },
+                {
+                    "line": "Let patience be your purpose in life; implant this within your being.\r",
+                    "time": 3861115
+                },
+                {
+                    "line": "In this way, you will grow into a great river; you will not break off into a tiny stream. ||117||\r",
+                    "time": 3875068
+                },
+                {
+                    "line": "Fareed, it is difficult to be a dervish - a Holy Saint; it is easier to love bread when it is buttered.\r",
+                    "time": 3888149
+                },
+                {
+                    "line": "Only a rare few follow the way of the Saints. ||118||\r",
+                    "time": 3902107
+                },
+                {
+                    "line": "My body is cooking like an oven; my bones are burning like firewood.\r",
+                    "time": 3916143
+                },
+                {
+                    "line": "If my feet become tired, I will walk on my head, if I can meet my Beloved. ||119||\r",
+                    "time": 3930074
+                },
+                {
+                    "line": "Do not heat up your body like an oven, and do not burn your bones like firewood.\r",
+                    "time": 3944134
+                },
+                {
+                    "line": "What harm have your feet and head done to you? Behold your Beloved within yourself. ||120||\r",
+                    "time": 3958077
+                },
+                {
+                    "line": "I search for my Friend, but my Friend is already with me.\r",
+                    "time": 3972101
+                },
+                {
+                    "line": "O Nanak, the Unseen Lord cannot be seen; He is revealed only to the Gurmukh. ||121||\r",
+                    "time": 3985143
+                },
+                {
+                    "line": "Seeing the swans swimming, the cranes became excited.\r",
+                    "time": 4000074
+                },
+                {
+                    "line": "The poor cranes were drowned to death, with their heads below the water and their feet sticking out above. ||122||\r",
+                    "time": 4013149
+                },
+                {
+                    "line": "I knew him as a great swan, so I associated with him.\r",
+                    "time": 4027148
+                },
+                {
+                    "line": "If I had known that he was a only wretched crane, I would never in my life have crossed paths with him. ||123||\r",
+                    "time": 4042097
+                },
+                {
+                    "line": "Who is a swan, and who is a crane, if God blesses him with His Glance of Grace?\r",
+                    "time": 4055140
+                },
+                {
+                    "line": "If it pleases Him, O Nanak, He changes a crow into a swan. ||124||\r",
+                    "time": 4070074
+                },
+                {
+                    "line": "There is only one bird in the lake, but there are fifty trappers.\r",
+                    "time": 4083143
+                },
+                {
+                    "line": "This body is caught in the waves of desire. O my True Lord, You are my only hope! ||125||\r",
+                    "time": 4097108
+                },
+                {
+                    "line": "What is that word, what is that virtue, and what is that magic mantra?\r",
+                    "time": 4111142
+                },
+                {
+                    "line": "What are those clothes, which I can wear to captivate my Husband Lord? ||126||\r",
+                    "time": 4126096
+                },
+                {
+                    "line": "Humility is the word, forgiveness is the virtue, and sweet speech is the magic mantra.\r",
+                    "time": 4139091
+                },
+                {
+                    "line": "Wear these three robes, O sister, and you will captivate your Husband Lord. ||127||\r",
+                    "time": 4153075
+                },
+                {
+                    "line": "If you are wise, be simple;\r",
+                    "time": 4167093
+                },
+                {
+                    "line": "if you are powerful, be weak;\r",
+                    "time": 4173133
+                },
+                {
+                    "line": "and when there is nothing to share, then share with others.\r",
+                    "time": 4181069
+                },
+                {
+                    "line": "How rare is one who is known as such a devotee. ||128||\r",
+                    "time": 4187133
+                },
+                {
+                    "line": "Do not utter even a single harsh word; your True Lord and Master abides in all.\r",
+                    "time": 4195102
+                },
+                {
+                    "line": "Do not break anyone's heart; these are all priceless jewels. ||129||\r",
+                    "time": 4208096
+                },
+                {
+                    "line": "The minds of all are like precious jewels; to harm them is not good at all.\r",
+                    "time": 4222106
+                },
+                {
+                    "line": "If you desire your Beloved, then do not break anyone's heart. ||130||\r",
+                    "time": 4236070
+                },
+                {
+                    "line": "If you desire your Beloved, then do not break anyone's heart. ||130||\r",
+                    "time": 4250096
+                }
+            ],
+            "spanish_lyrics": [
+                {
+                    "line": " Shloks del Sheikj Farid.\r",
+                    "time": 85
+                },
+                {
+                    "line": " Un Dios Creador Universal, por la Gracia del Verdadero Guru.\r",
+                    "time": 8000
+                },
+                {
+                    "line": " El día de la boda de la novia ha sido fijado de antemano,\r",
+                    "time": 28099
+                },
+                {
+                    "line": " en ese día, el mensajero de la muerte, del cual ella había escuchado, viene a mostrar su rostro,\r",
+                    "time": 43045
+                },
+                {
+                    "line": " le rompe los huesos al cuerpo y extrae a la pobre Alma de ahí,\r",
+                    "time": 57067
+                },
+                {
+                    "line": " ese momento ya está fijado y no se puede evitar, explícale esto a tu Alma.\r",
+                    "time": 71085
+                },
+                {
+                    "line": " El Alma es la novia y la muerte es el novio, se casará con ella y se la llevará,\r",
+                    "time": 85071
+                },
+                {
+                    "line": " después de que salga del cuerpo ¿A qué cuello se va a aferrar?\r",
+                    "time": 99079
+                },
+                {
+                    "line": " El puente para enfrentar las consecuencias de tus actos es más delgado que un cabello, ¿qué no sabías esto?\r",
+                    "time": 114022
+                },
+                {
+                    "line": " Farid, la llamada ha llegado, ten cuidado, no permitas ser ultrajado. (1)\r",
+                    "time": 127072
+                },
+                {
+                    "line": " Farid, es tan difícil volverse Santo en la Puerta del Señor.\r",
+                    "time": 141075
+                },
+                {
+                    "line": " Estoy tan acostumbrado a caminar a la manera del mundo, que llevo empacada y amarrada la bolsa, ¿dónde podré tirarla? (2)\r",
+                    "time": 155093
+                },
+                {
+                    "line": " No sé nada, no entiendo nada, el mundo es una bola de fuego,\r",
+                    "time": 170023
+                },
+                {
+                    "line": " mi Señor hizo bien en advertirme, de otra forma me hubiera quemado ahí también. (3)\r",
+                    "time": 184018
+                },
+                {
+                    "line": " Farid, de haber sabido que tenía tan pocas semillas de ajonjolí en mis manos, habría tenido mucho más cuidado.\r",
+                    "time": 198037
+                },
+                {
+                    "line": " Si hubiera sabido que mi Señor Esposo, era tan joven e inocente, no habría sido tan arrogante. (4)\r",
+                    "time": 212054
+                },
+                {
+                    "line": " Si hubiera sabido que mi túnica se aflojaría, le hubiera puesto un mejor nudo,\r",
+                    "time": 240054
+                },
+                {
+                    "line": " no he encontrado a nadie tan Grandioso como Tú, Señor, me he cansado de buscar por el mundo. (5)\r",
+                    "time": 255098
+                },
+                {
+                    "line": " Farid, si tienes algún entendimiento entonces no hables mal de nadie,\r",
+                    "time": 278000
+                },
+                {
+                    "line": " en su lugar, obsérvate a ti mismo. (6)\r",
+                    "time": 290018
+                },
+                {
+                    "line": " Farid, no devuelvas golpes a aquel que te golpea con su puño,\r",
+                    "time": 302058
+                },
+                {
+                    "line": " besa sus pies y retorna a tu casa. (7)\r",
+                    "time": 314099
+                },
+                {
+                    "line": " Farid, cuando fue el momento de ganar un buen Karma, estabas enamorado del mundo,\r",
+                    "time": 327027
+                },
+                {
+                    "line": " ahora la muerte te ha alcanzado, cuando la carga está completa se la llevan. (8)\r",
+                    "time": 340012
+                },
+                {
+                    "line": " Mira, dice Farid, lo que ha pasado, tu barba se ha puesto gris,\r",
+                    "time": 353030
+                },
+                {
+                    "line": " lo que viene ya está cerca y el pasado ya está muy lejos. (9)\r",
+                    "time": 365014
+                },
+                {
+                    "line": " Mira dice Farid, lo que ha sucedido, el azúcar se ha vuelto veneno,\r",
+                    "time": 377094
+                },
+                {
+                    "line": " sin el Señor ¿quién podría describir mi tristeza? (10)\r",
+                    "time": 389081
+                },
+                {
+                    "line": " Farid, mi ojos se han debilitado, y mis oídos casi no me ayudan a escuchar,\r",
+                    "time": 402014
+                },
+                {
+                    "line": " la cosecha del cuerpo está madura y ha ganado color. (11)\r",
+                    "time": 417042
+                },
+                {
+                    "line": " Farid, quienes no disfrutaron de su Esposo cuando su cabello estaba negro,\r",
+                    "time": 438096
+                },
+                {
+                    "line": " es muy difícil que Lo disfruten con su cabello gris, déjate sentir el Amor del Señor, para que tu color sea siempre nuevo. (12)\r",
+                    "time": 451054
+                },
+                {
+                    "line": " Mejl Guru Amar Das, Tercer Canal Divino.\r",
+                    "time": 475081
+                },
+                {
+                    "line": " Farid, cabello negro o gris, nuestro Señor y Maestro está siempre aquí si uno medita en Él.\r",
+                    "time": 487095
+                },
+                {
+                    "line": " Esta Amorosa Devoción no le viene a uno por su propio esfuerzo, aunque todos lo añoren,\r",
+                    "time": 500041
+                },
+                {
+                    "line": " la copa de la Devoción Amorosa pertenece a nuestro Señor y Maestro y Él se la da a quien Él Mismo escoge. (13)\r",
+                    "time": 512036
+                },
+                {
+                    "line": " Farid, esos ojos que han cautivado al mundo entero los he visto,\r",
+                    "time": 524046
+                },
+                {
+                    "line": " antes no podrían soportar un poco de maquillaje, pero ahora aún los pájaros hacen sus nidos ahí. (14)\r",
+                    "time": 536074
+                },
+                {
+                    "line": " Farid, gritaron y gritaron, dando buenos consejos, pero quienes fueron vencidos por la maldad,\r",
+                    "time": 548084
+                },
+                {
+                    "line": " ¿cómo podrían dirigir su conciencia hacia Dios? (15)\r",
+                    "time": 548084
+                },
+                {
+                    "line": "Farid, vuélvete como el pasto en el camino,\r",
+                    "time": 561034
+                },
+                {
+                    "line": "si añoras al Señor de todo,\r",
+                    "time": 567068
+                },
+                {
+                    "line": "unos te cortarán y otros caminarán sobre ti,\r",
+                    "time": 576071
+                },
+                {
+                    "line": "entonces podrás entrar en la Corte del Señor. (16)\r",
+                    "time": 582069
+                },
+                {
+                    "line": "Farid, no maldigas el polvo, nada es tan grandioso como el polvo,\r",
+                    "time": 597078
+                },
+                {
+                    "line": "cuando estamos en vida se encuentra bajo nuestros pies, y cuando estamos muertos está arriba de nosotros. (17)\r",
+                    "time": 610071
+                },
+                {
+                    "line": "Farid, cuando hay avaricia ¿qué tipo de Amor puede haber ahí?, cuando hay avaricia el Amor es una falsedad,\r",
+                    "time": 622028
+                },
+                {
+                    "line": "¿qué tanto puede uno permanecer en una choza llena de goteras en medio de la lluvia? (18)\r",
+                    "time": 635028
+                },
+                {
+                    "line": "Farid, ¿Por qué vagas de jungla en jungla, de árbol en árbol? El Señor habita en el corazón,\r",
+                    "time": 647021
+                },
+                {
+                    "line": "¿por qué lo buscas en la jungla? (19)\r",
+                    "time": 659065
+                },
+                {
+                    "line": "Farid, con estas piernas pequeñas, atravieso desiertos y montañas,\r",
+                    "time": 671062
+                },
+                {
+                    "line": "pero hoy, dice Farid, el agua parece estar miles de kilómetros lejos. (20)\r",
+                    "time": 684012
+                },
+                {
+                    "line": "Farid, las noches son largas y me duelen las extremidades.\r",
+                    "time": 696014
+                },
+                {
+                    "line": "Aplastadas son las vidas de quienes ponen sus esperanzas en otros. (21)\r",
+                    "time": 711062
+                },
+                {
+                    "line": "Farid, si hubiera estado ahí, cuando mi Amigo llegó, me hubiera ofrecido en sacrificio a él,\r",
+                    "time": 732089
+                },
+                {
+                    "line": "ahora mi carne se tuesta en el rojo carbón. (22)\r",
+                    "time": 745063
+                },
+                {
+                    "line": "Farid, el granjero, planta árboles de acadia\r",
+                    "time": 758032
+                },
+                {
+                    "line": "y espera obtener uvas, hila la lana y espera vestirse de seda. (23)\r",
+                    "time": 770037
+                },
+                {
+                    "line": "Farid, el camino es lodoso, y el Lugar de mi Bienamado esta muy lejos,\r",
+                    "time": 782068
+                },
+                {
+                    "line": "si voy afuera mi cobija se va a mojar, pero si me quedo entonces mi corazón se va a hacer pedazos. (24)\r",
+                    "time": 795049
+                },
+                {
+                    "line": "Farid, mi sarape está empapado, fue mojado por el Rocío del Señor,\r",
+                    "time": 807084
+                },
+                {
+                    "line": "voy afuera a encontrar a mi Amigo, para que mi corazón no se me deshaga. (25)\r",
+                    "time": 819082
+                },
+                {
+                    "line": "Farid, estaba preocupado por no ensuciar mi turbante, sin pensarlo,\r",
+                    "time": 832030
+                },
+                {
+                    "line": "no me di cuenta que algún día el polvo consumiría mi cabeza también. (26)\r",
+                    "time": 847081
+                },
+                {
+                    "line": "Farid, azúcar de caña, caramelo, melado de caña, miel y la leche de búfalo,\r",
+                    "time": 869001
+                },
+                {
+                    "line": "son dulces, pero ninguna te iguala en dulzura. (27)\r",
+                    "time": 882006
+                },
+                {
+                    "line": "Farid, mi pan es de madera y mi hambre es mi aperitivo,\r",
+                    "time": 893081
+                },
+                {
+                    "line": "quienes comen pan de mantequilla tendrán gran sufrimiento. (28)\r",
+                    "time": 906042
+                },
+                {
+                    "line": "Aliméntate sólo de pan y agua fría, dice Farid,\r",
+                    "time": 919004
+                },
+                {
+                    "line": "si ves a alguien con pan con mantequilla, no lo envidies por eso. (29)\r",
+                    "time": 931027
+                },
+                {
+                    "line": "Farid, esta noche no dormí con mi Esposo el Señor, y ahora mi cuerpo está en grandes sufrimientos,\r",
+                    "time": 943051
+                },
+                {
+                    "line": "ve y pregunta a la novia desertora, ¿cómo es que ella pasa su noches? (30)\r",
+                    "time": 956017
+                },
+                {
+                    "line": "Farid, ella no encuentra lugar de descanso en la casa de sus suegros,\r",
+                    "time": 984006
+                },
+                {
+                    "line": "ni tampoco en la casa de sus padres, su Esposo el Señor no la atiende, ¿qué tipo de Alma feliz y bendecida es ella? (31)\r",
+                    "time": 999097
+                },
+                {
+                    "line": "Farid, en la casa de sus suegros y en la de sus padres, ella pertenece a su Señor Esposo,\r",
+                    "time": 1015077
+                },
+                {
+                    "line": "Su Esposo es Inaccesible e Insondable, dice Farid, la esposa feliz es la que complace a su Despreocupado Señor. (32)\r",
+                    "time": 1031032
+                },
+                {
+                    "line": "Bañándose, lavándose y decorándose, ella llega y se duerme sin ansiedad,\r",
+                    "time": 1047054
+                },
+                {
+                    "line": "y dice Farid, su aroma es de asafétida, la fragancia del musgo se ha ido. (33)\r",
+                    "time": 1063022
+                },
+                {
+                    "line": "No tengo temor de perder mi juventud, mientras no pierda el Amor de mi Señor Esposo,\r",
+                    "time": 1079046
+                },
+                {
+                    "line": "dice Farid, tantos jóvenes que sin Su Amor se han secado y han desaparecido. (34)\r",
+                    "time": 1094035
+                },
+                {
+                    "line": "Farid, la ansiedad es mi cama, el dolor es mi colchón,\r",
+                    "time": 1117089
+                },
+                {
+                    "line": "y el dolor de mi separación es mi cobija, mira, así es mi vida, oh mi Maestro. (35)\r",
+                    "time": 1133040
+                },
+                {
+                    "line": "Muchos hablan de dolor y del sufrimiento de la separación, oh dolor, tú eres quien lo rige todo.\r",
+                    "time": 1149033
+                },
+                {
+                    "line": "Farid, ese cuerpo en donde el Amor al Señor no es edificado, velo como un campo crematorio. (36)\r",
+                    "time": 1164078
+                },
+                {
+                    "line": "Farid, estos son germinados venenosos cubiertos con azúcar,\r",
+                    "time": 1188067
+                },
+                {
+                    "line": "algunos son arruinados plantándolos y otros son arruinados cosechándolos y disfrutando de ellos. (37)\r",
+                    "time": 1204014
+                },
+                {
+                    "line": "Farid, las horas del día se pierden merodeando, y las de la noche se pierden en el sueño,\r",
+                    "time": 1227040
+                },
+                {
+                    "line": "Dios te va a llamar a entregar cuentas, y te preguntará ¿por qué viniste a este mundo? (38)\r",
+                    "time": 1242079
+                },
+                {
+                    "line": "Farid, has llegado hasta la Puerta del Señor, ¿Has visto el Gong ahí?,\r",
+                    "time": 1257094
+                },
+                {
+                    "line": "a este objeto sin culpas le están pegando, imagina lo que nos espera a nosotros los de las verdaderas faltas. (39)\r",
+                    "time": 1273041
+                },
+                {
+                    "line": "Farid, en todas y en cada hora es apaleado, y esto es cada día, este bello cuerpo es como el Gong,.\r",
+                    "time": 1288094
+                },
+                {
+                    "line": "pasa sus noches en dolor. (40)\r",
+                    "time": 1304002
+                },
+                {
+                    "line": "Sheik Farid se ha puesto viejo y su cuerpo empieza a tambalear,.\r",
+                    "time": 1319072
+                },
+                {
+                    "line": "aún si viviera por cientos de años, su cuerpo terminaría siendo polvo. (41)\r",
+                    "time": 1334098
+                },
+                {
+                    "line": "Farid te suplica oh Señor, no hagas que me siente en la puerta de otro,\r",
+                    "time": 1357096
+                },
+                {
+                    "line": "si eso es lo que planeas, entonces mejor quítame la vida. (42)\r",
+                    "time": 1373043
+                },
+                {
+                    "line": "Con el hacha en su hombro y la cubeta sobre su cabeza, el leñador se dispone a cortar el árbol,\r",
+                    "time": 1388062
+                },
+                {
+                    "line": "dice Farid, extraño a mi Señor, pero tú extrañas el carbón. (43)\r",
+                    "time": 1406030
+                },
+                {
+                    "line": "Farid, algunos tienen mucha harina, mientras que otros no tienen sal,\r",
+                    "time": 1419031
+                },
+                {
+                    "line": "cuando van más allá de este mundo, ahí se verá quién enfrenta las consecuencias de sus errores. (44)\r",
+                    "time": 1434063
+                },
+                {
+                    "line": "Los tambores resonaron en su honor, los doseles hondeaban sobre ellos,\r",
+                    "time": 1450018
+                },
+                {
+                    "line": "y las trompetas anunciaron su llegada, ahora se han ido a dormir al cementerio, enterrados como pobres huérfanos. (45)\r",
+                    "time": 1465022
+                },
+                {
+                    "line": "Farid, quienes construyeron casas, mansiones y cómodos edificios,\r",
+                    "time": 1488049
+                },
+                {
+                    "line": "se han ido también, hicieron falsos arreglos y fueron echados a sus tumbas. (46)\r",
+                    "time": 1503057
+                },
+                {
+                    "line": "Farid, hay tantas costuras en el abrigo, pero no hay ninguna en el Alma.\r",
+                    "time": 1518084
+                },
+                {
+                    "line": "Los Sheiks y sus discípulos han partido todos, cada uno en su propio momento. (47)\r",
+                    "time": 1533094
+                },
+                {
+                    "line": "Farid, las dos lámparas están encendidas, pero la muerte ha llegado de todas formas\r",
+                    "time": 1549036
+                },
+                {
+                    "line": "y tiene capturada la fortaleza del cuerpo y ha ultrajado el corazón, ella extingue la lámpara y se va. (48)\r",
+                    "time": 1564075
+                },
+                {
+                    "line": "Farid, mira lo que le ha pasado al algodón.\r",
+                    "time": 1580005
+                },
+                {
+                    "line": "y a la semilla de ajonjolí, a la caña de azúcar y al papel,\r",
+                    "time": 1595002
+                },
+                {
+                    "line": "a las vasijas de barro y al carbón, esto les espera a los que se comportan con maldad en su corazón. (49)\r",
+                    "time": 1610073
+                },
+                {
+                    "line": "Farid, llevas tu chal de oración sobre tus hombros, y tu túnica sufi,\r",
+                    "time": 1625086
+                },
+                {
+                    "line": "tus palabras son dulces, pero llevas una daga en el corazón, por fuera te vez reluciente, pero tu corazón es tan oscuro como la noche.(50)\r",
+                    "time": 1640069
+                },
+                {
+                    "line": "Farid, ni una gota de sangre se derramaría si soy cortado,\r",
+                    "time": 1656020
+                },
+                {
+                    "line": "los cuerpos que están imbuidos en el Señor no contienen ninguna sangre. (51)\r",
+                    "time": 1671023
+                },
+                {
+                    "line": "Mejl Guru Amar Das, Tercer Canal Divino.\r",
+                    "time": 1685083
+                },
+                {
+                    "line": "Este cuerpo es todo sangre, sin sangre no podría existir,\r",
+                    "time": 1697044
+                },
+                {
+                    "line": "los que están imbuidos con su Señor, no traen la avaricia en la sangre,\r",
+                    "time": 1712024
+                },
+                {
+                    "line": "cuando el Temor de Dios llena tu cuerpo, la sangre se adelgaza y la avaricia desaparece.\r",
+                    "time": 1727063
+                },
+                {
+                    "line": "Así como el metal es purificado por el fuego, el Temor Reverencial de Dios remueve.\r",
+                    "time": 1742050
+                },
+                {
+                    "line": "los residuos de cochambre en la mente malvada, oh, dice Nanak, los humildes se ven bellos cuando están imbuidos en el Amor del Señor. (52)\r",
+                    "time": 1757056
+                },
+                {
+                    "line": "Farid, busca ese Lago Sagrado, en donde lo genuino puede ser encontrado.\r",
+                    "time": 1772065
+                },
+                {
+                    "line": "¿Por qué buscar en el charco?, tu mano sólo se hundiría en el fango. (53)\r",
+                    "time": 1787044
+                },
+                {
+                    "line": "Farid, cuando está joven, ella no disfruta de su Esposo y cuando crece, muere,\r",
+                    "time": 1808097
+                },
+                {
+                    "line": "tendida en la tumba, la novia Alma llora y dice, no te conocí, oh mi Señor. (54)\r",
+                    "time": 1824043
+                },
+                {
+                    "line": "Farid, tu cabello se ha vuelto gris y tu bigote también, oh mente insana e inconsciente,\r",
+                    "time": 1838092
+                },
+                {
+                    "line": "¿por qué te dejas llevar por los placeres mundanos? (55)\r",
+                    "time": 1882050
+                },
+                {
+                    "line": "Farid, ¿qué tanto puedes andar por el techo?, vives dormida para tu Marido.\r",
+                    "time": 1897028
+                },
+                {
+                    "line": "¡Despierta! Los días que te fueron concedidos están contados y están transcurriendo sin parar. (56)\r",
+                    "time": 1912076
+                },
+                {
+                    "line": "Farid, casas, mansiones y balcones, no te apegues a ellos,\r",
+                    "time": 1943027
+                },
+                {
+                    "line": "cuando todo se colapse y se convierta en polvo, ninguno de ellos te acompañará. (57)\r",
+                    "time": 1958075
+                },
+                {
+                    "line": "Farid, no te enfoques en las mansiones ni en el dinero, concentra tu conciencia en la muerte, tu poderoso enemigo.\r",
+                    "time": 1973030
+                },
+                {
+                    "line": "Farid, recuerda ese Lugar a donde tienes que ir. (58)\r",
+                    "time": 1988044
+                },
+                {
+                    "line": "Farid, las acciones que no traen Mérito, olvídate de ellas,\r",
+                    "time": 2003046
+                },
+                {
+                    "line": "de otra forma serás puesto en vergüenza en la Corte del Señor. (59)\r",
+                    "time": 2018049
+                },
+                {
+                    "line": "Farid, trabaja para tu Señor y Maestro, disipa las dudas de tu corazón,\r",
+                    "time": 2032080
+                },
+                {
+                    "line": "los humildes derviches tienen el aguante y la paciencia de los árboles. (60)\r",
+                    "time": 2047069
+                },
+                {
+                    "line": "Farid, mi vestimenta está negra,\r",
+                    "time": 2062009
+                },
+                {
+                    "line": "estoy rodeado de maldad y aún así me llaman Santo. (61)\r",
+                    "time": 2077002
+                },
+                {
+                    "line": "La cosecha que se ha quemado no florecerá, aunque se le llene de agua,\r",
+                    "time": 2091073
+                },
+                {
+                    "line": "dice Farid, la que es abandonada por su Esposo, se lamenta y se acongoja. (62)\r",
+                    "time": 2105096
+                },
+                {
+                    "line": "Cuando es virgen, está llena de deseos, pero cuando se casa, entonces sus problemas comienzan,\r",
+                    "time": 2120016
+                },
+                {
+                    "line": "dice Farid, ella se arrepiente de que no puede ser virgen otra vez. (63)\r",
+                    "time": 2134054
+                },
+                {
+                    "line": "Los cisnes se han posado en un estanque de agua salada,\r",
+                    "time": 2149022
+                },
+                {
+                    "line": "meten sus cabezas, pero no beben del agua y parten sedientos. (64)\r",
+                    "time": 2163055
+                },
+                {
+                    "line": "Ellos parten y aterrizan en un campo de granos y la gente los espanta,\r",
+                    "time": 2178043
+                },
+                {
+                    "line": "esos inconscientes no entienden que los cisnes no comen granos. (65)\r",
+                    "time": 2192064
+                },
+                {
+                    "line": "Los pájaros que vivían en los estanques han volado, el estanque también se secará,\r",
+                    "time": 2207042
+                },
+                {
+                    "line": "y sólo la Flor de Loto permanecerá. (66)\r",
+                    "time": 2221063
+                },
+                {
+                    "line": "Farid, una piedra será tu almohada y la tierra será tu cama y los gusanos se comerán tu carne,\r",
+                    "time": 2236000
+                },
+                {
+                    "line": "muchas épocas pasarán, y seguirás ahí acostado. (67)\r",
+                    "time": 2250097
+                },
+                {
+                    "line": "Farid, tu bello cuerpo se destruirá, y el sutil hilo de la respiración se romperá,\r",
+                    "time": 2264090
+                },
+                {
+                    "line": "¿en qué casa estará de invitado el mensajero de la muerte el día de hoy? (68)\r",
+                    "time": 2279057
+                },
+                {
+                    "line": "Farid, tu bello cuerpo se destruirá y el sutil hilo de la respiración se romperá,\r",
+                    "time": 2293070
+                },
+                {
+                    "line": "¿en qué casa estará de invitado el mensajero de la muerte el día de hoy?, los que fueron una carga en la tierra, ¿cómo pueden venir hoy? (69)\r",
+                    "time": 2308018
+                },
+                {
+                    "line": "Farid, oh perro sin fe, este no es un buen modo de vida,\r",
+                    "time": 2322030
+                },
+                {
+                    "line": "nunca vienes a la mezquita para hacer tus cinco oraciones. (70)\r",
+                    "time": 2336049
+                },
+                {
+                    "line": "Levántate, dice Farid, y limpia tu ser, realiza tus oraciones de la mañana,\r",
+                    "time": 2350076
+                },
+                {
+                    "line": "y esa cabeza que no se postra ante el Señor, córtala y remuévela. (71)\r",
+                    "time": 2365013
+                },
+                {
+                    "line": "¿Qué se puede hacer con esa cabeza que no se postra ante el Señor?,\r",
+                    "time": 2379038
+                },
+                {
+                    "line": "ponla en la chimenea en vez de en la hoguera. (72)\r",
+                    "time": 2393098
+                },
+                {
+                    "line": "Farid, ¿dónde está tu madre y tu padre? ¿De quién naciste en el mundo?\r",
+                    "time": 2407068
+                },
+                {
+                    "line": "Ellos se han ido y aún así no quieres aceptar que también te tienes que ir. (73)\r",
+                    "time": 2422016
+                },
+                {
+                    "line": "Farid, tranquilízate, ya no hay montañas en el camino,\r",
+                    "time": 2436020
+                },
+                {
+                    "line": "de aquí en adelante el fuego de tus pasiones ni siquiera se te acercará. (74)\r",
+                    "time": 2450048
+                },
+                {
+                    "line": "Mejl Guru Aryan Dev, Quinto Canal Divino.\r",
+                    "time": 2464041
+                },
+                {
+                    "line": "Farid, el Creador está en la Creación y la creación habita en Dios,\r",
+                    "time": 2472026
+                },
+                {
+                    "line": "¿a quién le podemos llamar malo? No existe nada sin Él. (75)\r",
+                    "time": 2486029
+                },
+                {
+                    "line": "Farid, si ese día en que mi cordón umbilical fue cortado,\r",
+                    "time": 2500022
+                },
+                {
+                    "line": "mi cabeza hubiera sido cortada en vez, no hubiera caído en tantos problemas, ni enfrentado tantas dificultades. (76)\r",
+                    "time": 2514026
+                },
+                {
+                    "line": "Mis dientes, pies, ojos y oídos han dejado de funcionar, mi cuerpo se retuerce,\r",
+                    "time": 2528036
+                },
+                {
+                    "line": "aquellos a quienes conocía se han ido. (77)\r",
+                    "time": 2542084
+                },
+                {
+                    "line": "Dice Farid, respóndele a la maldad con bondad, no llenes tu mente de enojo,\r",
+                    "time": 2556073
+                },
+                {
+                    "line": "tu cuerpo no sufrirá de ninguna enfermedad y obtendrás todo. (78)\r",
+                    "time": 2570082
+                },
+                {
+                    "line": "Farid, el pájaro es un invitado en el bello jardín del mundo,\r",
+                    "time": 2585021
+                },
+                {
+                    "line": "las campanas de la mañana están sonando, prepárate para ir. (79)\r",
+                    "time": 2599023
+                },
+                {
+                    "line": "Farid, el aroma de Musgo sale de noche, y quien se encuentra dormido no se le impregna,\r",
+                    "time": 2613010
+                },
+                {
+                    "line": "quienes son de sueño pesado, ¿cómo podrían recibirlo? (80)\r",
+                    "time": 2627057
+                },
+                {
+                    "line": "Farid, pensé que sólo yo tenía problemas, el mundo entero tiene problemas,\r",
+                    "time": 2642058
+                },
+                {
+                    "line": "cuando subí la montaña y vi alrededor, pude ver fuego en cada hogar. (81)\r",
+                    "time": 2656017
+                },
+                {
+                    "line": "Mejl Guru Aryan Dev, Quinto Canal Divino.\r",
+                    "time": 2685094
+                },
+                {
+                    "line": "Farid, en medio de la bella tierra hay un jardín de espinas, los humildes,\r",
+                    "time": 2700078
+                },
+                {
+                    "line": "bendecidos por su Maestro no sacan ni siquiera un pequeño rasguño. (82)\r",
+                    "time": 2742001
+                },
+                {
+                    "line": "Mejl Guru Aryan Dev, Quinto Canal Divino.\r",
+                    "time": 2716036
+                },
+                {
+                    "line": "Farid, la vida es bendita y preciosa junto con el bello cuerpo,\r",
+                    "time": 2728097
+                },
+                {
+                    "line": "pero encuentra uno a muy pocos que viven enamorados del Bienamado Señor. (83)\r",
+                    "time": 2742001
+                },
+                {
+                    "line": "Farid, oh río, no destruyas tus orillas, pues serás llamado a entregar cuentas también,\r",
+                    "time": 2754089
+                },
+                {
+                    "line": "el río fluye en la dirección que el Señor decide. (84)\r",
+                    "time": 2767054
+                },
+                {
+                    "line": "Farid, el día transcurre en el dolor y en la noche hay ansiedad,\r",
+                    "time": 2779051
+                },
+                {
+                    "line": "el barquero se levanta y grita, el barco está en el remolino. (85)\r",
+                    "time": 2792007
+                },
+                {
+                    "line": "El fluye y fluye, le deleita comerse sus orillas,\r",
+                    "time": 2805003
+                },
+                {
+                    "line": "¿qué le puede pasar al barco en el remolino si el barquero permanece alerta? (86)\r",
+                    "time": 2817044
+                },
+                {
+                    "line": "Farid, docenas dicen ser amigos, pero no he podido encontrar ni siquiera uno,\r",
+                    "time": 2830002
+                },
+                {
+                    "line": "añoro a mi Bienamado, como el fuego que se extingue. (87)\r",
+                    "time": 2843005
+                },
+                {
+                    "line": "Farid, el cuerpo ladra todo el tiempo, ¿quién puede aguantar ese sufrimiento?,\r",
+                    "time": 2855045
+                },
+                {
+                    "line": "he puesto tapones en mis oídos y no me importa qué tanto el viento sopla. (88)\r",
+                    "time": 2871006
+                },
+                {
+                    "line": "Farid, el tiempo de Dios ha madurado y los ríos de miel fluyen,\r",
+                    "time": 2892059
+                },
+                {
+                    "line": "con cada día que pasa tu vida se acaba. (89)\r",
+                    "time": 2906080
+                },
+                {
+                    "line": "Farid, mi acabado cuerpo se ha vuelto un esqueleto y los cuervos picotean mis manos,\r",
+                    "time": 2917086
+                },
+                {
+                    "line": "aún ahora Dios no ha llegado en mi ayuda, escucha, este es la suerte del mortal. (90)\r",
+                    "time": 2930045
+                },
+                {
+                    "line": "Los cuervos se han comido toda mi carne.\r",
+                    "time": 2942090
+                },
+                {
+                    "line": "pero por favor no toquen estos ojos pues tengo que ver a mi Señor. (91)\r",
+                    "time": 2955045
+                },
+                {
+                    "line": "Farid, oh cuervos, no picoteen mi esqueleto, emprendan su vuelo,.\r",
+                    "time": 2968012
+                },
+                {
+                    "line": "no coman del esqueleto en donde mi Señor Esposo habita. (92)\r",
+                    "time": 2980065
+                },
+                {
+                    "line": "Farid, la pobre tumba grita, oh, ser sin hogar, regresa a tu hogar,.\r",
+                    "time": 2992058
+                },
+                {
+                    "line": "de seguro tendrás que regresar, no tengas temor de la muerte. (93)\r",
+                    "time": 3008049
+                },
+                {
+                    "line": "Estos ojos han visto a muchos partir,\r",
+                    "time": 3029079
+                },
+                {
+                    "line": "la gente tiene su destino y yo el mío. (94)\r",
+                    "time": 3042084
+                },
+                {
+                    "line": "Dios dice, si reformas tu ser, me encontrarás y estarás en Paz,\r",
+                    "time": 3055032
+                },
+                {
+                    "line": "o dice Farid, si eres mío, el mundo entero será tuyo. (95)\r",
+                    "time": 3067055
+                },
+                {
+                    "line": "¿Cuánto puede el árbol permanecer a orillas del río?\r",
+                    "time": 3079099
+                },
+                {
+                    "line": "Farid, ¿cuánto puede permanecer el río en una maceta de barro blanda? (96)\r",
+                    "time": 3092096
+                },
+                {
+                    "line": "Farid, las mansiones están vacías,\r",
+                    "time": 3105017
+                },
+                {
+                    "line": "quienes vivían ahí, han ido a vivir bajo tierra.\r",
+                    "time": 3117093
+                },
+                {
+                    "line": "Permanecen ahí, en las tumbas sin ningún honor. (97)\r",
+                    "time": 3131015
+                },
+                {
+                    "line": "Farid, la orilla de la muerte se ve como la orilla del río,\r",
+                    "time": 3157091
+                },
+                {
+                    "line": "deslavada, más allá están los que regresan al fuego de sus pasiones,\r",
+                    "time": 3173071
+                },
+                {
+                    "line": "ahí se les escucha a los Sheiks, algunos entienden esto totalmente,\r",
+                    "time": 3195022
+                },
+                {
+                    "line": "mientras que a otros no les interesa. Los actos de este mundo, serán examinados en la Corte del Señor. (98)\r",
+                    "time": 3207087
+                },
+                {
+                    "line": "Farid, la grulla gorgojea disfrutando a la orilla del río.\r",
+                    "time": 3220074
+                },
+                {
+                    "line": "Mientras disfruta, un halcón acecha,\r",
+                    "time": 3232052
+                },
+                {
+                    "line": "cuando el Halcón de Dios ataca,\r",
+                    "time": 3244076
+                },
+                {
+                    "line": "y el jugueteo termina, Dios actúa de forma inesperada. (99)\r",
+                    "time": 3257021
+                },
+                {
+                    "line": "El cuerpo se nutre de agua y granos,\r",
+                    "time": 3269093
+                },
+                {
+                    "line": "el mortal llega al mundo con grandes expectativas,\r",
+                    "time": 3285024
+                },
+                {
+                    "line": "pero cuando el mensajero de la muerte llega, destruye todas las puertas,\r",
+                    "time": 3306096
+                },
+                {
+                    "line": "aprisiona y ata al mortal enfrente de sus amistades y parientes.\r",
+                    "time": 3319069
+                },
+                {
+                    "line": "Miren, el mortal es cargado y llevado en los hombros de cuatro seres,\r",
+                    "time": 3332036
+                },
+                {
+                    "line": "dice Farid, sólo las buenas acciones realizadas en el mundo serán de ayuda en la Corte del Señor. (100)\r",
+                    "time": 3344006
+                },
+                {
+                    "line": "Farid, ofrezco mi ser a esas aves de la jungla,\r",
+                    "time": 3356068
+                },
+                {
+                    "line": "ellas picotean las raíces y viven en la tierra, pero no se alejan del lado del Señor. (101)\r",
+                    "time": 3369012
+                },
+                {
+                    "line": "Farid, las estaciones cambian, los bosques se sacuden y las hojas caen,\r",
+                    "time": 3381023
+                },
+                {
+                    "line": "he buscado en las cuatro direcciones y no he encontrado por ningún lado, lugar de descanso alguno. (102)\r",
+                    "time": 3396084
+                },
+                {
+                    "line": "Farid, he cortado mi ropa en pedazos, ahora sólo uso una cobija,\r",
+                    "time": 3418033
+                },
+                {
+                    "line": "uso sólo la ropa que me va a conducir hasta mi Señor. (103)\r",
+                    "time": 3430079
+                },
+                {
+                    "line": "Mejl Guru Amar Das, Tercer Canal Divino.\r",
+                    "time": 3459090
+                },
+                {
+                    "line": "¿Por qué despedazas tu ropa fina y utilizas esa cobija,\r",
+                    "time": 3483043
+                },
+                {
+                    "line": "oh, dice Nanak, aun sentado en tu propio hogar, puedes conocer al Señor, si estás en lugar requerido. (104)\r",
+                    "time": 3497061
+                },
+                {
+                    "line": "Mejl Guru Aryan Dev, Quinto Canal Divino.\r",
+                    "time": 3511096
+                },
+                {
+                    "line": "Farid, los que están muy orgullosos de su grandeza, riqueza y juventud,\r",
+                    "time": 3515045
+                },
+                {
+                    "line": "regresarán con las manos vacías del Señor, como las colinas de arena después de la lluvia. (105)\r",
+                    "time": 3529088
+                },
+                {
+                    "line": "Farid, el semblante de quienes se olvidan del Nombre del Señor se observa demacrado,\r",
+                    "time": 3543028
+                },
+                {
+                    "line": "ellos sufren terribles dolores aquí, y en el más allá no encuentran refugio o lugar de descanso. (106)\r",
+                    "time": 3558004
+                },
+                {
+                    "line": "Farid, si no te despiertas en las tempranas horas, antes del alba,\r",
+                    "time": 3571093
+                },
+                {
+                    "line": "para estár muerto mientras vivo, te estarás olvidando de Dios, pero Dios no se olvida de ti. (107)\r",
+                    "time": 3585092
+                },
+                {
+                    "line": "Mejl Guru Aryan Dev, Quinto Canal Divino.\r",
+                    "time": 3587156
+                },
+                {
+                    "line": "Farid, mi Señor Esposo está lleno de Dicha, es Grandioso y Autosuficiente,\r",
+                    "time": 3602109
+                },
+                {
+                    "line": "la decoración más preciosa es estar imbuido en el Señor Dios. (108)\r",
+                    "time": 3615150
+                },
+                {
+                    "line": "Mejl Guru Aryan Dev, Quinto Canal Divino.\r",
+                    "time": 3618172
+                },
+                {
+                    "line": "Farid, siente igual el dolor y el placer y erradica la corrupción de tu corazón,\r",
+                    "time": 3633156
+                },
+                {
+                    "line": "lo que sea que complace al Señor Dios es Bueno, entiende esto y llegarás hasta Su Corte. (109)\r",
+                    "time": 3644147
+                },
+                {
+                    "line": "Mejl Guru Aryan Dev, Quinto Canal Divino.\r",
+                    "time": 3646164
+                },
+                {
+                    "line": "Farid, el mundo baila como baila y tú bailas con él también,\r",
+                    "time": 3651153
+                },
+                {
+                    "line": "pero el Alma que está bajo la protección del Señor Dios, no baila al mismo son. (110)\r",
+                    "time": 3664148
+                },
+                {
+                    "line": "Mejl Guru Aryan Dev, Quinto Canal Divino.\r",
+                    "time": 3678138
+                },
+                {
+                    "line": "Farid, el corazón está imbuido en los asuntos del mundo, pero lo que es del mundo no le ayuda en nada.\r",
+                    "time": 3681158
+                },
+                {
+                    "line": "Es muy difícil ser como los fakires, los Santos sólo se dan con un Karma Perfecto. (111)\r",
+                    "time": 3695132
+                },
+                {
+                    "line": "La primera ronda de la noche trae flores, las demás rondas traen frutas,\r",
+                    "time": 3709144
+                },
+                {
+                    "line": "quienes permanecen despiertos y conscientes, reciben los Regalos del Señor. (112)\r",
+                    "time": 3723158
+                },
+                {
+                    "line": "Los Regalos son de nuestro Señor y Maestro, y nadie Lo puede forzar a darlos,\r",
+                    "time": 3737127
+                },
+                {
+                    "line": "algunos están despiertos pero no los reciben, mientras que Él despierta de su sueño a otros y los bendice con Ellos. (113)\r",
+                    "time": 3751128
+                },
+                {
+                    "line": "Buscas a tu Señor Esposo, debe de haber alguna falta en tu ser,\r",
+                    "time": 3765122
+                },
+                {
+                    "line": "los que se les conoce como Almas felices no buscan nada ni a nadie. (114)\r",
+                    "time": 3778147
+                },
+                {
+                    "line": "En tu interior has de la Paciencia el arco y la cuerda tensada,\r",
+                    "time": 3792149
+                },
+                {
+                    "line": "has de la Paciencia la flecha, El Creador no dejará que falles tu tino. (115)\r",
+                    "time": 3806093
+                },
+                {
+                    "line": "Los que son pacientes habitan en la Paciencia, así su cuerpo es consumido,\r",
+                    "time": 3820102
+                },
+                {
+                    "line": "viven cerca del Señor pero no revelan su secreto a nadie. (116)\r",
+                    "time": 3833175
+                },
+                {
+                    "line": "Deja que la Paciencia sea tu propósito de vida y déjala asentar en tu ser,\r",
+                    "time": 3847152
+                },
+                {
+                    "line": "así te transformarás en un gran río y nunca te convertirás en un arroyo. (117)\r",
+                    "time": 3861105
+                },
+                {
+                    "line": "Farid, es difícil ser un Derviche, un Santo, es más fácil disfrutar el pan cuando tiene mantequilla,\r",
+                    "time": 3874186
+                },
+                {
+                    "line": "sólo uno pocos siguen el Sendero de los Santos. (118)\r",
+                    "time": 3888144
+                },
+                {
+                    "line": "Mi cuerpo se cocina como un horno, mis huesos se queman como la madera,\r",
+                    "time": 3902180
+                },
+                {
+                    "line": "si mis pies se cansan, caminaría sobre mi cabeza, si así encontrara a mi Bienamado. (119)\r",
+                    "time": 3916111
+                },
+                {
+                    "line": "No dejes que tu cuerpo se caliente como un horno, y no quemen sus huesos como la madera,\r",
+                    "time": 3930171
+                },
+                {
+                    "line": "¿qué daño les han causado sus pies y su cabeza? Observen a su Bienamado en su interior. (120)\r",
+                    "time": 3944114
+                },
+                {
+                    "line": "Busco a mi Amigo, pero mi Amigo está ya en mi interior, oh dice Nanak,\r",
+                    "time": 3958138
+                },
+                {
+                    "line": "el Invisible Señor no puede ser visto, sólo se le revela al Gurmukj. (121)\r",
+                    "time": 3971180
+                },
+                {
+                    "line": "Viendo a los cisnes nadar, las grullas se fascinaron, pero las pobres se ahogaron,\r",
+                    "time": 3986111
+                },
+                {
+                    "line": "y terminaron con su cabeza en el agua y las patas para arriba. (122)\r",
+                    "time": 3999186
+                },
+                {
+                    "line": "Pensaba que era un gran cisne y me acerqué a él, de haber sabido que sólo era una pobre grulla,\r",
+                    "time": 4013185
+                },
+                {
+                    "line": "nunca en la vida mi sendero se hubiera cruzado con el de él. (123)\r",
+                    "time": 4028134
+                },
+                {
+                    "line": "¿Quién es cisne y quién es grulla?, si Dios lo bendice con Su Mirada de Gracia, si así le complace,\r",
+                    "time": 4041177
+                },
+                {
+                    "line": "oh dice Nanak, transforma una grulla en un precioso cisne. (124)\r",
+                    "time": 4056111
+                },
+                {
+                    "line": "Hay sólo un ave en el lago, pero hay cincuenta cazadores, este cuerpo es atrapado en las olas del deseo,\r",
+                    "time": 4069180
+                },
+                {
+                    "line": "oh mi Señor Verdadero, Tú eres mi Única Esperanza. (125)\r",
+                    "time": 4083145
+                },
+                {
+                    "line": "¿Cuál es esa Palabra, esa Virtud y ese Mantra mágico?\r",
+                    "time": 4097179
+                },
+                {
+                    "line": "¿Cuáles son esos ropajes que puedo usar para cautivar a mi Señor Esposo? (126)\r",
+                    "time": 4112133
+                },
+                {
+                    "line": "La Humildad es la Palabra, el Perdón es la Virtud, y el Lenguaje Dulce es el Mantra Mágico,\r",
+                    "time": 4125128
+                },
+                {
+                    "line": "usa estas tres vestimentas, oh hermana y cautivarás a tu Señor Esposo. (127)\r",
+                    "time": 4139112
+                },
+                {
+                    "line": "Si tienes Sabiduría, sé sencillo;\r",
+                    "time": 4153130
+                },
+                {
+                    "line": "si eres poderoso, muéstrate débil;\r",
+                    "time": 4159170
+                },
+                {
+                    "line": "y cuando no haya más que compartir, entonces comparte con otros.\r",
+                    "time": 4167106
+                },
+                {
+                    "line": "¡Qué raro es encontrar a tal Devoto! (128)\r",
+                    "time": 4173170
+                },
+                {
+                    "line": "No pronuncies ni siquiera una palabra hiriente, tu Señor y Maestro habita en todo,\r",
+                    "time": 4181139
+                },
+                {
+                    "line": "no rompas el corazón de nadie, éstas son todas joyas preciosas. (129)\r",
+                    "time": 4194133
+                },
+                {
+                    "line": "La mente de todos es como una preciosa joya, no es nada bueno lastimarla,\r",
+                    "time": 4208143
+                },
+                {
+                    "line": "pues si deseas a tu Bienamado, entonces no rompas el corazón de nadie. (130)\r",
+                    "time": 4222107
+                },
+                {
+                    "line": "pues si deseas a tu Bienamado, entonces no rompas el corazón de nadie. (130)",
+                    "time": 4236133
+                }
+            ],
+            "hindi_lyrics": null
+        }
+    ],
+    "info": "testings"
+}

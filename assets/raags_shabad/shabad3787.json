@@ -1,0 +1,1560 @@
+{
+    "status": 200,
+    "message": "",
+    "data": [
+        {
+            "albumart": "",
+            "author": "",
+            "song": "ਹਾਥਿ ਕਲੰਮ ਅਗੰਮ ਮਸਤਕਿ ਲੇਖਾਵਤੀ ॥",
+            "json": "https://shabad-guru.org/uploads/data/34  - Phuney Mehla 5/ਹਾਥਿ ਕਲੰਮ ਅਗੰਮ ਮਸਤਕਿ ਲੇਖਾਵਤੀ ॥.json",
+            "audio": "https://shabadguru.s3.us-west-1.amazonaws.com/gurbani/lrc n- Project/34  - Phuney Mehla 5/mp3/song/1035 A _ 1036 A Pb.mp3",
+            "punjabi": 1,
+            "english": 1,
+            "english_trans": 1,
+            "spanish": 1,
+            "hindi": 1,
+            "file_name_on_s3": "1035 A _ 1036 A Pb",
+            "english_trans_lyrics": [
+                {
+                    "line": "funhay mehlaa 5\r",
+                    "time": 13062
+                },
+                {
+                    "line": "ik-oNkaar satgur parsaad.\r",
+                    "time": 19088
+                },
+                {
+                    "line": "haath kalamm agamm mastak laykhaavatee.\r",
+                    "time": 37066
+                },
+                {
+                    "line": "urajh rahi-o sabh sang anoop roopaavatee.\r",
+                    "time": 49095
+                },
+                {
+                    "line": "ustat kahan na jaa-ay mukhahu tuhaaree-aa.\r",
+                    "time": 68012
+                },
+                {
+                    "line": "mohee daykh daras naanak balihaaree-aa. ||1||\r",
+                    "time": 79093
+                },
+                {
+                    "line": "sant sabhaa meh bais ke keerat mai kahaaN.\r",
+                    "time": 91069
+                },
+                {
+                    "line": "arpee sabh seegaar ayhu jee-o sabh divaa.\r",
+                    "time": 103039
+                },
+                {
+                    "line": "aas pi-aasee sayj so kant vichhaa-ee-ai.\r",
+                    "time": 121072
+                },
+                {
+                    "line": "harihaaN mastak hovai bhaag ta saajan paa-ee-ai. ||2||\r",
+                    "time": 133073
+                },
+                {
+                    "line": "sakhee kaajal haar tambol sabhai kichh saaji-aa.\r",
+                    "time": 146021
+                },
+                {
+                    "line": "solah kee-ay seegaar ke anjan paaji-aa.\r",
+                    "time": 157075
+                },
+                {
+                    "line": "jay ghar aavai kant ta sabh kichh paa-ee-ai.\r",
+                    "time": 174099
+                },
+                {
+                    "line": "harihaaN kantai baajh seegaar sabh birthaa jaa-ee-ai. ||3||\r",
+                    "time": 187002
+                },
+                {
+                    "line": "jis ghar vasi-aa kant saa vadbhaagnay.\r",
+                    "time": 199001
+                },
+                {
+                    "line": "tis bani-aa habh seegaar saa-ee sohaagnay.\r",
+                    "time": 210089
+                },
+                {
+                    "line": "ha-o sutee ho-ay achint man aas puraa-ee-aa.\r",
+                    "time": 228094
+                },
+                {
+                    "line": "harihaaN jaa ghar aa-i-aa kant ta sabh kichh paa-ee-aa. ||4||\r",
+                    "time": 240078
+                },
+                {
+                    "line": "aasaa itee aas ke aas puraa-ee-ai.\r",
+                    "time": 252069
+                },
+                {
+                    "line": "satgur bha-ay da-i-aal ta pooraa paa-ee-ai.\r",
+                    "time": 264019
+                },
+                {
+                    "line": "mai tan avgan bahut ke avgan chhaa-i-aa.\r",
+                    "time": 282028
+                },
+                {
+                    "line": "harihaaN satgur bha-ay da-i-aal ta man thehraa-i-aa. ||5||\r",
+                    "time": 293089
+                },
+                {
+                    "line": "kaho naanak bay-ant bay-ant Dhi-aa-i-aa.\r",
+                    "time": 305082
+                },
+                {
+                    "line": "dutar ih sansaar satguroo taraa-i-aa.\r",
+                    "time": 317040
+                },
+                {
+                    "line": "miti-aa aavaa ga-on jaaN pooraa paa-i-aa.\r",
+                    "time": 334094
+                },
+                {
+                    "line": "harihaaN amrit har kaa naam satgur tay paa-i-aa. ||6||\r",
+                    "time": 346056
+                },
+                {
+                    "line": "mayrai haath padam aagan sukh baasnaa.\r",
+                    "time": 358043
+                },
+                {
+                    "line": "sakhee morai kanth ratann paykh dukh naasnaa.\r",
+                    "time": 370019
+                },
+                {
+                    "line": "baasa-o sang gupaal sagal sukh raas har.\r",
+                    "time": 388011
+                },
+                {
+                    "line": "harihaaN riDh siDh nav niDh baseh jis sadaa kar. ||7||\r",
+                    "time": 400000
+                },
+                {
+                    "line": "par tari-a raavan jaahi say-ee taa laajee-ah.\r",
+                    "time": 411053
+                },
+                {
+                    "line": "nitparat hireh par darab chhidar kat dhaakee-ah.\r",
+                    "time": 423012
+                },
+                {
+                    "line": "har gun ramat pavitar sagal kul taar-ee.\r",
+                    "time": 440048
+                },
+                {
+                    "line": "harihaaN suntay bha-ay puneet paarbarahm beechaara-ee. ||8||\r",
+                    "time": 452044
+                },
+                {
+                    "line": "oopar banai akaas talai Dhar sohtee.\r",
+                    "time": 464023
+                },
+                {
+                    "line": "dah dis chamkai beejul mukh ka-o johtee.\r",
+                    "time": 476019
+                },
+                {
+                    "line": "khojat fira-o bidays pee-o kat paa-ee-ai.\r",
+                    "time": 493098
+                },
+                {
+                    "line": "harihaaN jay mastak hovai bhaag ta daras samaa-ee-ai. ||9||\r",
+                    "time": 505088
+                },
+                {
+                    "line": "dithay sabhay thaav nahee tuDh jayhi-aa.\r",
+                    "time": 517090
+                },
+                {
+                    "line": "baDhohu purakh biDhaatai taaN too sohi-aa.\r",
+                    "time": 529083
+                },
+                {
+                    "line": "vasdee saghan apaar anoop raamdaas pur.\r",
+                    "time": 547064
+                },
+                {
+                    "line": "harihaaN naanak kasmal jaahi naa-i-ai raamdaas sar. ||10||\r",
+                    "time": 559052
+                },
+                {
+                    "line": "chaatrik chit suchit so saajan chaahee-ai.\r",
+                    "time": 571031
+                },
+                {
+                    "line": "jis sang laagay paraan tisai ka-o aahee-ai.\r",
+                    "time": 582099
+                },
+                {
+                    "line": "ban ban firat udaas boond jal kaarnay.\r",
+                    "time": 600079
+                },
+                {
+                    "line": "harihaaN ti-o har jan maaNgai naam naanak balihaarnay. ||11||\r",
+                    "time": 612061
+                },
+                {
+                    "line": "mit kaa chit anoop maramm na jaanee-ai.\r",
+                    "time": 637083
+                },
+                {
+                    "line": "gaahak gunee apaar so tat pachhaanee-ai.\r",
+                    "time": 649091
+                },
+                {
+                    "line": "chiteh chit samaa-ay ta hovai rang ghanaa.\r",
+                    "time": 667088
+                },
+                {
+                    "line": "harihaaN chanchal choreh maar ta paavahi sach Dhanaa. ||12||\r",
+                    "time": 679084
+                },
+                {
+                    "line": "supnai oobhee bha-ee gahi-o kee na anchlaa.\r",
+                    "time": 692016
+                },
+                {
+                    "line": "sundar purakh biraajit paykh man banchlaa.\r",
+                    "time": 703052
+                },
+                {
+                    "line": "khoja-o taa kay charan kahhu kat paa-ee-ai.\r",
+                    "time": 721059
+                },
+                {
+                    "line": "harihaaN so-ee jatann bataa-ay sakhee pari-o paa-ee-ai. ||13||\r",
+                    "time": 733003
+                },
+                {
+                    "line": "nain na daykheh saaDh se nain bihaali-aa.\r",
+                    "time": 744080
+                },
+                {
+                    "line": "karan na sunhee naad karan mund ghaali-aa.\r",
+                    "time": 756090
+                },
+                {
+                    "line": "rasnaa japai na naam til til kar katee-ai.\r",
+                    "time": 774096
+                },
+                {
+                    "line": "harihaaN jab bisrai gobid raa-ay dino din ghatee-ai. ||14||\r",
+                    "time": 786065
+                },
+                {
+                    "line": "pankaj faathay pank mahaa mad guNfi-aa.\r",
+                    "time": 799008
+                },
+                {
+                    "line": "ang sang urjhaa-ay bisratay suNfi-aa.\r",
+                    "time": 810061
+                },
+                {
+                    "line": "hai ko-oo aisaa meet je torai bikham gaaNth.\r",
+                    "time": 828052
+                },
+                {
+                    "line": "naanak ik sareeDhar naath je tootay lay-ay saaNth. ||15||\r",
+                    "time": 840023
+                },
+                {
+                    "line": "Dhaava-o dasaa anayk paraym parabh kaarnay.\r",
+                    "time": 852008
+                },
+                {
+                    "line": "panch sataaveh doot kavan biDh maarnay.\r",
+                    "time": 863092
+                },
+                {
+                    "line": "teekhan baan chalaa-ay naam parabh Dha-yaa-ee-ai.\r",
+                    "time": 882041
+                },
+                {
+                    "line": "harihaaN mahaaN bikhaadee ghaat pooran gur paa-ee-ai. ||16||\r",
+                    "time": 894013
+                },
+                {
+                    "line": "satgur keenee daat mool na nikhuta-ee.\r",
+                    "time": 906001
+                },
+                {
+                    "line": "kaavahu bhunchahu sabh gurmukh chhut-ee.\r",
+                    "time": 918001
+                },
+                {
+                    "line": "amrit naam niDhaan ditaa tus har.\r",
+                    "time": 935099
+                },
+                {
+                    "line": "naanak sadaa araaDh kaday na jaaNhi mar. ||17||\r",
+                    "time": 947090
+                },
+                {
+                    "line": "jithai jaa-ay bhagat so thaan suhaavanaa.\r",
+                    "time": 959091
+                },
+                {
+                    "line": "saglay ho-ay sukh har naam Dhi-aavanaa.\r",
+                    "time": 971064
+                },
+                {
+                    "line": "jee-a karan jaikaar nindak mu-ay pach.\r",
+                    "time": 989064
+                },
+                {
+                    "line": "saajan man aanand naanak naam jap. ||18||\r",
+                    "time": 1001067
+                },
+                {
+                    "line": "paavan patit puneet katah nahee sayvee-ai.\r",
+                    "time": 1014005
+                },
+                {
+                    "line": "jhoothai rang khu-aar kahaaN lag khayvee-ai.\r",
+                    "time": 1025059
+                },
+                {
+                    "line": "harichand-uree paykh kaahay sukh maani-aa.\r",
+                    "time": 1043032
+                },
+                {
+                    "line": "harihaaN ha-o balihaaree tinn je dargahi jaani-aa. ||19||\r",
+                    "time": 1054090
+                },
+                {
+                    "line": "keenay karam anayk gavaar bikaar ghan.\r",
+                    "time": 1066091
+                },
+                {
+                    "line": "mahaa darugaNDhat vaas sath kaa chhaar tan.\r",
+                    "time": 1078068
+                },
+                {
+                    "line": "firta-o garab gubaar maran nah jaan-ee.\r",
+                    "time": 1096021
+                },
+                {
+                    "line": "harihaaN harichand-uree paykh kaahay sach maan-ee. ||20||\r",
+                    "time": 1108043
+                },
+                {
+                    "line": "jis kee poojai a-oDh tisai ka-un raakh-ee.\r",
+                    "time": 1120002
+                },
+                {
+                    "line": "baidak anik upaav kahaaN la-o bhaakh-ee.\r",
+                    "time": 1132020
+                },
+                {
+                    "line": "ayko chayt gavaar kaaj tayrai aavee.\r",
+                    "time": 1149064
+                },
+                {
+                    "line": "harihaaN bin naavai tan chhaar baritha sabh jaav-ee. ||21||\r",
+                    "time": 1161042
+                },
+                {
+                    "line": "a-ukhaDh naam apaar amolak peej-ee.\r",
+                    "time": 1173041
+                },
+                {
+                    "line": "mil mil khaaveh sant sagal ka-o deej-ee.\r",
+                    "time": 1185021
+                },
+                {
+                    "line": "jisai paraapat ho-ay tisai hee paavnay.\r",
+                    "time": 1202085
+                },
+                {
+                    "line": "harihaaN ha-o balihaaree tinH je har rang raavnay. ||22||\r",
+                    "time": 1214079
+                },
+                {
+                    "line": "vaidaa sandaa sang ikthaa ho-i-aa.\r",
+                    "time": 1227029
+                },
+                {
+                    "line": "a-ukhad aa-ay raas vich aap khalo-i-aa.\r",
+                    "time": 1238038
+                },
+                {
+                    "line": "jo jo onaa karam sukaram ho-ay pasri-aa.\r",
+                    "time": 1256006
+                },
+                {
+                    "line": "harihaaN dookh rog sabh paap tan tay khisri-aa. ||23||\r",
+                    "time": 1267094
+                },
+                {
+                    "line": "jo jo onaa karam sukaram ho-ay pasri-aa.\r",
+                    "time": 1279098
+                },
+                {
+                    "line": "harihaaN dookh rog sabh paap tan tay khisri-aa. ||23||\r",
+                    "time": 1291067
+                }
+            ],
+            "english_lyrics": [
+                {
+                    "line": "Phunhay, Fifth Mehl:\r",
+                    "time": 13062
+                },
+                {
+                    "line": "One Universal Creator God. By The Grace Of The True Guru:\r",
+                    "time": 19088
+                },
+                {
+                    "line": "With Pen in Hand, the Unfathomable Lord writes the mortal's destiny upon his forehead.\r",
+                    "time": 37066
+                },
+                {
+                    "line": "The Incomparably Beautiful Lord is involved with all.\r",
+                    "time": 49095
+                },
+                {
+                    "line": "I cannot utter Your Praises with my mouth.\r",
+                    "time": 68012
+                },
+                {
+                    "line": "Nanak is fascinated, gazing upon the Blessed Vision of Your Darshan. I am a sacrifice to You. ||1||\r",
+                    "time": 79093
+                },
+                {
+                    "line": "Seated in the Society of the Saints, I chant the Lord's Praises.\r",
+                    "time": 91069
+                },
+                {
+                    "line": "I dedicate all my adornments to Him, and give all this soul to Him.\r",
+                    "time": 103039
+                },
+                {
+                    "line": "With hopeful yearning for Him, I have made the bed for my Husband.\r",
+                    "time": 121072
+                },
+                {
+                    "line": "O Lord! If such good destiny is inscribed upon my forehead, then I shall find my Friend. ||2||\r",
+                    "time": 133073
+                },
+                {
+                    "line": "O my companion, I have prepared everything: make-up, garlands and betel-leaves.\r",
+                    "time": 146021
+                },
+                {
+                    "line": "I have embellished myself with the sixteen decorations, and applied the mascara to my eyes.\r",
+                    "time": 157075
+                },
+                {
+                    "line": "If my Husband Lord comes to my home, then I obtain everything.\r",
+                    "time": 174099
+                },
+                {
+                    "line": "O Lord! Without my Husband, all these adornments are useless. ||3||\r",
+                    "time": 187002
+                },
+                {
+                    "line": "Very fortunate is she, within whose home the Husband Lord abides.\r",
+                    "time": 199001
+                },
+                {
+                    "line": "She is totally adorned and decorated; she is a happy soul-bride.\r",
+                    "time": 210089
+                },
+                {
+                    "line": "I sleep in peace, without anxiety; the hopes of my mind have been fulfilled.\r",
+                    "time": 228094
+                },
+                {
+                    "line": "O Lord! When my Husband came into the home of my heart, I obtained everything. ||4||\r",
+                    "time": 240078
+                },
+                {
+                    "line": "My hope is so intense, that this hope alone should fulfill my hopes.\r",
+                    "time": 252069
+                },
+                {
+                    "line": "When the True Guru becomes merciful, then I attain the Perfect Lord.\r",
+                    "time": 264019
+                },
+                {
+                    "line": "My body is filled with so many demerits; I am covered with faults and demerits.\r",
+                    "time": 282028
+                },
+                {
+                    "line": "O Lord! When the True Guru becomes Merciful, then the mind is held in place. ||5||\r",
+                    "time": 293089
+                },
+                {
+                    "line": "Says Nanak, I have meditated on the Lord, Infinite and Endless.\r",
+                    "time": 305082
+                },
+                {
+                    "line": "This world-ocean is so difficult to cross; the True Guru has carried me across.\r",
+                    "time": 317040
+                },
+                {
+                    "line": "My comings and goings in reincarnation ended, when I met the Perfect Lord.\r",
+                    "time": 334094
+                },
+                {
+                    "line": "O Lord! I have obtained the Ambrosial Nectar of the Name of the Lord from the True Guru. ||6||\r",
+                    "time": 346056
+                },
+                {
+                    "line": "The lotus is in my hand; in the courtyard of my heart I abide in peace.\r",
+                    "time": 358043
+                },
+                {
+                    "line": "O my companion, the Jewel is around my neck; beholding it, sorrow is taken away.\r",
+                    "time": 370019
+                },
+                {
+                    "line": "I abide with the Lord of the World, the Treasury of Total Peace. O Lord!\r",
+                    "time": 388011
+                },
+                {
+                    "line": "All wealth, spiritual perfection and the nine treasures are in His Hand. ||7||\r",
+                    "time": 400000
+                },
+                {
+                    "line": "Those men who go out to enjoy other men's women shall suffer in shame.\r",
+                    "time": 411053
+                },
+                {
+                    "line": "Those who steal the wealth of others - how can their guilt be concealed?\r",
+                    "time": 423012
+                },
+                {
+                    "line": "Those who chant the Sacred Praises of the Lord save and redeem all their generations.\r",
+                    "time": 440048
+                },
+                {
+                    "line": "O Lord! Those who listen and contemplate the Supreme Lord God become pure and holy. ||8||\r",
+                    "time": 452044
+                },
+                {
+                    "line": "The sky above looks lovely, and the earth below is beautiful.\r",
+                    "time": 464023
+                },
+                {
+                    "line": "Lightning flashes in the ten directions; I behold the Face of my Beloved.\r",
+                    "time": 476019
+                },
+                {
+                    "line": "If I go searching in foreign lands, how can I find my Beloved?\r",
+                    "time": 493098
+                },
+                {
+                    "line": "O Lord! If such destiny is inscribed upon my forehead, I am absorbed in the Blessed Vision of His Darshan. ||9||\r",
+                    "time": 505088
+                },
+                {
+                    "line": "I have seen all places, but none can compare to You.\r",
+                    "time": 517090
+                },
+                {
+                    "line": "The Primal Lord, the Architect of Destiny, has established You; thus You are adorned and embellished.\r",
+                    "time": 529083
+                },
+                {
+                    "line": "Ramdaspur is prosperous and thickly populated, and incomparably beautiful.\r",
+                    "time": 547064
+                },
+                {
+                    "line": "O Lord! Bathing in the Sacred Pool of Raam Daas, the sins are washed away, O Nanak. ||10||\r",
+                    "time": 559052
+                },
+                {
+                    "line": "The rainbird is very smart; in its consciousness, it longs for the friendly rain.\r",
+                    "time": 571031
+                },
+                {
+                    "line": "It longs for that, to which its breath of life is attached.\r",
+                    "time": 582099
+                },
+                {
+                    "line": "It wanders depressed, from forest to forest, for the sake of a drop of water.\r",
+                    "time": 600079
+                },
+                {
+                    "line": "O Lord! In just the same way, the humble servant of the Lord begs for the Naam, the Name of the Lord. Nanak is a sacrifice to him. ||11||\r",
+                    "time": 612061
+                },
+                {
+                    "line": "The Consciousness of my Friend is incomparably beautiful. Its mystery cannot be known.\r",
+                    "time": 637083
+                },
+                {
+                    "line": "One who purchases the priceless virtues realizes the essence of reality.\r",
+                    "time": 649091
+                },
+                {
+                    "line": "When the consciousness is absorbed in the supreme consciousness, great joy and bliss are found.\r",
+                    "time": 667088
+                },
+                {
+                    "line": "O Lord! When the fickle thieves are overcome, the true wealth is obtained. ||12||\r",
+                    "time": 679084
+                },
+                {
+                    "line": "In a dream, I was lifted up; why didn't I grasp the hem of His Robe?\r",
+                    "time": 692016
+                },
+                {
+                    "line": "Gazing upon the Beautiful Lord relaxing there, my mind was charmed and fascinated.\r",
+                    "time": 703052
+                },
+                {
+                    "line": "I am searching for His Feet - tell me, where can I find Him?\r",
+                    "time": 721059
+                },
+                {
+                    "line": "O Lord! Tell me how I can find my Beloved, O my companion. ||13||\r",
+                    "time": 733003
+                },
+                {
+                    "line": "The eyes which do not see the Holy - those eyes are miserable.\r",
+                    "time": 744080
+                },
+                {
+                    "line": "The ears which do not hear the Sound-current of the Naad - those ears might just as well be plugged.\r",
+                    "time": 756090
+                },
+                {
+                    "line": "The tongue which does not chant the Naam ought to be cut out, bit by bit.\r",
+                    "time": 774096
+                },
+                {
+                    "line": "O Lord! When the mortal forgets the Lord of the Universe, the Sovereign Lord King, he grows weaker day by day. ||14||\r",
+                    "time": 786065
+                },
+                {
+                    "line": "The wings of the bumble bee are caught in the intoxicating fragrant petals of the lotus.\r",
+                    "time": 799008
+                },
+                {
+                    "line": "With its limbs entangled in the petals, it loses its senses.\r",
+                    "time": 810061
+                },
+                {
+                    "line": "Is there any such friend, who can untie this difficult knot?\r",
+                    "time": 828052
+                },
+                {
+                    "line": "O Nanak, the One Supreme Lord and Master of the earth reunites the separated ones. ||15||\r",
+                    "time": 840023
+                },
+                {
+                    "line": "I run around in all directions, searching for the love of God.\r",
+                    "time": 852008
+                },
+                {
+                    "line": "The five evil enemies are tormenting me; how can I destroy them?\r",
+                    "time": 863092
+                },
+                {
+                    "line": "Shoot them with the sharp arrows of meditation on the Name of God.\r",
+                    "time": 882041
+                },
+                {
+                    "line": "O Lord! The way to slaughter these terrible sadistic enemies is obtained from the Perfect Guru. ||16||\r",
+                    "time": 894013
+                },
+                {
+                    "line": "The True Guru has blessed me with the bounty which shall never be exhausted.\r",
+                    "time": 906001
+                },
+                {
+                    "line": "Eating and consuming it, all the Gurmukhs are emancipated.\r",
+                    "time": 918001
+                },
+                {
+                    "line": "The Lord, in His Mercy, has blessed me with the treasure of the Ambrosial Naam.\r",
+                    "time": 935099
+                },
+                {
+                    "line": "O Nanak, worship and adore the Lord, who never dies. ||17||\r",
+                    "time": 947090
+                },
+                {
+                    "line": "Wherever the Lord's devotee goes is a blessed, beautiful place.\r",
+                    "time": 959091
+                },
+                {
+                    "line": "All comforts are obtained, meditating on the Lord's Name.\r",
+                    "time": 971064
+                },
+                {
+                    "line": "People praise and congratulate the devotee of the Lord, while the slanderers rot and die.\r",
+                    "time": 989064
+                },
+                {
+                    "line": "Says Nanak, O friend, chant the Naam, and your mind shall be filled with bliss. ||18||\r",
+                    "time": 1001067
+                },
+                {
+                    "line": "The mortal never serves the Immaculate Lord, the Purifier of sinners.\r",
+                    "time": 1014005
+                },
+                {
+                    "line": "The mortal wastes away in false pleasures. How long can this go on?\r",
+                    "time": 1025059
+                },
+                {
+                    "line": "Why do you take such pleasure, looking at this mirage?\r",
+                    "time": 1043032
+                },
+                {
+                    "line": "O Lord! I am a sacrifice to those who are known and approved in the Court of the Lord. ||19||\r",
+                    "time": 1054090
+                },
+                {
+                    "line": "The fool commits countless foolish actions and so many sinful mistakes.\r",
+                    "time": 1066091
+                },
+                {
+                    "line": "The fool's body smells rotten, and turns to dust.\r",
+                    "time": 1078068
+                },
+                {
+                    "line": "He wanders lost in the darkness of pride, and never thinks of dying.\r",
+                    "time": 1096021
+                },
+                {
+                    "line": "O Lord! The mortal gazes upon the mirage; why does he think it is true? ||20||\r",
+                    "time": 1108043
+                },
+                {
+                    "line": "When someone's days are over, who can save him?\r",
+                    "time": 1120002
+                },
+                {
+                    "line": "How long can the physicians go on, suggesting various therapies?\r",
+                    "time": 1132020
+                },
+                {
+                    "line": "You fool, remember the One Lord; only He shall be of use to you in the end.\r",
+                    "time": 1149064
+                },
+                {
+                    "line": "O Lord! Without the Name, the body turns to dust, and everything goes to waste. ||21||\r",
+                    "time": 1161042
+                },
+                {
+                    "line": "Drink in the medicine of the Incomparable, Priceless Name.\r",
+                    "time": 1173041
+                },
+                {
+                    "line": "Meeting and joining together, the Saints drink it in, and give it to everyone.\r",
+                    "time": 1185021
+                },
+                {
+                    "line": "He alone is blessed with it, who is destined to receive it.\r",
+                    "time": 1202085
+                },
+                {
+                    "line": "O Lord! I am a sacrifice to those who enjoy the Love of the Lord. ||22||\r",
+                    "time": 1214079
+                },
+                {
+                    "line": "The physicians meet together in their assembly.\r",
+                    "time": 1227029
+                },
+                {
+                    "line": "The medicines are effective, when the Lord Himself stands in their midst.\r",
+                    "time": 1238038
+                },
+                {
+                    "line": "Their good deeds and karma become apparent.\r",
+                    "time": 1256006
+                },
+                {
+                    "line": "O Lord! Pains, diseases and sins all vanish from their bodies. ||23||\r",
+                    "time": 1267094
+                },
+                {
+                    "line": "Their good deeds and karma become apparent.\r",
+                    "time": 1279098
+                },
+                {
+                    "line": "O Lord! Pains, diseases and sins all vanish from their bodies. ||23||\r",
+                    "time": 1291067
+                }
+            ],
+            "spanish_lyrics": [
+                {
+                    "line": "Funje, Guru Aryan Dev, Quinto Canal Divino.\r",
+                    "time": 13062
+                },
+                {
+                    "line": "Un Dios Creador Universal, por la Gracia del Verdadero Guru.\r",
+                    "time": 19088
+                },
+                {
+                    "line": "Con pluma en Mano el Insondable Señor inscribe el destino del mortal sobre su frente,\r",
+                    "time": 37066
+                },
+                {
+                    "line": "el Bello e Incomparable Señor está involucrado en todo.\r",
+                    "time": 49095
+                },
+                {
+                    "line": "No podría recitar Tus Alabanzas con mis labios,.\r",
+                    "time": 68012
+                },
+                {
+                    "line": "Nanak está fascinado teniendo la Visión Bendita de Tu Darshan, y yo ofrezco mi vida en sacrificio a Ti.(1)\r",
+                    "time": 79093
+                },
+                {
+                    "line": "Sentados en la Sociedad de los Santos, recito las Alabanzas del Señor,.\r",
+                    "time": 91069
+                },
+                {
+                    "line": "todo lo que me adorna lo dedico a Él y mi Alma también.\r",
+                    "time": 103039
+                },
+                {
+                    "line": "Con añoranza de Él, le he tendido la cama a mi Esposo,.\r",
+                    "time": 121072
+                },
+                {
+                    "line": "oh Señor, si tal buen Destino ha sido inscrito en mi frente, entonces voy a encontrar a mi Amigo.(2)\r",
+                    "time": 133073
+                },
+                {
+                    "line": "Oh mi compañero, he preparado todo, gardenias y hojas de betel,\r",
+                    "time": 146021
+                },
+                {
+                    "line": "he arreglado mi ser con dieciséis adornos y he maquillado mis ojos.\r",
+                    "time": 157075
+                },
+                {
+                    "line": "Si mi Señor Esposo llega al hogar, entonces yo lo obtengo todo,\r",
+                    "time": 174099
+                },
+                {
+                    "line": "oh Señor, sin mi marido, todos mis arreglos son inútiles.(3)\r",
+                    "time": 187002
+                },
+                {
+                    "line": "Afortunada es aquélla, en cuyo hogar el Señor habita,.\r",
+                    "time": 199001
+                },
+                {
+                    "line": "ella vive totalmente feliz, adornada y decorada, la Novia Alma.\r",
+                    "time": 210089
+                },
+                {
+                    "line": "Duermo en Paz, sin ansiedades, las esperanzas de mi mente se han cumplido,.\r",
+                    "time": 228094
+                },
+                {
+                    "line": "oh Señor, cuando mi Marido llegó al Hogar de mi corazón, ahí obtuve todo.(4)\r",
+                    "time": 240078
+                },
+                {
+                    "line": "Mi añoranza es tan intensa, que sólo la esperanza debería de satisfacer mi añoranza,.\r",
+                    "time": 252069
+                },
+                {
+                    "line": "cuando el Guru me muestra Su Misericordia, entonces obtengo al Perfecto Señor.\r",
+                    "time": 264019
+                },
+                {
+                    "line": "Estoy cubierto de tantos deméritos y faltas, oh Guru,.\r",
+                    "time": 282028
+                },
+                {
+                    "line": "pero cuando Él nos muestra Su Misericordia entonces la mente se logra mantener tranquila. (5)\r",
+                    "time": 293089
+                },
+                {
+                    "line": "Dice Nanak, he meditado en el Infinito e Interminable Señor,.\r",
+                    "time": 305082
+                },
+                {
+                    "line": "este Océano del mundo es tan difícil de cruzar, pero el Guru Verdadero me ha cargado a través,.y mis idas y venidas en tantas reencarnaciones terminaron en cuanto conocí al Señor Perfecto.\r",
+                    "time": 317040
+                },
+                {
+                    "line": "Oh Señor, el Guru Verdadero me regaló el Néctar de Ambrosia del Nombre del Señor. (6)\r",
+                    "time": 346056
+                },
+                {
+                    "line": "El Loto está en mis manos, en el patio de mi corazón permanezco en Paz.\r",
+                    "time": 358043
+                },
+                {
+                    "line": "Oh compañero mío, la Joya está alrededor de mi cuello y portándola, las tristezas desaparecen.\r",
+                    "time": 370019
+                },
+                {
+                    "line": "Habito en el Señor del Mundo, la Tesorería de la Total Paz. Oh Señor,\r",
+                    "time": 388011
+                },
+                {
+                    "line": "la Riqueza, la Perfección Espiritual y los Nueve Tesoros están en Sus Manos.(7)\r",
+                    "time": 400000
+                },
+                {
+                    "line": "Quienes van a buscar relaciones con las parejas de otros sufrirán vergüenza,\r",
+                    "time": 411053
+                },
+                {
+                    "line": "quienes roban la riqueza de otros, ¿cómo podrán esconder su culpabilidad?\r",
+                    "time": 423012
+                },
+                {
+                    "line": "Quienes cantan las Sagradas Alabanzas del Señor, salvan y redimen a sus generaciones,\r",
+                    "time": 440048
+                },
+                {
+                    "line": "oh Señor, los que escuchan y meditan en el Supremo Dios nuestro Señor, se vuelven puros y santos.(8)\r",
+                    "time": 452044
+                },
+                {
+                    "line": "Arriba el cielo se ve precioso y la tierra también,.\r",
+                    "time": 464023
+                },
+                {
+                    "line": "los relámpagos iluminan en las diez direcciones, y entonces tengo la Visión de mi Bienamado.\r",
+                    "time": 476019
+                },
+                {
+                    "line": "Oh Señor, si tal Destino ha sido inscrito sobre mi frente,\r",
+                    "time": 493098
+                },
+                {
+                    "line": "estaré absorbido en la Bendita Visión de Tu Darshan.(9)\r",
+                    "time": 505088
+                },
+                {
+                    "line": "He visto millones de lugares pero ninguno se compara con el Tuyo, Señor Primordial.\r",
+                    "time": 517090
+                },
+                {
+                    "line": "El Arquitecto del Destino te ha establecido para que te adornes y te veas bello.\r",
+                    "time": 529083
+                },
+                {
+                    "line": "Ramdaspur es próspera, muy poblada y de belleza incomparable.\r",
+                    "time": 547064
+                },
+                {
+                    "line": "Oh Señor, bañándose en el Sagrado Lago de Ram Das los errores son lavados, oh dice Nanak.(10)\r",
+                    "time": 559052
+                },
+                {
+                    "line": " El pájaro de lluvia es muy inteligente, pues en su conciencia añora la amigable lluvia,.\r",
+                    "time": 571031
+                },
+                {
+                    "line": " pues su vida depende de ella, vaga en la depresión de bosque en bosque,.\r",
+                    "time": 582099
+                },
+                {
+                    "line": " en busca de la gota de agua, oh Señor, de la misma manera el humilde Sirviente del Señor,.\r",
+                    "time": 600079
+                },
+                {
+                    "line": " pordiosea el Naam, el Nombre del Señor y Nanak ofrece su vida en sacrificio a él.(11)\r",
+                    "time": 612061
+                },
+                {
+                    "line": " La Conciencia de mi Amigo es de Incomparable Belleza, Su Misterio no se conoce,.\r",
+                    "time": 637083
+                },
+                {
+                    "line": " quien adquiere las Invaluables Virtudes entiende la Esencia de la Realidad,\r",
+                    "time": 649091
+                },
+                {
+                    "line": " y cuando la conciencia es absorbida en la Suprema Conciencia, gran Dicha\r",
+                    "time": 667088
+                },
+                {
+                    "line": " y Éxtasis son encontrados. Cuando los malvados enemigos son dominados, la Verdadera Riqueza es obtenida.(12)\r",
+                    "time": 679084
+                },
+                {
+                    "line": " Del sueño fui levantado, ¿por qué no me aferré a Su Túnica,.\r",
+                    "time": 692016
+                },
+                {
+                    "line": " observando al Bello Señor en total Tranquilidad? Ahí, mi mente estaba encantada y fascinada,\r",
+                    "time": 703052
+                },
+                {
+                    "line": " estoy buscando Sus Pies, díganme, ¿dónde Lo puedo encontrar?\r",
+                    "time": 721059
+                },
+                {
+                    "line": " Oh Señor, dime ¿cómo podré tener a mi Bienamado como Compañía?(13)\r",
+                    "time": 733003
+                },
+                {
+                    "line": " Los ojos que no ven lo Santo, sería mejor sacarlos, los oídos que no escuchan la Corriente del Sonido del Naam,\r",
+                    "time": 744080
+                },
+                {
+                    "line": " son miserables, y la lengua que no pronuncia el Naam, mejor sería cortarla pedazo a pedazo.\r",
+                    "time": 756090
+                },
+                {
+                    "line": " Oh Señor, cuando el mortal se olvida del Señor del Universo,\r",
+                    "time": 774096
+                },
+                {
+                    "line": " el Rey Soberano, se volverá más débil día con día.(14)\r",
+                    "time": 786065
+                },
+                {
+                    "line": " Las alas de la abeja son atrapadas en la deliciosa fragancia de los pétalos del Loto\r",
+                    "time": 799008
+                },
+                {
+                    "line": " y así pierde sus sentidos.\r",
+                    "time": 810061
+                },
+                {
+                    "line": " ¿Habrá algún amigo que sea capaz de atar este difícil nudo?\r",
+                    "time": 828052
+                },
+                {
+                    "line": " Oh dice Nanak, el Supremo Señor y Maestro de la Tierra reúne a los que están separados.(15)\r",
+                    "time": 840023
+                },
+                {
+                    "line": " Corro por todas direcciones buscando el Amor de Dios,.\r",
+                    "time": 852008
+                },
+                {
+                    "line": " los cinco malvados enemigos me atormentan, ¿cómo podría destruirlos?\r",
+                    "time": 863092
+                },
+                {
+                    "line": " Dispárale las flechas de la Meditación del Naam, el Nombre del Señor,\r",
+                    "time": 882041
+                },
+                {
+                    "line": " la forma de acabar con estos terribles enemigos sádicos se obtiene del Perfecto Guru.(16)\r",
+                    "time": 894013
+                },
+                {
+                    "line": " El Guru Perfecto me ha bendecido con ese Regalo que nunca se acaba,\r",
+                    "time": 906001
+                },
+                {
+                    "line": " comiendo de Él, los Gurmukjs son liberados.\r",
+                    "time": 918001
+                },
+                {
+                    "line": " El Señor en Su Misericordia me ha bendecido con el Tesoro del Naam de Ambrosia,\r",
+                    "time": 935099
+                },
+                {
+                    "line": " oh, dice Nanak, alaba y adora al Señor, Quien nunca muere.(17)\r",
+                    "time": 947090
+                },
+                {
+                    "line": " Donde sea que el Gurmukj va, ese lugar se vuelve Bello y Bendito,\r",
+                    "time": 959091
+                },
+                {
+                    "line": " todo confort es obtenido meditando en el Nombre del Señor.\r",
+                    "time": 971064
+                },
+                {
+                    "line": " La gente alaba y congratula a tal Gurmukj, mientras que los calumniadores se pudren y mueren,.\r",
+                    "time": 989064
+                },
+                {
+                    "line": " dice Nanak, oh amigo, canta el Naam y tu mente se llenará de Dicha.(18)\r",
+                    "time": 1001067
+                },
+                {
+                    "line": " El mortal no sirve nunca al Señor Inmaculado, Purificador de quienes cometen errores,.\r",
+                    "time": 1014005
+                },
+                {
+                    "line": " y por eso desperdicia su vida en falsos placeres, ¿qué tanto podrá seguir así esto?\r",
+                    "time": 1025059
+                },
+                {
+                    "line": " ¿Por qué estás tan fascinado observando esta ilusión?\r",
+                    "time": 1043032
+                },
+                {
+                    "line": " Oh Señor, ofrezco mi ser en sacrificio a quienes son reconocidos y aprobados en la Corte de Dios.(19)\r",
+                    "time": 1054090
+                },
+                {
+                    "line": " El tonto comete tantos errores malvados y faltas,.\r",
+                    "time": 1066091
+                },
+                {
+                    "line": " que su cuerpo empieza a oler a podrido y se convierte en polvo.\r",
+                    "time": 1078068
+                },
+                {
+                    "line": " Vaga perdido en la oscuridad de su orgullo y nunca piensa en la muerte,.\r",
+                    "time": 1096021
+                },
+                {
+                    "line": " oh Señor, cuando el mortal piensa en esa ilusión, ¿por qué se imagina que es verdad? (20)\r",
+                    "time": 1108043
+                },
+                {
+                    "line": " Cuando los días de uno se acaban, ¿quién nos puede salvar?,.\r",
+                    "time": 1120002
+                },
+                {
+                    "line": " ¿Qué tanto los médicos pueden seguir intentando, terapia tras terapia?\r",
+                    "time": 1132020
+                },
+                {
+                    "line": " Oh tonto mortal, recuerda, el Señor es el Único que te será útil al final,.\r",
+                    "time": 1149064
+                },
+                {
+                    "line": " pues sin el Naam, el cuerpo se vuelve ceniza y todo se va al desperdicio. (21)\r",
+                    "time": 1161042
+                },
+                {
+                    "line": " Bebe la Medicina del Incomparable e Inapreciable Naam, el Nombre del Señor,.\r",
+                    "time": 1173041
+                },
+                {
+                    "line": " meditando y participando juntos, los Santos beben y comparten con los demás.\r",
+                    "time": 1185021
+                },
+                {
+                    "line": " Sólo será bendecido con Él, quien tiene el Destino para recibirlo, oh Señor,.\r",
+                    "time": 1202085
+                },
+                {
+                    "line": " ofrezco mi vida en sacrificio a quienes gozan del Amor del Señor.(22)\r",
+                    "time": 1214079
+                },
+                {
+                    "line": " Los médicos se reúnen en asamblea,.\r",
+                    "time": 1227029
+                },
+                {
+                    "line": " pero la medicina es efectiva cuando el Mismo Señor está en medio,.\r",
+                    "time": 1238038
+                },
+                {
+                    "line": " sus buenas acciones y Karmas se vuelven aparentes y así, oh Señor,.\r",
+                    "time": 1256006
+                },
+                {
+                    "line": " los dolores, la enfermedad y los errores desaparecen de su cuerpo.(23)\r",
+                    "time": 1267094
+                },
+                {
+                    "line": " sus buenas acciones y Karmas se vuelven aparentes y así, oh Señor,.\r",
+                    "time": 1279098
+                },
+                {
+                    "line": " los dolores, la enfermedad y los errores desaparecen de su cuerpo.(23)",
+                    "time": 1291067
+                }
+            ],
+            "hindi_lyrics": [
+                {
+                    "line": "à¤«à¥à¤¨à¤¹à¥ à¤®à¤¹à¤²à¤¾ à¥«|\r",
+                    "time": 13062
+                },
+                {
+                    "line": "à©´ à¤¸à¤¤à¤¿à¤à¥à¤° à¤ªà¥à¤°à¤¸à¤¾à¤¦à¤¿ à¥¥\r",
+                    "time": 19088
+                },
+                {
+                    "line": "à¤¹à¥ à¤¨à¤¾à¤¨à¤ ! (à¤à¤¹-) à¤¹à¥ à¤à¤ªà¤¹à¥à¤à¤ à¤ªà¥à¤°à¤­à¥ ! (à¤¤à¥à¤°à¥) à¤¹à¤¾à¤¥ à¤®à¥à¤ à¤à¤²à¤® à¤¹à¥ (à¤à¥ à¤¸à¤¬ à¤à¥à¤µà¥à¤ à¤à¥) à¤®à¤¾à¤¥à¥ à¤ªà¤° (à¤²à¥à¤) à¤²à¤¿à¤à¤¤à¥ à¤à¤¾ à¤°à¤¹à¥ à¤¹à¥à¥¤\r",
+                    "time": 37066
+                },
+                {
+                    "line": "à¤¹à¥ à¤à¤¤à¤¿ à¤¸à¥à¤à¤¦à¤° à¤°à¥à¤ª à¤µà¤¾à¤²à¥ ! à¤¤à¥ à¤¸à¤¬ à¤à¥à¤µà¥à¤ à¤à¥ à¤¸à¤¾à¤¥ à¤®à¤¿à¤²à¤¾ à¤¹à¥à¤ à¤¹à¥à¥¤\r",
+                    "time": 49095
+                },
+                {
+                    "line": "(à¤à¤¿à¤¸à¥ à¤­à¥ à¤à¥à¤µ à¤¦à¥à¤µà¤¾à¤°à¤¾ à¤à¤ªà¤¨à¥) à¤®à¥à¤à¤¹ à¤¸à¥ à¤¤à¥à¤°à¥ à¤à¤ªà¤®à¤¾ à¤¬à¤¯à¤¾à¤¨ à¤¨à¤¹à¥à¤ à¤à¥ à¤à¤¾ à¤¸à¤à¤¤à¥à¥¤\r",
+                    "time": 68012
+                },
+                {
+                    "line": "à¤®à¥à¤ à¤¤à¥à¤à¤¸à¥ à¤¸à¤¦à¤à¥ à¤¹à¥à¤à¥¤ à¤¤à¥à¤°à¥ à¤¦à¤°à¥à¤¶à¤¨ à¤à¤°à¤à¥ à¤®à¥à¤°à¤¾ à¤®à¤¨ à¤®à¥à¤¹à¤¾ à¤à¤¯à¤¾ à¤¹à¥à¥¤1à¥¤\r",
+                    "time": 79093
+                },
+                {
+                    "line": "(à¤¹à¥ à¤¸à¤¹à¥à¤²à¥ ! à¤®à¥à¤°à¥ à¤¯à¥ à¤¤à¤®à¤¨à¥à¤¨à¤¾ à¤¹à¥ à¤à¤¿) à¤¸à¤¾à¤§-à¤¸à¤à¤à¤¤à¤¿ à¤®à¥à¤ à¤à¤ à¤¨à¤¾-à¤¬à¥à¤ à¤¨à¤¾ à¤¹à¥ à¤à¤¾à¤ à¤¤à¤¾à¤à¤¿ à¤®à¥à¤ (à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¥) à¤¸à¤¿à¤«à¤¤à¤¸à¤¾à¤²à¤¾à¤¹ à¤à¤°à¤¤à¥ à¤°à¤¹à¥à¤à¥¤\r",
+                    "time": 91069
+                },
+                {
+                    "line": "(à¤à¤¸ à¤ªà¤¤à¤¿-à¤ªà¥à¤°à¤­à¥ à¤à¥ à¤®à¤¿à¤²à¤¾à¤ª à¤à¥ à¤¬à¤¦à¤²à¥ à¤®à¥à¤) à¤®à¥à¤ (à¤à¤ªà¤¨à¤¾) à¤¸à¤¾à¤°à¤¾ à¤¶à¥à¤°à¥à¤à¤à¤¾à¤° à¤­à¥à¤ à¤à¤° à¤¦à¥à¤ à¤®à¥à¤ à¤à¤ªà¤¨à¥ à¤à¤¿à¤à¤¦ à¤­à¥ à¤¹à¤µà¤¾à¤²à¥ à¤à¤° à¤¦à¥à¥à¤à¥¤\r",
+                    "time": 103039
+                },
+                {
+                    "line": "(à¤¦à¤°à¥à¤¶à¤¨ à¤à¥) à¤à¤¸ à¤à¥ à¤¤à¤®à¤¨à¥à¤¨à¤¾ à¤µà¤¾à¤²à¥ à¤à¥ à¤®à¥à¤°à¥ à¤¹à¥à¤¦à¤¯-à¤¸à¥à¤ à¤à¤à¤¤-à¤ªà¥à¤°à¤­à¥ à¤¨à¥ (à¤¸à¥à¤µà¤¯à¤) à¤¬à¤¿à¤à¤¾à¤ à¤¹à¥à¥¤\r",
+                    "time": 121072
+                },
+                {
+                    "line": "à¤¹à¥ à¤¸à¤¹à¥à¤²à¤¿à¤ ! à¤à¤à¤° à¤®à¤¾à¤¥à¥ à¤à¥ à¤­à¤¾à¤à¥à¤¯ à¤à¤¾à¤ à¤à¤ à¥à¤ à¤¤à¤¬ à¤¹à¥ à¤¸à¤à¥à¤à¤¨-à¤ªà¥à¤°à¤­à¥ à¤®à¤¿à¤²à¤¤à¤¾ à¤¹à¥à¥¤2à¥¤\r",
+                    "time": 133073
+                },
+                {
+                    "line": "à¤¹à¥ à¤¸à¤¹à¥à¤²à¤¿à¤ ! (à¤¯à¤¦à¤¿) à¤à¤¾à¤à¤² à¤¹à¤¾à¤° à¤ªà¤¾à¤¨ - à¤¯à¥ à¤¸à¤¬ à¤à¥à¤ à¤¤à¥à¤¯à¤¾à¤° à¤­à¥ à¤à¤° à¤²à¤¿à¤¯à¤¾ à¤à¤¾à¤ |\r",
+                    "time": 146021
+                },
+                {
+                    "line": "(à¤¯à¤¦à¤¿) à¤¸à¥à¤²à¤¹ à¤¶à¥à¤°à¥à¤à¤à¤¾à¤° à¤­à¥ à¤à¤° à¤²à¤¿à¤ à¤à¤¾à¤à¤ à¤à¤° (à¤à¤à¤à¥à¤ à¤®à¥à¤) à¤¸à¥à¤°à¤®à¤¾ à¤­à¥ à¤²à¤à¤¾ à¤²à¤¿à¤¯à¤¾ à¤à¤¾à¤|\r",
+                    "time": 157075
+                },
+                {
+                    "line": "à¤¤à¥ à¤­à¥ à¤à¤à¤° à¤ªà¤¤à¤¿ à¤¹à¥ à¤à¤° à¤à¤ à¤¤à¤¬ à¤¹à¥ à¤¸à¤¬ à¤à¥à¤ à¤ªà¥à¤°à¤¾à¤ªà¥à¤¤ à¤¹à¥à¤¤à¤¾ à¤¹à¥à¥¤\r",
+                    "time": 174099
+                },
+                {
+                    "line": "à¤ªà¤¤à¤¿ (à¤à¥ à¤®à¤¿à¤²à¤¾à¤ª) à¤à¥ à¤¬à¤¿à¤¨à¤¾ à¤¸à¤¾à¤°à¤¾ à¤¶à¥à¤°à¥à¤à¤à¤¾à¤° à¤µà¥à¤¯à¤°à¥à¤¥ à¤à¤²à¤¾ à¤à¤¾à¤¤à¤¾ à¤¹à¥ (à¤¯à¤¹à¥ à¤¹à¤¾à¤² à¤¹à¥ à¤à¥à¤µ-à¤¸à¥à¤¤à¥à¤°à¥ à¤à¤¾)à¥¤3à¥¤\r",
+                    "time": 187002
+                },
+                {
+                    "line": "à¤¹à¥ à¤¸à¤¹à¥à¤²à¤¿à¤ ! à¤à¤¿à¤¸ (à¤à¥à¤µ-à¤¸à¤¤à¥à¤°à¥) à¤à¥ (à¤¹à¥à¤¦à¤¯-) à¤à¤° à¤®à¥à¤ à¤ªà¥à¤°à¤­à¥-à¤ªà¤¤à¤¿ à¤¬à¤¸ à¤à¤¾à¤¤à¤¾ à¤¹à¥ à¤µà¤¹ à¤­à¤¾à¤à¥à¤¯à¤¶à¤¾à¤²à¥ à¤¹à¥ à¤à¤¾à¤¤à¥ à¤¹à¥à¥¤\r",
+                    "time": 199001
+                },
+                {
+                    "line": "(à¤à¤¤à¥à¤®à¤¿à¤ à¤à¥à¤µà¤¨ à¤à¤à¤à¤¾ à¤à¤°à¤¨à¥ à¤à¥ à¤²à¤¿à¤ à¤à¤¸à¤à¤¾ à¤¸à¤¾à¤°à¤¾ à¤à¤¦à¥à¤¯à¤®) à¤à¤¸à¤à¤¾ à¤¸à¤¾à¤°à¤¾ à¤¶à¥à¤°à¤à¤à¤¾à¤° à¤à¤¸à¤à¥ à¤«à¤¬ à¤à¤¾à¤¤à¤¾ à¤¹à¥ à¤µà¤¹ (à¤à¥à¤µ-à¤¸à¥à¤¤à¥à¤°à¥) à¤¹à¥ à¤ªà¤¤à¤¿ à¤µà¤¾à¤²à¥ (à¤à¤¹à¤²à¤µà¤¾ à¤¸à¤à¤¤à¥ à¤¹à¥)à¥¤\r",
+                    "time": 210089
+                },
+                {
+                    "line": "(à¤à¤¸ à¤ªà¥à¤°à¤à¤¾à¤° à¤à¥ à¤¸à¥à¤¹à¤¾à¤à¤¨ à¤à¥ à¤¸à¤à¤à¤¤à¤¿ à¤®à¥à¤ à¤°à¤¹ à¤à¥) à¤®à¥à¤ ( à¤­à¥ à¤à¤¬) à¤à¤¿à¤à¤¤à¤¾-à¤°à¤¹à¤¿à¤¤ à¤¹à¥ à¤à¥ (à¤ªà¥à¤°à¤­à¥-à¤à¤°à¤£à¥à¤ à¤®à¥à¤) à¤²à¥à¤¨ à¤¹à¥ à¤à¤ à¤¹à¥à¤ à¤®à¥à¤°à¥ à¤®à¤¨ à¤®à¥à¤ (à¤®à¤¿à¤²à¤¾à¤ª à¤à¥ à¤ªà¥à¤°à¤¾à¤¨à¥) à¤à¤¶à¤¾ à¤ªà¥à¤°à¥ à¤¹à¥ à¤à¤à¥¤\r",
+                    "time": 228094
+                },
+                {
+                    "line": "à¤¹à¥ à¤¸à¤¹à¥à¤²à¤¿à¤ ! à¤à¤¬ (à¤¹à¥à¤¦à¤¯-) à¤à¤° à¤®à¥à¤ à¤ªà¤¤à¤¿ (à¤ªà¥à¤°à¤­à¥) à¤ à¤à¤¾à¤¤à¤¾ à¤¹à¥ à¤¤à¤¬ à¤¹à¤°à¥à¤ à¤®à¤¾à¤à¤ à¤ªà¥à¤°à¥ à¤¹à¥ à¤à¤¾à¤¤à¥ à¤¹à¥à¥¤4à¥¤\r",
+                    "time": 240078
+                },
+                {
+                    "line": "à¤¹à¥ à¤¸à¤¹à¥à¤²à¤¿à¤ ! (à¤®à¥à¤°à¥ à¤à¤à¤¦à¤°) à¤à¤¤à¤¨à¥ à¤¸à¥ à¤¤à¤®à¤¨à¥à¤¨à¤¾ à¤¬à¤¨à¥ à¤°à¤¹à¤¤à¥ à¤¹à¥ à¤à¤¿ (à¤ªà¥à¤°à¤­à¥-à¤®à¤¿à¤²à¤¾à¤ª à¤à¥ à¤®à¥à¤°à¥) à¤à¤¶à¤¾ à¤ªà¥à¤°à¥ à¤¹à¥ à¤à¤¾à¤à¥¤\r",
+                    "time": 252069
+                },
+                {
+                    "line": "à¤ªà¤° à¤¸à¤°à¥à¤µ-à¤à¥à¤£-à¤­à¤°à¤ªà¥à¤° à¤ªà¥à¤°à¤­à¥ à¤¤à¤¬ à¤¹à¥ à¤®à¤¿à¤²à¤¤à¤¾ à¤¹à¥ à¤à¤¬ à¤à¥à¤°à¥ à¤¦à¤¯à¤¾à¤µà¤¾à¤¨ à¤¹à¥à¥¤\r",
+                    "time": 264019
+                },
+                {
+                    "line": "à¤¹à¥ à¤¸à¤¹à¥à¤²à¤¿à¤ ! à¤®à¥à¤°à¥ à¤¶à¤°à¥à¤° à¤®à¥à¤ (à¤à¤¤à¤¨à¥) à¤à¥à¤¯à¤¾à¤¦à¤¾ à¤à¤µà¤à¥à¤£ à¤¹à¥à¤ à¤à¤¿ (à¤®à¥à¤°à¤¾ à¤¸à¥à¤µà¥) à¤à¤µà¤à¥à¤£à¥à¤ à¤¸à¥ à¤¢à¤à¤¾ à¤°à¤¹à¤¤à¤¾ à¤¹à¥à¥¤\r",
+                    "time": 282028
+                },
+                {
+                    "line": "à¤ªà¤° à¤à¤¬ à¤à¥à¤°à¥ à¤¦à¤¯à¤¾à¤µà¤¾à¤¨ à¤¹à¥à¤¤à¤¾ à¤¹à¥ à¤¤à¤¬ à¤®à¤¨ (à¤µà¤¿à¤à¤¾à¤°à¥à¤ à¤à¥ à¤à¤°) à¤¡à¥à¤²à¤¨à¥ à¤¸à¥ à¤¹à¤ à¤à¤¾à¤¤à¤¾ à¤¹à¥à¥¤ 5à¥¤\r",
+                    "time": 293089
+                },
+                {
+                    "line": "à¤¹à¥ à¤¨à¤¾à¤¨à¤ ! à¤à¤¹- (à¤¹à¥ à¤¸à¤¹à¥à¤²à¤¿à¤ !) à¤à¤¸ à¤¸à¤à¤¸à¤¾à¤°-à¤¸à¤®à¥à¤à¤¦à¥à¤° à¤¸à¥ à¤ªà¤¾à¤° à¤²à¤¾à¤à¤à¤¨à¤¾ à¤¬à¤¹à¥à¤¤ à¤®à¥à¤¶à¥à¤à¤¿à¤² à¤¹à¥à¥¤\r",
+                    "time": 305082
+                },
+                {
+                    "line": "à¤ªà¤° à¤à¤¿à¤¸ à¤®à¤¨à¥à¤·à¥à¤¯ à¤¨à¥ à¤¬à¥à¤à¤à¤¤ à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¤¾ à¤¨à¤¾à¤® à¤¸à¤¿à¤®à¤°à¤¨à¤¾ à¤¶à¥à¤°à¥ à¤à¤° à¤¦à¤¿à¤¯à¤¾à¥¤ à¤à¥à¤°à¥ à¤¨à¥ à¤à¤¸à¤à¥ à¤ªà¤¾à¤° à¤²à¤à¤à¤¾ à¤¦à¤¿à¤¯à¤¾ (à¤à¥à¤°à¥ à¤¨à¥ à¤à¤¸à¤à¥ à¤ªà¥à¤°à¤¨ à¤ªà¥à¤°à¤­à¥ à¤¸à¥ à¤à¥à¤¡à¤¼ à¤¦à¤¿à¤¯à¤¾à¥¤\r",
+                    "time": 317040
+                },
+                {
+                    "line": "à¤à¤°) à¤à¤¬ à¤à¤¸à¤¨à¥ à¤ªà¥à¤°à¤¨ à¤ªà¥à¤°à¤­à¥ à¤à¤¾ à¤®à¤¿à¤²à¤¾à¤ª à¤¹à¤¾à¤¸à¤¿à¤² à¤à¤° à¤²à¤¿à¤¯à¤¾à¥¤ à¤à¤¸à¤à¤¾ à¤à¤¨à¤® à¤®à¤°à¤¨ à¤à¤¾ à¤à¤à¥à¤à¤° (à¤­à¥) à¤¸à¤®à¤¾à¤ªà¥à¤¤ à¤¹à¥ à¤à¤¯à¤¾à¥¤\r",
+                    "time": 334094
+                },
+                {
+                    "line": "à¤¹à¥ à¤¸à¤¹à¥à¤²à¤¿à¤ ! à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¤¾ à¤à¤¤à¥à¤®à¤¿à¤ à¤à¥à¤µà¤¨ à¤¦à¥à¤¨à¥ à¤µà¤¾à¤²à¤¾ à¤¨à¤¾à¤® à¤à¥à¤°à¥ à¤¸à¥ à¤¹à¥ à¤®à¤¿à¤²à¤¤à¤¾ à¤¹à¥à¥¤ 6à¥¤\r",
+                    "time": 346056
+                },
+                {
+                    "line": "(à¤à¤¬) à¤®à¥à¤°à¥ à¤¹à¤¾à¤¥ à¤®à¥à¤ à¤à¤®à¤²-à¤«à¥à¤² (à¤à¥ à¤°à¥à¤à¤¾ à¤¬à¤¨ à¤à¤) à¤¹à¥ (à¤®à¥à¤°à¥ à¤­à¤¾à¤à¥à¤¯ à¤à¤¾à¤ à¤à¤ à¥ à¤¹à¥à¤) à¤®à¥à¤°à¥ (à¤¹à¥à¤¦à¤¯ à¤à¥) à¤à¤à¤à¤¨ à¤®à¥à¤ à¤à¤¤à¥à¤®à¤¿à¤ à¤à¤¨à¤à¤¦ à¤à¥ à¤¸à¥à¤à¤à¤§à¥ (à¤¬à¤¿à¤à¤°à¥ à¤°à¤¹à¤¤à¥) à¤¹à¥à¥¤\r",
+                    "time": 358043
+                },
+                {
+                    "line": "(à¤à¥à¤¸à¥ à¤¬à¤à¥à¤à¥à¤ à¤à¥ à¤à¤²à¥ à¤®à¥à¤ à¤¨à¤à¤¼à¤°-à¤ªà¤à¥à¤à¥ à¤¡à¤¾à¤²à¤¾ à¤¹à¥à¤¤à¤¾ à¤¹à¥) à¤¹à¥ à¤¸à¤¹à¥à¤²à¤¿à¤ ! à¤®à¥à¤°à¥ à¤à¤²à¥ à¤®à¥à¤ à¤°à¤¤à¤¨ à¤²à¤à¤ à¤°à¤¹à¤¾ à¤¹à¥ (à¤®à¥à¤°à¥ à¤à¤²à¥ à¤®à¥à¤ à¤¨à¤¾à¤®-à¤°à¤¤à¤¨ à¤ªà¤°à¥à¤¯à¤¾ à¤à¤¯à¤¾ à¤¹à¥) à¤à¤¿à¤¸à¤à¥ à¤¦à¥à¤ à¤à¥ (à¤¹à¤°à¥à¤) à¤¦à¥à¤ à¤¦à¥à¤° à¤¹à¥ à¤à¤¯à¤¾ à¤¹à¥à¥¤\r",
+                    "time": 370019
+                },
+                {
+                    "line": "à¤à¥ à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤¸à¤¾à¤°à¥ à¤¸à¥à¤à¥à¤ à¤à¤¾ à¤¶à¥à¤°à¥à¤¤ à¤¹à¥ (à¤à¥à¤°à¥ à¤à¥ à¤®à¥à¤¹à¤° à¤à¥ à¤¸à¤¦à¤à¤¾) à¤®à¥à¤ à¤à¤¸ à¤¸à¥à¤·à¥à¤à¤¿ à¤à¥ à¤ªà¤¾à¤²à¤¨à¤¹à¤¾à¤° à¤à¥ à¤¸à¤¾à¤¥ (à¤¸à¤¦à¤¾) à¤¬à¤¸à¤¤à¥ à¤¹à¥à¤à¥¤\r",
+                    "time": 388011
+                },
+                {
+                    "line": "à¤¹à¥ à¤¸à¤¹à¥à¤²à¤¿à¤ ! à¤à¤¿à¤¸ (à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾) à¤à¥ à¤¹à¤¾à¤¥ à¤®à¥à¤ à¤¸à¤¾à¤°à¥ à¤¤à¤¾à¤à¤¤à¥à¤ à¤à¤° (à¤§à¤°à¤¤à¥ à¤à¥ à¤¸à¤¾à¤°à¥) à¤¨à¥ à¤à¤à¤¾à¤¨à¥ à¤¸à¤¦à¤¾ à¤à¤¿à¤à¥ à¤°à¤¹à¤¤à¥ à¤¹à¥à¤à¥¤7à¥¤\r",
+                    "time": 400000
+                },
+                {
+                    "line": "à¤¹à¥ à¤­à¤¾à¤ ! à¤à¥ à¤®à¤¨à¥à¤·à¥à¤¯ à¤ªà¤°à¤¾à¤ à¤¸à¥à¤¤à¥à¤°à¥ à¤­à¥à¤à¤¨à¥ à¤à¤¾à¤¤à¥ à¤¹à¥à¤à¥¤ à¤µà¥ (à¤ªà¥à¤°à¤­à¥ à¤à¥ à¤¹à¤à¥à¤°à¥ à¤®à¥à¤) à¤à¤µà¤¶à¥à¤¯ à¤¶à¤°à¥à¤®à¤¶à¤¾à¤° à¤¹à¥à¤¤à¥ à¤¹à¥à¤à¥¤\r",
+                    "time": 411053
+                },
+                {
+                    "line": "à¤à¥ à¤®à¤¨à¥à¤·à¥à¤¯ à¤¸à¤¦à¤¾ à¤ªà¤°à¤¾à¤¯à¤¾ à¤§à¤¨ à¤à¥à¤°à¤¾à¤¤à¥ à¤°à¤¹à¤¤à¥ à¤¹à¥à¤ (à¤¹à¥ à¤­à¤¾à¤ ! à¤à¤¨à¤à¥ à¤¯à¤¹) à¤à¥à¤à¤°à¥à¤® à¤à¤¹à¥à¤ à¤à¥à¤ªà¥ à¤°à¤¹ à¤¸à¤à¤¤à¥ à¤¹à¥à¤à¥¤ (à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤¸à¤¬ à¤à¥à¤ à¤¦à¥à¤ à¤°à¤¹à¤¾ à¤¹à¥)à¥¤\r",
+                    "time": 423012
+                },
+                {
+                    "line": "à¤¹à¥ à¤­à¤¾à¤ ! à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¥ à¤à¥à¤£ à¤¯à¤¾à¤¦ à¤à¤°à¤¤à¥ à¤¹à¥à¤ à¤®à¤¨à¥à¤·à¥à¤¯ (à¤¸à¥à¤µà¤¯à¤) à¤ªà¤µà¤¿à¤¤à¥à¤° à¤à¥à¤µà¤¨ à¤µà¤¾à¤²à¤¾ à¤¬à¤¨ à¤à¤¾à¤¤à¤¾ à¤¹à¥ (à¤à¤° à¤à¤ªà¤¨à¥) à¤¸à¤¾à¤°à¥ à¤à¥à¤²à¥à¤ à¤à¥ (à¤­à¥ à¤¸à¤à¤¸à¤¾à¤°-à¤¸à¤®à¥à¤à¤¦à¥à¤° à¤¸à¥) à¤ªà¤¾à¤° à¤²à¤à¤à¤¾ à¤²à¥à¤¤à¤¾ à¤¹à¥à¥¤\r",
+                    "time": 440048
+                },
+                {
+                    "line": "(à¤à¥ à¤®à¤¨à¥à¤·à¥à¤¯ à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¥ à¤¸à¤¿à¤«à¤¤à¤¸à¤¾à¤²à¤¾à¤¹) à¤¸à¥à¤¨à¤¤à¥ à¤¹à¥à¤à¥¤ à¤µà¥ à¤¸à¤¾à¤°à¥ à¤ªà¤µà¤¿à¤¤à¥à¤° à¤à¥à¤µà¤¨ à¤µà¤¾à¤²à¥ à¤¹à¥ à¤à¤¾à¤¤à¥ à¤¹à¥à¤à¥¤ 8à¥¤\r",
+                    "time": 452044
+                },
+                {
+                    "line": "à¤¹à¥ à¤¸à¤¹à¥à¤²à¤¿à¤ ! à¤à¤ªà¤° (à¤¤à¤¾à¤°à¥à¤ à¤à¤¦à¤¿ à¤¸à¥) à¤à¤à¤¾à¤¶ à¤«à¤¬ à¤°à¤¹à¤¾ à¤¹à¥à¥¤ à¤¨à¥à¤à¥ à¤ªà¥à¤°à¥à¤ à¤à¥ à¤¤à¤°à¤« (à¤¹à¤°à¤¿à¤¯à¤¾à¤²à¥ à¤à¤¦à¤¿ à¤¸à¥) à¤§à¤°à¤¤à¥ à¤¸à¤ à¤°à¤¹à¥ à¤¹à¥à¥¤\r",
+                    "time": 464023
+                },
+                {
+                    "line": "à¤¦à¤¸à¥à¤ à¤¦à¤¿à¤¶à¤¾à¤à¤ à¤®à¥à¤ à¤¬à¤¿à¤à¤²à¥ à¤à¤®à¤ à¤°à¤¹à¥ à¤¹à¥à¥¤ à¤®à¥à¤à¤¹ à¤ªà¤° à¤²à¤¿à¤¶à¥à¤à¤¾à¤°à¥ à¤®à¤¾à¤° à¤°à¤¹à¥ à¤¹à¥ (à¤à¤¶à¥à¤µà¤°à¥à¤¯ à¤à¥à¤¯à¥à¤¤à¤¿ à¤à¤¾ à¤à¥à¤¸à¤¾ à¤¸à¥à¤à¤¦à¤° à¤¸à¤¾à¤à¤¾à¤° à¤¸à¤°à¥à¤ª à¤¹à¥ !)\r",
+                    "time": 476019
+                },
+                {
+                    "line": "à¤ªà¤° à¤®à¥à¤ (à¤à¤¸à¤à¥ à¤à¤¸ à¤¸à¤°à¤à¥à¤£ à¤¸à¥à¤µà¤°à¥à¤ª à¤à¥ à¤à¤¦à¥à¤° à¤¨à¤¾ à¤¸à¤®à¤ à¤à¥) à¤ªà¤°à¤¦à¥à¤¸ à¤®à¥à¤ (à¤à¤à¤à¤² à¤à¤¦à¤¿ à¤®à¥à¤) à¤¢à¥à¤à¤¢à¤¤à¥ à¤«à¤¿à¤°à¤¤à¥ à¤¹à¥à¤ à¤à¤¿ à¤ªà¥à¤°à¥à¤¤à¤®-à¤ªà¥à¤°à¤­à¥ à¤à¤¹à¥à¤ à¤®à¤¿à¤² à¤à¤¾à¤à¥¤\r",
+                    "time": 493098
+                },
+                {
+                    "line": "à¤¹à¥ à¤¸à¤¹à¥à¤²à¤¿à¤ ! à¤à¤à¤° à¤®à¤¾à¤¥à¥ à¤à¥ à¤­à¤¾à¤à¥à¤¯ à¤à¤¾à¤ à¤à¤ à¥ à¤¤à¥ (à¤¹à¤° à¤à¤à¤¹ à¤à¤¸à¤à¥) à¤¦à¥à¤¦à¤¾à¤° à¤®à¥à¤ à¤²à¥à¤¨ à¤¹à¥à¤ à¤à¤¾ à¤¸à¤à¤¤à¤¾ à¤¹à¥à¥¤ 9à¥¤\r",
+                    "time": 505088
+                },
+                {
+                    "line": "à¤¹à¥ à¤°à¤¾à¤® à¤à¥ à¤¦à¤¾à¤¸à¥à¤ à¤à¥ à¤¶à¤¹à¤° ! (à¤®à¥à¤à¤¨à¥ ) à¤¸à¤¾à¤°à¥ à¤à¤à¤¹à¥à¤ à¤¦à¥à¤à¤¿ à¤¹à¥ à¤¤à¥à¤°à¥ à¤¬à¤°à¤¾à¤¬à¤° à¤à¥à¤ à¤¨à¤¹à¥à¤ |\r",
+                    "time": 517090
+                },
+                {
+                    "line": "à¤¹à¥ à¤°à¤¾à¤® à¤à¥ à¤¦à¤¾à¤¸à¥à¤ à¤à¥ à¤¶à¤¹à¤° ! (à¤¹à¥ à¤¸à¤¤à¥à¤¸à¤à¤à¥ !) à¤¤à¥à¤°à¥ à¤¨à¥à¤à¤µ à¤à¤à¤¾à¤²-à¤ªà¥à¤°à¤ à¤¸à¥à¤à¤¨à¤¹à¤¾à¤° à¤¨à¥ à¤¸à¥à¤µà¤¯à¤ à¤°à¤à¥ à¤¹à¥à¤ à¤¹à¥à¥¤ à¤à¤¸à¥ à¤²à¤¿à¤ à¤¤à¥ (à¤à¤¸à¤à¥ à¤à¤¤à¥à¤®à¤¿à¤ à¤à¥à¤£à¥à¤ à¤à¥ à¤¬à¤°à¤à¤¤à¤¿ à¤¸à¥) à¤¸à¥à¤à¤¦à¤° à¤¦à¤¿à¤à¤¾à¤ à¤¦à¥ à¤°à¤¹à¤¾ à¤¹à¥à¥¤\r",
+                    "time": 529083
+                },
+                {
+                    "line": "à¤¹à¥ à¤°à¤¾à¤® à¤à¥ à¤¦à¤¾à¤¸à¥à¤ à¤à¥ à¤¶à¤¹à¤° ! (à¤¹à¥ à¤¸à¤¤à¥à¤¸à¤à¤ !) (à¤¤à¥à¤°à¥ à¤à¤à¤¦à¤° à¤à¤à¥à¤ à¤à¤¤à¥à¤®à¤¿à¤ à¤à¥à¤£à¥à¤ à¤à¥) à¤¬à¤¹à¥à¤¤ à¤¹à¥ à¤¸à¤à¤¨ à¤à¤¬à¤¾à¤¦à¥ à¤¹à¥à¥¤ à¤¬à¥à¤à¤à¤¤ à¤¹à¥à¥¤ à¤¬à¥à¤®à¤¿à¤¸à¤¾à¤² à¤¹à¥à¥¤\r",
+                    "time": 547064
+                },
+                {
+                    "line": "à¤¹à¥ à¤¨à¤¾à¤¨à¤ ! (à¤à¤¹-) à¤¹à¥ à¤°à¤¾à¤® à¤à¥ à¤¦à¤¾à¤¸à¥à¤ à¤à¥ à¤¸à¤°à¥à¤µà¤° ! (à¤¹à¥ à¤¸à¤¤à¥à¤¸à¤à¤ ! à¤¤à¥à¤°à¥ à¤®à¥à¤ à¤à¤¤à¥à¤®à¤¿à¤) à¤¸à¥à¤¨à¤¾à¤¨ à¤à¤°à¤¨à¥ à¤¸à¥ ! (à¤®à¤¨à¥à¤·à¥à¤¯ à¤à¥ à¤¸à¤¾à¤°à¥) à¤ªà¤¾à¤ª à¤¦à¥à¤° à¤¹à¥ à¤à¤¾à¤¤à¥ à¤¹à¥à¤à¥¤ 10à¥¤\r",
+                    "time": 559052
+                },
+                {
+                    "line": "à¤¹à¥ à¤­à¤¾à¤ ! à¤ªà¤ªà¥à¤¹à¥ à¤à¥ à¤¤à¤°à¤¹ à¤¸à¤à¥à¤¤ à¤à¤¿à¤à¥à¤¤ à¤¹à¥ à¤à¥ à¤à¤¸ à¤¸à¤à¥à¤à¤¨-à¤ªà¥à¤°à¤­à¥ à¤à¥ à¤ªà¥à¤¯à¤¾à¤° à¤à¤°à¤¨à¤¾ à¤à¤¾à¤¹à¤¿à¤à¥¤\r",
+                    "time": 571031
+                },
+                {
+                    "line": "à¤à¤¿à¤¸ à¤¸à¤à¤à¤¨ à¤¸à¥ à¤ªà¥à¤°à¤¾à¤£à¥à¤ à¤à¥ à¤ªà¥à¤°à¥à¤¤à¤¿ à¤¬à¤¨ à¤à¤¾à¤à¥¤ à¤à¤¸à¤à¥ à¤¹à¥ (à¤®à¤¿à¤²à¤¨à¥ à¤à¥) à¤¤à¤®à¤¨à¥à¤¨à¤¾ à¤à¤°à¤¨à¥ à¤à¤¾à¤¹à¤¿à¤à¥¤\r",
+                    "time": 582099
+                },
+                {
+                    "line": "(à¤¹à¥ à¤­à¤¾à¤ ! à¤¦à¥à¤à¥¤ à¤ªà¤ªà¥à¤¹à¤¾ à¤¬à¤°à¤à¤¾ à¤à¥) à¤ªà¤¾à¤¨à¥ à¤à¥ à¤à¤ à¤¬à¥à¤à¤¦ à¤à¥ à¤²à¤¿à¤ (à¤¦à¤°à¤¿à¤¯à¤¾à¤à¤-à¤à¥à¤­à¥à¤ à¤à¥ à¤ªà¤¾à¤¨à¥ à¤¸à¥) à¤à¤ªà¤°à¤¾à¤® à¤¹à¥ à¤à¥ à¤à¤à¤à¤² (à¤¢à¥à¤à¤¢à¤¤à¤¾) à¤«à¤¿à¤°à¤¤à¤¾ à¤¹à¥à¥¤\r",
+                    "time": 600079
+                },
+                {
+                    "line": "à¤¹à¥ à¤¨à¤¾à¤¨à¤ ! (à¤à¤¹-à¤à¥) à¤ªà¥à¤°à¤­à¥ à¤à¤¾ à¤¸à¥à¤µà¤ (à¤ªà¤ªà¥à¤¹à¥ à¤à¥ à¤¤à¤°à¤¹ à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¤¾ à¤¨à¤¾à¤®) à¤®à¤¾à¤à¤à¤¤à¤¾ à¤¹à¥à¥¤ à¤®à¥à¤ à¤à¤¸à¤¸à¥ à¤à¥à¤°à¥à¤¬à¤¾à¤¨ à¤à¤¾à¤¤à¤¾ à¤¹à¥à¤à¥¤ 11à¥¤\r",
+                    "time": 612061
+                },
+                {
+                    "line": "à¤¹à¥ à¤­à¤¾à¤ ! (à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾-) à¤®à¤¿à¤¤à¥à¤° à¤à¤¾ à¤à¤¿à¤à¥à¤¤ à¤¬à¤¹à¥à¤¤ à¤¸à¥à¤à¤¦à¤° à¤¹à¥à¥¤ (à¤à¤¸à¤à¤¾) à¤­à¥à¤¦ à¤¨à¤¹à¥à¤ à¤à¤¾à¤¨à¤¾ à¤à¤¾ à¤¸à¤à¤¤à¤¾à¥¤\r",
+                    "time": 637083
+                },
+                {
+                    "line": "à¤ªà¤° à¤à¤¸ à¤¬à¥à¤à¤à¤¤ à¤ªà¥à¤°à¤­à¥ à¤à¥ à¤à¥à¤£à¥à¤ à¤à¥ à¤à¤¾à¤¹à¤ à¤¸à¤à¤¤-à¤à¤¨à¥à¤ à¤¦à¥à¤µà¤¾à¤°à¤¾ à¤µà¤¹ à¤­à¥à¤¦ à¤¸à¤®à¤ à¤²à¤¿à¤¯à¤¾ à¤à¤¾à¤¤à¤¾ à¤¹à¥à¥¤\r",
+                    "time": 649091
+                },
+                {
+                    "line": "(à¤µà¤¹ à¤­à¥à¤¦ à¤¯à¤¹ à¤¹à¥ à¤à¤¿) à¤à¤à¤° à¤à¤¸ à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¥ à¤à¤¿à¤à¥à¤¤ à¤®à¥à¤ (à¤®à¤¨à¥à¤·à¥à¤¯ à¤à¤¾) à¤à¤¿à¤à¥à¤¤ à¤²à¥à¤¨ à¤¹à¥ à¤à¤¾à¤à¥¤ à¤¤à¥ (à¤®à¤¨à¥à¤·à¥à¤¯ à¤à¥ à¤à¤à¤¦à¤°) à¤¬à¤¹à¥à¤¤ à¤à¤¤à¥à¤®à¤¿à¤ à¤à¤¨à¤à¤¦ à¤ªà¥à¤¦à¤¾ à¤¹à¥ à¤à¤¾à¤¤à¤¾ à¤¹à¥à¥¤ à¤¸à¥à¥¤\r",
+                    "time": 667088
+                },
+                {
+                    "line": "à¤¹à¥ à¤­à¤¾à¤ ! à¤à¤à¤° à¤¤à¥ (à¤ªà¥à¤°à¤­à¥ à¤à¥ à¤à¤¿à¤à¥à¤¤ à¤®à¥à¤ à¤²à¥à¤¨ à¤à¤°à¤à¥) à¤à¤¸ à¤¸à¤¦à¤¾ à¤­à¤à¤à¤¤à¥ (à¤®à¤¨-) à¤à¥à¤° à¤à¥ (à¤à¤à¤à¤²à¤¤à¤¾) à¤®à¤¾à¤° à¤²à¥à¥¤ à¤¤à¥ à¤¤à¥ à¤¸à¤¦à¤¾ à¤à¤¾à¤¯à¤® à¤°à¤¹à¤¨à¥ à¤µà¤¾à¤²à¤¾ à¤¨à¤¾à¤®-à¤§à¤¨ à¤¹à¤¾à¤¸à¤¿à¤² à¤à¤° à¤²à¥à¤à¤¾à¥¤ 12à¥¤\r",
+                    "time": 679084
+                },
+                {
+                    "line": "à¤¹à¥ à¤¸à¤¹à¥à¤²à¤¿à¤ ! à¤¸à¤ªà¤¨à¥ à¤®à¥à¤ (à¤ªà¥à¤°à¤­à¥-à¤ªà¤¤à¤¿ à¤à¥ à¤¦à¥à¤ à¤à¥) à¤®à¥à¤ à¤à¤  à¤à¤¡à¤¼à¥ à¤¹à¥à¤ (à¤ªà¤°à¥¤ à¤®à¥à¤ à¤à¤¸à¤à¤¾ à¤ªà¤²à¥à¤²à¤¾ à¤¨à¤¾ à¤ªà¤à¤¡à¤¼ à¤¸à¤à¥)à¥¤\r",
+                    "time": 692016
+                },
+                {
+                    "line": "à¤®à¥à¤à¤¨à¥ (à¤à¤¸à¤à¤¾) à¤ªà¤²à¥à¤²à¤¾ à¤à¥à¤¯à¥à¤ à¤¨à¤¾ à¤ªà¤à¤¡à¤¼à¤¾à¥¤ (à¤à¤¸à¤²à¤¿à¤ à¤¨à¤¹à¥ à¤ªà¤à¤¡à¤¼ à¤¸à¤à¥ à¤à¥à¤¯à¥à¤à¤à¤¿) à¤à¤¸ à¤¸à¥à¤à¤¦à¤° à¤¦à¤-à¤¦à¤ à¤à¤°à¤¤à¥ à¤ªà¥à¤°à¤­à¥-à¤ªà¤¤à¤¿ à¤à¥ à¤¦à¥à¤ à¤à¥ (à¤®à¥à¤°à¤¾) à¤®à¤¨ à¤®à¥à¤¹à¤¿à¤¤ à¤¹à¥ à¤à¤¯à¤¾ (à¤®à¥à¤à¥ à¤à¤ªà¤¨à¥ à¤à¤ª à¤à¥ à¤¸à¥à¤§à¤¿ à¤¹à¥ à¤¨à¤¾ à¤°à¤¹à¥)à¥¤\r",
+                    "time": 703052
+                },
+                {
+                    "line": "à¤à¤¬ à¤®à¥à¤ à¤à¤¸à¤à¥ à¤à¤¦à¤®à¥à¤ à¤à¥ à¤à¥à¤ à¤à¤°à¤¤à¥ à¤«à¤¿à¤°à¤¤à¥ à¤¹à¥à¤à¥¤ à¤¬à¤¤à¤¾à¤à¥¤ à¤¹à¥ à¤¸à¤à¤¿à¤ ! à¤µà¤¹ à¤à¥à¤¸à¥ à¤®à¤¿à¤²à¥à¥¤\r",
+                    "time": 721059
+                },
+                {
+                    "line": "à¤¹à¥ à¤¸à¤à¥ ! à¤®à¥à¤à¥ à¤µà¤¹ à¤¯à¤¤à¤¨ à¤¬à¤¤à¤¾ à¤à¤¿à¤¸à¤¸à¥ à¤µà¤¹ à¤ªà¥à¤¯à¤¾à¤°à¤¾ à¤®à¤¿à¤² à¤à¤¾à¤à¥¤ 13à¥¤\r",
+                    "time": 733003
+                },
+                {
+                    "line": "à¤¹à¥ à¤¸à¤¹à¥à¤²à¤¿à¤ ! à¤à¥ à¤à¤à¤à¥à¤ à¤¸à¤¤à¥à¤¸à¤à¤à¤¿à¤¯à¥à¤ à¤à¤¾ à¤¦à¤°à¥à¤¶à¤¨ à¤¨à¤¹à¥à¤ à¤à¤°à¤¤à¥à¤à¥¤ à¤µà¥ à¤à¤à¤à¥à¤ (à¤¦à¥à¤¨à¤¿à¤¯à¤¾ à¤à¥ à¤ªà¤¦à¤¾à¤°à¥à¤¥à¥à¤ à¤à¤° à¤°à¥à¤ª à¤à¥ à¤¦à¥à¤-à¤¦à¥à¤ à¤à¥) à¤¬à¥à¤¹à¤¾à¤² à¤¹à¥à¤ à¤°à¤¹à¤¤à¥ à¤¹à¥à¤à¥¤\r",
+                    "time": 744080
+                },
+                {
+                    "line": "à¤à¥ à¤à¤¾à¤¨ à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¥ à¤¸à¤¿à¤«à¤¤à¤¸à¤¾à¤²à¤¾à¤¹ à¤¨à¤¹à¥à¤ à¤¸à¥à¤¨à¤¤à¥à¥¤ à¤µà¥ à¤à¤¾à¤¨ (à¤à¤¤à¥à¤®à¤¿à¤ à¤à¤¨à¤à¤¦ à¤à¥ à¤§à¥à¤¨à¤¿ à¤¸à¥à¤¨à¤¨à¥ à¤¸à¥) à¤¬à¤à¤¦ à¤à¤¿à¤ à¤¹à¥à¤ à¤¹à¥à¤¤à¥ à¤¹à¥à¤à¥¤\r",
+                    "time": 756090
+                },
+                {
+                    "line": "à¤à¥ à¤à¥à¤­ à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¤¾ à¤¨à¤¾à¤® à¤¨à¤¹à¥à¤ à¤à¤ªà¤¤à¥à¥¤ à¤µà¤¹ à¤à¥à¤­ (à¤¦à¥à¤¨à¤¿à¤¯à¤¾ à¤à¥ à¤à¤®à¥à¤²à¥à¤ à¤à¥ à¤¬à¤¾à¤¤à¥à¤ à¤à¤° à¤à¤¨à¤à¤¦à¤¾ à¤à¤¦à¤¿ à¤à¥ à¤à¥à¤à¤à¥ à¤¸à¥ à¤¹à¤° à¤µà¤à¥à¤¤) à¤à¤à¤¤à¥ à¤à¤¾ à¤°à¤¹à¥ à¤¹à¥à¥¤\r",
+                    "time": 774096
+                },
+                {
+                    "line": "à¤¹à¥ à¤¸à¤¹à¥à¤²à¤¿à¤ ! à¤à¤¬ à¤ªà¥à¤°à¤­à¥-à¤ªà¤¾à¤¤à¤¶à¤¾à¤¹ (à¤à¥ à¤¯à¤¾à¤¦) à¤­à¥à¤² à¤à¤¾à¤à¥¤ à¤à¤¬ à¤¦à¤¿à¤¨-à¤¬-à¤¦à¤¿à¤¨ (à¤à¤¤à¥à¤®à¤¿à¤ à¤à¥à¤µà¤¨) à¤à¤®à¤à¥à¤° à¤¹à¥à¤¤à¤¾ à¤à¤¾à¤¤à¤¾ à¤¹à¥à¥¤ (à¤¸à¥à¥¤ à¤¹à¥ à¤¸à¤¹à¥à¤²à¤¿à¤ ! à¤¸à¤¾à¤§-à¤¸à¤à¤à¤¤à¤¿ à¤®à¥à¤ à¤ªà¥à¤°à¤­à¥ à¤à¥ à¤¸à¤¿à¤«à¤¤-à¤¸à¤¾à¤²à¤¾à¤¹ à¤¸à¥à¤¨à¤¤à¥ à¤°à¤¹à¤¨à¤¾à¥¤ à¤à¥à¤­ à¤¸à¥ à¤¨à¤¾à¤® à¤à¤ªà¤¤à¥ à¤°à¤¹à¤¨à¤¾- à¤¯à¤¹à¥ à¤¹à¥ à¤¯à¤¤à¤¨ à¤à¤¸à¤à¥ à¤ªà¤¾ à¤¸à¤à¤¨à¥ à¤à¤¾)à¥¤ 14à¥¤\r",
+                    "time": 786065
+                },
+                {
+                    "line": "à¤¹à¥ à¤­à¤¾à¤ ! (à¤à¤®à¤²-à¤«à¥à¤² à¤à¥) à¤¤à¥à¤µà¥à¤° à¤¸à¥à¤à¤à¤§à¥ à¤®à¥à¤ à¤®à¤¸à¥à¤¤ à¤¹à¥ à¤à¤¾à¤¨à¥ à¤à¥ à¤à¤¾à¤°à¤£ (à¤­à¥à¤°à¥ à¤à¥) à¤ªà¤à¤ à¤à¤®à¤²-à¤«à¥à¤² (à¤à¥ à¤ªà¤à¤à¤¡à¤¼à¤¿à¤¯à¥à¤) à¤®à¥à¤ à¤«à¤¸ à¤à¤¾à¤¤à¥ à¤¹à¥à¤à¥¤\r",
+                    "time": 799008
+                },
+                {
+                    "line": "(à¤à¤¨) à¤ªà¤à¤à¤¡à¤¼à¤¿à¤¯à¥à¤ à¤¸à¥ à¤à¤²à¤ à¤à¥ (à¤­à¥à¤°à¥ à¤à¥) à¤à¤¡à¤¼à¤¾à¤¨à¥à¤ à¤­à¤°à¤¨à¥ à¤­à¥à¤² à¤à¤¾à¤¤à¥ à¤¹à¥à¤ (à¤¯à¤¹à¥ à¤¹à¤¾à¤² à¤¹à¥ à¤à¥à¤µ-à¤­à¥à¤°à¥ à¤à¤¾)à¥¤\r",
+                    "time": 810061
+                },
+                {
+                    "line": "à¤à¥à¤ à¤µà¤¿à¤°à¤²à¤¾ à¤¹à¥ à¤à¤¸à¤¾ (à¤¸à¤à¤¤-) à¤®à¤¿à¤¤à¥à¤° à¤®à¤¿à¤²à¤¤à¤¾ à¤¹à¥ à¤à¥ (à¤à¤¸ à¤à¥à¤µ-à¤­à¥à¤°à¥ à¤à¥ à¤à¤¿à¤à¤¦ à¤à¥ à¤®à¤¾à¤¯à¤¾ à¤à¥ à¤®à¥à¤¹ à¤à¥ à¤ªà¤¡à¤¼à¥ à¤¹à¥à¤) à¤ªà¤à¥à¤à¥ à¤à¤¾à¤à¤  à¤¤à¥à¤¡à¤¼ à¤¸à¤à¤¤à¤¾ à¤¹à¥à¥¤\r",
+                    "time": 828052
+                },
+                {
+                    "line": "à¤¹à¥ à¤¨à¤¾à¤¨à¤ ! à¤²à¤à¥à¤·à¥à¤®à¥ à¤à¤¾ à¤à¤¸à¤°à¤¾ (à¤¸à¤¾à¤°à¥ à¤à¤à¤¤ à¤à¤¾) à¤¨à¤¾à¤¥ à¤ªà¥à¤°à¤­à¥ à¤¹à¥ à¤¸à¤®à¤°à¥à¤¥ à¤¹à¥ à¤à¥ (à¤à¤ªà¤¨à¥ à¤¸à¥) à¤à¥à¤à¥ à¤¹à¥à¤à¤ à¤à¥ à¤¦à¥à¤¬à¤¾à¤°à¤¾ à¤à¤¾à¤à¤  à¤²à¥à¤¤à¤¾ à¤¹à¥à¥¤ 15à¥¤\r",
+                    "time": 840023
+                },
+                {
+                    "line": "à¤¹à¥ à¤­à¤¾à¤ ! à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ (à¤à¥ à¤à¤°à¤£à¥à¤) à¤à¤¾ à¤ªà¥à¤°à¥à¤® à¤¹à¤¾à¤¸à¤¿à¤² à¤à¤°à¤¨à¥ à¤à¥ à¤²à¤¿à¤ à¤®à¥à¤ à¤à¤ à¤¦à¤¿à¤¶à¤¾à¤à¤ à¤®à¥à¤ à¤¦à¥à¤¡à¤¼à¤¤à¤¾ à¤«à¤¿à¤°à¤¤à¤¾ à¤¹à¥à¤à¥¤\r",
+                    "time": 852008
+                },
+                {
+                    "line": "(à¤ªà¤° à¤¯à¤¹ à¤à¤¾à¤®à¤¾à¤¦à¤¿à¤) à¤ªà¤¾à¤à¤ à¤µà¥à¤°à¥ à¤¸à¤¤à¤¾à¤¤à¥ (à¤¹à¥) à¤°à¤¹à¤¤à¥ à¤¹à¥à¤à¥¤ (à¤à¤¨à¤à¥) à¤à¤¿à¤¸ à¤¤à¤°à¥à¤à¥ à¤¸à¥ à¤®à¤¾à¤°à¤¾ à¤à¤¾à¤à¥¤\r",
+                    "time": 863092
+                },
+                {
+                    "line": "(à¤à¤¨à¤à¥ à¤®à¤¾à¤°à¤¨à¥ à¤à¤¾ à¤¤à¤°à¥à¤à¤¾ à¤¯à¤¹à¥ à¤¹à¥ à¤à¤¿) à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¤¾ à¤¨à¤¾à¤® (à¤¸à¤¦à¤¾) à¤¸à¤¿à¤®à¤°à¤¤à¥ à¤°à¤¹à¤¨à¤¾ à¤à¤¾à¤¹à¤¿à¤à¥¤\r",
+                    "time": 882041
+                },
+                {
+                    "line": "à¤à¤¬ à¤ªà¥à¤°à¤¾ à¤à¥à¤°à¥ à¤®à¤¿à¤²à¤¤à¤¾ à¤¹à¥ (à¤à¤¸à¤à¥ à¤¸à¤¹à¤¾à¤¯à¤¤à¤¾ à¤¸à¥ à¤¸à¤¿à¤®à¤°à¤¨ à¤à¥) à¤¤à¥à¤à¤¼ à¤¤à¥à¤° à¤à¤²à¤¾ à¤à¥ (à¤à¤¨ à¤à¤¾à¤®à¤¾à¤¦à¤¿à¤) à¤à¤¡à¤¼à¥ à¤à¤à¤¡à¤¼à¤¾à¤²à¥à¤à¤ à¤à¤¾ à¤¨à¤¾à¤¶ (à¤à¤¿à¤¯à¤¾ à¤à¤¾ à¤¸à¤à¤¤à¤¾ à¤¹à¥)à¥¤ 16à¥¤\r",
+                    "time": 894013
+                },
+                {
+                    "line": "à¤¹à¥ à¤­à¤¾à¤ ! à¤à¥à¤°à¥ à¤à¥ à¤¬à¤à¥à¤¶à¥ à¤¹à¥à¤ à¤¹à¤°à¥-à¤¨à¤¾à¤®-à¤¦à¤¾à¤¤à¤¿ à¤à¤­à¥ à¤¸à¤®à¤¾à¤ªà¥à¤¤ à¤¨à¤¹à¥à¤ à¤¹à¥à¤¤à¥à¥¤\r",
+                    "time": 906001
+                },
+                {
+                    "line": "à¤¬à¥à¤¶à¤ à¤¤à¥à¤® à¤¸à¤­à¥ à¤à¤¸ à¤¦à¤¾à¤¤à¤¿ à¤à¤¾ à¤à¤¸à¥à¤¤à¥à¤®à¤¾à¤² à¤à¤°à¥à¥¤ (à¤¬à¤²à¥à¤à¤¿) à¤à¥à¤°à¥ à¤à¥ à¤¶à¤°à¤£ à¤ªà¤¡à¤¼ à¤à¤° (à¤à¤¸ à¤¦à¤¾à¤¤à¤¿ à¤à¥ à¤¬à¤°à¤¤à¤¨à¥ à¤µà¤¾à¤²à¤¾ à¤®à¤¨à¥à¤·à¥à¤¯ à¤µà¤¿à¤à¤¾à¤°à¥à¤ à¤¸à¥) à¤¬à¤à¤¾ à¤°à¤¹à¤¤à¤¾ à¤¹à¥à¥¤\r",
+                    "time": 918001
+                },
+                {
+                    "line": "à¤à¤¤à¥à¤®à¤¿à¤ à¤à¥à¤µà¤¨ à¤¦à¥à¤¨à¥ à¤µà¤¾à¤²à¤¾ (à¤¯à¥) à¤¨à¤¾à¤®-à¤à¤à¤¾à¤¨à¤¾ à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ (à¤¸à¥à¤µà¤¯à¤ à¤¹à¥) à¤à¥à¤¶ à¤¹à¥ à¤à¥ à¤¦à¥à¤¤à¤¾ à¤¹à¥à¥¤\r",
+                    "time": 935099
+                },
+                {
+                    "line": "à¤¹à¥ à¤¨à¤¾à¤¨à¤ ! (à¤à¤¹- à¤¹à¥ à¤­à¤¾à¤ !) à¤¸à¤¦à¤¾ à¤à¤¸ à¤¨à¤¾à¤® à¤à¥ à¤¸à¤¿à¤®à¤°à¤¾ à¤à¤°à¥¤ à¤¤à¥à¤à¥ à¤à¤­à¥ à¤à¤¤à¥à¤®à¤¿à¤ à¤®à¥à¤¤ à¤¨à¤¹à¥à¤ à¤à¤à¤à¥à¥¤ 17à¥¤\r",
+                    "time": 947090
+                },
+                {
+                    "line": "à¤¹à¥ à¤­à¤¾à¤ ! à¤à¤¿à¤¸ à¤à¤à¤¹ à¤ªà¤° (à¤­à¥ à¤à¥à¤ à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¤¾) à¤­à¤à¤¤ à¤à¤¾ à¤¬à¥à¤ à¤¤à¤¾ à¤¹à¥à¥¤ à¤µà¤¹ à¤à¤à¤¹ (à¤¸à¤¿à¤«à¤¤à¤¸à¤¾à¤²à¤¾à¤¹ à¤à¥ à¤µà¤¾à¤¯à¥-à¤®à¤£à¥à¤¡à¤² à¤¸à¥) à¤¸à¥à¤à¤¦à¤¾à¤ à¤¬à¤¨ à¤à¤¾à¤¤à¥ à¤¹à¥à¥¤\r",
+                    "time": 959091
+                },
+                {
+                    "line": "à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¤¾ à¤¨à¤¾à¤® à¤¸à¤¿à¤®à¤°à¤¨à¥ à¤¸à¥ (à¤µà¤¹à¤¾à¤) à¤¸à¤¾à¤°à¥ à¤¸à¥à¤ à¤¹à¥ à¤à¤¾à¤¤à¥ à¤¹à¥à¤à¥¤\r",
+                    "time": 971064
+                },
+                {
+                    "line": "(à¤µà¤¹à¤¾à¤ à¤à¤¸-à¤ªà¤¡à¤¼à¥à¤¸ à¤°à¤¹à¤¨à¥ à¤µà¤¾à¤²à¥ à¤¸à¤¾à¤°à¥) à¤à¥à¤µ à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¥ à¤¸à¤¿à¤«à¤¤à¤¸à¤¾à¤²à¤¾à¤¹ à¤à¤°à¤¨à¥ à¤²à¤ à¤à¤¾à¤¤à¥ à¤¹à¥à¤à¥¤ (à¤ªà¤° à¤¸à¥à¤­à¤¾à¤à¥à¤¯ à¤à¥ à¤¬à¤¾à¤¤ à¤¹à¥ à¤à¤¿) à¤¨à¤¿à¤à¤¦à¤¾ à¤à¤°à¤¨à¥ à¤µà¤¾à¤²à¥ à¤®à¤¨à¥à¤·à¥à¤¯ (à¤¸à¤à¤¤-à¤à¤¨à¥à¤ à¤à¥ à¤µà¤¡à¤¿à¤à¤ à¤¦à¥à¤ à¤à¥ à¤à¤·à¥à¤¯à¤¾ à¤à¥ à¤à¤ à¤¸à¥) à¤à¤²-à¤à¤² à¤à¥ à¤à¤¤à¥à¤®à¤¿à¤ à¤®à¥à¤¤ à¤¸à¤¹à¥à¤¡à¤¼ à¤²à¥à¤¤à¥ à¤¹à¥à¤à¥¤\r",
+                    "time": 989064
+                },
+                {
+                    "line": "à¤¹à¥ à¤¨à¤¾à¤¨à¤ ! à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¤¾ à¤¨à¤¾à¤® à¤à¤ª-à¤à¤ª à¤à¥ à¤¸à¤à¥à¤à¤¨ à¤à¤¨à¥à¤ à¤à¥ à¤®à¤¨ à¤®à¥à¤ à¤à¥à¤¶à¥ à¤ªà¥à¤¦à¤¾ à¤¹à¥à¤¤à¥ à¤¹à¥à¥¤ 18à¥¤\r",
+                    "time": 1001067
+                },
+                {
+                    "line": "(à¤à¤¸ à¤à¥à¤ à¥ à¤°à¤à¤ à¤®à¥à¤ à¤à¤¿à¤à¥ à¤°à¤¹ à¤à¥) à¤ªà¤µà¤¿à¤¤à¥à¤°-à¤¸à¥à¤µà¤°à¥à¤ª à¤¹à¤°à¥ à¤à¥à¥¤ à¤µà¤¿à¤à¤¾à¤°à¤¿à¤¯à¥à¤ à¤à¥ à¤ªà¤µà¤¿à¤¤à¥à¤° à¤à¤°à¤¨à¥ à¤µà¤¾à¤²à¥ à¤¹à¤°à¥ à¤à¥ à¤à¤­à¥ à¤­à¥ à¤¨à¤¹à¥à¤ à¤¸à¤¿à¤®à¤°à¤¾ à¤à¤¾ à¤¸à¤à¤¤à¤¾à¥¤\r",
+                    "time": 1014005
+                },
+                {
+                    "line": "à¤¹à¥ à¤­à¤¾à¤ ! à¤®à¤¾à¤¯à¤¾à¤µà¥ à¤ªà¤¦à¤¾à¤°à¥à¤¥à¥à¤ à¤à¥ à¤®à¥à¤¹ à¤®à¥à¤ (à¤«à¤¸à¥ à¤° à¤¹à¤à¥ à¤à¤¿à¤à¤¦à¤à¥ à¤à¥) à¤¬à¥à¤¡à¤¼à¥ à¤à¥à¤¯à¤¾à¤¦à¤¾ (à¤¸à¥à¤ à¤¸à¥) à¤¨à¤¹à¥à¤ à¤à¤²à¤¾à¤ à¤à¤¾ à¤¸à¤à¤¤à¥à¥¤ (à¤à¤à¤¿à¤°) à¤¦à¥à¤à¥ à¤¹à¥ à¤¹à¥à¤ à¤à¤¾à¤¤à¤¾ à¤¹à¥à¥¤\r",
+                    "time": 1025059
+                },
+                {
+                    "line": "à¤¹à¥ à¤­à¤¾à¤ ! (à¤®à¤¾à¤¯à¤¾à¤µà¥ à¤ªà¤¦à¤¾à¤°à¥à¤¥à¥à¤ à¤à¥ à¤à¤¨) à¤¹à¤µà¤¾à¤ à¤à¤¿à¤²à¥à¤ à¤à¥ à¤¦à¥à¤-à¤¦à¥à¤ à¤à¥ à¤¤à¥ à¤à¥à¤¯à¥à¤ à¤¸à¥à¤ à¤ªà¥à¤°à¤¤à¥à¤¤ à¤à¤° à¤°à¤¹à¤¾ à¤¹à¥à¥¤ (à¤¨à¤¾ à¤¯à¥ à¤¸à¤¦à¤¾ à¤à¤¾à¤¯à¤® à¤°à¤¹à¤¨à¥à¥¤ à¤à¤° à¤¨à¤¾ à¤¹à¥ à¤à¤¨à¤à¥ à¤®à¥à¤¹ à¤®à¥à¤ à¤«à¤¸ à¤à¥ à¤ªà¥à¤°à¤­à¥-à¤¦à¤° à¤ªà¤° à¤à¤¦à¤° à¤®à¤¿à¤²à¤¨à¤¾)à¥¤\r",
+                    "time": 1043032
+                },
+                {
+                    "line": "à¤¹à¥ à¤­à¤¾à¤ ! à¤®à¥à¤ (à¤¤à¥) à¤à¤¨à¤à¥ à¤¸à¤¦à¤à¥ à¤à¤¾à¤¤à¤¾ à¤¹à¥à¤ à¤à¥ (à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¤¾ à¤¨à¤¾à¤® à¤à¤ª-à¤à¤ª à¤à¥) à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¥ à¤¹à¤à¥à¤°à¥ à¤®à¥à¤ à¤¸à¤¤à¥à¤à¤¾à¤°à¥ à¤à¤¾à¤¤à¥ à¤¹à¥à¤à¥¤ 19à¥¤\r",
+                    "time": 1054090
+                },
+                {
+                    "line": "à¤¹à¥ à¤­à¤¾à¤ ! à¤®à¥à¤°à¥à¤ à¤®à¤¨à¥à¤·à¥à¤¯ à¤à¤¨à¥à¤à¥à¤ à¤¹à¥ à¤à¥à¤à¤°à¥à¤® à¤à¤°à¤¤à¤¾ à¤°à¤¹à¤¤à¤¾ à¤¹à¥à¥¤\r",
+                    "time": 1066091
+                },
+                {
+                    "line": "à¤¬à¤¡à¤¼à¥ à¤à¥à¤à¤°à¥à¤®à¥à¤ à¤à¥ à¤à¤à¤¦à¤à¥ à¤®à¥à¤ à¤à¤¸à¤à¤¾ à¤¨à¤¿à¤µà¤¾à¤¸ à¤¹à¥à¤ à¤°à¤¹à¤¤à¤¾ à¤¹à¥ à¤à¤¿à¤¸à¤à¥ à¤à¤¾à¤°à¤£ à¤®à¥à¤°à¥à¤ à¤à¤¾ à¤¶à¤°à¥à¤° à¤®à¤¿à¤à¥à¤à¥ à¤®à¥à¤ à¤®à¤¿à¤² à¤à¤¾à¤¤à¤¾ à¤¹à¥ (à¤à¤®à¥à¤²à¥à¤¯ à¤®à¤¾à¤¨à¤¸-à¤¶à¤°à¥à¤° à¤à¥à¤¡à¤¼à¥ à¤à¥ à¤¬à¤°à¤¾à¤¬à¤° à¤à¤¾ à¤¨à¤¹à¥à¤ à¤°à¤¹ à¤à¤¾à¤¤à¤¾)à¥¤\r",
+                    "time": 1078068
+                },
+                {
+                    "line": "(à¤à¤¸à¤¾ à¤®à¤¨à¥à¤·à¥à¤¯) à¤à¤¹à¤à¤à¤¾à¤° à¤à¥ à¤à¤à¤§à¥à¤°à¥ à¤®à¥à¤ à¤à¤²à¤¤à¤¾ à¤«à¤¿à¤°à¤¤à¤¾ à¤¹à¥à¥¤ à¤à¤¸à¤à¥ à¤®à¥à¤¤ (à¤­à¥) à¤¨à¤¹à¥à¤ à¤¸à¥à¤à¤¤à¥à¥¤\r",
+                    "time": 1096021
+                },
+                {
+                    "line": "à¤à¤¸ à¤¹à¤µà¤¾à¤ à¤à¤¿à¤²à¥ à¤à¥ à¤¦à¥à¤-à¤¦à¥à¤ à¤à¥ à¤ªà¤¤à¤¾ à¤¨à¤¹à¥à¤à¥¤ à¤¯à¤¹ à¤à¥à¤¯à¥à¤ à¤à¤¸à¤à¥ à¤¸à¤¦à¤¾ à¤à¤¾à¤¯à¤® à¤°à¤¹à¤¨à¤¾ à¤®à¤¾à¤¨à¥ à¤¬à¥à¤ à¤¾ à¤¹à¥à¥¤ 20à¥¤\r",
+                    "time": 1108043
+                },
+                {
+                    "line": "à¤¹à¥ à¤­à¤¾à¤ ! à¤à¤¿à¤¸ (à¤®à¤¨à¥à¤·à¥à¤¯) à¤à¥ (à¤à¤®à¥à¤° à¤à¥) à¤à¤à¤¿à¤°à¥ à¤¹à¤¦ à¤ªà¤¹à¥à¤à¤ à¤à¤¾à¤¤à¥ à¤¹à¥à¥¤ à¤à¤¸à¤à¥ à¤à¥à¤ à¤®à¤¨à¥à¤·à¥à¤¯ (à¤®à¥à¤¤ à¤à¥ à¤®à¥à¤à¤¹ à¤¸à¥) à¤¬à¤à¤¾ à¤¨à¤¹à¥à¤ à¤¸à¤à¤¤à¤¾à¥¤\r",
+                    "time": 1120002
+                },
+                {
+                    "line": "à¤¹à¤¿à¤à¤®à¤¤ à¤µà¤¿à¤¦à¥à¤¯à¤¾ à¤à¥ à¤à¤¨à¥à¤à¥à¤ à¤¹à¥ à¤¢à¤à¤ (à¤¨à¥à¤¸à¥à¤à¥) à¤à¤¹à¤¾à¤ à¤¤à¤ (à¤à¥à¤) à¤¬à¤¤à¤¾ à¤¸à¤à¤¤à¤¾ à¤¹à¥à¥¤\r",
+                    "time": 1132020
+                },
+                {
+                    "line": "à¤¹à¥ à¤®à¥à¤°à¥à¤ ! à¤à¤ à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¥ à¤¹à¥ à¤¯à¤¾à¤¦ à¤à¤¿à¤¯à¤¾ à¤à¤°à¥¤ (à¤µà¤¹ à¤¹à¥ à¤¹à¤° à¤µà¤à¥à¤¤) à¤¤à¥à¤°à¥ à¤à¤¾à¤® à¤à¤¤à¤¾ à¤¹à¥à¥¤\r",
+                    "time": 1149064
+                },
+                {
+                    "line": "à¤¹à¥ à¤­à¤¾à¤ ! à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¥ à¤¨à¤¾à¤® à¤à¥ à¤¬à¤¿à¤¨à¤¾ à¤¯à¤¹ à¤¶à¤°à¥à¤° à¤®à¤¿à¤à¥à¤à¥ (à¤à¥ à¤¸à¤®à¤¾à¤¨) à¤¹à¥à¥¤ à¤¸à¤¾à¤°à¤¾ à¤µà¥à¤¯à¤°à¥à¤¥ à¤à¤²à¤¾ à¤à¤¾à¤¤à¤¾ à¤¹à¥à¥¤ 21à¥¤\r",
+                    "time": 1161042
+                },
+                {
+                    "line": "à¤¹à¥ à¤­à¤¾à¤ ! (à¤à¤¤à¥à¤®à¤¿à¤ à¤°à¥à¤à¥à¤ à¤à¥ à¤¦à¥à¤° à¤à¤°à¤¨à¥ à¤à¥ à¤²à¤¿à¤ à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¤¾) à¤¨à¤¾à¤® (à¤¹à¥) à¤¦à¤µà¤¾à¤ à¤¹à¥à¥¤ à¤¬à¤¹à¥à¤¤ à¤¹à¥ à¤à¥à¤®à¤¤à¥ à¤¦à¤µà¤¾à¤ à¤¹à¥à¥¤ (à¤¯à¤¹ à¤¦à¤µà¤¾à¤ à¤¸à¤¾à¤§-à¤¸à¤à¤à¤¤à¤¿ à¤®à¥à¤ à¤®à¤¿à¤² à¤à¥) à¤ªà¥ à¤à¤¾ à¤¸à¤à¤¤à¥ à¤¹à¥à¥¤\r",
+                    "time": 1173041
+                },
+                {
+                    "line": "(à¤¸à¤¾à¤§-à¤¸à¤à¤à¤¤à¤¿ à¤®à¥à¤) à¤¸à¤à¤¤-à¤à¤¨ à¤¸à¤¦à¤¾ à¤®à¤¿à¤² à¤à¥ (à¤¯à¤¹ à¤¹à¤°à¥-à¤¨à¤¾à¤® à¤¦à¤µà¤¾à¤) à¤¬à¤¾à¤à¤à¥ à¤à¤¾à¤¤à¥ à¤¹à¥à¥¤\r",
+                    "time": 1185021
+                },
+                {
+                    "line": "à¤ªà¤° à¤à¤¸à¥ à¤®à¤¨à¥à¤·à¥à¤¯ à¤à¥ à¤¯à¤¹ à¤¨à¤¾à¤®-à¤¦à¤µà¤¾à¤ à¤®à¤¿à¤²à¤¤à¥ à¤¹à¥à¥¤ à¤à¤¿à¤¸à¤à¥ à¤­à¤¾à¤à¥à¤¯à¥à¤ à¤®à¥à¤ à¤à¤¸ à¤à¤¾ à¤®à¤¿à¤²à¤¨à¤¾ à¤²à¤¿à¤à¤¾ à¤¹à¥à¤¤à¤¾ à¤¹à¥à¥¤\r",
+                    "time": 1202085
+                },
+                {
+                    "line": "à¤¹à¥ à¤­à¤¾à¤ ! à¤®à¥à¤ à¤¸à¤¦à¤à¥ à¤à¤¾à¤¤à¤¾ à¤¹à¥à¤ à¤à¤¨ à¤ªà¤° à¤¸à¥ à¤à¥ (à¤¹à¤°à¥-à¤¨à¤¾à¤® à¤à¤ª à¤à¥) à¤ªà¥à¤°à¤­à¥-à¤®à¤¿à¤²à¤¾à¤ª à¤à¤¾ à¤à¤¨à¤à¤¦ à¤²à¥à¤¤à¥ à¤¹à¥à¤à¥¤\r",
+                    "time": 1214079
+                },
+                {
+                    "line": "à¤¹à¥ à¤­à¤¾à¤ ! (à¤¸à¤¾à¤§-à¤¸à¤à¤à¤¤à¤¿ à¤®à¥à¤ à¤à¤¤à¥à¤®à¤¿à¤ à¤®à¥à¤¤ à¤¸à¥ à¤¬à¤à¤¾à¤¨à¥ à¤µà¤¾à¤²à¥) à¤¹à¤à¥à¤®à¥à¤ (à¤¸à¤à¤¤ à¤à¤¨à¥à¤) à¤à¥ à¤¸à¤à¤à¤¤à¤¿ à¤à¤à¤à¥à¤ à¥ à¤¹à¥à¤¤à¥ à¤¹à¥\r",
+                    "time": 1227029
+                },
+                {
+                    "line": "(à¤à¤¨à¤à¥ à¤¬à¤°à¤¤à¥ à¤¹à¥à¤ à¤¬à¤¤à¤¾à¤ à¤¹à¥à¤ à¤¹à¤°à¥-à¤¨à¤¾à¤® à¤¸à¤¿à¤®à¤°à¤¨ à¤à¥) à¤¦à¤µà¤¾à¤ (à¤¸à¤¾à¤§-à¤¸à¤à¤à¤¤à¤¿ à¤®à¥à¤) à¤à¤ªà¤¨à¤¾ à¤ªà¥à¤°à¤¾ à¤à¤¸à¤° à¤à¤°à¤¤à¥ à¤¹à¥ (à¤à¥à¤¯à¥à¤à¤à¤¿ à¤à¤¸ à¤¸à¤®à¥à¤¹ à¤®à¥à¤ à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤¸à¥à¤µà¤¯à¤ à¤¹à¤¾à¤à¤¿à¤° à¤°à¤¹à¤¤à¤¾ à¤¹à¥)à¥¤\r",
+                    "time": 1238038
+                },
+                {
+                    "line": "(à¤à¤¤à¥à¤®à¤¿à¤ à¤°à¥à¤à¥à¤ à¤à¥ à¤µà¤¹ à¤µà¥à¤¦à¥à¤¯ à¤¸à¤à¤¤-à¤à¤¨) à¤à¥-à¤à¥ à¤¨à¤¿à¤¤à¥à¤¯ à¤à¥ à¤à¤°à¥à¤¤à¤µà¥à¤¯ à¤à¤°à¤¤à¥ à¤¹à¥à¤ (à¤µà¤¹ à¤¸à¤¾à¤§-à¤¸à¤à¤à¤¤à¤¿ à¤®à¥à¤ à¤à¤ à¤à¤® à¤²à¥à¤à¥à¤ à¤à¥ à¤¸à¤¾à¤®à¤¨à¥) à¤¬à¤¢à¤¼à¤¿à¤¯à¤¾ à¤ªà¤¦à¥à¤à¤¿à¤¨à¥à¤¹ à¤ªà¥à¤°à¤à¤ à¤¹à¥à¤¤à¥ à¤¹à¥à¤à¥¤\r",
+                    "time": 1256006
+                },
+                {
+                    "line": "(à¤à¤¸à¥à¤²à¤¿à¤ à¤¸à¤¾à¤§-à¤¸à¤à¤à¤¤à¤¿ à¤®à¥à¤ à¤à¤ à¤­à¤¾à¤à¥à¤¯à¤¶à¤¾à¤²à¤¿à¤¯à¥à¤ à¤à¥) à¤¶à¤°à¥à¤° à¤¸à¥ à¤¸à¤¾à¤°à¥ à¤°à¥à¤ à¤¸à¤¾à¤°à¥ à¤ªà¤¾à¤ªà¤¾ à¤¦à¥à¤° à¤¹à¥ à¤à¤¾à¤¤à¥ à¤¹à¥à¤à¥¤ 23à¥¤\r",
+                    "time": 1267094
+                },
+                {
+                    "line": "(à¤à¤¤à¥à¤®à¤¿à¤ à¤°à¥à¤à¥à¤ à¤à¥ à¤µà¤¹ à¤µà¥à¤¦à¥à¤¯ à¤¸à¤à¤¤-à¤à¤¨) à¤à¥-à¤à¥ à¤¨à¤¿à¤¤à¥à¤¯ à¤à¥ à¤à¤°à¥à¤¤à¤µà¥à¤¯ à¤à¤°à¤¤à¥ à¤¹à¥à¤ (à¤µà¤¹ à¤¸à¤¾à¤§-à¤¸à¤à¤à¤¤à¤¿ à¤®à¥à¤ à¤à¤ à¤à¤® à¤²à¥à¤à¥à¤ à¤à¥ à¤¸à¤¾à¤®à¤¨à¥) à¤¬à¤¢à¤¼à¤¿à¤¯à¤¾ à¤ªà¤¦à¥à¤à¤¿à¤¨à¥à¤¹ à¤ªà¥à¤°à¤à¤ à¤¹à¥à¤¤à¥ à¤¹à¥à¤à¥¤\r",
+                    "time": 1279098
+                },
+                {
+                    "line": "(à¤à¤¸à¥à¤²à¤¿à¤ à¤¸à¤¾à¤§-à¤¸à¤à¤à¤¤à¤¿ à¤®à¥à¤ à¤à¤ à¤­à¤¾à¤à¥à¤¯à¤¶à¤¾à¤²à¤¿à¤¯à¥à¤ à¤à¥) à¤¶à¤°à¥à¤° à¤¸à¥ à¤¸à¤¾à¤°à¥ à¤°à¥à¤ à¤¸à¤¾à¤°à¥ à¤ªà¤¾à¤ªà¤¾ à¤¦à¥à¤° à¤¹à¥ à¤à¤¾à¤¤à¥ à¤¹à¥à¤à¥¤ 23à¥¤\r",
+                    "time": 1291067
+                }
+            ]
+        }
+    ],
+    "info": "testings"
+}

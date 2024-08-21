@@ -1,0 +1,424 @@
+{
+    "status": 200,
+    "message": "",
+    "data": [
+        {
+            "albumart": "",
+            "author": "",
+            "song": "ਹਰਿ ਪਹਿਲੜੀ ਲਾਵ ਪਰਵਿਰਤੀ ਕਰਮ ਦ੍ਰਿੜਾਇਆ ਬਲਿ ਰਾਮ ਜੀਉ ॥",
+            "json": "https://shabad-guru.org/uploads/data/0.9- Laavan/ਹਰਿ ਪਹਿਲੜੀ ਲਾਵ ਪਰਵਿਰਤੀ ਕਰਮ ਦ੍ਰਿੜਾਇਆ ਬਲਿ ਰਾਮ ਜੀਉ ॥.json",
+            "audio": "https://shabadguru.s3.us-west-1.amazonaws.com/gurbani/lrc n- Project/15 - Raag Suhi Final (532-581)/mp3/song/0566 A Pb.mp3",
+            "punjabi": 1,
+            "english": 1,
+            "english_trans": 1,
+            "spanish": 1,
+            "hindi": null,
+            "file_name_on_s3": "0566 A Pb",
+            "english_trans_lyrics": [
+                {
+                    "line": "soohee mehlaa 4.\r",
+                    "time": 70
+                },
+                {
+                    "line": "har pahilarhee laav parvirtee karam drirh-aa-i-aa bal raam jee-o.\r",
+                    "time": 38020
+                },
+                {
+                    "line": "banee barahmaa vayd Dharam darirhHu paap tajaa-i-aa bal raam jee-o.\r",
+                    "time": 53086
+                },
+                {
+                    "line": "Dharam darirhHu har naam Dhi-aavahu simrit naam drirh-aa-i-aa.\r",
+                    "time": 69033
+                },
+                {
+                    "line": "satgur gur pooraa aaraaDhahu sabh kilvikh paap gavaa-i-aa.\r",
+                    "time": 92089
+                },
+                {
+                    "line": "sahj anand ho-aa vadbhaagee man har har meethaa laa-i-aa.\r",
+                    "time": 108029
+                },
+                {
+                    "line": "jan kahai naanak laav pahilee aarambh kaaj rachaa-i-aa. ||1||\r",
+                    "time": 124008
+                },
+                {
+                    "line": "har doojrhee laav satgur purakh milaa-i-aa bal raam jee-o.\r",
+                    "time": 139067
+                },
+                {
+                    "line": "nirbha-o bhai man ho-ay ha-umai mail gavaa-i-aa bal raam jee-o.\r",
+                    "time": 155009
+                },
+                {
+                    "line": "nirmal bha-o paa-i-aa har gun gaa-i-aa har vaykhai raam hadooray.\r",
+                    "time": 170087
+                },
+                {
+                    "line": "har aatam raam pasaari-aa su-aamee sarab rahi-aa bharpooray.\r",
+                    "time": 194062
+                },
+                {
+                    "line": "antar baahar har parabh ayko mil har jan mangal gaa-ay.\r",
+                    "time": 210020
+                },
+                {
+                    "line": "jan naanak doojee laav chalaa-ee anhad sabad vajaa-ay. ||2||\r",
+                    "time": 226024
+                },
+                {
+                    "line": "har teejrhee laav man chaa-o bha-i-aa bairaagee-aa bal raam jee-o.\r",
+                    "time": 242011
+                },
+                {
+                    "line": "sant janaa har mayl har paa-i-aa vadbhaagee-aa bal raam jee-o.\r",
+                    "time": 258019
+                },
+                {
+                    "line": "nirmal har paa-i-aa har gun gaa-i-aa mukh bolee har banee.\r",
+                    "time": 274029
+                },
+                {
+                    "line": "sant janaa vadbhaagee paa-i-aa har kathee-ai akath kahaanee.\r",
+                    "time": 297063
+                },
+                {
+                    "line": "hirdai har har har Dhun upjee har japee-ai mastak bhaag jee-o.\r",
+                    "time": 313063
+                },
+                {
+                    "line": "jan naanak bolay teejee laavai har upjai man bairaag jee-o. ||3||\r",
+                    "time": 329037
+                },
+                {
+                    "line": "har cha-utharhee laav man sahj bha-i-aa har paa-i-aa bal raam jee-o.\r",
+                    "time": 345031
+                },
+                {
+                    "line": "gurmukh mili-aa subhaa-ay har man tan meethaa laa-i-aa bal raam jee-o.\r",
+                    "time": 361022
+                },
+                {
+                    "line": "har meethaa laa-i-aa mayray parabh bhaa-i-aa an-din har liv laa-ee.\r",
+                    "time": 377041
+                },
+                {
+                    "line": "man chindi-aa fal paa-i-aa su-aamee har naam vajee vaaDhaa-ee.\r",
+                    "time": 401008
+                },
+                {
+                    "line": "har parabh thaakur kaaj rachaa-i-aa Dhan hirdai naam vigaasee.\r",
+                    "time": 416075
+                },
+                {
+                    "line": "jan naanak bolay cha-uthee laavai har paa-i-aa parabh avinaasee. ||4||2||\r",
+                    "time": 432072
+                }
+            ],
+            "english_lyrics": [
+                {
+                    "line": "Soohee, Fourth Mehl:\r",
+                    "time": 70
+                },
+                {
+                    "line": "In the first round of the marriage ceremony, the Lord sets out His Instructions for performing the daily duties of married life.\r",
+                    "time": 38020
+                },
+                {
+                    "line": "Instead of the hymns of the Vedas to Brahma, embrace the righteous conduct of Dharma, and renounce sinful actions.\r",
+                    "time": 53086
+                },
+                {
+                    "line": "Meditate on the Lord's Name; embrace and enshrine the contemplative remembrance of the Naam.\r",
+                    "time": 69033
+                },
+                {
+                    "line": "Worship and adore the Guru, the Perfect True Guru, and all your sins shall be dispelled.\r",
+                    "time": 92089
+                },
+                {
+                    "line": "By great good fortune, celestial bliss is attained, and the Lord, Har, Har, seems sweet to the mind.\r",
+                    "time": 108029
+                },
+                {
+                    "line": "Servant Nanak proclaims that, in this, the first round of the marriage ceremony, the marriage ceremony has begun. ||1||\r",
+                    "time": 124008
+                },
+                {
+                    "line": "In the second round of the marriage ceremony, the Lord leads you to meet the True Guru, the Primal Being.\r",
+                    "time": 139067
+                },
+                {
+                    "line": "With the Fear of God, the Fearless Lord in the mind, the filth of egotism is eradicated.\r",
+                    "time": 155009
+                },
+                {
+                    "line": "In the Fear of God, the Immaculate Lord, sing the Glorious Praises of the Lord, and behold the Lord's Presence before you.\r",
+                    "time": 170087
+                },
+                {
+                    "line": "The Lord, the Supreme Soul, is the Lord and Master of the Universe; He is pervading and permeating everywhere, fully filling all spaces.\r",
+                    "time": 194062
+                },
+                {
+                    "line": "Deep within, and outside as well, there is only the One Lord God. Meeting together, the humble servants of the Lord sing the songs of joy.\r",
+                    "time": 210020
+                },
+                {
+                    "line": "Servant Nanak proclaims that, in this, the second round of the marriage ceremony, the unstruck sound current of the Shabad resounds. ||2||\r",
+                    "time": 226024
+                },
+                {
+                    "line": "In the third round of the marriage ceremony, the mind is filled with Divine Love.\r",
+                    "time": 242011
+                },
+                {
+                    "line": "Meeting with the humble Saints of the Lord, I have found the Lord, by great good fortune.\r",
+                    "time": 258019
+                },
+                {
+                    "line": "I have found the Immaculate Lord, and I sing the Glorious Praises of the Lord. I speak the Word of the Lord's Bani.\r",
+                    "time": 274029
+                },
+                {
+                    "line": "By great good fortune, I have found the humble Saints, and I speak the Unspoken Speech of the Lord.\r",
+                    "time": 297063
+                },
+                {
+                    "line": "The Name of the Lord, Har, Har, Har, vibrates and resounds within my heart; meditating on the Lord, I have realized the destiny inscribed upon my forehead.\r",
+                    "time": 313063
+                },
+                {
+                    "line": "Servant Nanak proclaims that, in this, the third round of the marriage ceremony, the mind is filled with Divine Love for the Lord. ||3||\r",
+                    "time": 329037
+                },
+                {
+                    "line": "In the fourth round of the marriage ceremony, my mind has become peaceful; I have found the Lord.\r",
+                    "time": 345031
+                },
+                {
+                    "line": "As Gurmukh, I have met Him, with intuitive ease; the Lord seems so sweet to my mind and body.\r",
+                    "time": 361022
+                },
+                {
+                    "line": "The Lord seems so sweet; I am pleasing to my God. Night and day, I lovingly focus my consciousness on the Lord.\r",
+                    "time": 377041
+                },
+                {
+                    "line": "I have obtained my Lord and Master, the fruit of my mind's desires. The Lord's Name resounds and resonates.\r",
+                    "time": 401008
+                },
+                {
+                    "line": "The Lord God, my Lord and Master, blends with His bride, and her heart blossoms forth in the Naam.\r",
+                    "time": 416075
+                },
+                {
+                    "line": "Servant Nanak proclaims that, in this, the fourth round of the marriage ceremony, we have found the Eternal Lord God. ||4||2||\r",
+                    "time": 432072
+                }
+            ],
+            "spanish_lyrics": [
+                {
+                    "line": "Suji, Mejl Guru Ram Das, Cuarto Canal Divino.\r",
+                    "time": 70
+                },
+                {
+                    "line": "En la Primera Ronda de la ceremonia de matrimonio, el Señor te instruye para que realices tus deberes diarios de la vida matrimonial.\r",
+                    "time": 38020
+                },
+                {
+                    "line": "En vez de los himnos de los Vedas a Brahma, conduce tu vida en la Rectitud del Dharma y renuncia a actuar con maldad y animosidad.\r",
+                    "time": 53086
+                },
+                {
+                    "line": "Medita en el Nombre del Señor y recuerda el Naam,\r",
+                    "time": 69033
+                },
+                {
+                    "line": "alaba y adora al Guru, al Perfecto y Verdadero Guru para que tus errores sean erradicados.\r",
+                    "time": 92089
+                },
+                {
+                    "line": "La fortuna te sonreirá, el Éxtasis del Equilibrio lograrás y el Señor, Jar, Jar, será Dulce para tu ser.\r",
+                    "time": 108029
+                },
+                {
+                    "line": "El Sirviente Nanak proclama que en la Primera Ronda del Matrimonio, la Ceremonia ha comenzado.(1)\r",
+                    "time": 124008
+                },
+                {
+                    "line": "En la Segunda Ronda de la Ceremonia Matrimonial, el Señor te guía a encontrar al Guru Verdadero, el Ser Primordial.\r",
+                    "time": 139067
+                },
+                {
+                    "line": "En el Temor Reverencial del Señor Inmaculado, canta Sus Gloriosas Alabanzas y observa Su Maravillosa Presencia ante ti.\r",
+                    "time": 155009
+                },
+                {
+                    "line": "El Señor, la Suprema Alma, es el Señor y Maestro del Universo.\r",
+                    "time": 170087
+                },
+                {
+                    "line": "Él está prevaleciendo, compenetrándolo todo y llenando en su totalidad todos los espacios.\r",
+                    "time": 194062
+                },
+                {
+                    "line": "Tu Único Señor está tanto fuera como adentro, reuniéndote con los Santos, canta las Melodías de Dicha.\r",
+                    "time": 210020
+                },
+                {
+                    "line": "El Sirviente Nanak proclama que en esta Segunda Ronda de la Ceremonia de Matrimonio, la Melodía Celestial de la Palabra del Shabd resuena en mi mente.(2)\r",
+                    "time": 226024
+                },
+                {
+                    "line": "En la Tercera Ronda de la Ceremonia de Matrimonio, la mente está llena del Amor Divino.\r",
+                    "time": 242011
+                },
+                {
+                    "line": "Encontrando a los Humildes Santos del Señor, he encontrado al Señor y la fortuna se ha posado sobre mí\r",
+                    "time": 258019
+                },
+                {
+                    "line": "He encontrado al Señor Inmaculado, y así canto la Gloriosas Alabanzas del Señor recitando la Palabra de los Banis del Señor.\r",
+                    "time": 274029
+                },
+                {
+                    "line": "Por buena fortuna he encontrado a los humildes Santos y ahora recito el Discurso Inefable del Señor.\r",
+                    "time": 297063
+                },
+                {
+                    "line": "El Nombre del Señor, Jar, Jar, Jar, vibra y resuena en mi corazón. Meditando en el Señor, he tomado conciencia del Destino inscrito sobre mi frente.\r",
+                    "time": 313063
+                },
+                {
+                    "line": "El Sirviente Nanak proclama que en ésta, la tercera Ronda de la Ceremonia de Matrimonio, la mente está llena del Amor Divino por el Señor.(3)\r",
+                    "time": 329037
+                },
+                {
+                    "line": "En la Cuarta Ronda de la Ceremonia de Matrimonio, mi mente está en Paz, pues he encontrado al Señor.\r",
+                    "time": 345031
+                },
+                {
+                    "line": "Como Gurmukj, Lo he conocido a través de mi intuición, con facilidad, y ahora al Señor lo siento tan Dulce en mi mente y en mi cuerpo.\r",
+                    "time": 361022
+                },
+                {
+                    "line": "El Señor es tan Dulce, noche y día complazco a mi Señor,\r",
+                    "time": 377041
+                },
+                {
+                    "line": "y con todo Amor enfoco mi ser en Él, pues he obtenido a mi Señor y Maestro, el Fruto de los deseos de mi mente, y así, Él resuena y reside en mi ser.\r",
+                    "time": 401008
+                },
+                {
+                    "line": "El Señor Dios, mi Señor y Maestro, se amalgama con Su Novia, y su corazón florece con el Naam.\r",
+                    "time": 416075
+                },
+                {
+                    "line": "El Sirviente Nanak proclama que en ésta, la cuarta Ronda de la Ceremonia de Matrimonio, hemos encontrado al Eterno Dios Nuestro Señor.(4-2)",
+                    "time": 432072
+                }
+            ],
+            "hindi_lyrics": [
+                {
+                    "line": "à¤¸à¥à¤¹à¥ à¤®à¤¹à¤²à¤¾ à©ª à¥¥\r",
+                    "time": 70
+                },
+                {
+                    "line": "à¤¹à¥ à¤°à¤¾à¤® à¤à¥ ! à¤®à¥à¤ à¤¤à¥à¤à¤¸à¥ à¤¸à¤¦à¤à¥ à¤à¤¾à¤¤à¤¾ à¤¹à¥à¤à¥¤ (à¤¤à¥à¤°à¥ à¤®à¥à¤¹à¤° à¤¸à¥ à¤à¥à¤°à¥ à¤à¥ à¤¸à¤¿à¤ à¤à¥) à¤¹à¤°à¥-à¤¨à¤¾à¤® à¤à¤ªà¤¨à¥ à¤à¥ à¤à¤¹à¤° à¤®à¥à¤ à¤µà¥à¤¯à¤¸à¥à¤¤ à¤¹à¥à¤¨à¥ à¤à¤¾ à¤à¤¾à¤® à¤¨à¤¿à¤¶à¥à¤à¤¯ à¤à¤°à¤µà¤¾à¤¯à¤¾ à¤¹à¥ (à¤¹à¤°à¥-à¤¨à¤¾à¤® à¤à¤ªà¤¨à¥ à¤à¥ à¤à¤°à¥à¤® à¤ªà¥à¤°à¤µà¥à¤¤à¤¿ à¤¦à¥à¤¢à¤¼ à¤à¤°à¤µà¤¾à¤ à¤¹à¥)à¥¤ à¤¯à¤¹à¥ à¤¹à¥ à¤ªà¥à¤°à¤­à¥-à¤ªà¤¤à¤¿ à¤¸à¥ (à¤à¥à¤µ-à¤¸à¥à¤¤à¥à¤°à¥ à¤à¥ à¤µà¤¿à¤µà¤¾à¤¹ à¤à¥) à¤ªà¤¹à¤²à¥ à¤¸à¥à¤à¤¦à¤° à¤²à¤¾à¤à¤µà¥¤\r",
+                    "time": 38020
+                },
+                {
+                    "line": "à¤¹à¥ à¤­à¤¾à¤ ! à¤à¥à¤°à¥ à¤à¥ à¤¬à¤¾à¤£à¥ à¤¹à¥ (à¤¸à¤¿à¤ à¤à¥ à¤²à¤¿à¤) à¤¬à¥à¤°à¤¹à¥à¤®à¤¾ à¤à¥ à¤µà¥à¤¦ à¤¹à¥à¤à¥¤ à¤à¤¸ à¤¬à¤¾à¤£à¥ à¤à¥ à¤¬à¤°à¤à¤¤à¤¿ à¤¸à¥ (à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¥ à¤¨à¤¾à¤® à¤à¥ à¤¸à¤¿à¤®à¤°à¤¨ à¤à¤¾) à¤§à¤°à¥à¤® (à¤à¤ªà¤¨à¥ à¤¹à¥à¤¦à¤¯ à¤®à¥à¤) à¤ªà¤à¥à¤à¤¾ à¤à¤°à¥ (à¤¨à¤¾à¤® à¤¸à¤¿à¤®à¤°à¤¨à¥ à¤¸à¥ à¤¸à¤¾à¤°à¥) à¤ªà¤¾à¤ª à¤¦à¥à¤° à¤¹à¥ à¤à¤¾à¤¤à¥ à¤¹à¥à¤à¥¤\r",
+                    "time": 53086
+                },
+                {
+                    "line": "à¤¹à¥ à¤­à¤¾à¤ ! à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¤¾ à¤¨à¤¾à¤® à¤¸à¤¿à¤®à¤°à¤¤à¥ à¤°à¤¹à¥à¥¤ (à¤®à¤¨à¥à¤·à¥à¤¯ à¤à¥ à¤à¥à¤µà¤¨ à¤à¤¾ à¤¯à¤¹) à¤§à¤°à¥à¤® (à¤à¤ªà¤¨à¥ à¤à¤à¤¦à¤°) à¤ªà¤à¥à¤à¤¾ à¤à¤° à¤²à¥à¥¤ à¤à¥à¤°à¥ à¤¨à¥ à¤à¥ à¤¨à¤¾à¤®-à¤¸à¤¿à¤®à¤°à¤¨ à¤à¥ à¤¤à¤¾à¤à¥à¤¦ à¤à¥ à¤¹à¥à¥¤ à¤¯à¤¹à¥ à¤¸à¤¿à¤ à¤à¥ à¤²à¤¿à¤ à¤¸à¥à¤®à¥à¤¤à¤¿à¤¯à¥à¤ (à¤à¤¾ à¤à¤ªà¤¦à¥à¤¶) à¤¹à¥à¥¤\r",
+                    "time": 69033
+                },
+                {
+                    "line": "à¤¹à¥ à¤­à¤¾à¤ ! à¤ªà¥à¤°à¥ à¤à¥à¤°à¥ (à¤à¥ à¤à¤¸ à¤à¤ªà¤¦à¥à¤¶ à¤à¥) à¤¹à¤° à¤µà¤à¥à¤¤ à¤¯à¤¾à¤¦ à¤°à¤à¥à¥¤ à¤¸à¤¾à¤°à¥ à¤ªà¤¾à¤ª à¤µà¤¿à¤à¤¾à¤° (à¤à¤¸à¤à¥ à¤¬à¤°à¤à¤¤à¤¿ à¤¸à¥) à¤¦à¥à¤° à¤¹à¥ à¤à¤¾à¤¤à¥ à¤¹à¥à¤à¥¤\r",
+                    "time": 92089
+                },
+                {
+                    "line": "à¤¹à¥ à¤­à¤¾à¤ ! à¤à¤¿à¤¸ à¤®à¤¨à¥à¤·à¥à¤¯ à¤à¥ à¤®à¤¨ à¤®à¥à¤ à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¤¾ à¤¨à¤¾à¤® à¤ªà¥à¤¯à¤¾à¤°à¤¾ à¤²à¤à¤¨à¥ à¤²à¤ à¤à¤¾à¤¤à¤¾ à¤¹à¥à¥¤ à¤à¤¸ à¤à¤¤à¤¿ à¤­à¤¾à¤à¥à¤¯à¤¶à¤¾à¤²à¥ à¤à¥ à¤à¤¤à¥à¤®à¤¿à¤ à¤à¤¡à¥à¤²à¤¤à¤¾ à¤à¤¾ à¤¸à¥à¤ à¤®à¤¿à¤²à¤¾ à¤°à¤¹à¤¤à¤¾ à¤¹à¥à¥¤\r",
+                    "time": 108029
+                },
+                {
+                    "line": "à¤¦à¤¾à¤¸ à¤¨à¤¾à¤¨à¤ à¤à¤¹à¤¤à¤¾ à¤¹à¥â à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¤¾ à¤¨à¤¾à¤® à¤à¤ªà¤¨à¤¾ à¤ªà¥à¤°à¤­à¥-à¤ªà¤¤à¤¿ à¤à¥ à¤¸à¤¾à¤¥ à¤à¥à¤µ-à¤¸à¥à¤¤à¥à¤°à¥ à¤à¥ à¤µà¤¿à¤µà¤¾à¤¹ à¤à¥ à¤ªà¤¹à¤²à¥ à¤²à¤¾à¤à¤µ à¤¹à¥à¥¤ à¤¹à¤°à¥ à¤à¥ à¤¨à¤¾à¤® à¤¸à¤¿à¤®à¤°à¤¨ à¤¸à¥ à¤¹à¥ (à¤ªà¥à¤°à¤­à¥-à¤ªà¤¤à¤¿ à¤¸à¥ à¤à¥à¤µ-à¤¸à¥à¤¤à¥à¤°à¥ à¤à¥) à¤µà¤¿à¤µà¤¾à¤¹ (à¤à¤¾) à¤à¤à¤¾à¤à¤¼ (à¤à¤°à¤®à¥à¤­) à¤¹à¥à¤¤à¤¾ à¤¹à¥à¥¤ 1à¥¤\r",
+                    "time": 124008
+                },
+                {
+                    "line": "à¤¹à¥ à¤°à¤¾à¤® à¤à¥ ! à¤®à¥à¤ à¤¤à¥à¤à¤¸à¥ à¤à¥à¤°à¥à¤¬à¤¾à¤¨ à¤à¤¾à¤¤à¤¾ à¤¹à¥à¤à¥¤ (à¤¤à¥ à¤®à¥à¤¹à¤° à¤à¤°à¤à¥ à¤à¤¿à¤¸ à¤à¥à¤µ-à¤¸à¥à¤¤à¥à¤°à¥ à¤à¥) à¤à¥à¤°à¥ à¤®à¤¹à¤¾à¤ªà¥à¤°à¥à¤ à¤®à¤¿à¤²à¤µà¤¾ à¤¦à¥à¤¤à¤¾ à¤¹à¥à¥¤ (à¤à¤¸à¤à¤¾) à¤®à¤¨ (à¤¦à¥à¤¨à¤¿à¤¯à¤¾ à¤à¥) à¤¸à¤¾à¤°à¥ à¤¡à¤°à¥à¤ à¤¸à¥ à¤¨à¤¿à¤¡à¤° à¤¹à¥ à¤à¤¾à¤¤à¤¾ à¤¹à¥ (à¤¨à¤¿à¤°à¥à¤­à¤¯ à¤¹à¥ à¤à¤¾à¤¤à¤¾ à¤¹à¥)à¥¤ (à¤à¥à¤°à¥à¥¤ à¤à¤¸à¤à¥ à¤à¤à¤¦à¤° à¤¸à¥) à¤à¤¹à¤à¤à¤¾à¤° à¤à¥ à¤®à¥à¤² à¤¦à¥à¤° à¤à¤° à¤¦à¥à¤¤à¤¾ à¤¹à¥âà¥¤\r",
+                    "time": 139067
+                },
+                {
+                    "line": "à¤¹à¥ à¤­à¤¾à¤ ! (à¤à¥ à¤à¥à¤µ-à¤¸à¥à¤¤à¥à¤°à¥ à¤à¤¹à¤à¤à¤¾à¤° à¤¦à¥à¤° à¤à¤°à¤à¥) à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¥ à¤à¥à¤£ à¤à¤¾à¤¤à¥ à¤¹à¥à¥¤ à¤à¤¸à¤à¥ à¤à¤à¤¦à¤° (à¤ªà¥à¤°à¤­à¥-à¤ªà¤¤à¤¿ à¤à¥ à¤²à¤¿à¤) à¤à¤¦à¤°-à¤¸à¤¤à¥à¤à¤¾à¤° à¤ªà¥à¤¦à¤¾ à¤¹à¥ à¤à¤¾à¤¤à¤¾ à¤¹à¥à¥¤ à¤µà¤¹ à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¥ à¤à¤ªà¤¨à¥ à¤à¤à¤-à¤¸à¤à¤ à¤¬à¤¸à¤¤à¤¾ à¤¦à¥à¤à¤¤à¥ à¤¹à¥à¥¤\r",
+                    "time": 155009
+                },
+                {
+                    "line": " (à¤à¤¸à¥ à¤¯à¥ à¤¨à¤¿à¤¶à¥à¤à¤¯ à¤¹à¥ à¤à¤¾à¤¤à¤¾ à¤¹à¥ à¤à¤¿ à¤¯à¤¹ à¤à¤à¤¤-à¤ªà¤¸à¤¾à¤°à¤¾) à¤ªà¥à¤°à¤­à¥ à¤à¤ªà¤¨à¥ à¤¸à¥à¤µà¤¯à¤ à¤à¤¾ à¤ªà¤¸à¤¾à¤°à¤¾ à¤ªà¤¸à¤¾à¤° à¤°à¤¹à¤¾ à¤¹à¥à¥¤ à¤à¤° à¤µà¤¹ à¤®à¤¾à¤²à¤¿à¤-à¤ªà¥à¤°à¤­à¥ à¤¸à¤¬ à¤à¥à¤µà¥à¤ à¤®à¥à¤ à¤µà¥à¤¯à¤¾à¤ª à¤°à¤¹à¤¾ à¤¹à¥à¥¤\r",
+                    "time": 194062
+                },
+                {
+                    "line": " (à¤à¤¸ à¤à¥à¤µ-à¤¸à¥à¤¤à¥à¤°à¥ à¤à¥ à¤à¤ªà¤¨à¥) à¤à¤à¤¦à¤° à¤à¤° à¤¬à¤¾à¤¹à¤° (à¤¸à¤¾à¤°à¥ à¤à¤à¤¤ à¤®à¥à¤) à¤¸à¤¿à¤°à¥à¤« à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤¹à¥ (à¤¬à¤¸à¤¤à¤¾ à¤¦à¤¿à¤à¤¤à¤¾ à¤¹à¥)à¥¤ à¤¸à¤¾à¤§-à¤¸à¤à¤à¤¤à¤¿ à¤®à¥à¤ à¤®à¤¿à¤² à¤à¥ à¤µà¤¹ à¤ªà¥à¤°à¤­à¥ à¤à¥ à¤¸à¤¿à¤«à¤¤ à¤¸à¤¾à¤²à¤¾à¤¹ à¤à¥ à¤à¥à¤¤ à¤à¤¾à¤¤à¥ à¤°à¤¹à¤¤à¥ à¤¹à¥à¥¤\r",
+                    "time": 210020
+                },
+                {
+                    "line": "à¤¹à¥ à¤¦à¤¾à¤¸ à¤¨à¤¾à¤¨à¤ ! (à¤à¤¹â à¤à¥à¤°à¥ à¤à¥ à¤¶à¤°à¤£ à¤ªà¤¡à¤¼ à¤à¤°à¥¤ à¤à¤¹à¤à¤à¤¾à¤° à¤¦à¥à¤° à¤à¤°à¤à¥ à¤ªà¥à¤°à¤­à¥ à¤à¥ à¤¸à¤¿à¤«à¤¤-à¤¸à¤¾à¤²à¤¾à¤¹ à¤à¥ à¤à¥à¤¤ à¤à¤¾à¤¨à¥ à¤à¤° à¤à¤¸à¥ à¤¸à¤°à¥à¤µ-à¤µà¥à¤¯à¤¾à¤ªà¤ à¤¦à¥à¤à¤¨à¤¾- à¤ªà¥à¤°à¤­à¥ à¤¨à¥ à¤¯à¤¹) à¤¦à¥à¤¸à¤°à¥ à¤²à¤¾à¤à¤µ (à¤à¥à¤µ-à¤¸à¥à¤¤à¥à¤°à¥ à¤à¥ à¤µà¤¿à¤µà¤¾à¤¹ à¤à¥) à¤à¤¾à¤² à¤¦à¥ à¤¹à¥à¥¤ (à¤à¤¸ à¤à¤¤à¥à¤®à¤¿à¤ à¤à¤µà¤¸à¥à¤¥à¤¾ à¤ªà¤° à¤ªà¤¹à¥à¤à¤à¥ à¤à¥à¤µ-à¤¸à¥à¤¤à¥à¤°à¥ à¤à¥ à¤à¤à¤¦à¤° à¤ªà¥à¤°à¤­à¥) à¤¸à¤¿à¤«à¤¤ à¤¸à¤¾à¤²à¤¾à¤¹ à¤à¥ à¤¬à¤¾à¤£à¥ à¤à¥à¥¤ à¤à¥à¤¸à¥ à¤à¤-à¤°à¤¸ à¤¬à¤¾à¤à¥ à¤¬à¤à¤¾ à¤¦à¥à¤¤à¤¾ à¤¹à¥à¥¤ 2à¥¤\r",
+                    "time": 226024
+                },
+                {
+                    "line": "à¤¹à¥ à¤°à¤¾à¤® à¤à¥ ! à¤®à¥à¤ à¤¤à¥à¤à¤¸à¥ à¤¸à¤¦à¤à¥ à¤¹à¥à¤à¥¤ (à¤¤à¥à¤°à¥ à¤®à¥à¤¹à¤° à¤¸à¥) à¤µà¥à¤°à¤¾à¤à¤¿à¤¯à¥à¤ à¤à¥ à¤®à¤¨ à¤®à¥à¤ (à¤¤à¥à¤°à¥ à¤¸à¥ à¤®à¤¿à¤²à¤¨à¥ à¤à¥ à¤²à¤¿à¤) à¤¤à¥à¤µà¥à¤° à¤à¤à¥à¤à¤¾ à¤ªà¥à¤¦à¤¾ à¤¹à¥à¤¤à¥ à¤¹à¥à¥¤ (à¤¯à¤¹ à¤à¤¤à¥à¤®à¤¿à¤ à¤à¤µà¤¸à¥à¤¥à¤¾ à¤ªà¥à¤°à¤­à¥-à¤ªà¤¤à¤¿ à¤à¥ à¤¸à¤¾à¤¥ à¤à¥à¤µ-à¤¸à¥à¤¤à¥à¤°à¥ à¤à¥ à¤µà¤¿à¤µà¤¾à¤¹ à¤à¥) à¤¤à¥à¤¸à¤°à¥ à¤¸à¥à¤à¤¦à¤° à¤²à¤¾à¤µ à¤¹à¥à¥¤\r",
+                    "time": 242011
+                },
+                {
+                    "line": "à¤¹à¥ à¤­à¤¾à¤ ! à¤à¤¿à¤¨ à¤à¤¤à¥à¤¯à¤à¤¤ à¤­à¤¾à¤à¥à¤¯à¤¶à¤¾à¤²à¥ à¤®à¤¨à¥à¤·à¥à¤¯à¥à¤ à¤à¥ à¤¸à¤à¤¤à¤à¤¨à¥à¤ à¤à¤¾ à¤®à¤¿à¤²à¤¾à¤¨ à¤¹à¥à¤¤à¤¾ à¤¹à¥à¥¤ à¤à¤¨à¥à¤¹à¥à¤ à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¤¾ à¤®à¤¿à¤²à¤¨ à¤ªà¥à¤°à¤¾à¤ªà¥à¤¤ à¤¹à¥à¤¤à¤¾ à¤¹à¥à¥¤\r",
+                    "time": 258019
+                },
+                {
+                    "line": "(à¤µà¥ à¤®à¤¨à¥à¤·à¥à¤¯ à¤à¥à¤µà¤¨ à¤à¥) à¤ªà¤µà¤¿à¤¤à¥à¤° à¤à¤°à¤¨à¥ à¤µà¤¾à¤²à¥ à¤ªà¥à¤°à¤­à¥ à¤à¤¾ à¤®à¤¿à¤²à¤¨ à¤ªà¥à¤°à¤¾à¤ªà¥à¤¤ à¤à¤°à¤¤à¥ à¤¹à¥à¤à¥¤ à¤¸à¤¦à¤¾ à¤ªà¥à¤°à¤­à¥ à¤à¥ à¤à¥à¤£ à¤à¤¾à¤¤à¥ à¤¹à¥à¤à¥¤ à¤à¤° à¤®à¥à¤ à¤¸à¥ à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¥ à¤¸à¤¿à¤«à¤¤ à¤¸à¤¾à¤²à¤¾à¤¹ à¤à¥ à¤¬à¤¾à¤£à¥ à¤à¤à¥à¤à¤¾à¤°à¤¿à¤¤ à¤à¤°à¤¤à¥ à¤¹à¥à¤à¥¤\r",
+                    "time": 274029
+                },
+                {
+                    "line": "à¤µà¤¹ à¤à¤¤à¥à¤¯à¤à¤¤ à¤­à¤¾à¤à¥à¤¯à¤¶à¤¾à¤²à¥ à¤®à¤¨à¥à¤·à¥à¤¯ à¤¸à¤à¤¤-à¤à¤¨à¥à¤ à¤à¥ à¤¸à¤à¤à¤¤à¤¿ à¤®à¥à¤ à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¤¾ à¤®à¤¿à¤²à¤¨ à¤ªà¥à¤°à¤¾à¤ªà¥à¤¤ à¤à¤°à¤¤à¥ à¤¹à¥à¤à¥¤ à¤¹à¥ à¤­à¤¾à¤ ! à¤à¤à¤¥ à¤ªà¥à¤°à¤­à¥ à¤à¥ à¤¸à¤¿à¤«à¤¤ à¤¸à¤¾à¤²à¤¾à¤¹ à¤¹à¤®à¥à¤¶à¤¾ à¤à¤°à¤¤à¥ à¤°à¤¹à¤¨à¥ à¤à¤¾à¤¹à¤¿à¤à¥¤\r",
+                    "time": 297063
+                },
+                {
+                    "line": "(à¤à¥ à¤®à¤¨à¥à¤·à¥à¤¯ à¤ªà¥à¤°à¤­à¥ à¤à¥ à¤¸à¤¿à¤«à¤¤-à¤¸à¤¾à¤²à¤¾à¤¹ à¤¸à¤¦à¤¾ à¤à¤°à¤¤à¤¾ à¤°à¤¹à¤¤à¤¾ à¤¹à¥à¥¤ à¤à¤¸à¤à¥) à¤¹à¥à¤°à¤¦à¤¯ à¤®à¥à¤ à¤¸à¤¦à¤¾ à¤¬à¤¸à¤¨à¥ à¤µà¤¾à¤²à¥ à¤ªà¥à¤°à¤­à¥-à¤ªà¥à¤°à¥à¤® à¤à¥ à¤§à¥à¤µà¤¨à¤¿ à¤à¤¤à¥à¤ªà¤¨à¥à¤¨ à¤¹à¥à¤¤à¥ à¤¹à¥à¥¤ à¤ªà¤°à¥¤\r",
+                    "time": 313063
+                },
+                {
+                    "line": "à¤¹à¥ à¤­à¤¾à¤ ! à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¤¾ à¤¨à¤¾à¤® (à¤¤à¤­à¥) à¤à¤ªà¤¾ à¤à¤¾ à¤¸à¤à¤¤à¤¾ à¤¹à¥à¥¤ à¤à¤à¤° à¤®à¤¾à¤¥à¥ à¤ªà¤° à¤à¤à¥à¤à¥-à¤­à¤¾à¤à¥à¤¯ à¤à¤¾ à¤¸à¤à¤à¥à¤¤ à¤®à¤¿à¤²à¥à¥¤ à¤¹à¥ à¤­à¤¾à¤ ! à¤¦à¤¾à¤¸ à¤¨à¤¾à¤¨à¤ à¤à¤¹à¤¤à¤¾ à¤¹à¥ (à¤à¤¿ à¤ªà¥à¤°à¤­à¥-à¤ªà¤¤à¤¿ à¤à¥ à¤¸à¤¾à¤¥ à¤à¥à¤µ-à¤¸à¥à¤¤à¥à¤°à¥ à¤à¥) à¤¤à¥à¤¸à¤°à¥ à¤²à¤¾à¤µ à¤à¥ à¤¸à¤®à¤¯ (à¤à¥à¤µ-à¤¸à¥à¤¤à¥à¤°à¥ à¤à¥) à¤®à¤¨ à¤®à¥à¤ à¤ªà¥à¤°à¤­à¥ (-à¤®à¤¿à¤²à¤¨ à¤à¥) à¤¤à¥à¤µà¥à¤° à¤à¤à¥à¤à¤¾ à¤ªà¥à¤¦à¤¾ à¤¹à¥ à¤à¤¾à¤¤à¥ à¤¹à¥à¥¤ 3à¥¤\r",
+                    "time": 329037
+                },
+                {
+                    "line": "à¤¹à¥ à¤¸à¥à¤à¤¦à¤° à¤°à¤¾à¤® à¤à¥ ! à¤®à¥à¤ à¤¤à¥à¤à¤¸à¥ à¤¸à¤¦à¤à¥ à¤¹à¥à¤à¥¤ (à¤¤à¥à¤°à¥ à¤®à¥à¤¹à¤° à¤¸à¥ à¤à¤¿à¤¸ à¤à¥à¤µ-à¤¸à¥à¤¤à¥à¤°à¥ à¤à¥) à¤®à¤¨ à¤®à¥à¤ à¤à¤¤à¥à¤®à¤¿à¤ à¤à¤¦à¥à¤¢à¤¼à¤¤à¤¾ à¤ªà¥à¤¦à¤¾ à¤¹à¥ à¤à¤¾à¤¤à¥ à¤¹à¥à¥¤ à¤à¤¸à¤à¥ à¤¤à¥à¤°à¤¾ à¤®à¤¿à¤²à¤¨à¤¾ à¤¹à¤¾à¤¸à¤¿à¤² à¤¹à¥ à¤à¤¾à¤¤à¤¾ à¤¹à¥ (à¤¯à¤¹ à¤à¤¤à¥à¤®à¤¿à¤ à¤à¤µà¤¸à¥à¤¥à¤¾ à¤ªà¥à¤°à¤­à¥-à¤ªà¤¤à¤¿ à¤à¥ à¤¸à¤¾à¤¥ à¤à¥à¤µ-à¤¸à¥à¤¤à¥à¤°à¥ à¤à¥ à¤®à¤¿à¤²à¤¨ à¤à¥) à¤à¥à¤¥à¥ à¤²à¤¾à¤µ à¤¹à¥à¥¤\r",
+                    "time": 345031
+                },
+                {
+                    "line": "à¤¹à¥ à¤­à¤¾à¤ ! à¤à¥à¤°à¥ à¤à¥ à¤¶à¤°à¤£ à¤®à¥à¤ à¤à¤¾à¤à¤° (à¤ªà¥à¤°à¤­à¥-) à¤ªà¥à¤°à¥à¤® à¤®à¥à¤ (à¤°à¤®à¤¨à¥ à¤µà¤¾à¤²à¥) à¤®à¤¨, à¤¤à¤¨ à¤®à¥à¤ à¤ªà¥à¤°à¤­à¥ à¤à¥ à¤ªà¥à¤°à¤¤à¤¿ à¤²à¤¾à¤ à¤à¤¾à¤¤à¥ à¤¹à¥à¤à¥¤\r",
+                    "time": 361022
+                },
+                {
+                    "line": "à¤ªà¥à¤°à¤­à¥ à¤à¥ à¤ªà¥à¤°à¤¤à¤¿ à¤µà¤¹ à¤ªà¥à¤°à¥à¤® à¤²à¤à¤¤à¤¾ à¤¹à¥ (à¤à¤¿à¤¸à¤¸à¥) à¤µà¤¹ à¤®à¤¨à¥à¤·à¥à¤¯ à¤¸à¤¦à¤¾ à¤ªà¥à¤°à¤­à¥ à¤à¥ à¤¯à¤¾à¤¦ à¤®à¥à¤ (à¤à¤ªà¤¨à¥) à¤¸à¥à¤°à¤¤à¤¿ à¤à¥à¤¡à¤¼à¥ à¤°à¤à¤¤à¤¾ à¤¹à¥à¥¤\r",
+                    "time": 377041
+                },
+                {
+                    "line": "à¤µà¤¹ à¤®à¤¨à¥à¤·à¥à¤¯ à¤ªà¥à¤°à¤­à¥-à¤®à¤¿à¤²à¤¾à¤ª à¤à¤¾ à¤®à¤¨-à¤¬à¤¾à¤à¤à¤¿à¤¤ à¤«à¤² à¤ªà¥à¤°à¤¾à¤ªà¥à¤¤ à¤à¤° à¤²à¥à¤¤à¤¾ à¤¹à¥à¥¤ à¤ªà¥à¤°à¤­à¥ à¤à¥ à¤¨à¤¾à¤® à¤à¥ à¤¬à¤°à¤à¤¤ à¤¸à¥ (à¤à¤¸à¤à¥ à¤à¤à¤¦à¤° à¤¸à¤¦à¤¾) à¤à¤¢à¤¼à¤¦à¥à¤à¤²à¤¾ à¤¬à¤¨à¥ à¤°à¤¹à¤¤à¥ à¤¹à¥à¥¤\r",
+                    "time": 401008
+                },
+                {
+                    "line": "à¤¹à¥ à¤­à¤¾à¤ ! à¤ªà¥à¤°à¤­à¥ à¤¨à¥à¥¤à¤®à¤¾à¤²à¤¿à¤ à¤¹à¤°à¥ à¤¨à¥ (à¤à¤¿à¤¸ à¤à¥à¤µ-à¤¸à¥à¤¤à¥à¤°à¥ à¤à¥) à¤µà¤¿à¤µà¤¾à¤¹ à¤à¤¾ à¤à¤¦à¥à¤¯à¤® à¤¶à¥à¤°à¥ à¤à¤¿à¤¯à¤¾à¥¤ à¤µà¤¹ à¤à¥à¤µ-à¤¸à¥à¤¤à¥à¤°à¥ à¤¨à¤¾à¤®-à¤¸à¤¿à¤®à¤°à¤¨ à¤à¥ à¤¬à¤°à¤à¤¤ à¤¸à¥ (à¤à¤ªà¤¨à¥) à¤¦à¤¿à¤² à¤®à¥à¤ à¤¸à¤¦à¥à¤µ à¤à¤¨à¤à¤¦-à¤­à¤°à¤ªà¥à¤° à¤°à¤¹à¤¤à¥ à¤¹à¥à¥¤\r",
+                    "time": 416075
+                },
+                {
+                    "line": "à¤¦à¤¾à¤¸ à¤¨à¤¾à¤¨à¤ à¤à¤¹à¤¤à¤¾ à¤¹à¥ â à¤ªà¥à¤°à¤­à¥-à¤ªà¤¤à¤¿ à¤à¥ à¤¸à¤¾à¤¥ à¤à¥à¤µ-à¤¸à¥à¤¤à¥à¤°à¥ à¤à¥ à¤µà¤¿à¤µà¤¾à¤¹ à¤à¥ à¤à¥à¤¥à¥ à¤²à¤¾à¤µ à¤à¥ à¤¸à¤®à¤¯ à¤à¥à¤µ-à¤¸à¥à¤¤à¥à¤°à¥ à¤à¤­à¥ à¤¨à¤¾à¤¶ à¤¨à¤¾ à¤¹à¥à¤¨à¥ à¤µà¤¾à¤²à¥ à¤ªà¥à¤°à¤­à¥ à¤à¥ à¤®à¤¿à¤²à¤¾à¤¨ à¤à¤¾ à¤à¤¨à¤à¤¦ à¤ªà¥à¤°à¤¾à¤ªà¥à¤¤ à¤à¤° à¤²à¥à¤¤à¥ à¤¹à¥à¥¤ 4à¥¤ 2à¥¤\r",
+                    "time": 432072
+                }
+            ]
+        }
+    ],
+    "info": "testings"
+}

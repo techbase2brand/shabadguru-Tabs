@@ -1,0 +1,1799 @@
+{
+    "status": 200,
+    "message": "",
+    "data": [
+        {
+            "albumart": "",
+            "author": "",
+            "song": "Sodar Rehras",
+            "json": "https://shabad-guru.org/uploads/data/0.2- Sodar/Sodar Rehras.json",
+            "audio": "https://shabadguru.s3.us-west-1.amazonaws.com/gurbani/lrc n- Project/0.2- Sodar/mp3/song/0006 A to 0007  Pb.mp3",
+            "punjabi": 1,
+            "english": 1,
+            "english_trans": 1,
+            "spanish": 1,
+            "hindi": null,
+            "file_name_on_s3": "0006 A to 0007 Pb",
+            "english_trans_lyrics": [
+                {
+                    "line": "so dar raag aasaa mehlaa 1\r",
+                    "time": 3037
+                },
+                {
+                    "line": "ik-oNkaar satgur parsaad.\r",
+                    "time": 22085
+                },
+                {
+                    "line": "so dar tayraa kayhaa so ghar kayhaa jit bahi sarab samaalay.\r",
+                    "time": 51058
+                },
+                {
+                    "line": "vaajay tayray naad anayk asankhaa kaytay tayray vaavanhaaray.\r",
+                    "time": 59089
+                },
+                {
+                    "line": "kaytay tayray raag paree si-o kahee-ahi kaytay tayray gaavanhaaray.\r",
+                    "time": 67088
+                },
+                {
+                    "line": "gaavan tuDhno pavan paanee baisantar gaavai raajaa Dharam du-aaray.\r",
+                    "time": 75082
+                },
+                {
+                    "line": "gaavan tuDhno chit gupat likh jaanan likh likh Dharam beechaaray.\r",
+                    "time": 83055
+                },
+                {
+                    "line": "gaavan tuDhno eesar barahmaa dayvee sohan tayray sadaa savaaray.\r",
+                    "time": 91040
+                },
+                {
+                    "line": "gaavan tuDhno indar indaraasan baithay dayviti-aa dar naalay.\r",
+                    "time": 99006
+                },
+                {
+                    "line": "gaavan tuDhno siDh samaaDhee andar gaavan tuDhno saaDh beechaaray.\r",
+                    "time": 106095
+                },
+                {
+                    "line": "gaavan tuDhno jatee satee santokhee gaavan tuDhno veer karaaray.\r",
+                    "time": 114074
+                },
+                {
+                    "line": "gaavan tuDhno pandit parhan rakheesur jug jug vaydaa naalay.\r",
+                    "time": 120001
+                },
+                {
+                    "line": "gaavan tuDhno mohnee-aa man mohan surag machh pa-i-aalay.\r",
+                    "time": 130022
+                },
+                {
+                    "line": "gaavan tuDhno ratan upaa-ay tayray athsath tirath naalay.\r",
+                    "time": 138007
+                },
+                {
+                    "line": "gaavan tuDhno joDh mahaabal sooraa gaavan tuDhno khaanee chaaray.\r",
+                    "time": 145068
+                },
+                {
+                    "line": "gaavan tuDhno khand mandal barahmandaa kar kar rakhay tayray Dhaaray.\r",
+                    "time": 153058
+                },
+                {
+                    "line": "say-ee tuDhno gaavan jo tuDh bhaavan ratay tayray bhagat rasaalay.\r",
+                    "time": 162003
+                },
+                {
+                    "line": "hor kaytay tuDhno gaavan say mai chit na aavan naanak ki-aa beechaaray.\r",
+                    "time": 169018
+                },
+                {
+                    "line": "so-ee so-ee sadaa sach saahib saachaa saachee naa-ee.\r",
+                    "time": 176090
+                },
+                {
+                    "line": "hai bhee hosee jaa-ay na jaasee rachnaa jin rachaa-ee.\r",
+                    "time": 184044
+                },
+                {
+                    "line": "rangee rangee bhaatee kar kar jinsee maa-i-aa jin upaa-ee.\r",
+                    "time": 189069
+                },
+                {
+                    "line": "kar kar daykhai keetaa aapnaa ji-o tis dee vadi-aa-ee.\r",
+                    "time": 200051
+                },
+                {
+                    "line": "jo tis bhaavai so-ee karsee fir hukam na karnaa jaa-ee.\r",
+                    "time": 208028
+                },
+                {
+                    "line": "so paatisaahu saahaa patisaahib naanak rahan rajaa-ee. ||1||\r",
+                    "time": 215082
+                },
+                {
+                    "line": "aasaa mehlaa 1.\r",
+                    "time": 232062
+                },
+                {
+                    "line": "sun vadaa aakhai sabh ko-ay.\r",
+                    "time": 248079
+                },
+                {
+                    "line": "kayvad vadaa deethaa ho-ay.\r",
+                    "time": 257010
+                },
+                {
+                    "line": "keemat paa-ay na kahi-aa jaa-ay.\r",
+                    "time": 265084
+                },
+                {
+                    "line": "kahnai vaalay tayray rahay samaa-ay. ||1||\r",
+                    "time": 274063
+                },
+                {
+                    "line": "vaday mayray saahibaa gahir gambheeraa gunee gaheeraa.\r",
+                    "time": 283001
+                },
+                {
+                    "line": "ko-ay na jaanai tayraa kaytaa kayvad cheeraa. ||1|| rahaa-o.\r",
+                    "time": 295040
+                },
+                {
+                    "line": "sabh surtee mil surat kamaa-ee.\r",
+                    "time": 316019
+                },
+                {
+                    "line": "sabh keemat mil keemat paa-ee.\r",
+                    "time": 324075
+                },
+                {
+                    "line": "gi-aanee Dhi-aanee gur gurhaa-ee.\r",
+                    "time": 333002
+                },
+                {
+                    "line": "kahan na jaa-ee tayree til vadi-aa-ee. ||2||\r",
+                    "time": 341052
+                },
+                {
+                    "line": "sabh sat sabh tap sabh chang-aa-ee-aa.\r",
+                    "time": 349068
+                },
+                {
+                    "line": "siDhaa purkhaa kee-aa vadi-aa-ee-aa.\r",
+                    "time": 357093
+                },
+                {
+                    "line": "tuDh vin siDhee kinai na paa-ee-aa.\r",
+                    "time": 366080
+                },
+                {
+                    "line": "karam milai naahee thaak rahaa-ee-aa. ||3||\r",
+                    "time": 375006
+                },
+                {
+                    "line": "aakhan vaalaa ki-aa vaychaaraa.\r",
+                    "time": 383087
+                },
+                {
+                    "line": "siftee bharay tayray bhandaaraa.\r",
+                    "time": 391075
+                },
+                {
+                    "line": "jis too deh tisai ki-aa chaaraa.\r",
+                    "time": 400009
+                },
+                {
+                    "line": "naanak sach savaaranhaaraa. ||4||2||\r",
+                    "time": 408021
+                },
+                {
+                    "line": "aasaa mehlaa 1.\r",
+                    "time": 446076
+                },
+                {
+                    "line": "aakhaa jeevaa visrai mar jaa-o.\r",
+                    "time": 467007
+                },
+                {
+                    "line": "aakhan a-ukhaa saachaa naa-o.\r",
+                    "time": 474053
+                },
+                {
+                    "line": "saachay naam kee laagai bhookh.\r",
+                    "time": 482063
+                },
+                {
+                    "line": "ut bhookhai khaa-ay chalee-ahi dookh. ||1||\r",
+                    "time": 491009
+                },
+                {
+                    "line": "so ki-o visrai mayree maa-ay.\r",
+                    "time": 499041
+                },
+                {
+                    "line": "saachaa saahib saachai naa-ay. ||1|| rahaa-o.\r",
+                    "time": 507066
+                },
+                {
+                    "line": "saachay naam kee til vadi-aa-ee.\r",
+                    "time": 528082
+                },
+                {
+                    "line": "aakh thakay keemat nahee paa-ee.\r",
+                    "time": 536090
+                },
+                {
+                    "line": "jay sabh mil kai aakhan paahi.\r",
+                    "time": 545042
+                },
+                {
+                    "line": "vadaa na hovai ghaat na jaa-ay. ||2||\r",
+                    "time": 557063
+                },
+                {
+                    "line": "naa oh marai na hovai sog.\r",
+                    "time": 562033
+                },
+                {
+                    "line": "daydaa rahai na chookai bhog.\r",
+                    "time": 570092
+                },
+                {
+                    "line": "gun ayho hor naahee ko-ay.\r",
+                    "time": 579020
+                },
+                {
+                    "line": "naa ko ho-aa naa ko ho-ay. ||3||\r",
+                    "time": 583038
+                },
+                {
+                    "line": "jayvad aap tayvad tayree daat.\r",
+                    "time": 595090
+                },
+                {
+                    "line": "jin din kar kai keetee raat.\r",
+                    "time": 604020
+                },
+                {
+                    "line": "khasam visaareh tay kamjaat.\r",
+                    "time": 612072
+                },
+                {
+                    "line": "naanak naavai baajh sanaat. ||4||3||\r",
+                    "time": 621030
+                },
+                {
+                    "line": "raag goojree mehlaa 4.\r",
+                    "time": 659021
+                },
+                {
+                    "line": "har kay jan satgur satpurkhaa bina-o kara-o gur paas.\r",
+                    "time": 690013
+                },
+                {
+                    "line": "ham keeray kiram satgur sarnaa-ee kar da-i-aa naam pargaas. ||1||\r",
+                    "time": 703006
+                },
+                {
+                    "line": "mayray meet gurdayv mo ka-o raam naam pargaas.\r",
+                    "time": 717086
+                },
+                {
+                    "line": "gurmat naam mayraa paraan sakhaa-ee har keerat hamree rahraas. ||1|| rahaa-o.\r",
+                    "time": 731013
+                },
+                {
+                    "line": "har jan kay vad bhaag vadayray jin har har sarDhaa har pi-aas.\r",
+                    "time": 757091
+                },
+                {
+                    "line": "har har naam milai tariptaasahi mil sangat gun pargaas. ||2||\r",
+                    "time": 771059
+                },
+                {
+                    "line": "jin har har har ras naam na paa-i-aa tay bhaagheen jam paas.\r",
+                    "time": 784039
+                },
+                {
+                    "line": "jo satgur saran sangat nahee aa-ay Dharig jeevay Dharig jeevaas. ||3||\r",
+                    "time": 797052
+                },
+                {
+                    "line": "jin har jan satgur sangat paa-ee tin Dhur mastak likhi-aa likhaas.\r",
+                    "time": 811029
+                },
+                {
+                    "line": "Dhan Dhan satsangat jit har ras paa-i-aa mil jan naanak naam pargaas. ||4||4||\r",
+                    "time": 823053
+                },
+                {
+                    "line": "raag goojree mehlaa 5.\r",
+                    "time": 873050
+                },
+                {
+                    "line": "kaahay ray man chitvahi udam jaa aahar har jee-o pari-aa.\r",
+                    "time": 904086
+                },
+                {
+                    "line": "sail pathar meh jant upaa-ay taa kaa rijak aagai kar Dhari-aa. ||1||\r",
+                    "time": 919043
+                },
+                {
+                    "line": "mayray maaDha-o jee satsangat milay so tari-aa.\r",
+                    "time": 933084
+                },
+                {
+                    "line": "gur parsaad param pad paa-i-aa sookay kaasat hari-aa. ||1|| rahaa-o.\r",
+                    "time": 943050
+                },
+                {
+                    "line": "janan pitaa lok sut banitaa ko-ay na kis kee Dhari-aa.\r",
+                    "time": 961077
+                },
+                {
+                    "line": "sir sir rijak sambaahay thaakur kaahay man bha-o kari-aa. ||2||\r",
+                    "time": 975028
+                },
+                {
+                    "line": "ooday ood aavai sai kosaa tis paachhai bachray chhari-aa.\r",
+                    "time": 986075
+                },
+                {
+                    "line": "tin kavan khalaavai kavan chugaavai man meh simran kari-aa. ||3||\r",
+                    "time": 998033
+                },
+                {
+                    "line": "sabh niDhaan das asat sidhaan thaakur kar tal Dhari-aa.\r",
+                    "time": 1010081
+                },
+                {
+                    "line": "jan naanak bal bal sad bal jaa-ee-ai tayraa ant na paraavari-aa. ||4||5||\r",
+                    "time": 1023003
+                },
+                {
+                    "line": "raag aasaa mehlaa 4 so purakh\r",
+                    "time": 1065006
+                },
+                {
+                    "line": "ik-oNkaar satgur parsaad.\r",
+                    "time": 1081036
+                },
+                {
+                    "line": "so purakh niranjan har purakh niranjan har agmaa agam apaaraa.\r",
+                    "time": 1117072
+                },
+                {
+                    "line": "sabh Dhi-aavahi sabh Dhi-aavahi tuDh jee har sachay sirjanhaaraa.\r",
+                    "time": 1132049
+                },
+                {
+                    "line": "sabh jee-a tumaaray jee tooN jee-aa kaa daataaraa.\r",
+                    "time": 1146042
+                },
+                {
+                    "line": "har Dhi-aavahu santahu jee sabh dookh visaaranhaaraa.\r",
+                    "time": 1160029
+                },
+                {
+                    "line": "har aapay thaakur har aapay sayvak jee ki-aa naanak jant vichaaraa. ||1||\r",
+                    "time": 1173083
+                },
+                {
+                    "line": "tooN ghat ghat antar sarab nirantar jee har ayko purakh samaanaa.\r",
+                    "time": 1187084
+                },
+                {
+                    "line": "ik daatay ik bhaykhaaree jee sabh tayray choj vidaanaa.\r",
+                    "time": 1202011
+                },
+                {
+                    "line": "tooN aapay daataa aapay bhugtaa jee ha-o tuDh bin avar na jaanaa.\r",
+                    "time": 1215082
+                },
+                {
+                    "line": "tooN paarbarahm bay-ant bay-ant jee tayray ki-aa gun aakh vakhaanaa.\r",
+                    "time": 1229064
+                },
+                {
+                    "line": "jo sayveh jo sayveh tuDh jee jan naanak tin kurbaanaa. ||2||\r",
+                    "time": 1243070
+                },
+                {
+                    "line": "har Dhi-aavahi har Dhi-aavahi tuDh jee say jan jug meh sukhvaasee.\r",
+                    "time": 1257097
+                },
+                {
+                    "line": "say mukat say mukat bha-ay jin har Dhi-aa-i-aa jee tin tootee jam kee faasee.\r",
+                    "time": 1271027
+                },
+                {
+                    "line": "jin nirbha-o jin har nirbha-o Dhi-aa-i-aa jee tin kaa bha-o sabh gavaasee.\r",
+                    "time": 1285009
+                },
+                {
+                    "line": "jin sayvi-aa jin sayvi-aa mayraa har jee tay har har roop samaasee.\r",
+                    "time": 1299013
+                },
+                {
+                    "line": "say Dhan say Dhan jin har Dhi-aa-i-aa jee jan naanak tin bal jaasee. ||3||\r",
+                    "time": 1312085
+                },
+                {
+                    "line": "tayree bhagat tayree bhagat bhandaar jee bharay bi-ant bay-antaa.\r",
+                    "time": 1327069
+                },
+                {
+                    "line": "tayray bhagat tayray bhagat salaahan tuDh jee har anik anayk anantaa.\r",
+                    "time": 1341000
+                },
+                {
+                    "line": "tayree anik tayree anik karahi har poojaa jee tap taapeh jaapeh bay-antaa.\r",
+                    "time": 1361023
+                },
+                {
+                    "line": "tayray anayk tayray anayk parheh baho simrit saasat jee kar kiri-aa khat karam karantaa.\r",
+                    "time": 1375066
+                },
+                {
+                    "line": "say bhagat say bhagat bhalay jan naanak jee jo bhaaveh mayray har bhagvantaa. ||4||\r",
+                    "time": 1395034
+                },
+                {
+                    "line": "tooN aad purakh aprampar kartaa jee tuDh jayvad avar na ko-ee.\r",
+                    "time": 1408089
+                },
+                {
+                    "line": "tooN jug jug ayko sadaa sadaa tooN ayko jee tooN nihchal kartaa so-ee.\r",
+                    "time": 1422012
+                },
+                {
+                    "line": "tuDh aapay bhaavai so-ee vartai jee tooN aapay karahi so ho-ee.\r",
+                    "time": 1442043
+                },
+                {
+                    "line": "tuDh aapay sarisat sabh upaa-ee jee tuDh aapay siraj sabh go-ee.\r",
+                    "time": 1455056
+                },
+                {
+                    "line": "jan naanak gun gaavai kartay kay jee jo sabhsai kaa jaano-ee. ||5||1||\r",
+                    "time": 1469042
+                },
+                {
+                    "line": "aasaa mehlaa 4.\r",
+                    "time": 1514088
+                },
+                {
+                    "line": "tooN kartaa sachiaar maidaa saaN-ee.\r",
+                    "time": 1544008
+                },
+                {
+                    "line": "jo ta-o bhaavai so-ee theesee jo tooN deh so-ee ha-o paa-ee. ||1|| rahaa-o.\r",
+                    "time": 1552049
+                },
+                {
+                    "line": "sabh tayree tooN sabhnee Dhi-aa-i-aa.\r",
+                    "time": 1583093
+                },
+                {
+                    "line": "jis no kirpaa karahi tin naam ratan paa-i-aa.\r",
+                    "time": 1592076
+                },
+                {
+                    "line": "gurmukh laaDhaa manmukh gavaa-i-aa.\r",
+                    "time": 1601093
+                },
+                {
+                    "line": "tuDh aap vichhorhi-aa aap milaa-i-aa. ||1||\r",
+                    "time": 1610085
+                },
+                {
+                    "line": "tooN daree-aa-o sabh tujh hee maahi.\r",
+                    "time": 1620065
+                },
+                {
+                    "line": "tujh bin doojaa ko-ee naahi.\r",
+                    "time": 1629081
+                },
+                {
+                    "line": "jee-a jant sabh tayraa khayl.\r",
+                    "time": 1638019
+                },
+                {
+                    "line": "vijog mil vichhurhi-aa sanjogee mayl. ||2||\r",
+                    "time": 1647037
+                },
+                {
+                    "line": "jis no too jaanaa-ihi so-ee jan jaanai.\r",
+                    "time": 1656012
+                },
+                {
+                    "line": "har gun sad hee aakh vakhaanai.\r",
+                    "time": 1664097
+                },
+                {
+                    "line": "jin har sayvi-aa tin sukh paa-i-aa.\r",
+                    "time": 1673087
+                },
+                {
+                    "line": "sehjay hee har naam samaa-i-aa. ||3||\r",
+                    "time": 1683006
+                },
+                {
+                    "line": "too aapay kartaa tayraa kee-aa sabh ho-ay.\r",
+                    "time": 1691082
+                },
+                {
+                    "line": "tuDh bin doojaa avar na ko-ay.\r",
+                    "time": 1700046
+                },
+                {
+                    "line": "too kar kar vaykheh jaaneh so-ay.\r",
+                    "time": 1712053
+                },
+                {
+                    "line": "jan naanak gurmukh pargat ho-ay. ||4||2||\r",
+                    "time": 1717092
+                },
+                {
+                    "line": "aasaa mehlaa 1.\r",
+                    "time": 1749000
+                },
+                {
+                    "line": "tit saravrarhai bha-eelay nivaasaa paanee paavak tineh kee-aa.\r",
+                    "time": 1785036
+                },
+                {
+                    "line": "pankaj moh pag nahee chaalai ham daykhaa tah doobee-alay. ||1||\r",
+                    "time": 1803040
+                },
+                {
+                    "line": "man ayk na chaytas moorh manaa.\r",
+                    "time": 1820036
+                },
+                {
+                    "line": "har bisrat tayray gun gali-aa. ||1|| rahaa-o.\r",
+                    "time": 1829043
+                },
+                {
+                    "line": "naa ha-o jatee satee nahee parhi-aa moorakh mugDhaa janam bha-i-aa.\r",
+                    "time": 1851031
+                },
+                {
+                    "line": "paranvat naanak tin kee sarnaa jin too naahee veesri-aa. ||2||3||\r",
+                    "time": 1871085
+                },
+                {
+                    "line": "aasaa mehlaa 5.\r",
+                    "time": 1917041
+                },
+                {
+                    "line": "bha-ee paraapat maanukh dayhuree-aa.\r",
+                    "time": 1947056
+                },
+                {
+                    "line": "gobind milan kee ih tayree baree-aa.\r",
+                    "time": 1956045
+                },
+                {
+                    "line": "avar kaaj tayrai kitai na kaam.\r",
+                    "time": 1965064
+                },
+                {
+                    "line": "mil saaDhsangat bhaj kayval naam. ||1||\r",
+                    "time": 1974088
+                },
+                {
+                    "line": "saraNjaam laag bhavjal taran kai.\r",
+                    "time": 1983016
+                },
+                {
+                    "line": "janam baritha jaat rang maa-i-aa kai. ||1|| rahaa-o.\r",
+                    "time": 1992028
+                },
+                {
+                    "line": "jap tap sanjam Dharam na kamaa-i-aa.\r",
+                    "time": 2014001
+                },
+                {
+                    "line": "sayvaa saaDh na jaani-aa har raa-i-aa.\r",
+                    "time": 2022061
+                },
+                {
+                    "line": "kaho naanak ham neech karammaa.\r",
+                    "time": 2031043
+                },
+                {
+                    "line": "saran paray kee raakho sarmaa. ||2||4||\r",
+                    "time": 2040040
+                }
+            ],
+            "english_lyrics": [
+                {
+                    "line": "So Dar ~ That Door. Raag Aasaa, First Mehl:\r",
+                    "time": 3037
+                },
+                {
+                    "line": "One Universal Creator God. By The Grace Of The True Guru:\r",
+                    "time": 22085
+                },
+                {
+                    "line": "Where is That Door of Yours, and where is That Home, in which You sit and take care of all?\r",
+                    "time": 51058
+                },
+                {
+                    "line": "The Sound-current of the Naad vibrates there for You, and countless musicians play all sorts of instruments there for You.\r",
+                    "time": 59089
+                },
+                {
+                    "line": "There are so many Ragas and musical harmonies to You; so many minstrels sing hymns of You.\r",
+                    "time": 67088
+                },
+                {
+                    "line": "Wind, water and fire sing of You. The Righteous Judge of Dharma sings at Your Door.\r",
+                    "time": 75082
+                },
+                {
+                    "line": "Chitr and Gupt, the angels of the conscious and the subconscious who keep the record of actions, and the Righteous Judge of Dharma who reads this record, sing of You.\r",
+                    "time": 83055
+                },
+                {
+                    "line": "Shiva, Brahma and the Goddess of Beauty, ever adorned by You, sing of You.\r",
+                    "time": 91040
+                },
+                {
+                    "line": "Indra, seated on His Throne, sings of You, with the deities at Your Door.\r",
+                    "time": 99006
+                },
+                {
+                    "line": "The Siddhas in Samaadhi sing of You; the Saadhus sing of You in contemplation.\r",
+                    "time": 106095
+                },
+                {
+                    "line": "The celibates, the fanatics, and the peacefully accepting sing of You; the fearless warriors sing of You.\r",
+                    "time": 114074
+                },
+                {
+                    "line": "The Pandits, the religious scholars who recite the Vedas, with the supreme sages of all the ages, sing of You.\r",
+                    "time": 120001
+                },
+                {
+                    "line": "The Mohinis, the enchanting heavenly beauties who entice hearts in paradise, in this world, and in the underworld of the subconscious, sing of You.\r",
+                    "time": 130022
+                },
+                {
+                    "line": "The celestial jewels created by You, and the sixty-eight sacred shrines of pilgrimage, sing of You.\r",
+                    "time": 138007
+                },
+                {
+                    "line": "The brave and mighty warriors sing of You. The spiritual heroes and the four sources of creation sing of You.\r",
+                    "time": 145068
+                },
+                {
+                    "line": "The worlds, solar systems and galaxies, created and arranged by Your Hand, sing of You.\r",
+                    "time": 153058
+                },
+                {
+                    "line": "They alone sing of You, who are pleasing to Your Will. Your devotees are imbued with Your Sublime Essence.\r",
+                    "time": 162003
+                },
+                {
+                    "line": "So many others sing of You, they do not come to mind. O Nanak, how can I think of them all?\r",
+                    "time": 169018
+                },
+                {
+                    "line": "That True Lord is True, forever True, and True is His Name.\r",
+                    "time": 176090
+                },
+                {
+                    "line": "He is, and shall always be. He shall not depart, even when this Universe which He has created departs.\r",
+                    "time": 184044
+                },
+                {
+                    "line": "He created the world, with its various colors, species of beings, and the variety of Maya.\r",
+                    "time": 189069
+                },
+                {
+                    "line": "Having created the creation, He watches over it Himself, by His Greatness.\r",
+                    "time": 200051
+                },
+                {
+                    "line": "He does whatever He pleases. No one can issue any order to Him.\r",
+                    "time": 208028
+                },
+                {
+                    "line": "He is the King, the King of kings, the Supreme Lord and Master of kings. Nanak remains subject to His Will. ||1||\r",
+                    "time": 215082
+                },
+                {
+                    "line": "Aasaa, First Mehl:\r",
+                    "time": 232062
+                },
+                {
+                    "line": "Hearing of His Greatness, everyone calls Him Great.\r",
+                    "time": 248079
+                },
+                {
+                    "line": "But just how Great His Greatness is-this is known only to those who have seen Him.\r",
+                    "time": 257010
+                },
+                {
+                    "line": "His Value cannot be estimated; He cannot be described.\r",
+                    "time": 265084
+                },
+                {
+                    "line": "Those who describe You, Lord, remain immersed and absorbed in You. ||1||\r",
+                    "time": 274063
+                },
+                {
+                    "line": "O my Great Lord and Master of Unfathomable Depth, You are the Ocean of Excellence.\r",
+                    "time": 283001
+                },
+                {
+                    "line": "No one knows the extent or the vastness of Your Expanse. ||1||Pause||\r",
+                    "time": 295040
+                },
+                {
+                    "line": "All the intuitives met and practiced intuitive meditation.\r",
+                    "time": 316019
+                },
+                {
+                    "line": "All the appraisers met and made the appraisal.\r",
+                    "time": 324075
+                },
+                {
+                    "line": "The spiritual teachers, the teachers of meditation, and the teachers of teachers\r",
+                    "time": 333002
+                },
+                {
+                    "line": "they cannot describe even an iota of Your Greatness. ||2||\r",
+                    "time": 341052
+                },
+                {
+                    "line": "All Truth, all austere discipline, all goodness,\r",
+                    "time": 349068
+                },
+                {
+                    "line": "all the great miraculous spiritual powers of the Siddhas\r",
+                    "time": 357093
+                },
+                {
+                    "line": "without you, no one has attained such powers.\r",
+                    "time": 366080
+                },
+                {
+                    "line": "They are received only by Your Grace. No one can block them or stop their flow. ||3||\r",
+                    "time": 375006
+                },
+                {
+                    "line": "What can the poor helpless creatures do?\r",
+                    "time": 383087
+                },
+                {
+                    "line": "Your Praises are overflowing with Your Treasures.\r",
+                    "time": 391075
+                },
+                {
+                    "line": "Those, unto whom You give-how can they think of any other?\r",
+                    "time": 400009
+                },
+                {
+                    "line": "O Nanak, the True One embellishes and exalts. ||4||2||\r",
+                    "time": 408021
+                },
+                {
+                    "line": "Aasaa, First Mehl:\r",
+                    "time": 446076
+                },
+                {
+                    "line": "Chanting it, I live; forgetting it, I die.\r",
+                    "time": 467007
+                },
+                {
+                    "line": "It is so difficult to chant the True Name.\r",
+                    "time": 474053
+                },
+                {
+                    "line": "If someone feels hunger for the True Name,\r",
+                    "time": 482063
+                },
+                {
+                    "line": "that hunger shall consume his pain. ||1||\r",
+                    "time": 491009
+                },
+                {
+                    "line": "How can I forget Him, O my mother?\r",
+                    "time": 499041
+                },
+                {
+                    "line": "True is the Master, True is His Name. ||1||Pause||\r",
+                    "time": 507066
+                },
+                {
+                    "line": "Trying to describe even an iota of the Greatness of the True Name,\r",
+                    "time": 528082
+                },
+                {
+                    "line": "people have grown weary, but they have not been able to evaluate it.\r",
+                    "time": 536090
+                },
+                {
+                    "line": "Even if everyone were to gather together and speak of Him,\r",
+                    "time": 545042
+                },
+                {
+                    "line": "He would not become any greater or any lesser. ||2||\r",
+                    "time": 557063
+                },
+                {
+                    "line": "That Lord does not die; there is no reason to mourn.\r",
+                    "time": 562033
+                },
+                {
+                    "line": "He continues to give, and His Provisions never run short.\r",
+                    "time": 570092
+                },
+                {
+                    "line": "This Virtue is His alone; there is no other like Him.\r",
+                    "time": 579020
+                },
+                {
+                    "line": "There never has been, and there never will be. ||3||\r",
+                    "time": 583038
+                },
+                {
+                    "line": "As Great as You Yourself are, O Lord, so Great are Your Gifts.\r",
+                    "time": 595090
+                },
+                {
+                    "line": "The One who created the day also created the night.\r",
+                    "time": 604020
+                },
+                {
+                    "line": "Those who forget their Lord and Master are vile and despicable.\r",
+                    "time": 612072
+                },
+                {
+                    "line": "O Nanak, without the Name, they are wretched outcasts. ||4||3||\r",
+                    "time": 621030
+                },
+                {
+                    "line": "Raag Goojaree, Fourth Mehl:\r",
+                    "time": 659021
+                },
+                {
+                    "line": "O humble servant of the Lord, O True Guru, O True Primal Being: I offer my humble prayer to You, O Guru.\r",
+                    "time": 690013
+                },
+                {
+                    "line": "I am a mere insect, a worm. O True Guru, I seek Your Sanctuary. Please be merciful, and bless me with the Light of the Naam, the Name of the Lord. ||1||\r",
+                    "time": 703006
+                },
+                {
+                    "line": "O my Best Friend, O Divine Guru, please enlighten me with the Name of the Lord.\r",
+                    "time": 717086
+                },
+                {
+                    "line": "Through the Guru's Teachings, the Naam is my breath of life. The Kirtan of the Lord's Praise is my life's occupation. ||1||Pause||\r",
+                    "time": 731013
+                },
+                {
+                    "line": "The servants of the Lord have the greatest good fortune; they have faith in the Lord, and a longing for the Lord.\r",
+                    "time": 757091
+                },
+                {
+                    "line": "Obtaining the Name of the Lord, Har, Har, they are satisfied; joining the Sangat, the Blessed Congregation, their virtues shine forth. ||2||\r",
+                    "time": 771059
+                },
+                {
+                    "line": "Those who have not obtained the Sublime Essence of the Name of the Lord, Har, Har, Har, are most unfortunate; they are led away by the Messenger of Death.\r",
+                    "time": 784039
+                },
+                {
+                    "line": "Those who have not sought the Sanctuary of the True Guru and the Sangat, the Holy Congregation-cursed are their lives, and cursed are their hopes of life. ||3||\r",
+                    "time": 797052
+                },
+                {
+                    "line": "Those humble servants of the Lord who have attained the Company of the True Guru, have such pre-ordained destiny inscribed on their foreheads.\r",
+                    "time": 811029
+                },
+                {
+                    "line": "Blessed, blessed is the Sat Sangat, the True Congregation, where the Lord's Essence is obtained. Meeting with His humble servant, O Nanak, the Light of the Naam shines forth. ||4||4||\r",
+                    "time": 823053
+                },
+                {
+                    "line": "Raag Goojaree, Fifth Mehl:\r",
+                    "time": 873050
+                },
+                {
+                    "line": "Why, O mind, do you plot and plan, when the Dear Lord Himself provides for your care?\r",
+                    "time": 904086
+                },
+                {
+                    "line": "From rocks and stones He created living beings; He places their nourishment before them. ||1||\r",
+                    "time": 919043
+                },
+                {
+                    "line": "O my Dear Lord of souls, one who joins the Sat Sangat, the True Congregation, is saved.\r",
+                    "time": 933084
+                },
+                {
+                    "line": "By Guru's Grace, the supreme status is obtained, and the dry wood blossoms forth again in lush greenery. ||1||Pause||\r",
+                    "time": 943050
+                },
+                {
+                    "line": "Mothers, fathers, friends, children and spouses-no one is the support of anyone else.\r",
+                    "time": 961077
+                },
+                {
+                    "line": "For each and every person, our Lord and Master provides sustenance. Why are you so afraid, O mind? ||2||\r",
+                    "time": 975028
+                },
+                {
+                    "line": "The flamingoes fly hundreds of miles, leaving their young ones behind.\r",
+                    "time": 986075
+                },
+                {
+                    "line": "Who feeds them, and who teaches them to feed themselves? Have you ever thought of this in your mind? ||3||\r",
+                    "time": 998033
+                },
+                {
+                    "line": "All the nine treasures, and the eighteen supernatural powers are held by our Lord and Master in the Palm of His Hand.\r",
+                    "time": 1010081
+                },
+                {
+                    "line": "Servant Nanak is devoted, dedicated, forever a sacrifice to You, Lord. Your Expanse has no limit, no boundary. ||4||5||\r",
+                    "time": 1023003
+                },
+                {
+                    "line": "Raag Aasaa, Fourth Mehl, So Purakh ~ That Primal Being:\r",
+                    "time": 1065006
+                },
+                {
+                    "line": "One Universal Creator God. By The Grace Of The True Guru:\r",
+                    "time": 1081036
+                },
+                {
+                    "line": "That Primal Being is Immaculate and Pure. The Lord, the Primal Being, is Immaculate and Pure. The Lord is Inaccessible, Unreachable and Unrivalled.\r",
+                    "time": 1117072
+                },
+                {
+                    "line": "All meditate, all meditate on You, Dear Lord, O True Creator Lord.\r",
+                    "time": 1132049
+                },
+                {
+                    "line": "All living beings are Yours-You are the Giver of all souls.\r",
+                    "time": 1146042
+                },
+                {
+                    "line": "Meditate on the Lord, O Saints; He is the Dispeller of all sorrow.\r",
+                    "time": 1160029
+                },
+                {
+                    "line": "The Lord Himself is the Master, the Lord Himself is the Servant. O Nanak, the poor beings are wretched and miserable! ||1||\r",
+                    "time": 1173083
+                },
+                {
+                    "line": "You are constant in each and every heart, and in all things. O Dear Lord, you are the One.\r",
+                    "time": 1187084
+                },
+                {
+                    "line": "Some are givers, and some are beggars. This is all Your Wondrous Play.\r",
+                    "time": 1202011
+                },
+                {
+                    "line": "You Yourself are the Giver, and You Yourself are the Enjoyer. I know no other than You.\r",
+                    "time": 1215082
+                },
+                {
+                    "line": "You are the Supreme Lord God, Limitless and Infinite. What Virtues of Yours can I speak of and describe?\r",
+                    "time": 1229064
+                },
+                {
+                    "line": "Unto those who serve You, unto those who serve You, Dear Lord, servant Nanak is a sacrifice. ||2||\r",
+                    "time": 1243070
+                },
+                {
+                    "line": "Those who meditate on You, Lord, those who meditate on You-those humble beings dwell in peace in this world.\r",
+                    "time": 1257097
+                },
+                {
+                    "line": "They are liberated, they are liberated-those who meditate on the Lord. For them, the noose of death is cut away.\r",
+                    "time": 1271027
+                },
+                {
+                    "line": "Those who meditate on the Fearless One, on the Fearless Lord-all their fears are dispelled.\r",
+                    "time": 1285009
+                },
+                {
+                    "line": "Those who serve, those who serve my Dear Lord, are absorbed into the Being of the Lord, Har, Har.\r",
+                    "time": 1299013
+                },
+                {
+                    "line": "Blessed are they, blessed are they, who meditate on their Dear Lord. Servant Nanak is a sacrifice to them. ||3||\r",
+                    "time": 1312085
+                },
+                {
+                    "line": "Devotion to You, devotion to You, is a treasure overflowing, infinite and beyond measure.\r",
+                    "time": 1327069
+                },
+                {
+                    "line": "Your devotees, Your devotees praise You, Dear Lord, in many and various and countless ways.\r",
+                    "time": 1341000
+                },
+                {
+                    "line": "For You, many, for You, so very many perform worship services, O Dear Infinite Lord; they practice disciplined meditation and chant endlessly.\r",
+                    "time": 1361023
+                },
+                {
+                    "line": "For You, many, for You, so very many read the various Simritees and Shaastras. They perform rituals and religious rites.\r",
+                    "time": 1375066
+                },
+                {
+                    "line": "Those devotees, those devotees are sublime, O servant Nanak, who are pleasing to my Dear Lord God. ||4||\r",
+                    "time": 1395034
+                },
+                {
+                    "line": "You are the Primal Being, the Most Wonderful Creator. There is no other as Great as You.\r",
+                    "time": 1408089
+                },
+                {
+                    "line": "Age after age, You are the One. Forever and ever, You are the One. You never change, O Creator Lord.\r",
+                    "time": 1422012
+                },
+                {
+                    "line": "Everything happens according to Your Will. You Yourself accomplish all that occurs.\r",
+                    "time": 1442043
+                },
+                {
+                    "line": "You Yourself created the entire universe, and having fashioned it, You Yourself shall destroy it all.\r",
+                    "time": 1455056
+                },
+                {
+                    "line": "Servant Nanak sings the Glorious Praises of the Dear Creator, the Knower of all. ||5||1||\r",
+                    "time": 1469042
+                },
+                {
+                    "line": "Aasaa, Fourth Mehl:\r",
+                    "time": 1514088
+                },
+                {
+                    "line": "You are the True Creator, my Lord and Master.\r",
+                    "time": 1544008
+                },
+                {
+                    "line": "Whatever pleases You comes to pass. As You give, so do we receive. ||1||Pause||\r",
+                    "time": 1552049
+                },
+                {
+                    "line": "All belong to You, all meditate on you.\r",
+                    "time": 1583093
+                },
+                {
+                    "line": "Those who are blessed with Your Mercy obtain the Jewel of the Naam, the Name of the Lord.\r",
+                    "time": 1592076
+                },
+                {
+                    "line": "The Gurmukhs obtain it, and the self-willed manmukhs lose it.\r",
+                    "time": 1601093
+                },
+                {
+                    "line": "You Yourself separate them from Yourself, and You Yourself reunite with them again. ||1||\r",
+                    "time": 1610085
+                },
+                {
+                    "line": "You are the River of Life; all are within You.\r",
+                    "time": 1620065
+                },
+                {
+                    "line": "There is no one except You.\r",
+                    "time": 1629081
+                },
+                {
+                    "line": "All living beings are Your playthings.\r",
+                    "time": 1638019
+                },
+                {
+                    "line": "The separated ones meet, and by great good fortune, those suffering in separation are reunited once again. ||2||\r",
+                    "time": 1647037
+                },
+                {
+                    "line": "They alone understand, whom You inspire to understand;\r",
+                    "time": 1656012
+                },
+                {
+                    "line": "they continually chant and repeat the Lord's Praises.\r",
+                    "time": 1664097
+                },
+                {
+                    "line": "Those who serve You find peace.\r",
+                    "time": 1673087
+                },
+                {
+                    "line": "They are intuitively absorbed into the Lord's Name. ||3||\r",
+                    "time": 1683006
+                },
+                {
+                    "line": "You Yourself are the Creator. Everything that happens is by Your Doing.\r",
+                    "time": 1691082
+                },
+                {
+                    "line": "There is no one except You.\r",
+                    "time": 1700046
+                },
+                {
+                    "line": "You created the creation; You behold it and understand it.\r",
+                    "time": 1712053
+                },
+                {
+                    "line": "O servant Nanak, the Lord is revealed through the Gurmukh, the Living Expression of the Guru's Word. ||4||2||\r",
+                    "time": 1717092
+                },
+                {
+                    "line": "Aasaa, First Mehl:\r",
+                    "time": 1749000
+                },
+                {
+                    "line": "In that pool, people have made their homes, but the water there is as hot as fire!\r",
+                    "time": 1785036
+                },
+                {
+                    "line": "In the swamp of emotional attachment, their feet cannot move. I have seen them drowning there. ||1||\r",
+                    "time": 1803040
+                },
+                {
+                    "line": "In your mind, you do not remember the One Lord-you fool!\r",
+                    "time": 1820036
+                },
+                {
+                    "line": "You have forgotten the Lord; your virtues shall wither away. ||1||Pause||\r",
+                    "time": 1829043
+                },
+                {
+                    "line": "I am not celibate, nor truthful, nor scholarly. I was born foolish and ignorant into this world.\r",
+                    "time": 1851031
+                },
+                {
+                    "line": "Prays Nanak, I seek the Sanctuary of those who have not forgotten You, O Lord! ||2||3||\r",
+                    "time": 1871085
+                },
+                {
+                    "line": "Aasaa, Fifth Mehl:\r",
+                    "time": 1917041
+                },
+                {
+                    "line": "This human body has been given to you.\r",
+                    "time": 1947056
+                },
+                {
+                    "line": "This is your chance to meet the Lord of the Universe.\r",
+                    "time": 1956045
+                },
+                {
+                    "line": "Nothing else will work.\r",
+                    "time": 1965064
+                },
+                {
+                    "line": "Join the Saadh Sangat, the Company of the Holy; vibrate and meditate on the Jewel of the Naam. ||1||\r",
+                    "time": 1974088
+                },
+                {
+                    "line": "Make every effort to cross over this terrifying world-ocean.\r",
+                    "time": 1983016
+                },
+                {
+                    "line": "You are squandering this life uselessly in the love of Maya. ||1||Pause||\r",
+                    "time": 1992028
+                },
+                {
+                    "line": "I have not practiced meditation, self-discipline, self-restraint or righteous living.\r",
+                    "time": 2014001
+                },
+                {
+                    "line": "I have not served the Holy; I have not acknowledged the Lord, my King.\r",
+                    "time": 2022061
+                },
+                {
+                    "line": "Says Nanak, my actions are contemptible!\r",
+                    "time": 2031043
+                },
+                {
+                    "line": "O Lord, I seek Your Sanctuary; please, preserve my honor! ||2||4||\r",
+                    "time": 2040040
+                }
+            ],
+            "spanish_lyrics": [
+                {
+                    "line": "So-Dar, Rag Asa, Mejl Guru Nanak, Primer Canal Divino.\r",
+                    "time": 3037
+                },
+                {
+                    "line": "Un Dios Creador Universal, por la Gracia del Verdadero Guru.\r",
+                    "time": 22085
+                },
+                {
+                    "line": "Oh dónde está Tu Casa y cómo abrir Tu Puerta? ¿En dónde Te sientas para dar soporte a todos?\r",
+                    "time": 51058
+                },
+                {
+                    "line": "Sin fin son las melodías tocadas por los músicos;\r",
+                    "time": 59089
+                },
+                {
+                    "line": "en Alabanza preparan un sinfín de armonías y compases para cantarte, oh Señor Bondadoso.\r",
+                    "time": 67088
+                },
+                {
+                    "line": "Para cantarte están los vientos, el agua y el fuego,.\r",
+                    "time": 75082
+                },
+                {
+                    "line": "Canta Shiva y Brama, canta la diosa Parwati;\r",
+                    "time": 83055
+                },
+                {
+                    "line": "incontables son las voces que cantan. Incontables son las melodías y cantos de esta canción del mundo.\r",
+                    "time": 91040
+                },
+                {
+                    "line": "Los Siddhas cantan en meditación silenciosa; todos los Santos cantan en profunda Contemplación.\r",
+                    "time": 99006
+                },
+                {
+                    "line": "Los entusiastas, los célibes y los guerreros, son una canción para Ti.\r",
+                    "time": 106095
+                },
+                {
+                    "line": "Los escolares, aquéllos que leen los Vedas,.\r",
+                    "time": 114074
+                },
+                {
+                    "line": "sosteniendo la sabiduría de las épocas; los siete supremos sabios, todos Te alaban a Ti.\r",
+                    "time": 120001
+                },
+                {
+                    "line": "Las gemas creadas por Ti y los lugares santos, todos relatan Tus Excelencias.\r",
+                    "time": 130022
+                },
+                {
+                    "line": "Los poderosos guerreros y héroes divinos son un himno para Ti y las cuatro fuentes de la creación, el huevo, el vientre, el sudor y la semilla,.\r",
+                    "time": 138007
+                },
+                {
+                    "line": "Te magnifican. Los continentes, los mundos y los sistemas solares, creados y puestos por Tu Mano, todos cantan Tu Gloria.\r",
+                    "time": 145068
+                },
+                {
+                    "line": "Estos Santos que Te han Complacido, están llenos con Tu Nombre y constantemente Te alaban a Ti.\r",
+                    "time": 162003
+                },
+                {
+                    "line": "Hay tantos otros, Nanak no puede nombrarlos a cada uno.\r",
+                    "time": 169018
+                },
+                {
+                    "line": "Verdad es Él y Verdad es Su Nombre;.\r",
+                    "time": 176090
+                },
+                {
+                    "line": "Él es el Creador de todo y sólo Él permanecerá cuando esta creación llegue a su fin.\r",
+                    "time": 184044
+                },
+                {
+                    "line": "Él es quien hizo que este mundo se manifestara de muchos colores y especies de seres.\r",
+                    "time": 189069
+                },
+                {
+                    "line": "Él cuida todo lo que ha hecho, estando todo justo como a Él le place.\r",
+                    "time": 200051
+                },
+                {
+                    "line": "El no toma instrucción de nadie,.\r",
+                    "time": 208028
+                },
+                {
+                    "line": "porque Él, oh, dice Nanak, es el Rey, el Rey de reyes, el Maestro y Señor Supremo y todo permanece sujeto a Su Voluntad (1)\r",
+                    "time": 215082
+                },
+                {
+                    "line": "Rag Asa, Mejl Guru Nanak, Primer Canal Divino.\r",
+                    "time": 232062
+                },
+                {
+                    "line": "Oh Señor, oyendo de Ti, todos hablan de Tu Grandeza,.\r",
+                    "time": 248079
+                },
+                {
+                    "line": "pero sólo aquél que Te ha visto, sabe qué tan Grande Eres.\r",
+                    "time": 257010
+                },
+                {
+                    "line": "Nadie puede describir o fijarte un valor.\r",
+                    "time": 265084
+                },
+                {
+                    "line": "Los que tratan de Describirte se quedan absorbidos en Ti. (1)\r",
+                    "time": 274063
+                },
+                {
+                    "line": "Oh Dios Todopoderoso, Maestro de Profundidades Insondables, Tú eres un Océano de Virtud.\r",
+                    "time": 283001
+                },
+                {
+                    "line": "Tu Grandeza y Vastedad son Incalculables. (1-Pausa)\r",
+                    "time": 295040
+                },
+                {
+                    "line": "Todos los meditadores se han juntado y tratado de Contemplarte;.\r",
+                    "time": 316019
+                },
+                {
+                    "line": "Todos los evaluadores se han reunido y han tratado de medir Tu Valor;\r",
+                    "time": 324075
+                },
+                {
+                    "line": "Todos los teólogos, los místicos y aquéllos que instruyen a los ministros;\r",
+                    "time": 333002
+                },
+                {
+                    "line": "Todos han tratado de Describirte pero no pueden relatar la más pequeña parte de Ti. (2)\r",
+                    "time": 341052
+                },
+                {
+                    "line": "Toda virtud espiritual, toda perfección,.\r",
+                    "time": 349068
+                },
+                {
+                    "line": "todos los logros de los adeptos y los milagros, todos son Tus Regalos, oh Señor.\r",
+                    "time": 357093
+                },
+                {
+                    "line": "sin ti, nadie a obtenido tan maravilloso poder.\r",
+                    "time": 366080
+                },
+                {
+                    "line": "Todo lo tenemos por Tu Gracia y nadie puede cambiar Tu Orden. (3)\r",
+                    "time": 375006
+                },
+                {
+                    "line": "Qué puede este hombre hacer sin Ti?\r",
+                    "time": 383087
+                },
+                {
+                    "line": "Tus almacenes están repletos de Tesoros.\r",
+                    "time": 391075
+                },
+                {
+                    "line": "Aquél que ha recibido de Ti, no piensa en otros medios.\r",
+                    "time": 400009
+                },
+                {
+                    "line": "Oh, dice Nanak, el Señor Mismo da la Plenitud. (4-2)\r",
+                    "time": 408021
+                },
+                {
+                    "line": "Rag Asa Mejl Guru Nanak, Primer Canal Divino.\r",
+                    "time": 446076
+                },
+                {
+                    "line": "Recordando Su Nombre me es dada la vida, Olvidándolo, muero seguramente.\r",
+                    "time": 467007
+                },
+                {
+                    "line": "Es difícil cantar el Nombre Verdadero.\r",
+                    "time": 474053
+                },
+                {
+                    "line": "Si alguien tiene hambre del Nombre.\r",
+                    "time": 482063
+                },
+                {
+                    "line": "éste consumirá todas sus penas. (1)\r",
+                    "time": 491009
+                },
+                {
+                    "line": "Oh mi madre, ¿Cómo puede el Señor ser olvidado?\r",
+                    "time": 499041
+                },
+                {
+                    "line": "Verdad es Él y Verdad es Su Nombre.\r",
+                    "time": 507066
+                },
+                {
+                    "line": "Muchos se han fatigado diciendo lo grande que es el Nombre,\r",
+                    "time": 528082
+                },
+                {
+                    "line": "sin haber mencionado todavía ni una pizca de Su Valor.\r",
+                    "time": 536090
+                },
+                {
+                    "line": "Y por nuestra Alabanza, aunque se hiciera con la fuerza de todos los seres juntos,\r",
+                    "time": 545042
+                },
+                {
+                    "line": "el Señor no se haría ni más pequeño ni más grande. (2)\r",
+                    "time": 557063
+                },
+                {
+                    "line": "El Señor no muere, así que no podemos sentir luto por Él.\r",
+                    "time": 562033
+                },
+                {
+                    "line": "Él siempre está dando y Su Almacén de Regalos no tiene fin.\r",
+                    "time": 570092
+                },
+                {
+                    "line": "Esta es Su Grandeza, no hay nadie igual a Él,\r",
+                    "time": 579020
+                },
+                {
+                    "line": "no lo hubo nunca, ni lo habrá. (3)\r",
+                    "time": 583038
+                },
+                {
+                    "line": "Tan Grande como Eres, oh Señor, así son Tus Regalos.\r",
+                    "time": 595090
+                },
+                {
+                    "line": "Tú hiciste el día junto con la noche.\r",
+                    "time": 604020
+                },
+                {
+                    "line": "Viles y miserables son las criaturas que se olvidan de su Amo.\r",
+                    "time": 612072
+                },
+                {
+                    "line": "Oh, dice Nanak, sin el Nombre, este hombre es un miserable exiliado. (1-3)\r",
+                    "time": 621030
+                },
+                {
+                    "line": "Rag Guyeri, Mejl Guru Ram Das, Cuarto Canal Divino.\r",
+                    "time": 659021
+                },
+                {
+                    "line": "Oh, Sirviente Humilde del Señor, oh, Guru Verdadero. Oh, Ser Primordial y Verdadero, Te ofrezco ésta, mi humilde oración, oh Guru,.\r",
+                    "time": 690013
+                },
+                {
+                    "line": "soy un simple insecto, un gusano. Oh, Verdadero Guru, busco Tu Santuario. Por favor, muestra Tu Misericordia y bendíceme con la Luz del Naam, el Nombre del Señor (1)\r",
+                    "time": 703006
+                },
+                {
+                    "line": "Oh mi Verdadero Guru, Sirviente de Dios, Verdad Encarnada, Te pido, soy la más baja de las criaturas y busco mi refugio en Ti.\r",
+                    "time": 717086
+                },
+                {
+                    "line": "Por Misericordia, concédeme la Luz del Nombre de Dios, oh mi Verdadero Guru. (1-Pausa)\r",
+                    "time": 731013
+                },
+                {
+                    "line": "Oh mi Invaluable Amigo, mi Guru Divino, ilumíname con el Nombre del Señor.\r",
+                    "time": 757091
+                },
+                {
+                    "line": "El Nombre, que me fue revelado por la Instrucción del Guru, es la respiración de mi vida. Y la Alabanza de mi Señor es mi vocación. Los más afortunados son los Gurmukjs que tienen Fe en el Señor y tienen sed de Él. (2)\r",
+                    "time": 771059
+                },
+                {
+                    "line": "Recibiendo el Nombre de Dios su sed es calmada y en la Compañía de los Santos, sus cualidades brillan. Aquéllos que no han conocido a Dios, Su Néctar o Su Nombre, son desafortunados en verdad y el ministro de la muerte se acerca a ellos.\r",
+                    "time": 784039
+                },
+                {
+                    "line": "La vida está perdida y sin esperanza para aquéllos que no han buscado la compañía del Verdadero Guru. (3)\r",
+                    "time": 797052
+                },
+                {
+                    "line": "Aquéllos que se han unido a la compañía del Verdadero Guru tienen ese Destino inscrito desde antes en sus frentes.\r",
+                    "time": 811029
+                },
+                {
+                    "line": "Bendita, bendita es la Asamblea de los Santos. Ahí uno recibe el Néctar de Dios. Oh, dice Nanak, encontrando al Sirviente de Dios Su Nombre es Manifiesto.(4-4)\r",
+                    "time": 823053
+                },
+                {
+                    "line": "Rag Guyeri, Mejl Guru Aryan, Quinto Canal Divino.\r",
+                    "time": 873050
+                },
+                {
+                    "line": "Oh mi mente, ¿por qué piensas en cada empresa en la que te aventuras, cuando el Mismo Señor toma cuidado de ti?\r",
+                    "time": 904086
+                },
+                {
+                    "line": "Él ha puesto criaturas vivas hasta en las rocas y las piedras, y les ha proveído también de sustento. (1)\r",
+                    "time": 919043
+                },
+                {
+                    "line": "Oh mi Respetado Señor, aquél que guarda la Compañía de los Santos es guiado en su camino.\r",
+                    "time": 933084
+                },
+                {
+                    "line": "Por la Gracia del Guru, él logra el aposento celestial, y hasta la madera seca revive. (1-Puse)\r",
+                    "time": 943050
+                },
+                {
+                    "line": "No hay nadie que pueda ser soporte de otro; ni madre, ni padre, ni amigo, hijo o esposo.\r",
+                    "time": 961077
+                },
+                {
+                    "line": "Sólo el Señor provee de sustento a todos, así es que, ¿por qué tienes miedo, oh mi mente? (2)\r",
+                    "time": 975028
+                },
+                {
+                    "line": "Los flamingos emigran cientos de millas, dejando atrás a sus crías,\r",
+                    "time": 986075
+                },
+                {
+                    "line": "¿has pensado esto alguna vez en tu vida? (3)\r",
+                    "time": 998033
+                },
+                {
+                    "line": "Los Nueve Tesoros y los Dieciocho Poderes sobrenaturales están en la Palma de la Mano del Señor.\r",
+                    "time": 1010081
+                },
+                {
+                    "line": "El Esclavo Nanak, es Devoto dedicado; siempre ofreciendo su ser en sacrificio a Ti, oh Señor. En Tu Vastedad no hay límite ni fin, ni frontera. (4-5)\r",
+                    "time": 1023003
+                },
+                {
+                    "line": "Rag Asa, Mejl Guru Ram Das, Cuarto Canal Divino, So-Purkj.\r",
+                    "time": 1065006
+                },
+                {
+                    "line": "Hay sólo un Dios, por la Gracia del Verdadero Guru es obtenido.\r",
+                    "time": 1081036
+                },
+                {
+                    "line": "Ese Señor es Puro. El Señor Dios está sin Mancha. Dios es Inalcanzable, Ininteligible y sin Rival.\r",
+                    "time": 1117072
+                },
+                {
+                    "line": "Todos meditan, todos meditan en Ti, oh Reverendo Dios, Creador Verdadero.\r",
+                    "time": 1132049
+                },
+                {
+                    "line": "Todas las criaturas son Tuyas. Eres el Donador de los seres vivientes.\r",
+                    "time": 1146042
+                },
+                {
+                    "line": "Escuchen Santos, mediten en Dios, el disipador de todos los sufrimientos.\r",
+                    "time": 1160029
+                },
+                {
+                    "line": "Dios Mismo es el Señor y Él Mismo es el Sirviente, dice Nanak, oh qué insignificante es el hombre. (1)\r",
+                    "time": 1173083
+                },
+                {
+                    "line": "Oh Venerable Dios, nuestro Señor, estás contenido en forma continua en todos los corazones y en todas las cosas.\r",
+                    "time": 1187084
+                },
+                {
+                    "line": "Algunos son los que dan y otros los pordioseros que toman, todo esto es Tu Maravilloso Juego.\r",
+                    "time": 1202011
+                },
+                {
+                    "line": "Tú Mismo eres el Dador y Tú Mismo El que lo goza. Aparte de Ti no conozco a nadie más.\r",
+                    "time": 1215082
+                },
+                {
+                    "line": "Eres el Señor Supremo, Infinito e Ilimitado. Qué Excelencias Tuyas podría contar o narrar.\r",
+                    "time": 1229064
+                },
+                {
+                    "line": "El Sirviente Nanak ofrece su ser en sacrificio a aquéllos que sirven a los que Te sirven a Ti. (2)\r",
+                    "time": 1243070
+                },
+                {
+                    "line": "Oh Supremo Señor, aquéllos que meditan en Ti, viven en Paz en este mundo.\r",
+                    "time": 1257097
+                },
+                {
+                    "line": "Aquéllos que Te recuerdan, oh Señor Dios, viven emancipados y liberados, el mensajero de la muerte no se les acerca.\r",
+                    "time": 1271027
+                },
+                {
+                    "line": "Los miedos de aquéllos que meditan en el Valeroso Señor son destruidos.\r",
+                    "time": 1285009
+                },
+                {
+                    "line": "Aquéllos que han servido a mi Señor Dios, viven absorbidos en Su Personalidad.\r",
+                    "time": 1299013
+                },
+                {
+                    "line": "Benditos son aquéllos, benditos son aquéllos que han meditado en el Señor Dios, el Sirviente Nanak se vuelve Devoto de ellos. (3)\r",
+                    "time": 1312085
+                },
+                {
+                    "line": "Infinito e Insondable es el Tesoro de Tu Meditación, en ella uno permanece insaciable.\r",
+                    "time": 1327069
+                },
+                {
+                    "line": "De muchas y variadas formas, los innumerables Santos Tuyos, oh Dios, Te alaban.\r",
+                    "time": 1341000
+                },
+                {
+                    "line": "Gran número de ellos realiza Tu Alabanza, oh Dios Infinito. Ellos practican disciplinas y repiten Tu Nombre.\r",
+                    "time": 1361023
+                },
+                {
+                    "line": "Muchos y variados son los Santos Tuyos que leen los textos Semíticos y los Shastras.\r",
+                    "time": 1375066
+                },
+                {
+                    "line": "Ellos hacen rituales y realizan los seis ritos religiosos. Sublimes son aquéllos Santos, dice el Sirviente Nanak, que están complaciendo a mi Maestro Auspicioso. (4)\r",
+                    "time": 1395034
+                },
+                {
+                    "line": "Eres el Ser Primordial, el más Excelente Creador, nadie es más grandioso que Tú.\r",
+                    "time": 1408089
+                },
+                {
+                    "line": "Entre Era y Era has sido Uno y el Mismo por siempre, y eres Idénticamente el Mismo, tal Estabilidad Maravillosa es sólo Tuya. Oh Creador,.\r",
+                    "time": 1422012
+                },
+                {
+                    "line": "lo que sea que a Ti te gusta, eso viene a suceder; lo que sea que actúas, eso se realiza.\r",
+                    "time": 1442043
+                },
+                {
+                    "line": "Tú Mismo has creado el Universo entero y, habiéndolo moldeado, lo destruirás también.\r",
+                    "time": 1455056
+                },
+                {
+                    "line": "El Esclavo Nanak canta las Alabanzas del Señor Creador Quien es el Conocedor de todo.(5-1)\r",
+                    "time": 1469042
+                },
+                {
+                    "line": "Asa, Mejl Guru Ram Das, Cuarto Canal Divino.\r",
+                    "time": 1514088
+                },
+                {
+                    "line": "Oh Dios, eres el Verdadero Creador, mi Maestro.\r",
+                    "time": 1544008
+                },
+                {
+                    "line": "Sólo sucede lo que Te place y sólo recibo lo que me das. (1-Puse)\r",
+                    "time": 1552049
+                },
+                {
+                    "line": "Todos Te pertenecen y todos meditan en Ti.\r",
+                    "time": 1583093
+                },
+                {
+                    "line": "Aquél a quien brindas Tu Misericordia, obtiene la Joya de Tu Nombre.\r",
+                    "time": 1592076
+                },
+                {
+                    "line": "Los Gurmukjs Lo obtienen y lo soberbios Manmukjs lo pierden.\r",
+                    "time": 1601093
+                },
+                {
+                    "line": "Tú Mismo separas a los mortales y Tú Mismo los unes. (1)\r",
+                    "time": 1610085
+                },
+                {
+                    "line": "Tú eres el río y todo está dentro de Ti.\r",
+                    "time": 1620065
+                },
+                {
+                    "line": "Aparte de Ti, no hay nadie más.\r",
+                    "time": 1629081
+                },
+                {
+                    "line": "Todos los seres son Tus Juguetes.\r",
+                    "time": 1638019
+                },
+                {
+                    "line": "Los que están separados se encuentran, pero esto sucede sólo por la buena fortuna. (2)\r",
+                    "time": 1647037
+                },
+                {
+                    "line": "Sólo el hombre que permites que Te entienda, Te entiende,.\r",
+                    "time": 1656012
+                },
+                {
+                    "line": "Te entiende, y repite para siempre Tus Alabanzas,.\r",
+                    "time": 1664097
+                },
+                {
+                    "line": "Aquél que Te ha servido, ha obtenido la Paz.\r",
+                    "time": 1673087
+                },
+                {
+                    "line": "y fácilmente puede absorberse en Tu Nombre. (3)\r",
+                    "time": 1683006
+                },
+                {
+                    "line": "Tú mismo eres el Creador, es por Tu Voluntad que todo viene a suceder.\r",
+                    "time": 1691082
+                },
+                {
+                    "line": "Aparte de Ti, no hay otro más.\r",
+                    "time": 1700046
+                },
+                {
+                    "line": "Sólo Tú observas y entiendes Tu Propia creación.\r",
+                    "time": 1712053
+                },
+                {
+                    "line": "A través del Guru, oh, dice el Esclavo Nanak, Dios es revelado. (4-2)\r",
+                    "time": 1717092
+                },
+                {
+                    "line": "Asa, Mejl Guru Nanak, Primer Canal Divino.\r",
+                    "time": 1749000
+                },
+                {
+                    "line": "El hombre ha obtenido un recinto en ese océano del mundo, en el que el Señor le ha puesto el agua caliente al fuego.\r",
+                    "time": 1785036
+                },
+                {
+                    "line": "En el fango del amor mundano, sus pies no se mueven y lo he visto ahogándose ahí mismo. (1)\r",
+                    "time": 1803040
+                },
+                {
+                    "line": "Oh tonto, ¿por qué no has recordado al Único Señor en tu mente?\r",
+                    "time": 1820036
+                },
+                {
+                    "line": "Olvidándote de Dios, tus virtudes se irán desvaneciendo. (1-Pausa)\r",
+                    "time": 1829043
+                },
+                {
+                    "line": "Yo no practico la continencia, ni la verdad; tampoco soy un escolar; tonto e ignorante he nacido en este mundo.\r",
+                    "time": 1851031
+                },
+                {
+                    "line": "Nanak reza, he buscado el Santuario de aquéllos que no Te olvidan, oh Señor. (2-3)\r",
+                    "time": 1871085
+                },
+                {
+                    "line": "Asa, Mejl Guru Aryan, Quinto Canal Divino.\r",
+                    "time": 1917041
+                },
+                {
+                    "line": "Has ganado un cuerpo humano en esta vida.\r",
+                    "time": 1947056
+                },
+                {
+                    "line": "Ahora es tu oportunidad, la de encontrar al Señor del mundo.\r",
+                    "time": 1956045
+                },
+                {
+                    "line": "Cualquier otra cosa que hagas, de nada sirve.\r",
+                    "time": 1965064
+                },
+                {
+                    "line": "Entrando en la Saad Sangat, la Sociedad de los Santos, medita sólo en el Naam. (1)\r",
+                    "time": 1974088
+                },
+                {
+                    "line": "Haz todo el esfuerzo por cruzar el terrible océano del mundo.\r",
+                    "time": 1983016
+                },
+                {
+                    "line": "Dedicándose al amor mundano, al hombre se le va la existencia en vano.(1-Pausa)\r",
+                    "time": 1992028
+                },
+                {
+                    "line": "No he practicado la meditación, no he realizado disciplinas pesadas, no tengo autocontrol, ni he practicado la fe.\r",
+                    "time": 2014001
+                },
+                {
+                    "line": "No he servido al Santo ni tampoco he reconocido a Dios, el Rey,\r",
+                    "time": 2022061
+                },
+                {
+                    "line": "reprobables son mis acciones,\r",
+                    "time": 2031043
+                },
+                {
+                    "line": "dice Nanak, conserva el Honor de tu Buscador, de Tu Santuario, oh mi Maestro. (2-4)\r",
+                    "time": 2040040
+                }
+            ],
+            "hindi_lyrics": null
+        }
+    ],
+    "info": "testings"
+}

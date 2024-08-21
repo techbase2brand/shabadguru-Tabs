@@ -1,0 +1,1407 @@
+{
+    "status": 200,
+    "message": "",
+    "data": [
+        {
+            "albumart": "",
+            "author": "",
+            "song": "ਉਤੰਗੀ ਪੈਓਹਰੀ ਗਹਿਰੀ ਗੰਭੀਰੀ ॥",
+            "json": "https://shabad-guru.org/uploads/data/Sloak Mehla 1/ਉਤੰਗੀ ਪੈਓਹਰੀ ਗਹਿਰੀ ਗੰਭੀਰੀ ॥.json",
+            "audio": "https://shabadguru.s3.us-west-1.amazonaws.com/gurbani/lrc n- Project/Sloak Mehla 1/mp3/song/1071 A.mp3",
+            "punjabi": 1,
+            "english": 1,
+            "english_trans": 1,
+            "spanish": 1,
+            "hindi": null,
+            "file_name_on_s3": "1071 A Pb",
+            "english_trans_lyrics": [
+                {
+                    "line": "salok vaaraaN tay vaDheek.\r",
+                    "time": 1020
+                },
+                {
+                    "line": "mehlaa 1.\r",
+                    "time": 13090
+                },
+                {
+                    "line": "utangee pai-ohree gahiree gambheeree.\r",
+                    "time": 45026
+                },
+                {
+                    "line": "sasurh suhee-aa kiv karee nivan na jaa-ay thanee.\r",
+                    "time": 60033
+                },
+                {
+                    "line": "gach je lagaa girvarhee sakhee-ay Dha-ulharee.\r",
+                    "time": 75003
+                },
+                {
+                    "line": "say bhee dhahday dith mai munDh na garab thanee. ||1||\r",
+                    "time": 89048
+                },
+                {
+                    "line": "sun munDhay harnaakhee-ay goorhaa vain apaar.\r",
+                    "time": 118098
+                },
+                {
+                    "line": "pahilaa vasat sinjaan kai taaN keechai vaapaar.\r",
+                    "time": 133087
+                },
+                {
+                    "line": "dohee dichai durjanaa mitraaN kooN jaikaar.\r",
+                    "time": 148058
+                },
+                {
+                    "line": "jit dohee sajan milan lahu munDhay veechaar.\r",
+                    "time": 163013
+                },
+                {
+                    "line": "tan man deejai sajnaa aisaa hasan saar.\r",
+                    "time": 178006
+                },
+                {
+                    "line": "tis sa-o nayhu na keech-ee je disai chalanhaar.\r",
+                    "time": 192022
+                },
+                {
+                    "line": "naanak jinHee iv kar bujhi-aa tinHaa vitahu kurbaan. ||2||\r",
+                    "time": 207004
+                },
+                {
+                    "line": "jay tooN taaroo paan taahoo puchh tirhHaN-nH kal.\r",
+                    "time": 221057
+                },
+                {
+                    "line": "taahoo kharay sujaan vanjaa aynHee kapree. ||3||\r",
+                    "time": 236027
+                },
+                {
+                    "line": "jharh jhakharh ohaarh lahree vahan lakhaysaree.\r",
+                    "time": 265043
+                },
+                {
+                    "line": "satgur si-o aalaa-ay bayrhay duban naahi bha-o. ||4||\r",
+                    "time": 279070
+                },
+                {
+                    "line": "naanak dunee-aa kaisee ho-ee.\r",
+                    "time": 294055
+                },
+                {
+                    "line": "saalak mit na rahi-o ko-ee.\r",
+                    "time": 301047
+                },
+                {
+                    "line": "bhaa-ee banDhee hayt chukaa-i-aa.\r",
+                    "time": 308083
+                },
+                {
+                    "line": "dunee-aa kaaran deen gavaa-i-aa. ||5||\r",
+                    "time": 315099
+                },
+                {
+                    "line": "hai hai kar kai ohi karayn.\r",
+                    "time": 323048
+                },
+                {
+                    "line": "galHaa pitan sir khohayn.\r",
+                    "time": 330086
+                },
+                {
+                    "line": "naa-o lain ar karan samaa-ay.\r",
+                    "time": 337098
+                },
+                {
+                    "line": "naanak tin balihaarai jaa-ay. ||6||\r",
+                    "time": 344068
+                },
+                {
+                    "line": "ray man deeg na dolee-ai seeDhai maarag Dhaa-o.\r",
+                    "time": 366044
+                },
+                {
+                    "line": "paachhai baagh daraavno aagai agan talaa-o.\r",
+                    "time": 381001
+                },
+                {
+                    "line": "sahsai jee-araa par rahi-o maa ka-o avar na dhang.\r",
+                    "time": 395020
+                },
+                {
+                    "line": "naanak gurmukh chhutee-ai har pareetam si-o sang. ||7||\r",
+                    "time": 410004
+                },
+                {
+                    "line": "baagh marai man maaree-ai jis satgur deekhi-aa ho-ay.\r",
+                    "time": 424055
+                },
+                {
+                    "line": "aap pachhaanai har milai bahurh na marnaa ho-ay.\r",
+                    "time": 438058
+                },
+                {
+                    "line": "keecharh haath na bood-ee aykaa nadar nihaal.\r",
+                    "time": 453005
+                },
+                {
+                    "line": "naanak gurmukh ubray gur sarvar sachee paal. ||8||\r",
+                    "time": 467094
+                },
+                {
+                    "line": "agan marai jal lorh lahu vin gur niDh jal naahi.\r",
+                    "time": 496096
+                },
+                {
+                    "line": "janam marai bharmaa-ee-ai jay lakh karam kamaahi.\r",
+                    "time": 511077
+                },
+                {
+                    "line": "jam jaagaat na lag-ee jay chalai satgur bhaa-ay.\r",
+                    "time": 540084
+                },
+                {
+                    "line": "naanak nirmal amar pad gur har maylai maylaa-ay. ||9||\r",
+                    "time": 555001
+                },
+                {
+                    "line": "kalar kayree chhaprhee ka-oo-aa mal mal naa-ay.\r",
+                    "time": 569054
+                },
+                {
+                    "line": "man tan mailaa avgunee binn bharee ganDhee aa-ay.\r",
+                    "time": 583048
+                },
+                {
+                    "line": "sarvar hans na jaani-aa kaag kupankhee sang.\r",
+                    "time": 612040
+                },
+                {
+                    "line": "saakat si-o aisee pareet hai boojhhu gi-aanee rang.\r",
+                    "time": 626055
+                },
+                {
+                    "line": "sant sabhaa jaikaar kar gurmukh karam kamaa-o.\r",
+                    "time": 640084
+                },
+                {
+                    "line": "nirmal nHaavan naankaa gur tirath daree-aa-o. ||10||\r",
+                    "time": 655027
+                },
+                {
+                    "line": "janmay kaa fal ki-aa ganee jaaN har bhagat na bhaa-o.\r",
+                    "time": 684061
+                },
+                {
+                    "line": "paiDhaa khaaDhaa baad hai jaaN man doojaa bhaa-o.\r",
+                    "time": 698037
+                },
+                {
+                    "line": "vaykhan sunnaa jhooth hai mukh jhoothaa aalaa-o.\r",
+                    "time": 712079
+                },
+                {
+                    "line": "naanak naam salaahi too hor ha-umai aava-o jaa-o. ||11||\r",
+                    "time": 726091
+                },
+                {
+                    "line": "hain virlay naahee ghanay fail fakarh sansaar. ||12||\r",
+                    "time": 741061
+                },
+                {
+                    "line": "naanak lagee tur marai jeevan naahee taan.\r",
+                    "time": 770004
+                },
+                {
+                    "line": "chotai saytee jo marai lagee saa parvaan.\r",
+                    "time": 784088
+                },
+                {
+                    "line": "jis no laa-ay tis lagai lagee taa parvaan.\r",
+                    "time": 799001
+                },
+                {
+                    "line": "piram paikaam na niklai laa-i-aa tin sujaan. ||13||\r",
+                    "time": 813024
+                },
+                {
+                    "line": "bhaaNdaa Dhovai ka-un je kachaa saaji-aa.\r",
+                    "time": 841073
+                },
+                {
+                    "line": "Dhaatoo panj ralaa-ay koorhaa paaji-aa.\r",
+                    "time": 856036
+                },
+                {
+                    "line": "bhaaNdaa aanag raas jaaN tis bhaavsee.\r",
+                    "time": 884044
+                },
+                {
+                    "line": "param jot jaagaa-ay vaajaa vaavsee. ||14||\r",
+                    "time": 898099
+                },
+                {
+                    "line": "manhu je anDhay ghoop kahi-aa birad na jaannee.\r",
+                    "time": 956014
+                },
+                {
+                    "line": "man anDhai ooNDhai kaval disan kharay karoop.\r",
+                    "time": 970084
+                },
+                {
+                    "line": "ik kahi jaanan kahi-aa bujhan tay nar sugharh saroop.\r",
+                    "time": 985076
+                },
+                {
+                    "line": "iknaa naad na bayd na gee-a ras ras kas na jaanant.\r",
+                    "time": 1006088
+                },
+                {
+                    "line": "iknaa siDh na buDh na akal sar akhar kaa bhay-o na laahant.\r",
+                    "time": 1018065
+                },
+                {
+                    "line": "naanak tay nar asal khar je bin gun garab karant. ||15||\r",
+                    "time": 1030069
+                },
+                {
+                    "line": "so barahman jo bindai barahm.\r",
+                    "time": 1042032
+                },
+                {
+                    "line": "jap tap sanjam kamaavai karam.\r",
+                    "time": 1048029
+                },
+                {
+                    "line": "seel santokh kaa rakhai Dharam.\r",
+                    "time": 1057005
+                },
+                {
+                    "line": "banDhan torhai hovai mukat.\r",
+                    "time": 1063073
+                },
+                {
+                    "line": "so-ee barahman poojan jugat. ||16||\r",
+                    "time": 1069018
+                },
+                {
+                    "line": "khatree so jo karmaa kaa soor.\r",
+                    "time": 1083078
+                },
+                {
+                    "line": "punn daan kaa karai sareer.\r",
+                    "time": 1089063
+                },
+                {
+                    "line": "khayt pachhaanai beejai daan.\r",
+                    "time": 1095050
+                },
+                {
+                    "line": "so khatree dargeh parvaan.\r",
+                    "time": 1101035
+                },
+                {
+                    "line": "lab lobh jay koorh kamaavai.\r",
+                    "time": 1107015
+                },
+                {
+                    "line": "apnaa keetaa aapay paavai. ||17||\r",
+                    "time": 1113016
+                },
+                {
+                    "line": "tan na tapaa-ay tanoor ji-o baalan had na baal.\r",
+                    "time": 1118099
+                },
+                {
+                    "line": "sir pairee ki-aa fayrhi-aa andar piree samHaal. ||18||\r",
+                    "time": 1133071
+                },
+                {
+                    "line": "sabhnee ghatee saho vasai sah bin ghat na ko-ay.\r",
+                    "time": 1153094
+                },
+                {
+                    "line": "naanak tay sohaaganee jinHaa gurmukh pargat ho-ay. ||19||\r",
+                    "time": 1165050
+                },
+                {
+                    "line": "ja-o ta-o paraym khaylan kaa chaa-o.\r",
+                    "time": 1176091
+                },
+                {
+                    "line": "sir Dhar talee galee mayree aa-o.\r",
+                    "time": 1182062
+                },
+                {
+                    "line": "it maarag pair Dhareejai.\r",
+                    "time": 1191055
+                },
+                {
+                    "line": "sir deejai kaan na keejai. ||20||\r",
+                    "time": 1196095
+                },
+                {
+                    "line": "naal kiraarhaa dostee koorhai koorhee paa-ay.\r",
+                    "time": 1211093
+                },
+                {
+                    "line": "maran na jaapai mooli-aa aavai kitai thaa-ay. ||21||\r",
+                    "time": 1223018
+                },
+                {
+                    "line": "gi-aan heenaN agi-aan poojaa.\r",
+                    "time": 1234083
+                },
+                {
+                    "line": "anDh vartaavaa bhaa-o doojaa. ||22||\r",
+                    "time": 1242075
+                },
+                {
+                    "line": "gur bin gi-aan Dharam bin Dhi-aan.\r",
+                    "time": 1246011
+                },
+                {
+                    "line": "sach bin saakhee moolo na baakee. ||23||\r",
+                    "time": 1251089
+                },
+                {
+                    "line": "maanoo ghalai uthee chalai.\r",
+                    "time": 1260056
+                },
+                {
+                    "line": "saad naahee ivayhee galai. ||24||\r",
+                    "time": 1266057
+                },
+                {
+                    "line": "raam jhurai dal maylvai antar bal aDhikaar.\r",
+                    "time": 1281030
+                },
+                {
+                    "line": "bantar kee sainaa sayvee-ai man tan jujh apaar.\r",
+                    "time": 1293006
+                },
+                {
+                    "line": "seetaa lai ga-i-aa dehsiro lachhman moo-o saraap.\r",
+                    "time": 1304019
+                },
+                {
+                    "line": "naanak kartaa karanhaar kar vaykhai thaap uthaap. ||25||\r",
+                    "time": 1315091
+                },
+                {
+                    "line": "man meh jhoorai raamchand seetaa lachhman jog.\r",
+                    "time": 1327050
+                },
+                {
+                    "line": "hanvantar aaraaDhi-aa aa-i-aa kar sanjog.\r",
+                    "time": 1341043
+                },
+                {
+                    "line": "bhoolaa dait na samjha-ee tin parabh kee-ay kaam.\r",
+                    "time": 1361076
+                },
+                {
+                    "line": "naanak vayparvaahu so kirat na mit-ee raam. ||26||\r",
+                    "time": 1373005
+                },
+                {
+                    "line": "laahour sahar jahar kahar savaa pahar. ||27||\r",
+                    "time": 1384009
+                },
+                {
+                    "line": "mehlaa 3.laahour sahar amrit sar siftee daa ghar. ||28||\r",
+                    "time": 1396066
+                },
+                {
+                    "line": "mehlaa 1.udosaahai ki-aa neesaanee tot na aavai annee.\r",
+                    "time": 1413053
+                },
+                {
+                    "line": "udosee-a gharay hee vuthee kurhi-eeN rannee Dhammee.\r",
+                    "time": 1436056
+                },
+                {
+                    "line": "satee rannee gharay si-aapaa rovan koorhee kammee.\r",
+                    "time": 1448002
+                },
+                {
+                    "line": "jo layvai so dayvai naahee khatay damm sahamee. ||29||\r",
+                    "time": 1459071
+                },
+                {
+                    "line": "pabar tooN haree-aavlaa kavlaa kanchan vann.\r",
+                    "time": 1471014
+                },
+                {
+                    "line": "kai dokh-rhai sarhi-ohi kaalee ho-ee-aa dayhuree naanak mai tan bhang.\r",
+                    "time": 1485018
+                },
+                {
+                    "line": "jaanaa paanee naa lahaaN jai saytee mayraa sang.\r",
+                    "time": 1507098
+                },
+                {
+                    "line": "jit dithai tan parfurhai charhai chavgan vann. ||30||\r",
+                    "time": 1519051
+                },
+                {
+                    "line": "raj na ko-ee jeevi-aa pahuch na chali-aa ko-ay.\r",
+                    "time": 1531068
+                },
+                {
+                    "line": "gi-aanee jeevai sadaa sadaa surtee hee pat ho-ay.\r",
+                    "time": 1545044
+                },
+                {
+                    "line": "sarfai sarfai sadaa sadaa ayvai ga-ee vihaa-ay.\r",
+                    "time": 1565027
+                },
+                {
+                    "line": "naanak kis no aakhee-ai vin puchhi-aa hee lai jaa-ay. ||31||\r",
+                    "time": 1577011
+                },
+                {
+                    "line": "dos na day-ahu raa-ay no mat chalai jaaN budhaa hovai.\r",
+                    "time": 1588041
+                },
+                {
+                    "line": "galaaN karay ghanayree-aa taaN annHay pavnaa khaatee tovai. ||32||\r",
+                    "time": 1602054
+                },
+                {
+                    "line": "pooray kaa kee-aa sabh kichh pooraa ghat vaDh kichh naahee.\r",
+                    "time": 1622073
+                },
+                {
+                    "line": "naanak gurmukh aisaa jaanai pooray maaNhi samaaNhee. ||33||\r",
+                    "time": 1634012
+                }
+            ],
+            "english_lyrics": [
+                {
+                    "line": "Shaloks In Addition To The Vaars.\r",
+                    "time": 1020
+                },
+                {
+                    "line": "First Mehl:\r",
+                    "time": 13090
+                },
+                {
+                    "line": "O you with swollen breasts, let your consciousness become deep and profound.\r",
+                    "time": 45026
+                },
+                {
+                    "line": "O mother-in-law, how can I bow? Because of my stiff nipples, I cannot bow.\r",
+                    "time": 60033
+                },
+                {
+                    "line": "O sister, those mansions built as high as mountains\r",
+                    "time": 75003
+                },
+                {
+                    "line": "I have seen them come crumbling down. O bride, do not be so proud of your nipples. ||1||\r",
+                    "time": 89048
+                },
+                {
+                    "line": "O bride with deer-like eyes, listen to the words of deep and infinite wisdom.\r",
+                    "time": 118098
+                },
+                {
+                    "line": "First, examine the merchandise, and then, make the deal.\r",
+                    "time": 133087
+                },
+                {
+                    "line": "Proclaim that you will not associate with evil people; celebrate victory with your friends.\r",
+                    "time": 148058
+                },
+                {
+                    "line": "This proclamation, to meet with your friends, O bride - give it some thought.\r",
+                    "time": 163013
+                },
+                {
+                    "line": "Surrender mind and body to the Lord your Friend; this is the most excellent pleasure.\r",
+                    "time": 178006
+                },
+                {
+                    "line": "Do not fall in love with one who is destined to leave.\r",
+                    "time": 192022
+                },
+                {
+                    "line": "O Nanak, I am a sacrifice to those who understand this. ||2||\r",
+                    "time": 207004
+                },
+                {
+                    "line": "If you wish to swim across the water, then consult those who know how to swim.\r",
+                    "time": 221057
+                },
+                {
+                    "line": "Those who have survived these treacherous waves are very wise. ||3||\r",
+                    "time": 236027
+                },
+                {
+                    "line": "The storm rages and the rain floods the land; thousands of waves rise and surge.\r",
+                    "time": 265043
+                },
+                {
+                    "line": "If you cry out for help from the True Guru, you have nothing to fear - your boat will not sink. ||4||\r",
+                    "time": 279070
+                },
+                {
+                    "line": "O Nanak, what has happened to the world?\r",
+                    "time": 294055
+                },
+                {
+                    "line": "There is no guide or friend.\r",
+                    "time": 301047
+                },
+                {
+                    "line": "There is no love, even among brothers and relatives.\r",
+                    "time": 308083
+                },
+                {
+                    "line": "For the sake of the world, people have lost their faith. ||5||\r",
+                    "time": 315099
+                },
+                {
+                    "line": "They cry and weep and wail.\r",
+                    "time": 323048
+                },
+                {
+                    "line": "They slap their faces and pull their hair out.\r",
+                    "time": 330086
+                },
+                {
+                    "line": "But if they chant the Naam, the Name of the Lord, they shall be absorbed into it.\r",
+                    "time": 337098
+                },
+                {
+                    "line": "O Nanak, I am a sacrifice to them. ||6||\r",
+                    "time": 344068
+                },
+                {
+                    "line": "O my mind, do not waver or walk on the crooked path; take the straight and true path.\r",
+                    "time": 366044
+                },
+                {
+                    "line": "The terrible tiger is behind you, and the pool of fire is ahead.\r",
+                    "time": 381001
+                },
+                {
+                    "line": "My soul is skeptical and doubtful, but I cannot see any other way to go.\r",
+                    "time": 395020
+                },
+                {
+                    "line": "O Nanak, as Gurmukh, dwell with your Beloved Lord, and you shall be saved. ||7||\r",
+                    "time": 410004
+                },
+                {
+                    "line": "The tiger is killed, and the mind is killed, through the Teachings of the True Guru.\r",
+                    "time": 424055
+                },
+                {
+                    "line": "One who understands himself, meets with the Lord, and never dies again.\r",
+                    "time": 438058
+                },
+                {
+                    "line": "One who sees the One and Only Lord with his eyes - his hands shall not get muddy and dirty.\r",
+                    "time": 453005
+                },
+                {
+                    "line": "O Nanak, the Gurmukhs are saved; the Guru has surrounded the ocean with the embankment of Truth. ||8||\r",
+                    "time": 467094
+                },
+                {
+                    "line": "If you wish to put out the fire, then look for water; without the Guru, the ocean of water is not found.\r",
+                    "time": 496096
+                },
+                {
+                    "line": "You shall continue to wander lost in reincarnation through birth and death, even if you do thousands of other deeds.\r",
+                    "time": 511077
+                },
+                {
+                    "line": "But you shall not be taxed by the Messenger of Death, if you walk in harmony with the Will of the True Guru.\r",
+                    "time": 540084
+                },
+                {
+                    "line": "O Nanak, the immaculate, immortal status is obtained, and the Guru will unite you in the Lord's Union. ||9||\r",
+                    "time": 555001
+                },
+                {
+                    "line": "The crow rubs and washes itself in the mud puddle.\r",
+                    "time": 569054
+                },
+                {
+                    "line": "Its mind and body are polluted with its own mistakes and demerits, and its beak is filled with dirt.\r",
+                    "time": 583048
+                },
+                {
+                    "line": "The swan in the pool associated with the crow, not knowing that it was evil.\r",
+                    "time": 612040
+                },
+                {
+                    "line": "Such is the love of the faithless cynic; understand this, O spiritually wise ones, through love and devotion.\r",
+                    "time": 626055
+                },
+                {
+                    "line": "So proclaim the victory of the Society of the Saints, and act as Gurmukh.\r",
+                    "time": 640084
+                },
+                {
+                    "line": "Immaculate and pure is that cleansing bath, O Nanak, at the sacred shrine of the Guru's river. ||10||\r",
+                    "time": 655027
+                },
+                {
+                    "line": "What should I account as the rewards of this human life, if one does not feel love and devotion to the Lord?\r",
+                    "time": 684061
+                },
+                {
+                    "line": "Wearing clothes and eating food is useless, if the mind is filled with the love of duality.\r",
+                    "time": 698037
+                },
+                {
+                    "line": "Seeing and hearing is false, if one speaks lies.\r",
+                    "time": 712079
+                },
+                {
+                    "line": "O Nanak, praise the Naam, the Name of the Lord; everything else is coming and going in egotism. ||11||\r",
+                    "time": 726091
+                },
+                {
+                    "line": "The Saints are few and far between; everything else in the world is just a pompous show. ||12||\r",
+                    "time": 741061
+                },
+                {
+                    "line": "O Nanak, one who is struck by the Lord dies instantaneously; the power to live is lost.\r",
+                    "time": 770004
+                },
+                {
+                    "line": "If someone dies by such a stroke, then he is accepted.\r",
+                    "time": 784088
+                },
+                {
+                    "line": "He alone is struck, who is struck by the Lord; after such a stroke, he is approved.\r",
+                    "time": 799001
+                },
+                {
+                    "line": "The arrow of love, shot by the All-knowing Lord, cannot be pulled out. ||13||\r",
+                    "time": 813024
+                },
+                {
+                    "line": "Who can wash the unbaked clay pot?\r",
+                    "time": 841073
+                },
+                {
+                    "line": "Joining the five elements together, the Lord made a false cover.\r",
+                    "time": 856036
+                },
+                {
+                    "line": "When it pleases Him, He makes it right.\r",
+                    "time": 884044
+                },
+                {
+                    "line": "The supreme light shines forth, and the celestial song vibrates and resounds. ||14||\r",
+                    "time": 898099
+                },
+                {
+                    "line": "Those who are totally blind in their minds, do not have the integrity to keep their word.\r",
+                    "time": 956014
+                },
+                {
+                    "line": "With their blind minds, and their upside-down heart-lotus, they look totally ugly.\r",
+                    "time": 970084
+                },
+                {
+                    "line": "Some know how to speak and understand what they are told. Those people are wise and good-looking.\r",
+                    "time": 985076
+                },
+                {
+                    "line": "Some do not know the Sound-current of the Naad, spiritual wisdom or the joy of song. They do not even understand good and bad.\r",
+                    "time": 1006088
+                },
+                {
+                    "line": "Some have no idea of perfection, wisdom or understanding; they know nothing about the mystery of the Word.\r",
+                    "time": 1018065
+                },
+                {
+                    "line": "O Nanak, those people are really donkeys; they have no virtue or merit, but still, they are very proud. ||15||\r",
+                    "time": 1030069
+                },
+                {
+                    "line": "He alone is a Brahmin, who knows God.\r",
+                    "time": 1042032
+                },
+                {
+                    "line": "He chants and meditates, and practices austerity and good deeds.\r",
+                    "time": 1048029
+                },
+                {
+                    "line": "He keeps to the Dharma, with faith, humility and contentment.\r",
+                    "time": 1057005
+                },
+                {
+                    "line": "Breaking his bonds, he is liberated.\r",
+                    "time": 1063073
+                },
+                {
+                    "line": "Such a Brahmin is worthy of being worshipped. ||16||\r",
+                    "time": 1069018
+                },
+                {
+                    "line": "He alone is a Kh'shaatriyaa, who is a hero in good deeds.\r",
+                    "time": 1083078
+                },
+                {
+                    "line": "He uses his body to give in charity;\r",
+                    "time": 1089063
+                },
+                {
+                    "line": "he understands his farm, and plants the seeds of generosity.\r",
+                    "time": 1095050
+                },
+                {
+                    "line": "Such a Kh'shaatriyaa is accepted in the Court of the Lord.\r",
+                    "time": 1101035
+                },
+                {
+                    "line": "Whoever practices greed, possessiveness and falsehood,\r",
+                    "time": 1107015
+                },
+                {
+                    "line": "shall receive the fruits of his own labors. ||17||\r",
+                    "time": 1113016
+                },
+                {
+                    "line": "Do not heat your body like a furnace, or burn your bones like firewood.\r",
+                    "time": 1118099
+                },
+                {
+                    "line": "What have your head and feet done wrong? See your Husband Lord within yourself. ||18||\r",
+                    "time": 1133071
+                },
+                {
+                    "line": "God the Cosmic Husband dwells within all hearts; without Him, there is no heart at all.\r",
+                    "time": 1153094
+                },
+                {
+                    "line": "O Nanak, the Gurmukhs are the happy, virtuous soul-brides; the Lord is revealed to them. ||19||\r",
+                    "time": 1165050
+                },
+                {
+                    "line": "If you desire to play this game of love with Me,\r",
+                    "time": 1176091
+                },
+                {
+                    "line": "then step onto My Path with your head in hand.\r",
+                    "time": 1182062
+                },
+                {
+                    "line": "When you place your feet on this Path,\r",
+                    "time": 1191055
+                },
+                {
+                    "line": "give Me your head, and do not pay any attention to public opinion. ||20||\r",
+                    "time": 1196095
+                },
+                {
+                    "line": "False is friendship with the false and greedy. False is its foundation.\r",
+                    "time": 1211093
+                },
+                {
+                    "line": "O Moollah, no one knows where death shall strike. ||21||\r",
+                    "time": 1223018
+                },
+                {
+                    "line": "Without spiritual wisdom, the people worship ignorance.\r",
+                    "time": 1234083
+                },
+                {
+                    "line": "They grope in the darkness, in the love of duality. ||22||\r",
+                    "time": 1242075
+                },
+                {
+                    "line": "Without the Guru, there is no spiritual wisdom; without Dharma, there is no meditation.\r",
+                    "time": 1246011
+                },
+                {
+                    "line": "Without Truth, there is no credit; without capital, there is no balance. ||23||\r",
+                    "time": 1251089
+                },
+                {
+                    "line": "The mortals are sent into the world; then, they arise and depart.\r",
+                    "time": 1260056
+                },
+                {
+                    "line": "There is no joy in this. ||24||\r",
+                    "time": 1266057
+                },
+                {
+                    "line": "Raam Chand, sad at heart, assembled his army and forces.\r",
+                    "time": 1281030
+                },
+                {
+                    "line": "The army of monkeys was at his service; his mind and body became eager for war.\r",
+                    "time": 1293006
+                },
+                {
+                    "line": "Raawan captured his wife Sita, and Lachhman was cursed to die.\r",
+                    "time": 1304019
+                },
+                {
+                    "line": "O Nanak, the Creator Lord is the Doer of all; He watches over all, and destroys what He has created. ||25||\r",
+                    "time": 1315091
+                },
+                {
+                    "line": "In his mind, Raam Chand mourned for Sita and Lachhman.\r",
+                    "time": 1327050
+                },
+                {
+                    "line": "Then, he remembered Hanuman the monkey-god, who came to him.\r",
+                    "time": 1341043
+                },
+                {
+                    "line": "The misguided demon did not understand that God is the Doer of deeds.\r",
+                    "time": 1361076
+                },
+                {
+                    "line": "O Nanak, the actions of the Self-existent Lord cannot be erased. ||26||\r",
+                    "time": 1373005
+                },
+                {
+                    "line": "The city of Lahore suffered terrible destruction for four hours. ||27||\r",
+                    "time": 1384009
+                },
+                {
+                    "line": "Third Mehl:The city of Lahore is a pool of ambrosial nectar, the home of praise. ||28||\r",
+                    "time": 1396066
+                },
+                {
+                    "line": "First Mehl:What are the signs of a prosperous person? His stores of food never run out.\r",
+                    "time": 1413053
+                },
+                {
+                    "line": "Prosperity dwells in his home, with the sounds of girls and women.\r",
+                    "time": 1436056
+                },
+                {
+                    "line": "All the women of his home shout and cry over useless things.\r",
+                    "time": 1448002
+                },
+                {
+                    "line": "Whatever he takes, he does not give back. Seeking to earn more and more, he is troubled and uneasy. ||29||\r",
+                    "time": 1459071
+                },
+                {
+                    "line": "O lotus, your leaves were green, and your blossoms were gold.\r",
+                    "time": 1471014
+                },
+                {
+                    "line": "What pain has burnt you, and made your body black? O Nanak, my body is battered.\r",
+                    "time": 1485018
+                },
+                {
+                    "line": "I have not received that water which I love.\r",
+                    "time": 1507098
+                },
+                {
+                    "line": "Seeing it, my body blossomed forth, and I was blessed with a deep and beautiful color. ||30||\r",
+                    "time": 1519051
+                },
+                {
+                    "line": "No one lives long enough to accomplish all he wishes.\r",
+                    "time": 1531068
+                },
+                {
+                    "line": "Only the spiritually wise live forever; they are honored for their intuitive awareness.\r",
+                    "time": 1545044
+                },
+                {
+                    "line": "Bit by bit, life passes away, even though the mortal tries to hold it back.\r",
+                    "time": 1565027
+                },
+                {
+                    "line": "O Nanak, unto whom should we complain? Death takes one's life away without anyone's consent. ||31||\r",
+                    "time": 1577011
+                },
+                {
+                    "line": "Do not blame the Sovereign Lord; when someone grows old, his intellect leaves him.\r",
+                    "time": 1588041
+                },
+                {
+                    "line": "The blind man talks and babbles, and then falls into the ditch. ||32||\r",
+                    "time": 1602054
+                },
+                {
+                    "line": "All that the Perfect Lord does is perfect; there is not too little, or too much.\r",
+                    "time": 1622073
+                },
+                {
+                    "line": "O Nanak, knowing this as Gurmukh, the mortal merges into the Perfect Lord God. ||33||\r",
+                    "time": 1634012
+                }
+            ],
+            "spanish_lyrics": [
+                {
+                    "line": "Shloks en adición de los Vaars.\r",
+                    "time": 1020
+                },
+                {
+                    "line": "Mejl Guru Nanak, Primer Canal Divino.\r",
+                    "time": 13090
+                },
+                {
+                    "line": "Oh tú, de los pechos agrandados, deja que tu Conciencia se haga honda y profunda,.\r",
+                    "time": 45026
+                },
+                {
+                    "line": "oh, dice la suegra, con estos pezones tan tiesos, no me puedo postrar.\r",
+                    "time": 60033
+                },
+                {
+                    "line": "Oh hermana, he visto desmoronarse esas mansiones construidas tan altas como montañas,.\r",
+                    "time": 75003
+                },
+                {
+                    "line": "oh novia, no estés tan orgullosa de tus pezones. (1)\r",
+                    "time": 89048
+                },
+                {
+                    "line": "Oh novia de los ojos de venado, escucha las palabras de Profunda e Infinita Sabiduría,.\r",
+                    "time": 118098
+                },
+                {
+                    "line": "primero examina la mercancía y después has el trato,.\r",
+                    "time": 133087
+                },
+                {
+                    "line": "proclama que no te vas a relacionar con gente malvada y celebra la Victoria con tus amigos.\r",
+                    "time": 148058
+                },
+                {
+                    "line": "Esta proclamación de reunirte con tus amigos, oh novia, medítala, entrega tu mente y cuerpo a tu Amigo,.\r",
+                    "time": 163013
+                },
+                {
+                    "line": "el Señor, este es el más Excelente Placer.\r",
+                    "time": 178006
+                },
+                {
+                    "line": "No te enamores del que está destinado a partir,.\r",
+                    "time": 192022
+                },
+                {
+                    "line": "oh dice Nanak, ofrezco mi ser en sacrificio a quienes entienden esto. (2)\r",
+                    "time": 207004
+                },
+                {
+                    "line": "Si deseas nadar para atravesar el agua, consulta entonces con los que saben cómo nadar,.\r",
+                    "time": 221057
+                },
+                {
+                    "line": "pues quienes han sobrevivido estas aguas traicioneras son los Sabios. (3)\r",
+                    "time": 236027
+                },
+                {
+                    "line": "La tormenta arrecia y el agua inunda las tierras, miles de olas surgen y se levantan,.\r",
+                    "time": 265043
+                },
+                {
+                    "line": "si gritas pidiendo ayuda del Verdadero Guru, no tendrás nada que temer, tu barca no se hundirá. (4)\r",
+                    "time": 279070
+                },
+                {
+                    "line": "Oh dice Nanak, ¿qué le ha pasado al mundo?\r",
+                    "time": 294055
+                },
+                {
+                    "line": "No hay guía ni amigo,.\r",
+                    "time": 301047
+                },
+                {
+                    "line": "no hay amor ni aún entre hermanos y parientes,.\r",
+                    "time": 308083
+                },
+                {
+                    "line": "por pertenecer al mundo, la gente está perdiendo la Fe. (5)\r",
+                    "time": 315099
+                },
+                {
+                    "line": "Lloran, sufren y se acongojan,.\r",
+                    "time": 323048
+                },
+                {
+                    "line": "se cachetean y se arrancan el cabello.\r",
+                    "time": 330086
+                },
+                {
+                    "line": "Si cantaran el Naam, el Nombre del Señor, serían absorbidos en Él.\r",
+                    "time": 337098
+                },
+                {
+                    "line": "Oh, dice Nanak, ofrezco mi vida a ellos. (6)\r",
+                    "time": 344068
+                },
+                {
+                    "line": "Oh mente mía, no te tambalees ni camines por Sendero torcido,\r",
+                    "time": 366044
+                },
+                {
+                    "line": "toma el Camino derecho de la Verdad, pues el terrible tigre está detrás de ti y el tanque del fuego está delante de ti.\r",
+                    "time": 381001
+                },
+                {
+                    "line": "Mi Alma es escéptica, vacilo y entro en duda, pero no veo otra forma de caminar.\r",
+                    "time": 395020
+                },
+                {
+                    "line": "Oh, dice Nanak, como Gurmukj, habita en tu Bienamado Señor y serás salvado. (7)\r",
+                    "time": 410004
+                },
+                {
+                    "line": "El tigre muere y la mente también, pero a través de las Enseñanzas del Verdadero Guru,.\r",
+                    "time": 424055
+                },
+                {
+                    "line": "quien se conoce a sí mismo, encuentra al Señor y no muere nunca más.\r",
+                    "time": 438058
+                },
+                {
+                    "line": "Quien ve al Uno y Único Señor con sus ojos, sus manos no estarán lodosas ni sucias,.\r",
+                    "time": 453005
+                },
+                {
+                    "line": "oh, dice Nanak, los Gurmukjs son salvados, el Guru ha rodeado el Océano a través del Dique de la Verdad. (8)\r",
+                    "time": 467094
+                },
+                {
+                    "line": "Para apagar el fuego tienes que buscar el agua, sin el Guru, el Océano de agua no se encuentra.\r",
+                    "time": 496096
+                },
+                {
+                    "line": "y continuarás perdido vida tras vida, en las reencarnaciones, aunque trates de mil otras formas.\r",
+                    "time": 511077
+                },
+                {
+                    "line": "Pero si caminas en Armonía con la Voluntad del Señor, no serás asechado por el mensajero de la muerte,.\r",
+                    "time": 540084
+                },
+                {
+                    "line": "oh dice Nanak, el Inmortal e Inmaculado Estado es obtenido y el Guru te unirá en la Unidad con el Señor. (9)\r",
+                    "time": 555001
+                },
+                {
+                    "line": "El cuervo se revuelca y se baña en el lago lodoso,.\r",
+                    "time": 569054
+                },
+                {
+                    "line": "su mente y cuerpo están contaminados con sus propios deméritos y errores y su pico está lleno de porquería.\r",
+                    "time": 583048
+                },
+                {
+                    "line": "Al cisne en el lago se le acerca el cuervo, sin saber que está sucio, tal es el amor del cínico sin Fe.\r",
+                    "time": 612040
+                },
+                {
+                    "line": "Entiendan esto, oh sabios espirituales, a través del Amor y Devoción,.\r",
+                    "time": 626055
+                },
+                {
+                    "line": "proclamen la Victoria de la Saad Sangat, la Sociedad de los Santos y actúen como Gurmukjs.\r",
+                    "time": 640084
+                },
+                {
+                    "line": "Inmaculado y puro es ese baño, oh, dice Nanak, en el Santo Santuario del Río del Guru. (10)\r",
+                    "time": 655027
+                },
+                {
+                    "line": "¿Qué tipo de recompensa recibe uno en esta vida humana si uno no siente Amor y Devoción por el Señor?\r",
+                    "time": 684061
+                },
+                {
+                    "line": "Usar ropa fina y comer lo mejor es inútil si la mente está saturada con el amor a la dualidad,.\r",
+                    "time": 698037
+                },
+                {
+                    "line": "ver y escuchar es falso si uno dice mentiras.\r",
+                    "time": 712079
+                },
+                {
+                    "line": "Oh, dice Nanak, alaba el Naam, el Nombre del Señor, todo lo demás es ir y venir y existir en una actitud egoísta. (11)\r",
+                    "time": 726091
+                },
+                {
+                    "line": "Las estrellas son pocas, en medio, el mundo todo es sólo teatro y pompa. (12)\r",
+                    "time": 741061
+                },
+                {
+                    "line": "Oh, dice Nanak, si uno recibe el Golpe del Señor, entonces uno muere para el mundo de forma instantánea, el poder para continuar esa vida se pierde.\r",
+                    "time": 770004
+                },
+                {
+                    "line": "Si alguien muere de tal Golpe, entonces es aceptado.\r",
+                    "time": 784088
+                },
+                {
+                    "line": "Sólo recibe el Golpe quien es golpeado por el Señor, después de tal Golpe, es aprobado.\r",
+                    "time": 799001
+                },
+                {
+                    "line": "La Flecha de Amor disparada por el Omnisapiente Señor, no se puede extraer. (13)\r",
+                    "time": 813024
+                },
+                {
+                    "line": "¿Quién puede lavar el jarrón de barro que no ha sido cocinado?\r",
+                    "time": 841073
+                },
+                {
+                    "line": "Juntando los cinco elementos, el Señor les puso una cubierta falsa y cuando así Le place,.\r",
+                    "time": 856036
+                },
+                {
+                    "line": "lo hace correctamente. La Luz Suprema brilla,.\r",
+                    "time": 884044
+                },
+                {
+                    "line": "y la Melodía Celestial vibra y resuena. (14)\r",
+                    "time": 898099
+                },
+                {
+                    "line": "Quienes están totalmente ciegos de mente, no tienen la integridad para conservar su palabra y,.\r",
+                    "time": 956014
+                },
+                {
+                    "line": "con su mente ciega y el Loto de su corazón volteado al revés, se ven horribles.\r",
+                    "time": 970084
+                },
+                {
+                    "line": "Algunos pueden hablar y entender lo que se ha dicho, ellos son Sabios y bien parecidos,.\r",
+                    "time": 985076
+                },
+                {
+                    "line": "algunos no conocen la Corriente de Sonido del Naad, de la Sabiduría Espiritual o de la Canción de Dicha, ni siquiera distinguen entre lo bueno y lo malo.\r",
+                    "time": 1006088
+                },
+                {
+                    "line": "Algunos no tienen la idea de la Perfección, Sabiduría o Entendimiento, no conocen ni una pizca del Misterio de la Palabra.\r",
+                    "time": 1018065
+                },
+                {
+                    "line": "Oh Nanak, esa gente es una burra, no tiene Virtud o Mérito, pero aún así se siente muy orgullosa. (15)\r",
+                    "time": 1030069
+                },
+                {
+                    "line": "Sólo quien conoce a Dios es un Brahmán verdadero,.\r",
+                    "time": 1042032
+                },
+                {
+                    "line": "él canta y medita, practica austeridades y buenas acciones,.\r",
+                    "time": 1048029
+                },
+                {
+                    "line": "se conserva en el Dharma, con Fe, Humildad.\r",
+                    "time": 1057005
+                },
+                {
+                    "line": "y Contentamiento y rompiendo sus amarras es liberado.\r",
+                    "time": 1063073
+                },
+                {
+                    "line": "Tal Brahmán es digno de ser alabado. (16)\r",
+                    "time": 1069018
+                },
+                {
+                    "line": "Sólo es un Kshatrya, quien es un héroe en las buenas acciones,.\r",
+                    "time": 1083078
+                },
+                {
+                    "line": "utiliza su cuerpo para dar caridad,.\r",
+                    "time": 1089063
+                },
+                {
+                    "line": "él entiende su finca y planta las semillas de generosidad,\r",
+                    "time": 1095050
+                },
+                {
+                    "line": "tal Kshatrya es aceptado en la Corte del Señor.\r",
+                    "time": 1101035
+                },
+                {
+                    "line": "Quien tenga avaricia en su corazón, sea posesivo y viva en la falsedad,.\r",
+                    "time": 1107015
+                },
+                {
+                    "line": "recibirá los frutos de su propia labor. (17)\r",
+                    "time": 1113016
+                },
+                {
+                    "line": "No calientes tu cuerpo como horno, o quemes tus huesos como madera.\r",
+                    "time": 1118099
+                },
+                {
+                    "line": "¿Qué han hecho de malo tus pies y tu cabeza? Ve al Señor, tu Esposo, en tu interior.\r",
+                    "time": 1133071
+                },
+                {
+                    "line": "Dios, el Esposo Cósmico, habita en todos los corazones, sin Él, no hay corazón para nada,.\r",
+                    "time": 1153094
+                },
+                {
+                    "line": "oh dice Nanak, los Gurmukjs son las novias virtuosas y felices, a ellos el Señor se les revela. (19)\r",
+                    "time": 1165050
+                },
+                {
+                    "line": "Si deseas jugar el Juego del Amor Conmigo,\r",
+                    "time": 1176091
+                },
+                {
+                    "line": "entonces camina en Mi Sendero, con tu cabeza en la mano,\r",
+                    "time": 1182062
+                },
+                {
+                    "line": "cuando posas tus pies en este Camino,\r",
+                    "time": 1191055
+                },
+                {
+                    "line": "me das tu cabeza, y no le prestes atención alguna a la opinión pública. (20)\r",
+                    "time": 1196095
+                },
+                {
+                    "line": "Falsa es la falsa amistad con los falsos y avaros, falsa es la base de esa relación,.\r",
+                    "time": 1211093
+                },
+                {
+                    "line": "oh Mulá, nadie sabe cuándo la muerte llegará. (21)\r",
+                    "time": 1223018
+                },
+                {
+                    "line": "Sin Sabiduría Espiritual, la gente alaba la ignorancia,.\r",
+                    "time": 1234083
+                },
+                {
+                    "line": "ellos actúan en la oscuridad, en el amor a la dualidad. (22)\r",
+                    "time": 1242075
+                },
+                {
+                    "line": "Sin el Guru no hay Sabiduría Espiritual, sin Dharma no hay Meditación,.\r",
+                    "time": 1246011
+                },
+                {
+                    "line": "sin Verdad, no hay crédito, sin Capital no hay balance. (23)\r",
+                    "time": 1251089
+                },
+                {
+                    "line": "Los mortales son enviados al mundo,.\r",
+                    "time": 1260056
+                },
+                {
+                    "line": "entonces se levantan y parten, no hay dicha en esto. (24)\r",
+                    "time": 1266057
+                },
+                {
+                    "line": "Ram Chand, con tristeza en su corazón, reunió a su ejército con sus refuerzos,\r",
+                    "time": 1281030
+                },
+                {
+                    "line": "el ejército de changos estaba a su servicio, su mente y cuerpo estaban listos para la guerra;\r",
+                    "time": 1293006
+                },
+                {
+                    "line": "Rawan capturó a su esposa Sita, y Lachman recibió una maldición fatal.\r",
+                    "time": 1304019
+                },
+                {
+                    "line": "Oh Nanak, el Creador es el Hacedor de todo, Él lo observa todo y destruye lo que ha creado. (25)\r",
+                    "time": 1315091
+                },
+                {
+                    "line": "En su interior Ram Chand vivió el duelo de Sita, y Lachman.\r",
+                    "time": 1327050
+                },
+                {
+                    "line": "después recordó a Januman, el dios chango, que llegó hasta él,.\r",
+                    "time": 1341043
+                },
+                {
+                    "line": "el malvado desviado no entendió que Dios es el Hacedor de todo.\r",
+                    "time": 1361076
+                },
+                {
+                    "line": "Oh, dice Nanak, las acciones del Dios Auto Existente no pueden ser borradas. (26)\r",
+                    "time": 1373005
+                },
+                {
+                    "line": "La ciudad de Lajore sufrió una terrible destrucción durante cuatro horas. (27)\r",
+                    "time": 1384009
+                },
+                {
+                    "line": "Mejl Guru Amar Das, Tercer Canal Divino.La Ciudad de Lajore es un lago de Néctar Ambrosial, el Hogar de Alabanza. (28)\r",
+                    "time": 1396066
+                },
+                {
+                    "line": "Mejl Guru Amar Das, Tercer Canal Divino.¿Cuáles son los signos de una persona exitosa? Su almacén de alimento nunca se agota,.\r",
+                    "time": 1413053
+                },
+                {
+                    "line": "la prosperidad habita en su hogar, ahí se ven niñas y mujeres,.\r",
+                    "time": 1436056
+                },
+                {
+                    "line": "las mujeres hablan y discuten trivialidades.\r",
+                    "time": 1448002
+                },
+                {
+                    "line": "Lo que él toma no lo regresa, buscando ganar más y más, vive nervioso y con problemas. (29)\r",
+                    "time": 1459071
+                },
+                {
+                    "line": "Oh Loto, tus hojas eran verdes y tus botones eran dorados.\r",
+                    "time": 1471014
+                },
+                {
+                    "line": "¿Qué tipo de dolor te ha consumido y te ha ennegrecido?\r",
+                    "time": 1485018
+                },
+                {
+                    "line": "Oh dice Nanak, mi cuerpo está maltratado, no he recibido el agua que amo,.\r",
+                    "time": 1507098
+                },
+                {
+                    "line": "cuando la recibí, mi cuerpo floreció y fui bendecido con un color brillante y profundo. (30)\r",
+                    "time": 1519051
+                },
+                {
+                    "line": "Nadie vive lo suficiente para realizar todos sus deseos,.\r",
+                    "time": 1531068
+                },
+                {
+                    "line": "sólo los Sabios Espirituales viven para siempre, ellos son honrados por su Conciencia Intuitiva.\r",
+                    "time": 1545044
+                },
+                {
+                    "line": "Poco a poco la vida transcurre, aún así el mortal se aferra a ella,.\r",
+                    "time": 1565027
+                },
+                {
+                    "line": "oh dice Nanak, ¿con quién nos podemos quejar? La muerte se lo lleva a uno sin su consentimiento. (31)\r",
+                    "time": 1577011
+                },
+                {
+                    "line": "No culpes al Señor Soberano, cuando alguien envejece, su intelecto lo deja,.\r",
+                    "time": 1588041
+                },
+                {
+                    "line": "el ciego habla y balbucea y después cae a la zanja. (32)\r",
+                    "time": 1602054
+                },
+                {
+                    "line": "Todo lo que el Perfecto Señor hace es Perfecto, no es ni poco ni mucho.\r",
+                    "time": 1622073
+                },
+                {
+                    "line": "Oh, dice Nanak, entendiendo esto como Gurmukj, el mortal funde su ser en Dios, su Perfecto Señor. (33)",
+                    "time": 1634012
+                }
+            ],
+            "hindi_lyrics": null
+        }
+    ],
+    "info": "testings"
+}

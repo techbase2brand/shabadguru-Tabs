@@ -1,0 +1,966 @@
+{
+    "status": 200,
+    "message": "",
+    "data": [
+        {
+            "albumart": "",
+            "author": "",
+            "song": "ਸੁਨਿ ਮਨ ਅਕਥ ਕਥਾ ਹਰਿ ਨਾਮ ॥",
+            "json": "https://shabad-guru.org/uploads/data/13 - Raag Bairari Final (525)/ਸੁਨਿ ਮਨ ਅਕਥ ਕਥਾ ਹਰਿ ਨਾਮ ॥.json",
+            "audio": "https://shabadguru.s3.us-west-1.amazonaws.com/gurbani/lrc n- Project/13 - Raag Bairari Final (525)/mp3/song/0525 A Pb.mp3",
+            "punjabi": 1,
+            "english": 1,
+            "english_trans": 1,
+            "spanish": 1,
+            "hindi": 1,
+            "file_name_on_s3": "0525 A  Pb",
+            "english_trans_lyrics": [
+                {
+                    "line": "raag bairaarhee mehlaa 4 ghar 1 dupday\r",
+                    "time": 10065
+                },
+                {
+                    "line": "ik-oNkaar satgur parsaad.\r",
+                    "time": 16051
+                },
+                {
+                    "line": "sun man akath kathaa har naam.\r",
+                    "time": 44045
+                },
+                {
+                    "line": "riDh buDh siDh sukh paavahi bhaj gurmat har raam raam. ||1|| rahaa-o.\r",
+                    "time": 55003
+                },
+                {
+                    "line": "naanaa khi-aan puraan jas ootam khat darsan gaavahi raam.\r",
+                    "time": 78069
+                },
+                {
+                    "line": "sankar krorh taytees Dhi-aa-i-o nahee jaani-o har marmaam. ||1||\r",
+                    "time": 95005
+                },
+                {
+                    "line": "sur nar gan ganDharab jas gaavahi sabh gaavat jayt upaam.\r",
+                    "time": 110020
+                },
+                {
+                    "line": "naanak kirpaa karee har jin ka-o tay sant bhalay har raam. ||2||1||\r",
+                    "time": 126005
+                }
+            ],
+            "english_lyrics": [
+                {
+                    "line": "Raag Bairaaree, Fourth Mehl, First House, Du-Padas:\t\r",
+                    "time": 10065
+                },
+                {
+                    "line": "One Universal Creator God. By The Grace Of The True Guru:\t\r",
+                    "time": 16051
+                },
+                {
+                    "line": "Listen, O mind, to the Unspoken Speech of the Lord's Name.\t\r",
+                    "time": 44045
+                },
+                {
+                    "line": "Riches, wisdom, supernatural spiritual powers and peace are obtained, by vibrating, meditating on the Lord God, under Guru's Instruction. ||1||Pause||\t\r",
+                    "time": 55003
+                },
+                {
+                    "line": "Numerous legends, the Puraanas, and the six Shaastras, sing the sublime Praises of the Lord.\t\r",
+                    "time": 78069
+                },
+                {
+                    "line": "Shiva and the three hundred thirty million gods meditate on the Lord, but they do not know the secret of His mystery. ||1||\t\r",
+                    "time": 95005
+                },
+                {
+                    "line": "The angelic and divine beings, and the celestial singers sing His Praises; all Creation sings of Him.\t\r",
+                    "time": 110020
+                },
+                {
+                    "line": "O Nanak, those whom the Lord blesses with His Kind Mercy, become the good Saints of the Lord God. ||2||1||\t\r",
+                    "time": 126005
+                }
+            ],
+            "spanish_lyrics": [
+                {
+                    "line": "Rag Bairari, Mejl Guru Ram Das, Cuarto Canal Divino, Du-Padas.\r",
+                    "time": 10065
+                },
+                {
+                    "line": "Un Dios Creador del Universo, por la Gracia del Verdadero Guru.\r",
+                    "time": 16051
+                },
+                {
+                    "line": "Oh mente, escucha la Indescriptible Palabra del Nombre del Señor.\r",
+                    "time": 44045
+                },
+                {
+                    "line": "Contemplando al Señor uno obtiene Su Sabiduría, todos Sus Tesoros, todos los poderes psíquicos y toda Paz. (1-Pausa)\r",
+                    "time": 55003
+                },
+                {
+                    "line": "Millones de cuentos mitológicos, los Puranas y los seis Shastras cantan la Alabanza Sublime del Señor.\r",
+                    "time": 78069
+                },
+                {
+                    "line": "Millones de Shivas viven en Él, pero no conocen el Misterio de Dios. (1)\r",
+                    "time": 95005
+                },
+                {
+                    "line": "Los hombres de Dios cantan su Alabanza, también los cantantes celestiales, los que atienden a los dioses y todas las criaturas.\r",
+                    "time": 110020
+                },
+                {
+                    "line": "Pero dice Nanak, sólo quien tiene la Gracia del Señor, sólo él es el Santo Sublime del Señor.(2-1)\r",
+                    "time": 126005
+                }
+            ],
+            "hindi_lyrics": [
+                {
+                    "line": "à¤°à¤¾à¤à¥ à¤¬à¥à¤°à¤¾à¥à¥ à¤®à¤¹à¤²à¤¾ à¥ª à¤à¤°à¥ à¥§ à¤¦à¥à¤ªà¤¦à¥||\r",
+                    "time": 10065
+                },
+                {
+                    "line": "à©´ à¤¸à¤¤à¤¿à¤à¥à¤° à¤ªà¥à¤°à¤¸à¤¾à¤¦à¤¿ à¥¥\r",
+                    "time": 16051
+                },
+                {
+                    "line": "à¤¹à¥ (à¤®à¥à¤°à¥) à¤®à¤¨ ! à¤à¤¸ à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¥ à¤¨à¤¾à¤® à¤à¥ à¤¸à¤¿à¤«à¤¤ à¤¸à¤¾à¤²à¤¾à¤¹ à¤¸à¥à¤¨à¤¾ à¤à¤° à¤à¤¿à¤¸à¤à¤¾ à¤¸à¤¹à¥ à¤¸à¥à¤µà¤°à¥à¤ª à¤¬à¤¯à¤¾à¤¨ à¤¨à¤¹à¥à¤ à¤à¤¿à¤¯à¤¾ à¤à¤¾ à¤¸à¤à¤¤à¤¾à¥¤\r",
+                    "time": 44045
+                },
+                {
+                    "line": "à¤¹à¥ à¤®à¤¨ ! à¤à¥à¤°à¥ à¤à¥ à¤®à¤¤à¤¿ à¤ªà¤° à¤à¤² à¤à¥ à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¤¾ à¤­à¤à¤¨ à¤à¤¿à¤¯à¤¾ à¤à¤°à¥¤à¤¤à¥ à¤§à¤¨-à¤ªà¤¦à¤¾à¤°à¥à¤¥à¥¤à¤à¤à¤à¥ à¤à¤à¥à¤²à¥¤à¤à¤°à¤¾à¤®à¤¾à¤¤à¥ à¤¤à¤¾à¤à¤¤à¥à¤à¥¤à¤¸à¤¾à¤°à¥ à¤¸à¥à¤ (à¤¹à¤°à¥-à¤¨à¤¾à¤® à¤®à¥à¤ à¤¹à¥) à¤ªà¥à¤°à¤¾à¤ªà¥à¤¤ à¤à¤° à¤²à¥à¤à¤¾à¥¤ 1à¥¤à¤°à¤¹à¤¾à¤à¥¤\r",
+                    "time": 55003
+                },
+                {
+                    "line": "à¤¹à¥ à¤®à¤¨ ! (à¤à¤¸ à¤à¤à¤¥ à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¤¾ à¤¸à¤¿à¤®à¤°à¤¨ à¤à¤¿à¤¯à¤¾ à¤à¤° à¤à¤¿à¤¸à¤à¤¾) à¤à¤à¥à¤¤à¤® à¤¯à¤¶ (à¤®à¤¹à¤¾à¤­à¤¾à¤°à¤¤ à¤à¤¦à¤¿) à¤à¤¨à¥à¤à¥à¤ à¤ªà¥à¤°à¤¸à¤à¤à¥¤à¤ªà¥à¤°à¤¾à¤£ à¤à¤° à¤à¥ à¤¶à¤¾à¤¸à¥à¤¤à¥à¤° à¤à¤¾à¤¤à¥ à¤¹à¥à¤ (à¤ªà¤° à¤à¤¸à¤à¤¾ à¤à¤à¤¤ à¤¨à¤¹à¥à¤ à¤ªà¤¾ à¤¸à¤à¥)à¥¤\r",
+                    "time": 78069
+                },
+                {
+                    "line": "à¤¶à¤¿à¤µ à¤à¥ à¤à¤° à¤¤à¥à¤à¤¤à¤¿à¤¸ à¤à¤°à¥à¤¡à¤¼ à¤¦à¥à¤µà¤¤à¤¾à¤à¤ à¤¨à¥ à¤­à¥ à¤à¤¸à¤à¤¾ à¤§à¥à¤¯à¤¾à¤¨ à¤§à¤°à¤¾à¥¤à¤ªà¤° à¤à¤¸ à¤¹à¤°à¥ à¤à¤¾ à¤­à¥à¤¦ à¤¨à¤¹à¥à¤ à¤ªà¤¾à¤¯à¤¾à¥¤ 1à¥¤\r",
+                    "time": 95005
+                },
+                {
+                    "line": "à¤¹à¥ à¤®à¤¨ ! (à¤à¤¸ à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¥ à¤à¤¥à¤¾ à¤¸à¥à¤¨à¤¾ à¤à¤° à¤à¤¿à¤¸à¤à¤¾) à¤¯à¤¶ à¤¦à¥à¤µà¤¤à¤¾à¤à¤£à¥¤à¤®à¤¨à¥à¤·à¥à¤¯ à¤µ à¤à¤à¤§à¤°à¥à¤µ à¤à¤¾à¤¤à¥ à¤ à¤°à¤¹à¥ à¤¹à¥à¤à¥¤à¤à¤¿à¤¤à¤¨à¥ à¤­à¥ à¤ªà¥à¤¦à¤¾ à¤à¥ à¤¹à¥à¤ à¤¸à¥à¤·à¥à¤à¤¿ à¤¹à¥à¥¤à¤¸à¤¾à¤°à¥ à¤à¤¿à¤¸à¤à¥ à¤à¥à¤£ à¤à¤¾à¤¤à¥ à¤¹à¥à¥¤\r",
+                    "time": 110020
+                },
+                {
+                    "line": "à¤¹à¥ à¤¨à¤¾à¤¨à¤ ! (à¤à¤¹âà¤¹à¥ à¤®à¤¨ !) à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¤¿à¤¨ à¤®à¤¨à¥à¤·à¥à¤¯à¥à¤ à¤ªà¤° à¤à¥à¤ªà¤¾ à¤à¤°à¤¤à¤¾ à¤¹à¥à¥¤à¤µà¤¹ à¤®à¤¨à¥à¤·à¥à¤¯ à¤à¤à¥à¤ à¤à¥à¤µà¤¨ à¤µà¤¾à¤²à¥ à¤¸à¤à¤¤ à¤¬à¤¨ à¤à¤¾à¤¤à¥ à¤¹à¥à¤ (à¤µà¥à¤¸à¥ à¤à¤¸à¤à¤¾ à¤à¥à¤ à¤­à¥à¤¦ à¤¨à¤¹à¥à¤ à¤ªà¤¾à¤¯à¤¾ à¤à¤¾ à¤¸à¤à¤¤à¤¾)à¥¤ 2à¥¤ 1à¥¤",
+                    "time": 126005
+                }
+            ]
+        },
+        {
+            "albumart": "",
+            "author": "",
+            "song": "ਮਨ ਮਿਲਿ ਸੰਤ ਜਨਾ ਜਸੁ ਗਾਇਓ ॥",
+            "json": "https://shabad-guru.org/uploads/data/13 - Raag Bairari Final (525)/ਮਨ ਮਿਲਿ ਸੰਤ ਜਨਾ ਜਸੁ ਗਾਇਓ ॥.json",
+            "audio": "https://shabadguru.s3.us-west-1.amazonaws.com/gurbani/lrc n- Project/13 - Raag Bairari Final (525)/mp3/song/0525 B Pb.mp3",
+            "punjabi": 1,
+            "english": 1,
+            "english_trans": 1,
+            "spanish": 1,
+            "hindi": 1,
+            "file_name_on_s3": "0525 B  Pb",
+            "english_trans_lyrics": [
+                {
+                    "line": "bairaarhee mehlaa 4.\r",
+                    "time": 99
+                },
+                {
+                    "line": "man mil sant janaa jas gaa-i-o.\r",
+                    "time": 12074
+                },
+                {
+                    "line": "har har ratan ratan har neeko gur satgur daan divaa-i-o. ||1|| rahaa-o.\r",
+                    "time": 20047
+                },
+                {
+                    "line": "tis jan ka-o man tan sabh dayva-o jin har har naam sunaa-i-o.\r",
+                    "time": 52009
+                },
+                {
+                    "line": "Dhan maa-i-aa sampai tis dayva-o jin har meet milaa-i-o. ||1||\r",
+                    "time": 67089
+                },
+                {
+                    "line": "khin kichint kirpaa karee jagdeesar tab har har har jas Dhi-aa-i-o.\r",
+                    "time": 83030
+                },
+                {
+                    "line": "jan naanak ka-o har bhaytay su-aamee dukh ha-umai rog gavaa-i-o. ||2||2||\r",
+                    "time": 98097
+                }
+            ],
+            "english_lyrics": [
+                {
+                    "line": "Bairaaree, Fourth Mehl:\r",
+                    "time": 99
+                },
+                {
+                    "line": "O mind, those who meet the Lord's humble servants, sing His Praises.\r",
+                    "time": 12074
+                },
+                {
+                    "line": "They are blessed with the gift of the jewel of the Lord, Har, Har, the sublime jewel of the Lord, by the Guru, the True Guru. ||1||Pause||\r",
+                    "time": 20047
+                },
+                {
+                    "line": "I offer my mind, body and everything to that humble being who recites the Name of the Lord, Har, Har.\r",
+                    "time": 52009
+                },
+                {
+                    "line": "I offer my wealth, the riches of Maya and my property to that one who leads me to meet the Lord, my friend. ||1||\r",
+                    "time": 67089
+                },
+                {
+                    "line": "When the Lord of the world bestowed just a tiny bit of His Mercy, for just an instant, then I meditated on the Praise of the Lord, Har, Har, Har.\r",
+                    "time": 83030
+                },
+                {
+                    "line": "The Lord and Master has met servant Nanak, and the pain of the sickness of egotism has been eliminated. ||2||2||\r",
+                    "time": 98097
+                }
+            ],
+            "spanish_lyrics": [
+                {
+                    "line": "Bairari, Mejl Guru Ram Das, Cuarto Canal Divino.\r",
+                    "time": 99
+                },
+                {
+                    "line": "Oh mente mía, quienes encuentran a los Humildes Sirvientes del Señor, cantan Sus Alabanzas\r",
+                    "time": 12074
+                },
+                {
+                    "line": "y son bendecidos con el Regalo de la Joya del Señor, Jar, Jar, la Preciosa Joya que se obtiene a través del Guru, el Verdadero Guru. (1-Pausa)\r",
+                    "time": 20047
+                },
+                {
+                    "line": "Ofrezco cuerpo y mente y todo lo que tengo, a ese Humilde Ser que me recite el Nombre del Señor, Jar, Jar.\r",
+                    "time": 52009
+                },
+                {
+                    "line": "Ofrezco mi riqueza y posesiones a Quién me guíe a encontrar al Señor, mi Amigo.(1)\r",
+                    "time": 67089
+                },
+                {
+                    "line": "Cuando el Señor del Universo me bendice siquiera con una pizca de Su Misericordia, por sólo un instante, entonces medito en la Alabanza del Señor, Jar, Jar, Jar.\r",
+                    "time": 83030
+                },
+                {
+                    "line": "El Señor Maestro ha encontrado al Sirviente Nanak y la pena de la enfermedad del egoísmo ha sido eliminada. (2-2)\r",
+                    "time": 98097
+                }
+            ],
+            "hindi_lyrics": [
+                {
+                    "line": "à¤¬à¥à¤°à¤¾à¥à¥ à¤®à¤¹à¤²à¤¾ à¥ª||\r",
+                    "time": 99
+                },
+                {
+                    "line": "à¤¹à¥ à¤®à¤¨ ! à¤à¤¸à¤¨à¥ à¤¸à¤à¤¤ à¤à¤¨à¥à¤ à¤à¥ à¤¸à¤¾à¤¥ à¤®à¤¿à¤² à¤à¥ à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¥ à¤¸à¤¿à¤«à¤¤ à¤¸à¤¾à¤²à¤¾à¤¹ à¤à¤°à¤¨à¥ à¤¶à¥à¤°à¥ à¤à¤° à¤¦à¥à¥¤\r",
+                    "time": 12074
+                },
+                {
+                    "line": "à¤à¥à¤°à¥ à¤¨à¥ à¤¸à¤¤à¤¿à¤à¥à¤°à¥ à¤¨à¥ (à¤à¤¿à¤¸ à¤®à¤¨à¥à¤·à¥à¤¯ à¤à¥ à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤¸à¥) à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¤¾ à¤¨à¤¾à¤®-à¤°à¤¤à¥à¤¨ à¤à¥à¤®à¤¤à¥ à¤¨à¤¾à¤® à¤¬à¤à¥à¤¶à¤¿à¤¶ à¤à¥ à¤¤à¥à¤° à¤ªà¤° à¤¦à¤¿à¤²à¤µà¤¾ à¤¦à¤¿à¤¯à¤¾à¥¤à¤¹à¥ à¤®à¤¨ !\r",
+                    "time": 20047
+                },
+                {
+                    "line": "à¤¹à¥ à¤®à¤¨ ! à¤®à¥à¤ à¤à¤¸ à¤®à¤¨à¥à¤·à¥à¤¯ à¤à¥ à¤à¤ªà¤¨à¤¾ à¤®à¤¨ à¤¤à¤¨ à¤¸à¤¬ à¤à¥à¤ à¤­à¥à¤à¤¾ à¤à¤°à¤¤à¤¾ à¤¹à¥à¤à¥¤à¤à¤¿à¤¸à¤¨à¥ (à¤®à¥à¤à¥) à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¤¾ à¤¨à¤¾à¤® à¤¸à¥à¤¨à¤¾à¤¯à¤¾ à¤¹à¥à¥¤\r",
+                    "time": 52009
+                },
+                {
+                    "line": "à¤§à¤¨-à¤ªà¤¦à¤¾à¤°à¥à¤¥-à¤®à¤¾à¤¯à¤¾ à¤à¤¸à¤à¥ à¤¹à¤µà¤¾à¤²à¥ à¤à¤°à¤¤à¤¾ à¤¹à¥à¤à¥¤à¤à¤¿à¤¸à¤¨à¥ (à¤®à¥à¤à¥) à¤®à¤¿à¤¤à¥à¤° à¤ªà¥à¤°à¤­à¥ à¤®à¤¿à¤²à¤¾à¤¯à¤¾ à¤¹à¥à¥¤ 1à¥¤\r",
+                    "time": 67089
+                },
+                {
+                    "line": "à¤¹à¥ à¤®à¤¨ ! à¤à¤à¤¤ à¤à¥ à¤®à¤¾à¤²à¤¿à¤ à¤ªà¥à¤°à¤­à¥ à¤¨à¥ à¤à¤¬ (à¤à¤¿à¤¸à¥ à¤¸à¥à¤µà¤ à¤ªà¤°) à¤à¤ à¤ªà¤² à¤­à¤° à¤à¥ à¤²à¤¿à¤ à¤¥à¥à¤¡à¤¼à¥ à¤à¤¿à¤¤à¤¨à¥ à¤­à¥ à¤®à¥à¤¹à¤° à¤à¤° à¤¦à¥à¥¤à¤à¤¸à¤¨à¥ à¤¤à¤¬ à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¥ à¤¸à¤¿à¤«à¤¤ à¤¸à¤¾à¤²à¤¾à¤¹ à¤à¤°à¤¨à¥ à¤¶à¥à¤°à¥ à¤à¤° à¤¦à¥à¥¤\r",
+                    "time": 83030
+                },
+                {
+                    "line": "à¤¹à¥ à¤¨à¤¾à¤¨à¤ ! à¤à¤¿à¤¸ à¤®à¤¨à¥à¤·à¥à¤¯ à¤à¥ à¤®à¤¾à¤²à¤¿à¤ à¤ªà¥à¤°à¤­à¥ à¤à¥ à¤®à¤¿à¤² à¤à¤à¥¤à¤à¤¸à¤à¤¾ à¤¹à¤°à¥à¤ à¤¦à¥à¤ (à¤à¤°) à¤à¤¹à¤®à¥ à¤à¤¹à¤à¤à¤¾à¤° à¤à¤¾ à¤°à¥à¤ à¤¦à¥à¤° à¤¹à¥ à¤à¤¯à¤¾à¥¤ 2à¥¤ 2à¥¤",
+                    "time": 98097
+                }
+            ]
+        },
+        {
+            "albumart": "",
+            "author": "",
+            "song": "ਹਰਿ ਜਨੁ ਰਾਮ ਨਾਮ ਗੁਨ ਗਾਵੈ ॥",
+            "json": "https://shabad-guru.org/uploads/data/13 - Raag Bairari Final (525)/ਹਰਿ ਜਨੁ ਰਾਮ ਨਾਮ ਗੁਨ ਗਾਵੈ ॥.json",
+            "audio": "https://shabadguru.s3.us-west-1.amazonaws.com/gurbani/lrc n- Project/13 - Raag Bairari Final (525)/mp3/song/0525 C Pb.mp3",
+            "punjabi": 1,
+            "english": 1,
+            "english_trans": 1,
+            "spanish": 1,
+            "hindi": 1,
+            "file_name_on_s3": "0525 C  Pb",
+            "english_trans_lyrics": [
+                {
+                    "line": "bairaarhee mehlaa 4.\r",
+                    "time": 65
+                },
+                {
+                    "line": "har jan raam naam gun gaavai.\r",
+                    "time": 12087
+                },
+                {
+                    "line": "jay ko-ee nind karay har jan kee apunaa gun na gavaavai. ||1|| rahaa-o.\r",
+                    "time": 20077
+                },
+                {
+                    "line": "jo kichh karay so aapay su-aamee har aapay kaar kamaavai.\r",
+                    "time": 53012
+                },
+                {
+                    "line": "har aapay hee mat dayvai su-aamee har aapay bol bulaavai. ||1||\r",
+                    "time": 63073
+                },
+                {
+                    "line": "har aapay panch tat bisthaaraa vich Dhaatoo panch aap paavai.\r",
+                    "time": 70053
+                },
+                {
+                    "line": "jan naanak satgur maylay aapay har aapay jhagar chukhaavai. ||2||3||\r",
+                    "time": 85069
+                }
+            ],
+            "english_lyrics": [
+                {
+                    "line": "Bairaaree, Fourth Mehl:\r",
+                    "time": 65
+                },
+                {
+                    "line": "The Lord's humble servant sings the Glorious Praises of the Lord's Name.\r",
+                    "time": 12087
+                },
+                {
+                    "line": "Even if someone slanders the Lord's humble servant, he does not give up his own goodness. ||1||Pause||\r",
+                    "time": 20077
+                },
+                {
+                    "line": "Whatever the Lord and Master does, He does by Himself; the Lord Himself does the deeds.\r",
+                    "time": 53012
+                },
+                {
+                    "line": "The Lord and Master Himself imparts understanding; the Lord Himself inspires us to speak. ||1||\r",
+                    "time": 63073
+                },
+                {
+                    "line": "The Lord Himself directs the evolution of the world of the five elements; He Himself infuses the five senses into it.\r",
+                    "time": 70053
+                },
+                {
+                    "line": "O servant Nanak, the Lord Himself unites us with the True Guru; He Himself resolves the conflicts. ||2||3||\r",
+                    "time": 85069
+                }
+            ],
+            "spanish_lyrics": [
+                {
+                    "line": "Bairari, Mejl Guru Ram Das, Cuarto Canal Divino.\r",
+                    "time": 65
+                },
+                {
+                    "line": "El Humilde Sirviente del Señor canta siempre Su Gloriosa Alabanza.\r",
+                    "time": 12087
+                },
+                {
+                    "line": "Si alguien lo calumnia, Él no deja su propia Bondad. (1-Pausa)\r",
+                    "time": 20077
+                },
+                {
+                    "line": "Lo que sea que el Maestro hace, lo hace de Sí Mismo, Él es el Hacedor y la Causa.\r",
+                    "time": 53012
+                },
+                {
+                    "line": "El Señor Mismo nos hace sabios en Él, y nos inspira a hablar.(1)\r",
+                    "time": 63073
+                },
+                {
+                    "line": "Él Mismo dirige la evolución del mundo hecho de los cinco elementos y con Su Esencia, infunde los cinco sentidos.\r",
+                    "time": 70053
+                },
+                {
+                    "line": "Oh, dice el Sirviente Nanak, el Señor Mismo nos une con el Guru Verdadero y Él Mismo resuelve los conflictos de la mente.(2-3)",
+                    "time": 85069
+                }
+            ],
+            "hindi_lyrics": [
+                {
+                    "line": "à¤¬à¥à¤°à¤¾à¥à¥ à¤®à¤¹à¤²à¤¾ à¥ª||\r",
+                    "time": 65
+                },
+                {
+                    "line": "à¤¹à¥ à¤­à¤¾à¤ ! à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¤¾ à¤­à¤à¥à¤¤ à¤¸à¤¦à¤¾ à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¥ à¤à¥à¤£ à¤à¤¾à¤¤à¤¾ à¤°à¤¹à¤¤à¤¾ à¤¹à¥à¥¤\r",
+                    "time": 12087
+                },
+                {
+                    "line": "à¤à¤à¤° à¤à¥à¤ à¤®à¤¨à¥à¤·à¥à¤¯ à¤à¤¸ à¤­à¤à¤¤ à¤à¥ à¤¨à¤¿à¤à¤¦à¤¾ (à¤­à¥) à¤à¤°à¤¤à¤¾ à¤¹à¥ à¤¤à¥ à¤µà¤¹ à¤­à¤à¤¤ à¤à¤ªà¤¨à¤¾ à¤¸à¥à¤µà¤­à¤¾à¤µ à¤¨à¤¹à¥à¤ à¤¤à¥à¤¯à¤¾à¤à¤¤à¤¾à¥¤ 1à¥¤à¤°à¤¹à¤¾à¤à¥¤\r",
+                    "time": 20077
+                },
+                {
+                    "line": "à¤¹à¥ à¤­à¤¾à¤ ! (à¤­à¤à¥à¤¤ à¤à¤ªà¤¨à¥ à¤¨à¤¿à¤à¤¦à¤¾ à¤¸à¥à¤¨ à¤à¥ à¤­à¥ à¤à¤ªà¤¨à¤¾ à¤¸à¥à¤µà¤­à¤¾à¤µ à¤¨à¤¹à¥à¤ à¤¤à¥à¤¯à¤¾à¤à¤¤à¤¾à¥¤à¤à¥à¤¯à¥à¤à¤à¤¿ à¤µà¤¹ à¤à¤¾à¤¨à¤¤à¤¾ à¤¹à¥ à¤à¤¿) à¤à¥ à¤à¥à¤ à¤à¤° à¤°à¤¹à¤¾ à¤¹à¥ à¤®à¤¾à¤²à¤¿à¤-à¤ªà¥à¤°à¤­à¥ à¤à¥à¤¦ à¤¹à¥ (à¤à¥à¤µà¥à¤ à¤®à¥à¤ à¤¬à¥à¤  à¤à¥) à¤à¤° à¤°à¤¹à¤¾ à¤¹à¥à¥¤à¤µà¤¹ à¤à¥à¤¦ à¤¹à¥ à¤¹à¤°à¥à¤ à¤à¤¾à¤° à¤à¤° à¤°à¤¹à¤¾ à¤¹à¥à¥¤\r",
+                    "time": 53012
+                },
+                {
+                    "line": "à¤®à¤¾à¤²à¤¿à¤-à¤ªà¥à¤°à¤­à¥ à¤à¥à¤¦ à¤¹à¥ (à¤¹à¤°à¥à¤ à¤à¥à¤µ à¤à¥) à¤®à¤¤à¤¿ à¤¦à¥à¤¤à¤¾ à¤¹à¥à¥¤à¤à¥à¤¦ à¤¹à¥ (à¤¹à¤°à¥à¤ à¤®à¥à¤ à¤¬à¥à¤ à¤¾) à¤¬à¥à¤² à¤°à¤¹à¤¾ à¤¹à¥à¥¤à¤à¥à¤¦ à¤¹à¥ (à¤¹à¤°à¥à¤ à¤à¥à¤µ à¤à¥) à¤¬à¥à¤²à¤¨à¥ à¤à¥ à¤ªà¥à¤°à¥à¤°à¤£à¤¾ à¤à¤° à¤°à¤¹à¤¾ à¤¹à¥à¥¤ 1à¥¤\r",
+                    "time": 63073
+                },
+                {
+                    "line": "à¤¹à¥ à¤­à¤¾à¤ ! (à¤­à¤à¥à¤¤ à¤à¤¾à¤¨à¤¤à¤¾ à¤¹à¥ à¤à¤¿) à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤¨à¥ à¤à¥à¤¦ à¤¹à¥ (à¤à¤ªà¤¨à¥ à¤à¤ª à¤¸à¥) à¤ªà¤¾à¤à¤ à¤¤à¤¤à¥à¤µà¥à¤ à¤à¤¾ à¤à¤à¤¤ à¤ªà¤¸à¤¾à¤°à¤¾ à¤ªà¤¸à¤¾à¤°à¤¾ à¤¹à¥à¤ à¤¹à¥à¥¤à¤à¥à¤¦ à¤¹à¥ à¤à¤¨ à¤¤à¤¤à¥à¤µà¥à¤ à¤®à¥à¤ à¤ªà¤¾à¤à¤à¥à¤ à¤µà¤¿à¤·à¥ à¤­à¤°à¥ à¤¹à¥à¤ à¤¹à¥à¤à¥¤\r",
+                    "time": 70053
+                },
+                {
+                    "line": "à¤¹à¥ à¤¨à¤¾à¤¨à¤ ! (à¤à¤¹â à¤¹à¥ à¤­à¤¾à¤ !) à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¤ª à¤¹à¥ à¤à¤ªà¤¨à¥ à¤¸à¥à¤µà¤ à¤à¥ à¤®à¤¿à¤²à¤¾à¤¤à¤¾ à¤¹à¥à¥¤à¤à¤°à¥¤à¤à¤ª à¤¹à¥ (à¤à¤¸à¤à¥ à¤à¤à¤¦à¤° à¤¸à¥ à¤¹à¤°à¥à¤ à¤à¤¿à¤¸à¥à¤® à¤à¥) à¤à¥à¤à¤à¤¤à¤¾à¤¨ à¤à¤¤à¥à¤® à¤à¤°à¤¤à¤¾ à¤¹à¥à¥¤ 2à¥¤ 3à¥¤",
+                    "time": 85069
+                }
+            ]
+        },
+        {
+            "albumart": "",
+            "author": "",
+            "song": "ਜਪਿ ਮਨ ਰਾਮ ਨਾਮੁ ਨਿਸਤਾਰਾ ॥",
+            "json": "https://shabad-guru.org/uploads/data/13 - Raag Bairari Final (525)/ਜਪਿ ਮਨ ਰਾਮ ਨਾਮੁ ਨਿਸਤਾਰਾ ॥.json",
+            "audio": "https://shabadguru.s3.us-west-1.amazonaws.com/gurbani/lrc n- Project/13 - Raag Bairari Final (525)/mp3/song/0525 D Pb.mp3",
+            "punjabi": 1,
+            "english": 1,
+            "english_trans": 1,
+            "spanish": 1,
+            "hindi": 1,
+            "file_name_on_s3": "0525 D  Pb",
+            "english_trans_lyrics": [
+                {
+                    "line": "bairaarhee mehlaa 4.\r",
+                    "time": 75
+                },
+                {
+                    "line": "jap man raam naam nistaaraa.\r",
+                    "time": 13002
+                },
+                {
+                    "line": "kot kotantar kay paap sabh khovai har bhavjal paar utaaraa. ||1|| rahaa-o.\r",
+                    "time": 20091
+                },
+                {
+                    "line": "kaa-i-aa nagar basat har su-aamee har nirbha-o nirvair nirankaaraa.\r",
+                    "time": 52086
+                },
+                {
+                    "line": "har nikat basat kachh nadar na aavai har laaDhaa gur veechaaraa. ||1||\r",
+                    "time": 68057
+                },
+                {
+                    "line": "har aapay saahu saraaf ratan heeraa har aap kee-aa paasaaraa.\r",
+                    "time": 84042
+                },
+                {
+                    "line": "naanak jis kirpaa karay so har naam vihaajhay so saahu sachaa vanjaaraa. ||2||4||\r",
+                    "time": 100025
+                }
+            ],
+            "english_lyrics": [
+                {
+                    "line": "Bairaaree, Fourth Mehl:\r",
+                    "time": 75
+                },
+                {
+                    "line": "Chant the Name of the Lord, O mind, and you shall be emancipated.\r",
+                    "time": 13002
+                },
+                {
+                    "line": "The Lord shall destroy all the sins of millions upon millions of incarnations, and carry you across the terrifying world-ocean. ||1||Pause||\r",
+                    "time": 20091
+                },
+                {
+                    "line": "In the body-village, the Lord Master abides; the Lord is without fear, without vengeance, and without form.\r",
+                    "time": 52086
+                },
+                {
+                    "line": "The Lord is dwelling near at hand, but He cannot be seen. By the Guru's Teachings, the Lord is obtained. ||1||\r",
+                    "time": 68057
+                },
+                {
+                    "line": "The Lord Himself is the banker, the jeweller, the jewel, the gem; the Lord Himself created the entire expanse of the creation.\r",
+                    "time": 84042
+                },
+                {
+                    "line": "O Nanak, one who is blessed by the Lord's Kind Mercy, trades in the Lord's Name; He alone is the true banker, the true trader. ||2||4||\r",
+                    "time": 100025
+                }
+            ],
+            "spanish_lyrics": [
+                {
+                    "line": "Bairari, Mejl Guru Ram Das, Cuarto Canal Divino.\r",
+                    "time": 75
+                },
+                {
+                    "line": "Oh mente, contempla el Nombre del Señor para que seas emancipado\r",
+                    "time": 13002
+                },
+                {
+                    "line": "y así te liberes de los errores que haz cometido durante millones de encarnaciones y nades a través del mar de la existencia. (1-Pausa)\r",
+                    "time": 20091
+                },
+                {
+                    "line": "Nuestro Señor, el Absoluto, sin miedo, sin odio, vive en la ciudad de nuestro cuerpo.\r",
+                    "time": 52086
+                },
+                {
+                    "line": "Vive tan cerca, pero no Lo vemos y es revelado sólo a través de la Sabiduría del Guru.(1)\r",
+                    "time": 68057
+                },
+                {
+                    "line": "El Señor Mismo es el Gran Mercader, el Joyero y la Joya; la creación\r",
+                    "time": 84042
+                },
+                {
+                    "line": "en toda su extensión es Suya y quien tenga Su Gracia, dice Nanak, es el Verdadero Comerciante del Nombre. (2-4)",
+                    "time": 100025
+                }
+            ],
+            "hindi_lyrics": [
+                {
+                    "line": "à¤¬à¥à¤°à¤¾à¥à¥ à¤®à¤¹à¤²à¤¾ à¥ª||\r",
+                    "time": 75
+                },
+                {
+                    "line": "à¤¹à¥ (à¤®à¥à¤°à¥) à¤®à¤¨ ! à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¤¾ à¤¨à¤¾à¤® à¤à¤ªà¤¾ à¤à¤°à¥¤ (à¤¯à¥ à¤¨à¤¾à¤® à¤¸à¤à¤¸à¤¾à¤°-à¤¸à¤®à¥à¤à¤¦à¥à¤° à¤¸à¥) à¤ªà¤¾à¤° à¤à¤¤à¤¾à¤°à¤¾ à¤à¤° à¤¦à¥à¤¤à¤¾ à¤¹à¥à¥¤\r",
+                    "time": 13002
+                },
+                {
+                    "line": "à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ (à¤¸à¤¦à¤¾ à¤¹à¤®à¤¾à¤°à¥) à¤¨à¤à¤¦à¥à¤ à¤¬à¤¸à¤¤à¤¾ à¤¹à¥à¥¤ (à¤«à¤¿à¤° à¤­à¥) à¤à¤¸à¥ à¤à¥à¤ à¤¡à¤° à¤¨à¤¹à¥à¤ à¤¹à¥à¤¤à¤¾à¥¤ à¤à¤¸à¥ à¤à¤¿à¤¸à¥ à¤à¤¾ à¤µà¥à¤° à¤¨à¤¹à¥à¤à¥¤ à¤à¤¸à¤à¤¾ à¤à¥à¤ à¤à¤¾à¤¸ à¤à¤à¤¾à¤° à¤¨à¤¹à¥à¤à¥¤\r",
+                    "time": 20091
+                },
+                {
+                    "line": "à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ (à¤¸à¤¦à¤¾ à¤¹à¤®à¤¾à¤°à¥) à¤¨à¤à¤¦à¥à¤ à¤¬à¤¸à¤¤à¤¾ à¤¹à¥à¥¤ (à¤ªà¤° à¤¹à¤®à¥à¤) à¤¦à¤¿à¤à¤¤à¤¾ à¤¨à¤¹à¥à¤ (à¤¹à¤¾à¤à¥¤ ) à¤à¥à¤°à¥ à¤à¥ à¤¬à¤à¥à¤¶à¥ à¤¹à¥à¤ à¤¸à¥à¤ à¤¸à¥ à¤µà¤¹à¥ à¤¹à¤°à¥ à¤®à¤¿à¤² à¤à¤¾à¤¤à¤¾ à¤¹à¥à¥¤\r",
+                    "time": 52086
+                },
+                {
+                    "line": " (à¤à¥à¤°à¥ à¤à¥ à¤¬à¤à¥à¤¶à¥ à¤¹à¥à¤ à¤¦à¤¾à¤¤à¤¿ à¤¸à¥ à¤¯à¥ à¤¸à¤®à¤ à¤ à¤à¤¾à¤¤à¥ à¤¹à¥ à¤à¤¿) à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤¸à¥à¤µà¤¯à¤ à¤¹à¥ à¤¹à¥à¤°à¤¾ à¤¹à¥à¥¤ à¤à¥à¤¦ à¤¹à¥ à¤°à¤¤à¥à¤¨ à¤¹à¥à¥¤ à¤à¥à¤¦ à¤¹à¥ (à¤à¤¸à¤à¤¾ à¤µà¥à¤¯à¤¾à¤ªà¤¾à¤° à¤à¤°à¤¨à¥ à¤µà¤¾à¤²à¤¾) à¤¶à¤¾à¤¹à¥à¤à¤¾à¤° à¤¹à¥ à¤¸à¤°à¥à¤°à¤¾à¤« à¤¹à¥à¥¤ à¤à¤¸à¤¨à¥ à¤à¥à¤¦ à¤¹à¥ à¤à¤¸ à¤à¤à¤¤ à¤à¤¾ à¤ªà¤¸à¤¾à¤°à¤¾ à¤°à¤à¤¾ à¤¹à¥à¤ à¤¹à¥à¥¤\r",
+                    "time": 68057
+                },
+                {
+                    "line": "à¤¹à¥ à¤¨à¤¾à¤¨à¤ ! à¤à¤¿à¤¸ à¤®à¤¨à¥à¤·à¥à¤¯ à¤ªà¤° à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¥à¤ªà¤¾ à¤à¤°à¤¤à¤¾ à¤¹à¥à¥¤ à¤µà¤¹ à¤®à¤¨à¥à¤·à¥à¤¯ à¤à¤¸à¤à¥ à¤¨à¤¾à¤® à¤à¤¾ à¤¸à¥à¤¦à¤¾ à¤à¤°à¤¤à¤¾ à¤¹à¥à¥¤ à¤µà¤¹ à¤®à¤¨à¥à¤·à¥à¤¯ (à¤¨à¤¾à¤®-à¤°à¤¤à¥à¤¨ à¤à¤¾) à¤¶à¤¾à¤¹à¥à¤à¤¾à¤° à¤¬à¤¨ à¤à¤¾à¤¤à¤¾ à¤¹à¥à¥¤ à¤µà¤¹ à¤¸à¤¦à¤¾ à¤à¥ à¤²à¤¿à¤ (à¤à¤¸ à¤¨à¤¾à¤®-à¤°à¤¤à¥à¤¨ à¤à¤¾) à¤µà¥à¤¯à¤¾à¤ªà¤¾à¤° à¤à¤°à¤¤à¤¾ à¤°à¤¹à¤¤à¤¾ à¤¹à¥à¥¤ 2à¥¤ 4à¥¤",
+                    "time": 84042
+                }
+            ]
+        },
+        {
+            "albumart": "",
+            "author": "",
+            "song": "ਜਪਿ ਮਨ ਹਰਿ ਨਿਰੰਜਨੁ ਨਿਰੰਕਾਰਾ ॥",
+            "json": "https://shabad-guru.org/uploads/data/13 - Raag Bairari Final (525)/ਜਪਿ ਮਨ ਹਰਿ ਨਿਰੰਜਨੁ ਨਿਰੰਕਾਰਾ ॥.json",
+            "audio": "https://shabadguru.s3.us-west-1.amazonaws.com/gurbani/lrc n- Project/13 - Raag Bairari Final (525)/mp3/song/0525 E Pb.mp3",
+            "punjabi": 1,
+            "english": 1,
+            "english_trans": 1,
+            "spanish": 1,
+            "hindi": 1,
+            "file_name_on_s3": "0525 E  Pb",
+            "english_trans_lyrics": [
+                {
+                    "line": "bairaarhee mehlaa 4.\r",
+                    "time": 64
+                },
+                {
+                    "line": "jap man har niranjan nirankaaraa.\r",
+                    "time": 12007
+                },
+                {
+                    "line": "sadaa sadaa har Dhi-aa-ee-ai sukh-daata jaa kaa ant na paaraavaaraa. ||1|| rahaa-o.\r",
+                    "time": 20013
+                },
+                {
+                    "line": "agan kunt meh uraDh liv laagaa har raakhai udar manjhaaraa.\r",
+                    "time": 51092
+                },
+                {
+                    "line": "so aisaa har sayvhu mayray man har ant chhadaavanhaaraa. ||1||\r",
+                    "time": 67072
+                },
+                {
+                    "line": "jaa kai hirdai basi-aa mayraa har har tis jan ka-o karahu namaskaaraa.\r",
+                    "time": 83053
+                },
+                {
+                    "line": "har kirpaa tay paa-ee-ai har jap naanak naam aDhaaraa. ||2||5||\r",
+                    "time": 98080
+                }
+            ],
+            "english_lyrics": [
+                {
+                    "line": "Bairaaree, Fourth Mehl:\r",
+                    "time": 64
+                },
+                {
+                    "line": "Meditate, O mind, on the immaculate, formless Lord.\r",
+                    "time": 12007
+                },
+                {
+                    "line": "Forever and ever, meditate on the Lord, the Giver of peace; He has no end or limitation. ||1||Pause||\r",
+                    "time": 20013
+                },
+                {
+                    "line": "In the fiery pit of the womb, when you were hanging upside-down, the Lord absorbed You in His Love, and preserved You.\r",
+                    "time": 51092
+                },
+                {
+                    "line": "So serve such a Lord, O my mind; the Lord shall deliver you in the end. ||1||\r",
+                    "time": 67072
+                },
+                {
+                    "line": "Bow down in reverence to that humble being, within whose heart the Lord, Har, Har, abides.\r",
+                    "time": 83053
+                },
+                {
+                    "line": "By the Lord's Kind Mercy, O Nanak, one obtains the Lord's meditation, and the support of the Naam. ||2||5||\r",
+                    "time": 98080
+                }
+            ],
+            "spanish_lyrics": [
+                {
+                    "line": "Bairari, Mejl Guru Ram Das, Cuarto Canal Divino.\r",
+                    "time": 64
+                },
+                {
+                    "line": "Oh mente, vive en el Señor Sin Forma e Inmaculado;\r",
+                    "time": 12007
+                },
+                {
+                    "line": "sí, vive siempre en Él, el Dador de Paz, el Dios Infinito. (1-Pausa)\r",
+                    "time": 20013
+                },
+                {
+                    "line": "Quien te conservó íntegro en el fuego del vientre, cuando estando boca abajo, fuiste entonado en Él.\r",
+                    "time": 51092
+                },
+                {
+                    "line": "Contempla a tal Ser que te llevará al final. (1)\r",
+                    "time": 67072
+                },
+                {
+                    "line": "Presta obediencia a Aquél en quien tu Señor habita,\r",
+                    "time": 83053
+                },
+                {
+                    "line": "pues por la Gracia del Señor somos bendecidos con Su Nombre. Él es nuestro Eterno Soporte.(2-5)",
+                    "time": 98080
+                }
+            ],
+            "hindi_lyrics": [
+                {
+                    "line": "à¤¬à¥à¤°à¤¾à¥à¥ à¤®à¤¹à¤²à¤¾ à¥ª||\r",
+                    "time": 64
+                },
+                {
+                    "line": "à¤¹à¥ (à¤®à¥à¤°à¥) à¤®à¤¨ ! à¤à¤¸ à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¤¾ à¤¨à¤¾à¤® à¤à¤ªà¤¾ à¤à¤°à¥¤ à¤à¥ à¤®à¤¾à¤¯à¤¾ à¤à¥ à¤ªà¥à¤°à¤­à¤¾à¤µ à¤¸à¥ à¤ªà¤°à¥ à¤¹à¥à¥¤ à¤à¤¿à¤¸à¤à¤¾ à¤à¥à¤ à¤à¤¾à¤¸ à¤¸à¥à¤µà¤°à¥à¤ª à¤¨à¤¹à¥à¤ à¤¬à¤¤à¤¾à¤¯à¤¾ à¤à¤¾ à¤¸à¤à¤¤à¤¾à¥¤\r",
+                    "time": 12007
+                },
+                {
+                    "line": "à¤¹à¥ à¤®à¤¨ ! à¤à¤¿à¤¸ (à¤ªà¥à¤°à¤­à¥ à¤à¥ à¤à¥à¤£à¥à¤) à¤à¤¾ à¤à¤à¤¤ à¤¨à¤¹à¥à¤ à¤ªà¤¾à¤¯à¤¾ à¤à¤¾ à¤¸à¤à¤¤à¤¾à¥¤ à¤à¤¿à¤¸ (à¤à¥ à¤¸à¥à¤µà¤°à¥à¤ª à¤à¥) à¤¹à¤¦-à¤¬à¤à¤¦à¥ à¤¨à¤¹à¥à¤ à¤®à¤¿à¤²à¤¤à¥à¥¤ à¤à¤¸ à¤¸à¥à¤ à¤¦à¥à¤¨à¥ à¤µà¤¾à¤²à¥ à¤à¥ à¤¸à¤¦à¤¾ à¤¹à¥ à¤¸à¤¿à¤®à¤°à¤¨à¤¾ à¤à¤¾à¤¹à¤¿à¤à¥¤ 1à¥¤ à¤°à¤¹à¤¾à¤à¥¤\r",
+                    "time": 20013
+                },
+                {
+                    "line": "à¤¹à¥ à¤®à¤¨ ! à¤à¤¬ à¤à¥à¤µ (à¤®à¤¾à¤ à¤à¥ à¤ªà¥à¤ à¤à¥) à¤à¤ à¤à¥ à¤à¥à¤à¤¡ à¤®à¥à¤ à¤à¤²à¥à¤à¤¾ à¤²à¤à¤à¤¾ à¤¹à¥à¤ (à¤à¤¸à¤à¥ à¤à¤°à¤£à¥à¤ à¤®à¥à¤) à¤¸à¥à¤°à¤¤à¤¿ à¤à¥à¤¡à¤¼à¥ à¤°à¤à¤¤à¤¾ à¤¹à¥ (à¤¤à¤¬) à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ (à¤®à¤¾à¤ à¤à¥) à¤ªà¥à¤ à¤®à¥à¤ à¤à¤¸à¤à¥ à¤°à¤à¥à¤·à¤¾ à¤à¤°à¤¤à¤¾ à¤¹à¥à¥¤\r",
+                    "time": 51092
+                },
+                {
+                    "line": "à¤¹à¥ à¤®à¥à¤°à¥ à¤®à¤¨ ! à¤à¤¸à¥ à¤¸à¤®à¤°à¥à¤¥à¤¾ à¤µà¤¾à¤²à¥ à¤ªà¥à¤°à¤­à¥ à¤à¥ à¤¸à¤¦à¤¾ à¤¸à¥à¤µà¤¾-à¤­à¤à¥à¤¤à¤¿ à¤à¤¿à¤¯à¤¾ à¤à¤°à¥¤ à¤à¤à¤¿à¤°à¥ à¤µà¤à¥à¤¤ à¤­à¥ à¤µà¤¹à¥ à¤ªà¥à¤°à¤­à¥ à¤à¥à¤¡à¤¼à¤¾ à¤¸à¤à¤¨à¥ à¤µà¤¾à¤²à¤¾ à¤¹à¥à¥¤ 1à¥¤\r",
+                    "time": 67072
+                },
+                {
+                    "line": "à¤à¤¿à¤¸ à¤®à¤¨à¥à¤·à¥à¤¯ à¤à¥ à¤¹à¥à¤¦à¤¯ à¤®à¥à¤ à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤¸à¤à¥à¤à¤¾ à¤¬à¤¸à¤¾ à¤°à¤¹à¤¤à¤¾ à¤¹à¥à¥¤ à¤¹à¥ à¤®à¥à¤°à¥ à¤®à¤¨ ! à¤à¤¸ à¤®à¤¨à¥à¤·à¥à¤¯ à¤à¥ à¤à¤à¥ à¤¸à¤¦à¤¾ à¤¸à¤¿à¤° à¤¨à¤¿à¤µà¤¾à¤¯à¤¾ à¤à¤°à¥¤\r",
+                    "time": 83053
+                },
+                {
+                    "line": "à¤¹à¥ à¤¨à¤¾à¤¨à¤ ! (à¤à¤¹â à¤¹à¥ à¤®à¤¨ !) à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¥ à¤à¥à¤ªà¤¾ à¤¸à¥ à¤¹à¥ à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¥ à¤¨à¤¾à¤® à¤à¤¾ à¤à¤¾à¤ª à¤ªà¥à¤°à¤¾à¤ªà¥à¤¤ à¤¹à¥à¤¤à¤¾ à¤¹à¥ (à¤à¤¿à¤¸à¤à¥ à¤ªà¥à¤°à¤¾à¤ªà¥à¤¤ à¤¹à¥ à¤à¤¾à¤¤à¤¾ à¤¹à¥) à¤¨à¤¾à¤® (à¤à¤¸à¤à¥ à¤à¤¿à¤à¤¦à¤à¥ à¤à¤¾) à¤à¤¸à¤°à¤¾ à¤¬à¤¨ à¤à¤¾à¤¤à¤¾ à¤¹à¥à¥¤ 2à¥¤ 5à¥¤",
+                    "time": 98080
+                }
+            ]
+        },
+        {
+            "albumart": "",
+            "author": "",
+            "song": "ਜਪਿ ਮਨ ਹਰਿ ਹਰਿ ਨਾਮੁ ਨਿਤ ਧਿਆਇ ॥",
+            "json": "https://shabad-guru.org/uploads/data/13 - Raag Bairari Final (525)/ਜਪਿ ਮਨ ਹਰਿ ਹਰਿ ਨਾਮੁ ਨਿਤ ਧਿਆਇ ॥.json",
+            "audio": "https://shabadguru.s3.us-west-1.amazonaws.com/gurbani/lrc n- Project/13 - Raag Bairari Final (525)/mp3/song/0525 F Pb.mp3",
+            "punjabi": 1,
+            "english": 1,
+            "english_trans": 1,
+            "spanish": 1,
+            "hindi": 1,
+            "file_name_on_s3": "0525 F  Pb",
+            "english_trans_lyrics": [
+                {
+                    "line": "bairaarhee mehlaa 4.\r",
+                    "time": 61
+                },
+                {
+                    "line": "jap man har har naam nit Dhi-aa-ay.\r",
+                    "time": 13034
+                },
+                {
+                    "line": "jo ichheh so-ee fal paavahi fir dookh na laagai aa-ay. ||1|| rahaa-o.\r",
+                    "time": 20044
+                },
+                {
+                    "line": "so jap so tap saa barat poojaa jit har si-o pareet lagaa-ay.\r",
+                    "time": 51020
+                },
+                {
+                    "line": "bin har pareet hor pareet sabh jhoothee ik khin meh bisar sabh jaa-ay. ||1||\r",
+                    "time": 66085
+                },
+                {
+                    "line": "too bay-ant sarab kal pooraa kichh keemat kahee na jaa-ay.\r",
+                    "time": 90043
+                },
+                {
+                    "line": "naanak saran tumHaaree har jee-o bhaavai tivai chhadaa-ay. ||2||6||\r",
+                    "time": 105077
+                }
+            ],
+            "english_lyrics": [
+                {
+                    "line": "Bairaaree, Fourth Mehl:\r",
+                    "time": 61
+                },
+                {
+                    "line": "O my mind, chant the Name of the Lord, Har, Har; meditate on it continually.\r",
+                    "time": 13034
+                },
+                {
+                    "line": "You shall obtain the fruits of your heart's desires, and pain shall never touch you again. ||1||Pause||\r",
+                    "time": 20044
+                },
+                {
+                    "line": "That is chanting, that is deep meditation and austerity, that is fasting and worship, which inspires love for the Lord.\r",
+                    "time": 51020
+                },
+                {
+                    "line": "Without the Lord's Love, every other love is false; in an instant, it is all forgotten. ||1||\r",
+                    "time": 66085
+                },
+                {
+                    "line": "You are infinite, the Master of all power; Your value cannot be described at all.\r",
+                    "time": 90043
+                },
+                {
+                    "line": "Nanak has come to Your Sanctuary, O Dear Lord; as it pleases You, save him. ||2||6||\r",
+                    "time": 105077
+                }
+            ],
+            "spanish_lyrics": [
+                {
+                    "line": "Bairari, Mejl Guru Ram Das, Cuarto Canal Divino.\r",
+                    "time": 61
+                },
+                {
+                    "line": "Oh mente mía, contempla siempre el Nombre del Señor\r",
+                    "time": 13034
+                },
+                {
+                    "line": "y recolecta el fruto de los deseos de tu corazón, así el dolor no se te acercará más. (1-Pausa)\r",
+                    "time": 20044
+                },
+                {
+                    "line": "Esta es la Verdadera Contemplación, es la Verdadera Austeridad, es la Única Verdadera Alabanza y Disciplina, la cual te entona en verdad con el Señor.\r",
+                    "time": 51020
+                },
+                {
+                    "line": "Pues sin el Amor del Señor cualquier otro amor es falso, pues éste se desvanece en un momento. (1)\r",
+                    "time": 66085
+                },
+                {
+                    "line": "Tú eres Infinito, Todopoderoso, oh Dios, Tu Valor nadie lo puede describir.\r",
+                    "time": 90043
+                },
+                {
+                    "line": "Nanak busca solo Tu Refugio, oh mi Señor, emancípalo de la manera que Tú escojas. (2-6)\r",
+                    "time": 105077
+                }
+            ],
+            "hindi_lyrics": [
+                {
+                    "line": "à¤¬à¥à¤°à¤¾à¥à¥ à¤®à¤¹à¤²à¤¾ à¥ª||\r",
+                    "time": 61
+                },
+                {
+                    "line": "à¤¹à¥ (à¤®à¥à¤°à¥) à¤®à¤¨ ! à¤¸à¤¦à¤¾ à¤ªà¥à¤°à¤­à¥ à¤à¤¾ à¤¨à¤¾à¤® à¤à¤ªà¤¾ à¤à¤°à¥¤à¤ªà¥à¤°à¤­à¥ à¤à¤¾ à¤§à¥à¤¯à¤¾à¤¨ à¤§à¤°à¤¾ à¤à¤°à¥¤\r",
+                    "time": 13034
+                },
+                {
+                    "line": "(à¤à¤¸ à¤ªà¥à¤°à¤­à¥ à¤à¥ à¤¦à¤° à¤¸à¥) à¤à¥ à¤à¥à¤ à¤®à¤¾à¤à¤à¥à¤à¤¾à¥¤à¤µà¤¹à¥ à¤ªà¥à¤°à¤¾à¤ªà¥à¤¤ à¤à¤° à¤²à¥à¤à¤¾à¥¤à¤à¥à¤ à¤¦à¥à¤ à¤­à¥ à¤¤à¥à¤à¥ à¤ à¤à¥ à¤¨à¤¹à¥à¤ à¤²à¤ à¤¸à¤à¥à¤à¤¾à¥¤ 1à¥¤à¤°à¤¹à¤¾à¤à¥¤\r",
+                    "time": 20044
+                },
+                {
+                    "line": "à¤¹à¥ à¤®à¤¨ ! à¤à¤¿à¤¸ à¤¸à¤¿à¤®à¤°à¤¨ à¤à¥ à¤¬à¤°à¤à¤¤à¤¿ à¤¸à¥ à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¥ à¤¸à¤¾à¤¥ à¤ªà¥à¤°à¥à¤¤à¤¿ à¤¬à¤¨à¥ à¤°à¤¹à¤¤à¥ à¤¹à¥à¥¤à¤µà¤¹ à¤¸à¤¿à¤®à¤°à¤¨ à¤¹à¥ à¤à¤ª à¤¹à¥à¥¤à¤µà¤¹ à¤¸à¤¿à¤®à¤°à¤¨ à¤¹à¥ à¤¤à¤ª à¤¹à¥à¥¤à¤µà¤¹ à¤¸à¤¿à¤®à¤°à¤¨ à¤¹à¥ à¤µà¤°à¥à¤¤ à¤¹à¥à¥¤à¤µà¤¹ à¤¸à¤¿à¤®à¤°à¤¨ à¤¹à¥ à¤ªà¥à¤à¤¾ à¤¹à¥à¥¤\r",
+                    "time": 51020
+                },
+                {
+                    "line": "à¤ªà¥à¤°à¤­à¥-à¤à¤°à¤£à¥à¤ à¤à¥ à¤ªà¥à¤¯à¤¾à¤° à¤à¥ à¤¬à¤¿à¤¨à¤¾ à¤à¤° (à¤à¤ª-à¤¤à¤ª à¤à¤¦à¤¿ à¤à¤¾) à¤ªà¥à¤¯à¤¾à¤° à¤à¥à¤ à¤¾ à¤¹à¥à¥¤à¤à¤ à¤à¤¿à¤¨ à¤®à¥à¤ à¤µà¤¹ à¤ªà¥à¤¯à¤¾à¤° à¤­à¥à¤² à¤à¤¾à¤¤à¤¾ à¤¹à¥à¥¤ 1à¥¤\r",
+                    "time": 66085
+                },
+                {
+                    "line": "à¤¹à¥ à¤¨à¤¾à¤¨à¤ ! (à¤à¤¹â) à¤¹à¥ à¤ªà¥à¤°à¤­à¥ à¤à¥ ! à¤¤à¥ à¤¬à¥à¤à¤à¤¤ à¤¹à¥à¥¤à¤¤à¥ à¤¸à¤¾à¤°à¥ à¤¤à¤¾à¤à¤¤à¥à¤ à¤¸à¥ à¤­à¤°à¤ªà¥à¤° à¤¹à¥à¥¤à¤¤à¥à¤°à¤¾ à¤®à¥à¤²à¥à¤¯ à¤¨à¤¹à¥à¤ à¤¡à¤¾à¤²à¤¾ à¤à¤¾ à¤¸à¤à¤¤à¤¾à¥¤\r",
+                    "time": 90043
+                },
+                {
+                    "line": "à¤®à¥à¤ (à¤¨à¤¾à¤¨à¤) à¤¤à¥à¤°à¥ à¤¶à¤°à¤£ à¤à¤¯à¤¾ à¤¹à¥à¤à¥¤à¤à¥à¤¸à¥ à¤¤à¥à¤à¥ à¤ à¥à¤ à¤²à¤à¥à¥¤à¤®à¥à¤à¥ à¤à¤ªà¤¨à¥ à¤à¤°à¤£à¥à¤ à¤à¥ à¤ªà¥à¤°à¥à¤¤à¤¿ à¤à¥ à¤à¤²à¤¾à¤µà¤¾ à¤à¤°à¥à¤ à¤à¥ à¤ªà¥à¤°à¥à¤¤à¤¿ à¤¸à¥ à¤¬à¤à¤¾à¤ à¤°à¤à¥à¥¤ 2à¥¤ 6à¥¤\r",
+                    "time": 105077
+                }
+            ]
+        },
+        {
+            "albumart": "",
+            "author": "",
+            "song": "ਸੰਤ ਜਨਾ ਮਿਲਿ ਹਰਿ ਜਸੁ ਗਾਇਓ ॥",
+            "json": "https://shabad-guru.org/uploads/data/13 - Raag Bairari Final (525)/ਸੰਤ ਜਨਾ ਮਿਲਿ ਹਰਿ ਜਸੁ ਗਾਇਓ ॥.json",
+            "audio": "https://shabadguru.s3.us-west-1.amazonaws.com/gurbani/lrc n- Project/13 - Raag Bairari Final (525)/mp3/song/0525 GPb.mp3",
+            "punjabi": 1,
+            "english": 1,
+            "english_trans": 1,
+            "spanish": 1,
+            "hindi": 1,
+            "file_name_on_s3": "0525 G  Pb",
+            "english_trans_lyrics": [
+                {
+                    "line": "raag bairaarhee mehlaa 5 ghar 1\r",
+                    "time": 4096
+                },
+                {
+                    "line": "ik-oNkaar satgur parsaad.\r",
+                    "time": 19093
+                },
+                {
+                    "line": "sant janaa mil har jas gaa-i-o.\r",
+                    "time": 44062
+                },
+                {
+                    "line": "kot janam kay dookh gavaa-i-o. ||1|| rahaa-o.\r",
+                    "time": 52072
+                },
+                {
+                    "line": "jo chaahat so-ee man paa-i-o.\r",
+                    "time": 74015
+                },
+                {
+                    "line": "kar kirpaa har naam divaa-i-o. ||1||\r",
+                    "time": 81082
+                },
+                {
+                    "line": "sarab sookh har naam vadaa-ee.\r",
+                    "time": 89052
+                },
+                {
+                    "line": "gur parsaad naanak mat paa-ee. ||2||1||7||\r",
+                    "time": 97047
+                }
+            ],
+            "english_lyrics": [
+                {
+                    "line": "Raag Bairaaree, Fifth Mehl, First House:\r",
+                    "time": 4096
+                },
+                {
+                    "line": "One Universal Creator God. By The Grace Of The True Guru:\r",
+                    "time": 19093
+                },
+                {
+                    "line": "Meeting with the humble Saints, sing the Praises of the Lord.\r",
+                    "time": 44062
+                },
+                {
+                    "line": "The pains of millions of incarnations shall be eradicated. ||1||Pause||\r",
+                    "time": 52072
+                },
+                {
+                    "line": "Whatever your mind desires, that you shall obtain.\r",
+                    "time": 74015
+                },
+                {
+                    "line": "By His Kind Mercy, the Lord blesses us with His Name. ||1||\r",
+                    "time": 81082
+                },
+                {
+                    "line": "All happiness and greatness are in the Lord's Name.\r",
+                    "time": 89052
+                },
+                {
+                    "line": "By Guru's Grace, Nanak has gained this understanding. ||2||1||7||\r",
+                    "time": 97047
+                }
+            ],
+            "spanish_lyrics": [
+                {
+                    "line": "Rag Bairari, Mejl Guru Aryan, Quinto Canal Divino.\r",
+                    "time": 4096
+                },
+                {
+                    "line": "Un Dios Creador del Universo, por la Gracia del Verdadero Guru\r",
+                    "time": 19093
+                },
+                {
+                    "line": "Recita la Alabanza del Señor, encontrando a los Santos,\r",
+                    "time": 44062
+                },
+                {
+                    "line": "así serás limpiado de los errores acumulados en las miles de reencarnaciones pasadas. (1-Pausa)\r",
+                    "time": 52072
+                },
+                {
+                    "line": "Recibirás el Fruto de los deseos de tu corazón y en Su Gracia,\r",
+                    "time": 74015
+                },
+                {
+                    "line": "el Señor te bendecirá con Su Nombre. (1)\r",
+                    "time": 81082
+                },
+                {
+                    "line": "Toda Felicidad y Grandeza están en el Nombre del Señor\r",
+                    "time": 89052
+                },
+                {
+                    "line": "y por la Gracia del Guru, Nanak ha llegado a este Entendimiento. (2-1-7)",
+                    "time": 97047
+                }
+            ],
+            "hindi_lyrics": [
+                {
+                    "line": "à¤°à¤¾à¤à¥ à¤¬à¥à¤°à¤¾à¥à¥ à¤®à¤¹à¤²à¤¾ à¥« à¤à¤°à¥ à¥§||\r",
+                    "time": 4096
+                },
+                {
+                    "line": "à©´ à¤¸à¤¤à¤¿à¤à¥à¤° à¤ªà¥à¤°à¤¸à¤¾à¤¦à¤¿ à¥¥\r",
+                    "time": 19093
+                },
+                {
+                    "line": "à¤¹à¥ à¤­à¤¾à¤ ! à¤à¤¿à¤¸ à¤­à¥ à¤®à¤¨à¥à¤·à¥à¤¯ à¤¨à¥ à¤à¥à¤°à¤®à¥à¤à¥à¤ à¤à¥ à¤¸à¤à¤à¤¤à¤¿ à¤®à¥à¤ à¤®à¤¿à¤² à¤à¥ à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¥ à¤¸à¤¿à¤«à¤¤ à¤¸à¤¾à¤²à¤¾à¤¹ à¤à¥ à¤à¥à¤¤ à¤à¤¾à¤ à¤¹à¥à¤à¥¤\r",
+                    "time": 44062
+                },
+                {
+                    "line": "à¤à¤¸à¤à¥ à¤à¤ªà¤¨à¥ à¤à¤°à¥à¤¡à¤¼à¥à¤ à¤à¤¨à¥à¤®à¥à¤ à¤à¥ à¤¦à¥à¤ à¤¦à¥à¤° à¤à¤° à¤²à¤¿à¤ à¤¹à¥à¥¤ 1à¥¤à¤°à¤¹à¤¾à¤à¥¤\r",
+                    "time": 52072
+                },
+                {
+                    "line": "à¤¹à¥ à¤­à¤¾à¤ ! à¤¸à¤¿à¤«à¤¤ à¤¸à¤¾à¤²à¤¾à¤¹ à¤à¤°à¤¨à¥ à¤µà¤¾à¤²à¥ à¤®à¤¨à¥à¤·à¥à¤¯ à¤¨à¥ à¤à¥ à¤à¥à¤ à¤­à¥ à¤à¤ªà¤¨à¥ à¤®à¤¨ à¤®à¥à¤ à¤à¤¾à¤¹ à¤à¥à¥¤à¤à¤¸à¤à¥ à¤µà¤¹à¥à¤ à¤ªà¥à¤°à¤¾à¤ªà¥à¤¤ à¤¹à¥ à¤à¤à¥¤\r",
+                    "time": 74015
+                },
+                {
+                    "line": "(à¤à¥à¤°à¥ à¤¨à¥) à¤à¥à¤ªà¤¾ à¤à¤°à¤à¥ à¤à¤¸à¤à¥ (à¤ªà¥à¤°à¤­à¥ à¤à¥ à¤¦à¤° à¤¸à¥) à¤ªà¥à¤°à¤­à¥ à¤à¤¾ à¤¨à¤¾à¤® à¤­à¥ à¤¦à¤¿à¤²à¤µà¤¾ à¤¦à¤¿à¤¯à¤¾à¥¤\r",
+                    "time": 81082
+                },
+                {
+                    "line": "à¤¹à¥ à¤­à¤¾à¤ ! à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¥ à¤¨à¤¾à¤® à¤®à¥à¤ (à¤à¥à¤¡à¤¼à¤¨à¥ à¤¸à¥) à¤¸à¤¾à¤°à¥ à¤¸à¥à¤ à¤ªà¥à¤°à¤¾à¤ªà¥à¤¤ à¤¹à¥ à¤à¤¾à¤¤à¥ à¤¹à¥à¤à¥¤(à¤²à¥à¤-à¤ªà¤°à¤²à¥à¤ à¤®à¥à¤) à¤à¤à¥à¤à¤¤ (à¤­à¥ à¤®à¤¿à¤² à¤à¤¾à¤¤à¥ à¤¹à¥)à¥¤\r",
+                    "time": 89052
+                },
+                {
+                    "line": "à¤¹à¥ à¤¨à¤¾à¤¨à¤ ! (à¤ªà¥à¤°à¤­à¥ à¤à¥ à¤¨à¤¾à¤® à¤®à¥à¤ à¤à¥à¤¡à¤¼à¤¨à¥ à¤à¥ à¤¯à¤¹) à¤à¤à¤² à¤à¥à¤°à¥ à¤à¥ à¤à¥à¤ªà¤¾ à¤¸à¥ à¤¹à¥ à¤®à¤¿à¤²à¤¤à¥ à¤¹à¥à¥¤ 2à¥¤ 1à¥¤ 7à¥¤",
+                    "time": 97047
+                }
+            ]
+        }
+    ],
+    "info": "testings"
+}

@@ -1,0 +1,603 @@
+{
+    "status": 200,
+    "message": "",
+    "data": [
+        {
+            "albumart": "",
+            "author": "",
+            "song": "ਰਾਮੁ ਸਿਮਰਿ ਰਾਮੁ ਸਿਮਰਿ ਇਹੈ ਤੇਰੈ ਕਾਜਿ ਹੈ॥",
+            "json": "https://shabad-guru.org/uploads/data/31 - Raag Jai Jai Vanti Final (1027)/ਰਾਮੁ ਸਿਮਰਿ ਰਾਮੁ ਸਿਮਰਿ ਇਹੈ ਤੇਰੈ ਕਾਜਿ ਹੈ॥.json",
+            "audio": "https://shabadguru.s3.us-west-1.amazonaws.com/gurbani/lrc n- Project/31 - Raag Jai Jai Vanti Final (1027)/mp3/song/1027 A Pb.mp3",
+            "punjabi": 1,
+            "english": 1,
+            "english_trans": 1,
+            "spanish": 1,
+            "hindi": 1,
+            "file_name_on_s3": "1027 A Pb",
+            "english_trans_lyrics": [
+                {
+                    "line": "raag jaijaavantee mehlaa 9.\r",
+                    "time": 2035
+                },
+                {
+                    "line": "raam simar raam simar ihai tayrai kaaj hai.\r",
+                    "time": 41078
+                },
+                {
+                    "line": "maa-i-aa ko sang ti-aag parabh joo kee saran laag.\r",
+                    "time": 50077
+                },
+                {
+                    "line": "jagat sukh maan mithi-aa jhootho sabh saaj hai. ||1|| rahaa-o.\r",
+                    "time": 60003
+                },
+                {
+                    "line": "supnay ji-o Dhan pachhaan kaahay par karat maan.\r",
+                    "time": 81000
+                },
+                {
+                    "line": "baaroo kee bheet jaisay basuDhaa ko raaj hai. ||1||\r",
+                    "time": 89032
+                },
+                {
+                    "line": "naanak jan kahat baat binas jaihai tayro gaat.\r",
+                    "time": 106044
+                },
+                {
+                    "line": "chhin chhin kar ga-i-o kaal taisay jaat aaj hai. ||2||1||\r",
+                    "time": 115073
+                }
+            ],
+            "english_lyrics": [
+                {
+                    "line": "Raag Jaijaavantee, Ninth Mehl:\r",
+                    "time": 2035
+                },
+                {
+                    "line": "Meditate in remembrance on the Lord - meditate on the Lord; this alone shall be of use to you.\r",
+                    "time": 41078
+                },
+                {
+                    "line": "Abandon your association with Maya, and take shelter in the Sanctuary of God.\r",
+                    "time": 50077
+                },
+                {
+                    "line": "Remember that the pleasures of the world are false; this whole show is just an illusion. ||1||Pause||\r",
+                    "time": 60003
+                },
+                {
+                    "line": "You must understand that this wealth is just a dream. Why are you so proud?\r",
+                    "time": 81000
+                },
+                {
+                    "line": "The empires of the earth are like walls of sand. ||1||\r",
+                    "time": 89032
+                },
+                {
+                    "line": "Servant Nanak speaks the Truth: your body shall perish and pass away.\r",
+                    "time": 106044
+                },
+                {
+                    "line": "Moment by moment, yesterday passed. Today is passing as well. ||2||1||\r",
+                    "time": 115073
+                }
+            ],
+            "spanish_lyrics": [
+                {
+                    "line": "Rag Yeyavanti, Mejl Guru Teg Bajadur, Noveno Canal Divino.\r",
+                    "time": 2035
+                },
+                {
+                    "line": "Habita en Tu Dios, es lo Único que vale la pena hacer,\r",
+                    "time": 41078
+                },
+                {
+                    "line": "rompe tus amarras con Maya y póstrate a los Pies del Refugio de Dios,\r",
+                    "time": 50077
+                },
+                {
+                    "line": "siente que los placeres mundanos son vanos y fútiles, pues en verdad son pura ilusión. (1-Pausa)\r",
+                    "time": 60003
+                },
+                {
+                    "line": "Las riquezas son como soñar manjares, ¿por qué tomar orgullo en ellos, oh mortal?\r",
+                    "time": 81000
+                },
+                {
+                    "line": "Las reglas del mundo son como murallas de arena. (1)\r",
+                    "time": 89032
+                },
+                {
+                    "line": "Nanak recita la Verdad, oh mortal, tu cuerpo debe caer y así como tu ayer se ha desvanecido,\r",
+                    "time": 106044
+                },
+                {
+                    "line": "poco a poco, también este día muere en lo desconocido. (2-1)",
+                    "time": 115073
+                }
+            ],
+            "hindi_lyrics": [
+                {
+                    "line": "à¤°à¤¾à¤à¥ à¤à¥à¤à¤¾à¤µà¤à¤¤à¥ à¤®à¤¹à¤²à¤¾ à¥¯ à¥¥\r",
+                    "time": 2035
+                },
+                {
+                    "line": "à¤¹à¥ à¤­à¤¾à¤ ! à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ (à¤à¤¾ à¤¨à¤¾à¤®) à¤¸à¤¿à¤®à¤°à¤¾ à¤à¤°à¥¤ à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¤¾ à¤¨à¤¾à¤® à¤¸à¤¿à¤®à¤°à¤¾ à¤à¤°à¥¤ à¤¯à¤¹ (à¤¸à¤¿à¤®à¤°à¤¨) à¤¹à¥ à¤¤à¥à¤°à¥ à¤à¤¾à¤® à¤®à¥à¤ (à¤à¤¨à¥ à¤µà¤¾à¤²à¤¾) à¤¹à¥à¥¤\r",
+                    "time": 41078
+                },
+                {
+                    "line": "à¤¹à¥ à¤­à¤¾à¤ ! à¤®à¤¾à¤¯à¤¾ à¤à¥ à¤®à¥à¤¹ à¤à¥à¤¡à¤¼ à¤¦à¥à¥¤ à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¥ à¤¶à¤°à¤£ à¤ªà¤¡à¤¼à¤¾ à¤°à¤¹à¥¤\r",
+                    "time": 50077
+                },
+                {
+                    "line": "à¤¹à¥ à¤­à¤¾à¤ ! à¤¦à¥à¤¨à¤¿à¤¯à¤¾ à¤à¥ à¤¸à¥à¤à¥à¤ à¤à¥ à¤¨à¤¾à¤¶à¤µà¤à¤¤ à¤¸à¤®à¤à¥¤ à¤à¤à¤¤ à¤à¤¾ à¤¯à¤¹ à¤¸à¤¾à¤°à¤¾ à¤ªà¤¸à¤¾à¤°à¤¾ (à¤¹à¥) à¤¸à¤¾à¤¥ à¤à¥à¤¡à¤¼ à¤à¤¾à¤¨à¥ à¤µà¤¾à¤²à¤¾ à¤¹à¥à¥¤ 1à¥¤ à¤°à¤¹à¤¾à¤à¥¤\r",
+                    "time": 60003
+                },
+                {
+                    "line": "à¤¹à¥ à¤­à¤¾à¤ ! à¤à¤¸ à¤§à¤¨ à¤à¥ à¤¸à¤ªà¤¨à¥ (à¤®à¥à¤ à¤®à¤¿à¤²à¥ à¤ªà¤¦à¤¾à¤°à¥à¤¥à¥à¤) à¤à¥ à¤¤à¤°à¤¹ à¤¸à¤®à¤ (à¤à¤¾à¤ à¤à¥à¤²à¤¤à¥ à¤¹à¥ à¤µà¤¹ à¤ªà¤¦à¤¾à¤°à¥à¤¥ à¤à¤²à¥à¤ª à¤¹à¥ à¤à¤¾à¤¤à¥ à¤¹à¥à¤à¥¤ à¤¬à¤¤à¤¾à¥¤ ) à¤¤à¥ à¤à¤¿à¤¸ à¤ªà¤° à¤à¤¹à¤à¤à¤¾à¤° à¤à¤°à¤¤à¤¾ à¤¹à¥à¥¤\r",
+                    "time": 81000
+                },
+                {
+                    "line": "(à¤¸à¤¾à¤°à¥) à¤§à¤°à¤¤à¥ à¤à¤¾ à¤°à¤¾à¤ (à¤­à¥) à¤°à¥à¤¤ à¤à¥ à¤¦à¥à¤µà¤¾à¤° à¤à¥à¤¸à¤¾ à¤¹à¥ à¤¹à¥à¥¤ 1à¥¤\r",
+                    "time": 89032
+                },
+                {
+                    "line": "à¤¹à¥ à¤­à¤¾à¤ ! à¤¦à¤¾à¤¸ à¤¨à¤¾à¤¨à¤ (à¤¤à¥à¤à¥ à¤¯à¤¹) à¤¬à¤¾à¤¤ à¤¬à¤¤à¤¾à¤¤à¤¾ à¤¹à¥ à¤à¤¿ à¤¤à¥à¤°à¤¾ (à¤¤à¥ à¤à¤ªà¤¨à¤¾ à¤¯à¤¹ à¤®à¤¿à¤¥à¤¾ à¤¹à¥à¤) à¤¶à¤°à¥à¤° (à¤­à¥) à¤¨à¤¾à¤¶ à¤¹à¥ à¤à¤¾à¤à¤à¤¾à¥¤ (à¤¦à¥à¤à¥¤\r",
+                    "time": 106044
+                },
+                {
+                    "line": "à¤à¥à¤¸à¥ à¤¤à¥à¤°à¥ à¤à¤®à¥à¤° à¤à¤¾) à¤à¤² (à¤à¤¾ à¤¦à¤¿à¤¨) à¤à¤¿à¤¨-à¤à¤¿à¤¨ à¤à¤°à¤à¥ à¤¬à¥à¤¤ à¤à¤¯à¤¾ à¤¹à¥à¥¤ à¤µà¥à¤¸à¥ à¤¹à¥ à¤à¤ (à¤à¤¾ à¤¦à¤¿à¤¨ à¤­à¥) à¤à¥à¤à¤°à¤¤à¤¾ à¤à¤¾ à¤°à¤¹à¤¾ à¤¹à¥à¥¤ 2à¥¤ 1à¥¤\r",
+                    "time": 115073
+                }
+            ]
+        },
+        {
+            "albumart": "",
+            "author": "",
+            "song": "ਰਾਮੁ ਭਜੁ ਰਾਮੁ ਭਜੁ ਜਨਮੁ ਸਿਰਾਤੁ ਹੈ ॥",
+            "json": "https://shabad-guru.org/uploads/data/31 - Raag Jai Jai Vanti Final (1027)/ਰਾਮੁ ਭਜੁ ਰਾਮੁ ਭਜੁ ਜਨਮੁ ਸਿਰਾਤੁ ਹੈ ॥.json",
+            "audio": "https://shabadguru.s3.us-west-1.amazonaws.com/gurbani/lrc n- Project/31 - Raag Jai Jai Vanti Final (1027)/mp3/song/1027 B Pb.mp3",
+            "punjabi": 1,
+            "english": 1,
+            "english_trans": 1,
+            "spanish": 1,
+            "hindi": 1,
+            "file_name_on_s3": "1027 B Pb",
+            "english_trans_lyrics": [
+                {
+                    "line": "jaijaavantee mehlaa 9.\r",
+                    "time": 1028
+                },
+                {
+                    "line": "raam bhaj raam bhaj janam siraat hai.\r",
+                    "time": 18031
+                },
+                {
+                    "line": "kaha-o kahaa baar baar samjhat nah ki-o gavaar.\r",
+                    "time": 26088
+                },
+                {
+                    "line": "binsat nah lagai baar oray sam gaat hai. ||1|| rahaa-o.\r",
+                    "time": 36096
+                },
+                {
+                    "line": "sagal bharam daar deh gobind ko naam layhi.\r",
+                    "time": 55057
+                },
+                {
+                    "line": "ant baar sang tayrai ihai ayk jaat hai. ||1||\r",
+                    "time": 64084
+                },
+                {
+                    "line": "bikhi-aa bikh ji-o bisaar parabh kou jas hee-ay Dhaar.\r",
+                    "time": 80078
+                },
+                {
+                    "line": "naanak jan kahi pukaar a-osar bihaat hai. ||2||2||\r",
+                    "time": 93006
+                }
+            ],
+            "english_lyrics": [
+                {
+                    "line": "Jaijaavantee, Ninth Mehl:\r",
+                    "time": 1028
+                },
+                {
+                    "line": "Meditate on the Lord - vibrate on the Lord; your life is slipping away.\r",
+                    "time": 18031
+                },
+                {
+                    "line": "Why am I telling you this again and again? You fool - why don't you understand?\r",
+                    "time": 26088
+                },
+                {
+                    "line": "Your body is like a hail-stone; it melts away in no time at all. ||1||Pause||\r",
+                    "time": 36096
+                },
+                {
+                    "line": "So give up all your doubts, and utter the Naam, the Name of the Lord.\r",
+                    "time": 55057
+                },
+                {
+                    "line": "At the very last moment, this alone shall go along with you. ||1||\r",
+                    "time": 64084
+                },
+                {
+                    "line": "Forget the poisonous sins of corruption, and enshrine the Praises of God in your heart.\r",
+                    "time": 80078
+                },
+                {
+                    "line": "Servant Nanak proclaims that this opportunity is slipping away. ||2||2||\r",
+                    "time": 93006
+                }
+            ],
+            "spanish_lyrics": [
+                {
+                    "line": "Yeyavanti, Mejl Guru Teg Bajadur, Noveno Canal Divino.\r",
+                    "time": 1028
+                },
+                {
+                    "line": "Medita en el Señor, vibra al Señor, pues la vida se nos resbala de las manos.\r",
+                    "time": 18031
+                },
+                {
+                    "line": "¿Por qué te digo esto una y otra vez? Increíble tonto, ¿por qué no lo entiendes?\r",
+                    "time": 26088
+                },
+                {
+                    "line": "Tu Cuerpo es como una bolita de granizo, se derrite en un parpadeo. (1-Pausa)\r",
+                    "time": 36096
+                },
+                {
+                    "line": "Entrega ya tos dudas y recita el Naam, el Nombre de Dios,\r",
+                    "time": 55057
+                },
+                {
+                    "line": "en el último momento es lo Único que se irá contigo. (1)\r",
+                    "time": 64084
+                },
+                {
+                    "line": "Olvídate de tus maldades corruptas y enaltece la Alabanza de Dios en tu corazón,\r",
+                    "time": 80078
+                },
+                {
+                    "line": "el Sirviente Nanak proclama que esta oportunidad se agota a cada momento. (2-2)",
+                    "time": 93006
+                }
+            ],
+            "hindi_lyrics": [
+                {
+                    "line": "à¤à¥à¤à¤¾à¤µà¤à¤¤à¥ à¤®à¤¹à¤²à¤¾ à¥¯ à¥¥\r",
+                    "time": 1028
+                },
+                {
+                    "line": "à¤¹à¥ à¤­à¤¾à¤ ! à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¤¾ à¤­à¤à¤¨ à¤à¤¿à¤¯à¤¾ à¤à¤°à¥¤ à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¤¾ à¤­à¤à¤¨ à¤à¤°à¤¾ à¤à¤°à¥¤ à¤®à¤¨à¥à¤·à¥à¤¯ à¤à¤¨à¤® à¤à¥à¤à¤°à¤¤à¤¾ à¤à¤¾ à¤°à¤¹à¤¾ à¤¹à¥à¥¤\r",
+                    "time": 18031
+                },
+                {
+                    "line": "à¤¹à¥ à¤®à¥à¤°à¥à¤ ! à¤®à¥à¤ (à¤¤à¥à¤à¥) à¤¬à¤¾à¤°-à¤¬à¤¾à¤° à¤à¥à¤¯à¤¾ à¤à¤¹à¥à¤à¥¤ à¤¤à¥ à¤à¥à¤¯à¥à¤ à¤¨à¤¹à¥à¤ à¤¸à¤®à¤à¤¤à¤¾à¥¤\r",
+                    "time": 26088
+                },
+                {
+                    "line": "(à¤¤à¥à¤°à¤¾ à¤¯à¤¹) à¤¶à¤°à¥à¤° (à¤¹à¥à¤¨à¥ à¤®à¥à¤) à¤à¤²à¥ à¤à¥à¤¸à¤¾ à¤¹à¥ à¤¹à¥ (à¤à¤¸à¤à¥) à¤¨à¤¾à¤¶ à¤¹à¥à¤¨à¥ (à¤ªà¤¿à¤à¤²à¤¨à¥) à¤®à¥à¤ à¤¦à¥à¤° à¤¨à¤¹à¥à¤ à¤²à¤à¤¤à¥à¥¤ 1à¥¤ à¤°à¤¹à¤¾à¤à¥¤\r",
+                    "time": 36096
+                },
+                {
+                    "line": "à¤¹à¥ à¤­à¤¾à¤ ! à¤¸à¤¾à¤°à¥ à¤­à¤à¤à¤¨à¥à¤ à¤à¥à¤¡à¤¼ à¤¦à¥à¥¤ à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¤¾ à¤¨à¤¾à¤® à¤à¤ªà¤¾ à¤à¤°à¥¤\r",
+                    "time": 55057
+                },
+                {
+                    "line": "à¤à¤à¤¿à¤°à¥ à¤¸à¤®à¤¯ à¤®à¥à¤ à¤¤à¥à¤°à¥ à¤¸à¤¾à¤¥ à¤¸à¤¿à¤°à¥à¤« à¤¯à¤¹ à¤¨à¤¾à¤® à¤¹à¥ à¤à¤¾à¤¨à¥ à¤µà¤¾à¤²à¤¾ à¤¹à¥à¥¤ 1à¥¤\r",
+                    "time": 64084
+                },
+                {
+                    "line": "à¤¹à¥ à¤­à¤¾à¤ ! à¤®à¤¾à¤¯à¤¾ (à¤à¤¾ à¤®à¥à¤¹ à¤à¤ªà¤¨à¥ à¤à¤à¤¦à¤° à¤¸à¥) à¤à¤¹à¤° à¤à¥ à¤¤à¤°à¤¹ à¤­à¥à¤²à¤¾ à¤¦à¥à¥¤ à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¥ à¤¸à¤¿à¤«à¤¤ à¤¸à¤¾à¤²à¤¾à¤¹ (à¤à¤ªà¤¨à¥) à¤¹à¥à¤¦à¤¯ à¤®à¥à¤ à¤¬à¤¸à¤¾à¤ à¤°à¤à¥¤\r",
+                    "time": 80078
+                },
+                {
+                    "line": "à¤¦à¤¾à¤¸ à¤¨à¤¾à¤¨à¤ (à¤¤à¥à¤à¥) à¤ªà¥à¤à¤¾à¤°-à¤ªà¥à¤à¤¾à¤° à¤à¥ à¤à¤¹ à¤°à¤¹à¤¾ à¤¹à¥à¥¤ (à¤®à¤¨à¥à¤·à¥à¤¯-à¤à¤¿à¤à¤¦à¤à¥ à¤à¤¾ à¤¸à¤®à¤¯) à¤¬à¥à¤¤à¤¤à¤¾ à¤à¤¾ à¤°à¤¹à¤¾ à¤¹à¥à¥¤ 2à¥¤ 2\r",
+                    "time": 93006
+                }
+            ]
+        },
+        {
+            "albumart": "",
+            "author": "",
+            "song": "ਰੇ ਮਨ ਕਉਨ ਗਤਿ ਹੋਇ ਹੈ ਤੇਰੀ ॥",
+            "json": "https://shabad-guru.org/uploads/data/31 - Raag Jai Jai Vanti Final (1027)/ਰੇ ਮਨ ਕਉਨ ਗਤਿ ਹੋਇ ਹੈ ਤੇਰੀ ॥.json",
+            "audio": "https://shabadguru.s3.us-west-1.amazonaws.com/gurbani/lrc n- Project/31 - Raag Jai Jai Vanti Final (1027)/mp3/song/1027 C Pb.mp3",
+            "punjabi": 1,
+            "english": 1,
+            "english_trans": 1,
+            "spanish": 1,
+            "hindi": 1,
+            "file_name_on_s3": "1027 C Pb",
+            "english_trans_lyrics": [
+                {
+                    "line": "jaijaavantee mehlaa 9.\r",
+                    "time": 70
+                },
+                {
+                    "line": "ray man ka-un gat ho-ay hai tayree.\r",
+                    "time": 17042
+                },
+                {
+                    "line": "ih jag meh raam naam so ta-o nahee suni-o kaan.\r",
+                    "time": 25078
+                },
+                {
+                    "line": "bikhi-an si-o at lubhaan mat naahin fayree. ||1|| rahaa-o.\r",
+                    "time": 36073
+                },
+                {
+                    "line": "maanas ko janam leen simran nah nimakh keen.\r",
+                    "time": 55023
+                },
+                {
+                    "line": "daaraa sukh bha-i-o deen pagahu paree bayree. ||1||\r",
+                    "time": 63026
+                },
+                {
+                    "line": "naanak jan kahi pukaar supnai ji-o jag pasaar.\r",
+                    "time": 79061
+                },
+                {
+                    "line": "simrat nah ki-o muraar maa-i-aa jaa kee chayree. ||2||3||\r",
+                    "time": 87083
+                }
+            ],
+            "english_lyrics": [
+                {
+                    "line": "Jaijaavantee, Ninth Mehl:\r",
+                    "time": 70
+                },
+                {
+                    "line": "O mortal, what will your condition be?\r",
+                    "time": 17042
+                },
+                {
+                    "line": "In this world, you have not listened to the Lord's Name.\r",
+                    "time": 25078
+                },
+                {
+                    "line": "You are totally engrossed in corruption and sin; you have not turned your mind away from them at all. ||1||Pause||\r",
+                    "time": 36073
+                },
+                {
+                    "line": "You obtained this human life, but you have not remembered the Lord in meditation, even for an instant.\r",
+                    "time": 55023
+                },
+                {
+                    "line": "For the sake of pleasure, you have become subservient to your woman, and now your feet are bound. ||1||\r",
+                    "time": 63026
+                },
+                {
+                    "line": "Servant Nanak proclaims that the vast expanse of this world is just a dream.\r",
+                    "time": 79061
+                },
+                {
+                    "line": "Why not meditate on the Lord? Even Maya is His slave. ||2||3||\r",
+                    "time": 87083
+                }
+            ],
+            "spanish_lyrics": [
+                {
+                    "line": "Yeyavanti, Mejl Guru Teg Bajadur, Noveno Canal Divino.\r",
+                    "time": 70
+                },
+                {
+                    "line": "Oh mortal, cuál será tu condición,\r",
+                    "time": 17042
+                },
+                {
+                    "line": "pues en esta vida no has escuchado el Nombre del Señor,\r",
+                    "time": 25078
+                },
+                {
+                    "line": "vives totalmente involucrado en la corrupción cometiendo error tras error y para nada has desviado tu mente de eso. (1-Pausa)\r",
+                    "time": 36073
+                },
+                {
+                    "line": "Obtuviste esta vida humana, pero ni siquiera por un instante has recordado el Nombre del Señor,\r",
+                    "time": 55023
+                },
+                {
+                    "line": "por puro placer vives involucrado en la relación con tu pareja, ahora tus pies se encuentran atados. (1)\r",
+                    "time": 63026
+                },
+                {
+                    "line": "El Sirviente Nanak proclama que la vasta extensión del mundo es sólo un sueño.\r",
+                    "time": 79061
+                },
+                {
+                    "line": "¿Por qué no meditar en el Señor si aún Maya es su Esclava? (2-3)",
+                    "time": 87083
+                }
+            ],
+            "hindi_lyrics": [
+                {
+                    "line": "à¤à¥à¤à¤¾à¤µà¤à¤¤à¥ à¤®à¤¹à¤²à¤¾ à¥¯ à¥¥\r",
+                    "time": 70
+                },
+                {
+                    "line": "à¤¹à¥ à¤®à¤¨ ! (à¤¤à¥ à¤à¤­à¥ à¤¸à¥à¤à¤¤à¤¾ à¤¨à¤¹à¥à¤ à¤à¤¿) à¤¤à¥à¤°à¥ à¤à¥à¤¯à¤¾ à¤¦à¤¶à¤¾ à¤¹à¥à¤à¥à¥¤\r",
+                    "time": 17042
+                },
+                {
+                    "line": "à¤à¤¸ à¤à¤à¤¤ à¤®à¥à¤ (à¤¤à¥à¤°à¤¾ à¤à¤¸à¤² à¤¸à¤¾à¤¥à¥) à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¤¾ à¤¨à¤¾à¤® (à¤¹à¥) à¤¹à¥à¥¤ à¤µà¤¹ (à¤¨à¤¾à¤®) à¤¤à¥à¤¨à¥ à¤à¤­à¥ à¤§à¥à¤¯à¤¾à¤¨ à¤¸à¥ à¤¨à¤¹à¥à¤ à¤¸à¥à¤¨à¤¾à¥¤\r",
+                    "time": 25078
+                },
+                {
+                    "line": "à¤¤à¥ à¤µà¤¿à¤·à¥- (à¤µà¤¿à¤à¤¾à¤°à¥à¤) à¤®à¥à¤ à¤¬à¤¹à¥à¤¤ (à¤à¥à¤¯à¤¾à¤¦à¤¾) à¤«à¤¸à¤¾ à¤°à¤¹à¤¤à¤¾ à¤¹à¥à¥¤ à¤¤à¥ (à¤à¤ªà¤¨à¥) à¤¸à¥à¤°à¤¤à¤¿ (à¤à¤¨à¤à¥ à¤à¤° à¤¸à¥ à¤à¤­à¥) à¤ªà¤²à¤à¤¤à¤¾ à¤¨à¤¹à¥à¥¤ 1à¥¤ à¤°à¤¹à¤¾à¤à¥¤\r",
+                    "time": 36073
+                },
+                {
+                    "line": "à¤¹à¥ à¤­à¤¾à¤ ! à¤¤à¥à¤¨à¥ à¤®à¤¨à¥à¤·à¥à¤¯ à¤à¤¾ à¤à¤¨à¥à¤® (à¤¤à¥) à¤¹à¤¾à¤¸à¤¿à¤² à¤à¤° à¤²à¤¿à¤¯à¤¾à¥¤ à¤ªà¤° à¤à¤­à¥ à¤°à¤à¥à¤¤à¥ à¤­à¤° à¤¸à¤®à¤¯ à¤à¥ à¤²à¤¿à¤ à¤­à¥ à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¤¾ à¤¸à¤¿à¤®à¤°à¤¨ à¤¨à¤¹à¥à¤ à¤à¤¿à¤¯à¤¾à¥¤\r",
+                    "time": 55023
+                },
+                {
+                    "line": "à¤¤à¥ à¤¸à¤¦à¤¾ à¤¸à¥à¤¤à¥à¤°à¥ à¤à¥ à¤¸à¥à¤à¥à¤ à¤à¥ à¤à¤§à¥à¤¨ à¤¹à¥ à¤¹à¥à¤ à¤°à¤¹à¤¤à¤¾ à¤¹à¥à¥¤ à¤¤à¥à¤°à¥ à¤ªà¥à¤°à¥à¤ à¤®à¥à¤ (à¤¸à¥à¤¤à¥à¤°à¥ à¤à¥ à¤®à¥à¤¹ à¤à¥) à¤¬à¥à¤¡à¤¼à¥ à¤ªà¤¡à¤¼à¥ à¤°à¤¹à¤¤à¥ à¤¹à¥à¥¤ 1à¥¤\r",
+                    "time": 63026
+                },
+                {
+                    "line": "à¤¹à¥ à¤­à¤¾à¤ ! à¤¦à¤¾à¤¸ à¤¨à¤¾à¤¨à¤ (à¤¤à¥à¤à¥) à¤ªà¥à¤à¤¾à¤° à¤à¥ à¤à¤¹à¤¤à¤¾ à¤¹à¥ à¤à¤¿ à¤¯à¤¹ à¤à¤à¤¤ à¤à¤¾ à¤ªà¤¸à¤¾à¤°à¤¾ à¤¸à¤ªà¤¨à¥ à¤à¥à¤¸à¤¾ à¤¹à¥ à¤¹à¥à¥¤\r",
+                    "time": 79061
+                },
+                {
+                    "line": "à¤¯à¤¹ à¤®à¤¾à¤¯à¤¾ à¤à¤¿à¤¸à¤à¥ à¤¦à¤¾à¤¸à¥ à¤¹à¥ à¤¤à¥ à¤à¤¸ à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¤¾ à¤¸à¤¿à¤®à¤°à¤¨ à¤à¥à¤¯à¥à¤ à¤¨à¤¹à¥à¤ à¤à¤°à¤¤à¤¾à¥¤ 2à¥¤ 3à¥¤\r",
+                    "time": 87083
+                }
+            ]
+        },
+        {
+            "albumart": "",
+            "author": "",
+            "song": "ਬੀਤ ਜੈਹੈ ਬੀਤ ਜੈਹੈ ਜਨਮੁ ਅਕਾਜੁ ਰੇ ॥",
+            "json": "https://shabad-guru.org/uploads/data/31 - Raag Jai Jai Vanti Final (1027)/ਬੀਤ ਜੈਹੈ ਬੀਤ ਜੈਹੈ ਜਨਮੁ ਅਕਾਜੁ ਰੇ ॥.json",
+            "audio": "https://shabadguru.s3.us-west-1.amazonaws.com/gurbani/lrc n- Project/31 - Raag Jai Jai Vanti Final (1027)/mp3/song/1027 D Pb.mp3",
+            "punjabi": 1,
+            "english": 1,
+            "english_trans": 1,
+            "spanish": 1,
+            "hindi": 1,
+            "file_name_on_s3": "1027 D Pb",
+            "english_trans_lyrics": [
+                {
+                    "line": "jaijaavantee mehlaa 9.\r",
+                    "time": 97
+                },
+                {
+                    "line": "beet jaihai beet jaihai janam akaaj ray.\r",
+                    "time": 17036
+                },
+                {
+                    "line": "nis din sun kai puraan samjhat nah ray ajaan.\r",
+                    "time": 25032
+                },
+                {
+                    "line": "kaal ta-o pahoochi-o aan kahaa jaihai bhaaj ray. ||1|| rahaa-o.\r",
+                    "time": 33077
+                },
+                {
+                    "line": "asthir jo maani-o dayh so ta-o tayra-o ho-ay hai khayh.\r",
+                    "time": 54017
+                },
+                {
+                    "line": "ki-o na har ko naam layhi moorakh nilaaj ray. ||1||\r",
+                    "time": 61081
+                },
+                {
+                    "line": "raam bhagat hee-ay aan chhaad day tai man ko maan.\r",
+                    "time": 78045
+                },
+                {
+                    "line": "naanak jan ih bakhaan jag meh biraaj ray. ||2||4||\r",
+                    "time": 86029
+                }
+            ],
+            "english_lyrics": [
+                {
+                    "line": "Jaijaavantee, Ninth Mehl:\r",
+                    "time": 97
+                },
+                {
+                    "line": "Slipping away - your life is uselessly slipping away.\r",
+                    "time": 17036
+                },
+                {
+                    "line": "Night and day, you listen to the Puraanas, but you do not understand them, you ignorant fool!\r",
+                    "time": 25032
+                },
+                {
+                    "line": "Death has arrived; now where will you run? ||1||Pause||\r",
+                    "time": 33077
+                },
+                {
+                    "line": "You believed that this body was permanent, but it shall turn to dust.\r",
+                    "time": 54017
+                },
+                {
+                    "line": "Why don't you chant the Name of the Lord, you shameless fool? ||1||\r",
+                    "time": 61081
+                },
+                {
+                    "line": "Let devotional worship of the Lord enter into your heart, and abandon the intellectualism of your mind.\r",
+                    "time": 78045
+                },
+                {
+                    "line": "O Servant Nanak, this is the way to live in the world. ||2||4||\r",
+                    "time": 86029
+                }
+            ],
+            "spanish_lyrics": [
+                {
+                    "line": "Yeyavanti, Mejl Guru Teg Bajadur, Noveno Canal Divino.\r",
+                    "time": 97
+                },
+                {
+                    "line": "Resbalándose, a cada segundo tu vida se escapa de tus manos.\r",
+                    "time": 17036
+                },
+                {
+                    "line": "Noche y día escuchas los Puranas, pero ni siquiera los entiendes, oh tonto ignorante.\r",
+                    "time": 25032
+                },
+                {
+                    "line": "La muerte ha llegado, ahora ¿hacia dónde correrás? (1-Pausa)\r",
+                    "time": 33077
+                },
+                {
+                    "line": "Pensabas que este cuerpo era permanente, pero se convertirá en polvo.\r",
+                    "time": 54017
+                },
+                {
+                    "line": "¿Por qué no recitas el Nombre del Señor, oh tonto sinvergüenza? (1)\r",
+                    "time": 61081
+                },
+                {
+                    "line": "Deja que la Alabanza de Devoción del Señor penetre en tu corazón y deja ya tu mente intelectual,\r",
+                    "time": 78045
+                },
+                {
+                    "line": "Dice Nanak, esta es la manera de vivir en este mundo. (2-4)\r",
+                    "time": 86029
+                }
+            ],
+            "hindi_lyrics": [
+                {
+                    "line": " à¤à¥à¤à¤¾à¤µà¤à¤¤à¥ à¤®à¤¹à¤²à¤¾ à¥¯ à¥¥\r",
+                    "time": 97
+                },
+                {
+                    "line": " à¤¹à¥ à¤­à¤¾à¤ ! (à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¥ à¤­à¤à¤¤à¥ à¤à¥ à¤¬à¤¿à¤¨à¤¾) à¤®à¤¾à¤¨à¤¸ à¤à¥à¤µà¤¨ (à¤à¤¾ à¤¸à¤®à¤¯) à¤à¤¨à¤®-à¤à¤¦à¥à¤¦à¥à¤¶à¥à¤¯ à¤¹à¤¾à¤¸à¤¿à¤² à¤à¤¿à¤ à¤¬à¤¿à¤¨à¤¾ à¤¹à¥ à¤à¥à¤à¤°à¤¤à¤¾ à¤à¤¾ à¤°à¤¹à¤¾ à¤¹à¥à¥¤ à¤²à¤¾à¤à¤à¤¤à¤¾ à¤à¤¾ à¤°à¤¹à¤¾ à¤¹à¥à¥¤\r",
+                    "time": 17036
+                },
+                {
+                    "line": " à¤¹à¥ à¤®à¥à¤°à¥à¤ ! à¤°à¤¾à¤¤-à¤¦à¤¿à¤¨ à¤ªà¥à¤°à¤¾à¤£ (à¤à¤¦à¤¿à¤ à¤ªà¥à¤¸à¥à¤¤à¤à¥à¤ à¤à¥ à¤à¤¹à¤¾à¤¨à¤¿à¤¯à¤¾à¤) à¤¸à¥à¤¨ à¤à¥ (à¤­à¥) à¤¤à¥ à¤¨à¤¹à¥à¤ à¤¸à¤®à¤à¤¤à¤¾ (à¤à¤¿ à¤¯à¤¹à¤¾à¤ à¤¸à¤¦à¤¾ à¤¬à¥à¤ à¥ à¤¨à¤¹à¥à¤ à¤°à¤¹à¤¨à¤¾)à¥¤\r",
+                    "time": 25032
+                },
+                {
+                    "line": " à¤®à¥à¤¤ (à¤à¤¾ à¤¸à¤®à¤¯) à¤¤à¥ (à¤¨à¤à¤¼à¤¦à¥à¤) à¤ à¤ªà¤¹à¥à¤à¤à¤¾ à¤¹à¥ (à¤¬à¤¤à¤¾à¥¤ à¤¤à¥ à¤à¤¸ à¤à¤° à¤¸à¥) à¤­à¤¾à¤ à¤à¥ à¤à¤¹à¤¾à¤ à¤à¤²à¤¾ à¤à¤¾à¤à¤à¤¾à¥¤ à¥§à¥¤ à¤°à¤¹à¤¾à¤à¥¤\r",
+                    "time": 33077
+                },
+                {
+                    "line": " à¤à¤¿à¤¸ (à¤à¤ªà¤¨à¥) à¤¶à¤°à¥à¤° à¤à¥ à¤¤à¥ à¤¸à¤¦à¤¾ à¤à¤¾à¤¯à¤® à¤°à¤¹à¤¨à¥ à¤µà¤¾à¤²à¤¾ à¤¸à¤®à¤à¥ à¤¬à¥à¤ à¤¾ à¤¹à¥à¥¤ à¤¤à¥à¤°à¤¾ à¤µà¤¹ (à¤¶à¤°à¥à¤°) à¤¤à¥ (à¤à¤µà¤¶à¥à¤¯) à¤°à¤¾à¤ à¤¹à¥ à¤à¤¾à¤à¤à¤¾à¥¤\r",
+                    "time": 54017
+                },
+                {
+                    "line": " à¤¹à¥ à¤®à¥à¤°à¥à¤ ! à¤¹à¥ à¤¬à¥-à¤¶à¤°à¥à¤® ! (à¤«à¤¿à¤°) à¤¤à¥ à¤à¥à¤¯à¥à¤ à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¤¾ à¤¨à¤¾à¤® à¤¨à¤¹à¥à¤ à¤à¤ªà¤¤à¤¾à¥¤ à¥§à¥¤\r",
+                    "time": 61081
+                },
+                {
+                    "line": " à¤¦à¤¾à¤¸ à¤¨à¤¾à¤¨à¤ (à¤¤à¥à¤à¥ à¤¬à¤¾à¤°-à¤¬à¤¾à¤°) à¤¯à¤¹à¥ à¤¬à¤¾à¤¤ à¤à¤¹à¤¤à¤¾ à¤¹à¥ à¤à¤¿ (à¤à¤ªà¤¨à¥) à¤®à¤¨ à¤à¤¾ à¤à¤¹à¤à¤à¤¾à¤° à¤à¥à¤¡à¤¼ à¤¦à¥à¥¤\r",
+                    "time": 78045
+                },
+                {
+                    "line": " à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¥ à¤­à¤à¤¤à¥ (à¤à¤ªà¤¨à¥) à¤¹à¥à¤¦à¤¯ à¤®à¥à¤ à¤¬à¤¸à¤¾ à¤²à¥à¥¤ à¤à¤¸ à¤¤à¤°à¤¹ à¤à¤¾ à¤¸à¤¦à¤¾à¤à¤¾à¤°à¥ à¤à¥à¤µà¤¨ à¤à¥à¥¤ à¥¨à¥¤ à¥ªà¥¤",
+                    "time": 86029
+                }
+            ]
+        }
+    ],
+    "info": "testings"
+}

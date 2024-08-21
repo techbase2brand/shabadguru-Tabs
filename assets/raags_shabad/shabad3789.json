@@ -1,0 +1,404 @@
+{
+    "status": 200,
+    "message": "",
+    "data": [
+        {
+            "albumart": "",
+            "author": "",
+            "song": "ਸੰਮਨ ਜਉ ਇਸ ਪ੍ਰੇਮ ਕੀ ਦਮ ਕ੍ਯ੍ਯਿਹੁ ਹੋਤੀ ਸਾਟ ॥",
+            "json": "https://shabad-guru.org/uploads/data/35 - Chauboley Mehla 5/ਸੰਮਨ ਜਉ ਇਸ ਪ੍ਰੇਮ ਕੀ ਦਮ ਕ੍ਯ੍ਯਿਹੁ ਹੋਤੀ ਸਾਟ ॥.json",
+            "audio": "https://shabadguru.s3.us-west-1.amazonaws.com/gurbani/lrc n- Project/35 - Chauboley Mehla 5/mp3/song/1037 A Pb.mp3",
+            "punjabi": 1,
+            "english": 1,
+            "english_trans": 1,
+            "spanish": 1,
+            "hindi": 1,
+            "file_name_on_s3": "1037 A Pb",
+            "english_trans_lyrics": [
+                {
+                    "line": "cha-ubolay mehlaa 5\r",
+                    "time": 1011
+                },
+                {
+                    "line": "ik-oNkaar satgur parsaad.\r",
+                    "time": 14095
+                },
+                {
+                    "line": "samman ja-o is paraym kee dam ki-yahoo hotee saat.\r",
+                    "time": 44031
+                },
+                {
+                    "line": "raavan hutay so rank neh jin sir deenay kaat. ||1||\r",
+                    "time": 57014
+                },
+                {
+                    "line": "pareet paraym tan khach rahi-aa beech na raa-ee hot.\r",
+                    "time": 76050
+                },
+                {
+                    "line": "charan kamal man bayDhi-o boojhan surat sanjog. ||2||\r",
+                    "time": 88077
+                },
+                {
+                    "line": "saagar mayr udi-aan ban nav khand basuDhaa bharam.\r",
+                    "time": 101018
+                },
+                {
+                    "line": "moosan paraym piramm kai gan-o ayk kar karam. ||3||\r",
+                    "time": 112076
+                },
+                {
+                    "line": "moosan maskar paraym kee rahee jo ambar chhaa-ay.\r",
+                    "time": 125076
+                },
+                {
+                    "line": "beeDhay baaNDhay kamal meh bhavar rahay laptaa-ay. ||4||\r",
+                    "time": 137069
+                },
+                {
+                    "line": "jap tap sanjam harakh sukh maan mahat ar garab.\r",
+                    "time": 156000
+                },
+                {
+                    "line": "moosan nimkhak paraym par vaar vaar dayN-u sarab. ||5||\r",
+                    "time": 169008
+                },
+                {
+                    "line": "moosan maram na jaan-ee marat hirat sansaar.\r",
+                    "time": 180009
+                },
+                {
+                    "line": "paraym piramm na bayDhi-o urjhi-o mith bi-uhaar. ||6||\r",
+                    "time": 193023
+                },
+                {
+                    "line": "ghab dab jab jaaree-ai bichhurat paraym bihaal.\r",
+                    "time": 205041
+                },
+                {
+                    "line": "moosan tab hee moosee-ai bisrat purakh da-i-aal. ||7||\r",
+                    "time": 216084
+                },
+                {
+                    "line": "jaa ko paraym su-aa-o hai charan chitav man maahi.\r",
+                    "time": 236027
+                },
+                {
+                    "line": "naanak birhee barahm kay aan na kathoo jaahi. ||8||\r",
+                    "time": 246087
+                },
+                {
+                    "line": "lakh ghaateeN ooNchou ghano chanchal cheet bihaal.\r",
+                    "time": 259009
+                },
+                {
+                    "line": "neech keech nimrit ghanee karnee kamal jamaal. ||9||\r",
+                    "time": 271014
+                },
+                {
+                    "line": "kamal nain anjan si-aam chandar badan chit chaar.\r",
+                    "time": 283034
+                },
+                {
+                    "line": "moosan magan maramm si-o khand khand kar haar. ||10||\r",
+                    "time": 296012
+                },
+                {
+                    "line": "magan bha-i-o pari-a paraym si-o sooDh na simrat ang.\r",
+                    "time": 314011
+                },
+                {
+                    "line": "pargat bha-i-o sabh lo-a meh naanak aDham patang. ||11||\r",
+                    "time": 326040
+                }
+            ],
+            "english_lyrics": [
+                {
+                    "line": "Chaubolas, Fifth Mehl:\r",
+                    "time": 1011
+                },
+                {
+                    "line": "One Universal Creator God. By The Grace Of The True Guru:\r",
+                    "time": 14095
+                },
+                {
+                    "line": "O Samman, if one could buy this love with money,\r",
+                    "time": 44031
+                },
+                {
+                    "line": "then consider Raawan the king. He was not poor, but he could not buy it, even though he offered his head to Shiva. ||1||\r",
+                    "time": 57014
+                },
+                {
+                    "line": "My body is drenched in love and affection for the Lord; there is no distance at all between us.\r",
+                    "time": 76050
+                },
+                {
+                    "line": "My mind is pierced through by the Lotus Feet of the Lord. \r",
+                    "time": 88077
+                },
+                {
+                    "line": "He is realized when one's intuitive consciousness is attuned to Him. ||2||\r",
+                    "time": 101018
+                },
+                {
+                    "line": "I would cross the oceans, mountains, wilderness, forests and the nine regions of the earth in a single step, O Musan, for the Love of my Beloved. ||3||\r",
+                    "time": 112076
+                },
+                {
+                    "line": "O Musan, the Light of the Lord's Love has spread across the sky;\r",
+                    "time": 125076
+                },
+                {
+                    "line": "I cling to my Lord, like the bumble bee caught in the lotus flower. ||4||\r",
+                    "time": 137069
+                },
+                {
+                    "line": "Chanting and intense meditation, austere self-discipline, pleasure and peace, honor, greatness and pride\r",
+                    "time": 156000
+                },
+                {
+                    "line": "O Musan, I would dedicate and sacrifice all these for a moment of my Lord's Love. ||5||\r",
+                    "time": 169008
+                },
+                {
+                    "line": "O Musan, the world does not understand the Mystery of the Lord; it is dying and being plundered.\r",
+                    "time": 180009
+                },
+                {
+                    "line": "It is not pierced through by the Love of the Beloved Lord; it is entangled in false pursuits. ||6||\r",
+                    "time": 193023
+                },
+                {
+                    "line": "When someone's home and property are burnt, because of his attachment to them, he suffers in the sorrow of separation.\r",
+                    "time": 205041
+                },
+                {
+                    "line": "O Musan, when mortals forget the Merciful Lord God, then they are truly plundered. ||7||\r",
+                    "time": 216084
+                },
+                {
+                    "line": "Whoever enjoys the taste of the Lord's Love, remembers His Lotus Feet in his mind.\r",
+                    "time": 236027
+                },
+                {
+                    "line": "O Nanak, the lovers of God do not go anywhere else. ||8||\r",
+                    "time": 246087
+                },
+                {
+                    "line": "Climbing thousands of steep hillsides, the fickle mind becomes miserable.\r",
+                    "time": 259009
+                },
+                {
+                    "line": "Look at the humble, lowly mud, O Jamaal: the beautiful lotus grows in it. ||9||\r",
+                    "time": 271014
+                },
+                {
+                    "line": "My Lord has lotus-eyes; His Face is so beautifully adorned.\r",
+                    "time": 283034
+                },
+                {
+                    "line": "O Musan, I am intoxicated with His Mystery. I break the necklace of pride into bits. ||10||\r",
+                    "time": 296012
+                },
+                {
+                    "line": "I am intoxicated with the Love of my Husband Lord; remembering Him in meditation, I am not conscious of my own body.\r",
+                    "time": 314011
+                },
+                {
+                    "line": "He is revealed in all His Glory, all throughout the world. Nanak is a lowly moth at His Flame. ||11||\r",
+                    "time": 326040
+                }
+            ],
+            "spanish_lyrics": [
+                {
+                    "line": " Chaubolas, Guru Aryan Dev, Quinto Canal Divino.\r",
+                    "time": 1011
+                },
+                {
+                    "line": " Un Dios Creador Universal, por la Gracia del Verdadero Guru.\r",
+                    "time": 14095
+                },
+                {
+                    "line": " Oh Samman, si uno pudiera comprar con dinero este amor,.\r",
+                    "time": 44031
+                },
+                {
+                    "line": " entonces considera a Raawan, el rey, él no era pobre y no pudo comprarlo, aunque ofreció su cabeza a Shiva. (1)\r",
+                    "time": 57014
+                },
+                {
+                    "line": " Mi ser está totalmente imbuido en el Amor y el afecto por el Señor, no hay ninguna distancia entre nosotros,.\r",
+                    "time": 76050
+                },
+                {
+                    "line": " mi mente ha sido atravesada por el Loto de los Pies del Señor, uno lo conoce cuando la Conciencia intuitiva es entonada en Él.(2)\r",
+                    "time": 88077
+                },
+                {
+                    "line": " Cruzaría los océanos, montañas, regiones salvajes, bosques, y las nueve regiones de la Tierra de un solo salto, oh Musan, por el Amor de mi Bienamado.(3)\r",
+                    "time": 101018
+                },
+                {
+                    "line": " Oh Musan, la Luz del Amor del Señor se ha esparcido a través del cielo,.\r",
+                    "time": 112076
+                },
+                {
+                    "line": " me aferro a mi Señor, como la abeja atrapada en la flor de Loto.(4)\r",
+                    "time": 125076
+                },
+                {
+                    "line": " Meditación intensa, cantos, austeridad en la disciplina, paz y placer, honor, grandeza y orgullo,.\r",
+                    "time": 137069
+                },
+                {
+                    "line": " oh Musan, todo esto lo entregaría a cambio de un instante de Amor de mi Señor.(5)\r",
+                    "time": 156000
+                },
+                {
+                    "line": " Oh Musan, el mundo no entiende el Misterio del Señor,.\r",
+                    "time": 169008
+                },
+                {
+                    "line": " se está muriendo y en proceso de destrucción no ha sido atravesado por el Amor del Bienamado Señor, su atención está fija en intereses triviales.(6)\r",
+                    "time": 180009
+                },
+                {
+                    "line": " Cuando el hogar y la propiedad de alguien ha sido quemada por el apego que le tiene,\r",
+                    "time": 193023
+                },
+                {
+                    "line": " sufre la pena de la separación, oh Musan, cuando los mortales se olvidan del Señor, entonces son en verdad destruidos. (7)\r",
+                    "time": 205041
+                },
+                {
+                    "line": " Los Amantes del Señor que disfruten del Sabor del Amor del Señor y recuerden los Pies de Loto en su mente,.\r",
+                    "time": 216084
+                },
+                {
+                    "line": " oh Nanak, no se van a ningún otro lado.(8)\r",
+                    "time": 236027
+                },
+                {
+                    "line": " Escalando miles de empinadas montañas, la débil mente se vuelve miserable,.\r",
+                    "time": 259009
+                },
+                {
+                    "line": " mira el pobre fango, oh Yamaal, pues la bella Flor de Loto crece ahí.(9)\r",
+                    "time": 271014
+                },
+                {
+                    "line": " Mi Señor tiene Ojos de Loto, Su Semblante está Bellamente adornado,.\r",
+                    "time": 283034
+                },
+                {
+                    "line": " oh Musan, estoy totalmente embebido en Su Misterio, y hago pedazos el collar del orgullo.(10)\r",
+                    "time": 296012
+                },
+                {
+                    "line": " Vivo intoxicado en el Amor de mi Señor Esposo, meditando en Él pierdo conciencia de mi propio cuerpo,.\r",
+                    "time": 314011
+                },
+                {
+                    "line": " pues Él se me revela con toda Su Gloria, y a través de Su Palabra, Nanak se siente como la humilde palomilla que se acera a la flama.(11)",
+                    "time": 326040
+                }
+            ],
+            "hindi_lyrics": [
+                {
+                    "line": "à¤à¤à¤¬à¥à¤²à¥ à¤®à¤¹à¤²à¤¾ à¥«\r",
+                    "time": 1011
+                },
+                {
+                    "line": "à©´ à¤¸à¤¤à¤¿à¤à¥à¤° à¤ªà¥à¤°à¤¸à¤¾à¤¦à¤¿ à¥¥\r",
+                    "time": 14095
+                },
+                {
+                    "line": "à¤¹à¥ à¤®à¤¨à¥à¤·à¥à¤¯! (à¤§à¤¨ à¤à¥ à¤¬à¤¦à¤²à¥ à¤¹à¤°à¥-à¤¨à¤¾à¤® à¤à¤¾ à¤ªà¥à¤°à¥à¤® à¤¨à¤¹à¥à¤ à¤®à¤¿à¤² à¤¸à¤à¤¤à¤¾) à¤à¤à¤° à¤à¤¸ à¤ªà¥à¤°à¥à¤® à¤à¥ à¤à¤¦à¤²à¤¾-à¤¬à¤¦à¤²à¥ à¤§à¤¨ à¤¸à¥ à¤¹à¥ à¤¸à¤à¤¤à¥à¥¤\r",
+                    "time": 44031
+                },
+                {
+                    "line": "à¤¤à¥ à¤µà¤¹ (à¤°à¤¾à¤µà¤£ à¤à¤¿à¤¸à¤¨à¥ à¤¶à¤¿à¤µ à¤à¥ à¤à¥ à¤ªà¥à¤°à¤¸à¤¨à¥à¤¨ à¤à¤°à¤¨à¥ à¤à¥ à¤²à¤¿à¤ à¤à¥à¤¯à¤¾à¤°à¤¹ à¤¬à¤¾à¤° à¤à¤ªà¤¨à¥) à¤¸à¤¿à¤° à¤à¤¾à¤ à¤à¥ à¤¦à¤¿à¤ à¤¥à¥ (à¤¸à¤¿à¤° à¤¦à¥à¤¨à¥ à¤à¥ à¤à¤à¤¹ à¤¬à¥à¤à¤à¤¤ à¤§à¤¨ à¤¦à¥ à¤¦à¥à¤¤à¤¾à¥¤ à¤à¥à¤¯à¥à¤à¤à¤¿) à¤°à¤¾à¤µà¤£ à¤à¥à¤¸à¥ à¤à¤à¤à¤¾à¤² à¤¤à¥ à¤¥à¥ à¤¨à¤¹à¥à¤à¥¤ 1à¥¤\r",
+                    "time": 57014
+                },
+                {
+                    "line": "à¤¹à¥ à¤¦à¤¾à¤¨à¥ à¤®à¤¨à¥à¤·à¥à¤¯ ! à¤¦à¥à¤à¥¤ à¤à¤¿à¤¸ à¤®à¤¨à¥à¤·à¥à¤¯ à¤à¤¾ à¤¹à¥à¤¦à¤¯ (à¤à¤ªà¤¨à¥ à¤ªà¥à¤°à¥à¤¤à¤® à¤à¥) à¤ªà¥à¤°à¥à¤®-à¤ªà¥à¤¯à¤¾à¤° à¤®à¥à¤ à¤®à¤à¤¨ à¤¹à¥à¤ à¤°à¤¹à¤¤à¤¾ à¤¹à¥ (à¤à¤¸à¤à¥ à¤à¤à¤¦à¤° à¤¸à¥ à¤à¤ªà¤¨à¥ à¤ªà¥à¤°à¥à¤¤à¤® à¤¸à¥) à¤°à¤à¥à¤¤à¥ à¤­à¤° à¤­à¥ à¤¦à¥à¤°à¥ à¤¨à¤¹à¥à¤ à¤¹à¥à¤¤à¥à¥¤\r",
+                    "time": 76050
+                },
+                {
+                    "line": "à¤à¥à¤¸à¥ à¤­à¥à¤°à¤¾ à¤à¤®à¤²-à¤«à¥à¤² à¤®à¥à¤ à¤­à¥à¤¦à¤¾ à¤à¤¾à¤¤à¤¾ à¤¹à¥à¥¤ à¤µà¥à¤¸à¥ à¤¹à¥ à¤à¤¸ à¤®à¤¨à¥à¤·à¥à¤¯ à¤à¤¾ à¤®à¤¨ (à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¥) à¤¸à¥à¤à¤¦à¤° à¤à¤°à¤£à¥à¤ à¤®à¥à¤ à¤­à¥à¤¦à¤¾ à¤°à¤¹à¤¤à¤¾ à¤¹à¥à¥¤ à¤à¤¸à¤à¥ à¤¸à¤®à¤à¤¨à¥ à¤µà¤¾à¤²à¥ à¤®à¤¾à¤¨à¤¸à¤¿à¤ à¤¤à¤¾à¤à¤¤ à¤²à¤à¤¨ à¤®à¥à¤ à¤¹à¥ à¤²à¥à¤¨ à¤°à¤¹à¤¤à¥ à¤¹à¥à¥¤ 2à¥¤\r",
+                    "time": 88077
+                },
+                {
+                    "line": "à¤¸à¤®à¥à¤à¤¦à¥à¤°à¥¤ à¤ªà¤°à¥à¤µà¤¤à¥¤ à¤à¤à¤à¤²à¥¤ à¤¸à¤¾à¤°à¥ à¤§à¤°à¤¤à¥- (à¤à¤¨à¤à¥ à¤¯à¤¾à¤¤à¥à¤°à¤¾ à¤à¤¦à¤¿ à¤à¥ à¤à¤¾à¤¤à¤¿à¤°) à¤­à¥à¤°à¤®à¤£ à¤à¤°à¤¨à¥ à¤®à¥à¤ à¤¹à¥ à¤à¤¤à¥à¤®à¤¿à¤ à¤à¥à¤µà¤¨ à¤à¥ à¤à¤° à¤¸à¥ à¤²à¥à¤à¥ à¤à¤¾ à¤°à¤¹à¥ à¤¹à¥ à¤®à¤¨à¥à¤·à¥à¤¯ ! à¤ªà¥à¤°à¥à¤¤à¤®-à¤ªà¥à¤°à¤­à¥ à¤à¥ à¤ªà¥à¤°à¥à¤® à¤à¥ à¤°à¤¾à¤¸à¤¤à¥ à¤®à¥à¤ à¤®à¥à¤ à¤¤à¥ (à¤à¤¸ à¤¸à¤¾à¤°à¥ à¤°à¤à¤¨ à¤à¥) à¤¸à¤¿à¤°à¥à¤« à¤à¤ à¤à¤¦à¤® à¤à¥ à¤¬à¤°à¤¾à¤¬à¤° à¤¹à¥ à¤¸à¤®à¤à¤¤à¤¾ à¤¹à¥à¤à¥¤ 3à¥¤\r",
+                    "time": 101018
+                },
+                {
+                    "line": "à¤¹à¥ à¤à¤¤à¥à¤®à¤¿à¤ à¤à¥à¤µà¤¨ à¤²à¥à¤à¤¾ à¤°à¤¹à¥ à¤®à¤¨à¥à¤·à¥à¤¯ ! (à¤à¤à¤¦à¥à¤°à¤®à¤¾ à¤à¥) à¤à¤¾à¤à¤¦à¤¨à¥ à¤¸à¤¾à¤°à¥ à¤à¤à¤¾à¤¶ à¤®à¥à¤ à¤¬à¤¿à¤à¤°à¥ à¤¹à¥à¤ à¤¹à¥à¤¤à¥ à¤¹à¥\r",
+                    "time": 125076
+                },
+                {
+                    "line": "à¤­à¥à¤°à¥ à¤à¤®à¤²-à¤«à¥à¤² à¤®à¥à¤ à¤­à¥à¤¦à¥ à¤¹à¥à¤ à¤¬à¤à¤§à¥ à¤¹à¥à¤ (à¤à¤®à¤²-à¤«à¥à¤² à¤®à¥à¤ à¤¹à¥) à¤²à¤¿à¤ªà¤ à¤°à¤¹à¥ à¤¹à¥à¤¤à¥ à¤¹à¥à¤ (à¤à¤¸à¥ à¤¤à¤°à¤¹ à¤à¤¿à¤¨ à¤®à¤¨à¥à¤·à¥à¤¯à¥à¤ à¤à¥ à¤¹à¥à¤¦à¤¯-) à¤à¤à¤¾à¤¶ à¤à¥ à¤ªà¥à¤°à¤­à¥-à¤ªà¥à¤°à¥à¤® à¤à¥ à¤à¤¾à¤à¤¦à¤¨à¥ à¤°à¥à¤¶à¤¨ à¤à¤° à¤°à¤¹à¥ à¤¹à¥à¤¤à¥ à¤¹à¥ (à¤µà¥ à¤®à¤¨à¥à¤·à¥à¤¯ à¤ªà¥à¤°à¤­à¥-à¤ªà¥à¤°à¥à¤® à¤®à¥à¤) à¤­à¥à¤¦à¥ à¤¹à¥à¤ (à¤ªà¥à¤°à¤­à¥ à¤à¥) à¤¸à¥à¤à¤¦à¤° à¤à¤°à¤£à¥à¤ à¤®à¥à¤ à¤à¥à¤¡à¤¼à¥ à¤°à¤¹à¤¤à¥ à¤¹à¥à¤à¥¤ 4à¥¤\r",
+                    "time": 137069
+                },
+                {
+                    "line": "à¤¦à¥à¤µà¤¤à¤¾à¤à¤ à¤à¥ à¤ªà¥à¤°à¤¸à¤¨à¥à¤¨ à¤à¤°à¤¨à¥ à¤à¥ à¤à¤¾à¤¤à¤¿à¤° à¤®à¤à¤¤à¥à¤°à¥à¤ à¤à¥ à¤à¤¾à¤ªà¥¤ à¤§à¥à¤£à¤¿à¤¯à¤¾à¤ à¤¤à¤ªà¤¾à¤¨à¥à¥¤ à¤à¤¨à¥à¤¦à¥à¤°à¤¿à¤¯à¥à¤ à¤à¥ à¤µà¤¶ à¤®à¥à¤ à¤à¤°à¤¨à¥ à¤à¥ à¤²à¤¿à¤ (à¤à¤²à¥à¤à¥ à¤²à¤à¤à¤¨à¥ à¤à¤¦à¤¿ à¤à¤¨à¥à¤à¥à¤) à¤¯à¤¤à¤¨- à¤à¤¨ à¤¸à¤¾à¤§à¤¨à¥à¤ à¤¸à¥ à¤®à¤¿à¤²à¥ à¤à¥à¤¶à¥à¥¤ à¤à¤à¥à¤à¤¤à¥¤ à¤®à¤¹à¤¾à¤¨à¤¤à¤¾à¥¤\r",
+                    "time": 156000
+                },
+                {
+                    "line": "à¤à¤¨à¤¸à¥ à¤®à¤¿à¤²à¤¾ à¤¹à¥à¤ à¤¸à¥à¤ à¤à¤° à¤à¤¹à¤à¤à¤¾à¤°- à¤à¤¨à¤®à¥à¤ à¤¹à¥ à¤à¤¤à¥à¤®à¤¿à¤ à¤à¥à¤µà¤¨ à¤à¥ à¤²à¥à¤à¤¾ à¤°à¤¹à¥ à¤¹à¥ à¤®à¤¨à¥à¤·à¥à¤¯ ! à¤®à¥à¤ à¤¤à¥ à¤à¤à¤ à¤à¤ªà¤à¤¨à¥ à¤à¤¿à¤¤à¤¨à¥ à¤¸à¤®à¤¯ à¤à¥ à¤²à¤¿à¤ à¤®à¤¿à¤²à¥ à¤ªà¥à¤°à¤­à¥à¥-à¤ªà¥à¤¯à¤¾à¤° à¤¸à¥ à¤à¤¨à¤à¥ à¤¸à¤¾à¤°à¥ à¤¸à¤¾à¤§à¤¨à¥à¤ à¤à¥ à¤à¥à¤°à¥à¤¬à¤¾à¤¨ à¤à¤°à¤¤à¤¾ à¤¹à¥à¤à¥¤ 5à¥¤\r",
+                    "time": 169008
+                },
+                {
+                    "line": "à¤¹à¥ à¤à¤¤à¥à¤®à¤¿à¤ à¤à¥à¤µà¤¨ à¤²à¥à¤à¤¾ à¤°à¤¹à¥ à¤®à¤¨à¥à¤·à¥à¤¯ ! (à¤¦à¥à¤à¥¤ à¤¤à¥à¤°à¥ à¤¤à¤°à¤¹ à¤¹à¥ à¤¯à¤¹) à¤à¤à¤¤ (à¤ªà¥à¤°à¥à¤® à¤à¤¾) à¤­à¥à¤¦ à¤¨à¤¹à¥à¤ à¤à¤¾à¤¨à¤¤à¤¾à¥¤ (à¤à¤°) à¤à¤¤à¥à¤®à¤¿à¤ à¤®à¥à¤¤ à¤®à¤° à¤°à¤¹à¤¾ à¤¹à¥à¥¤\r",
+                    "time": 180009
+                },
+                {
+                    "line": "à¤à¤¤à¥à¤®à¤¿à¤ à¤à¥à¤µà¤¨ à¤à¥ à¤°à¤¾à¤¶à¤¿-à¤ªà¥à¤à¤à¥ à¤²à¥à¤à¤¾ à¤°à¤¹à¤¾ à¤¹à¥à¥¤ à¤ªà¥à¤°à¤­à¥-à¤ªà¥à¤°à¥à¤¤à¤® à¤à¥ à¤ªà¥à¤¯à¤¾à¤°à¥ à¤®à¥à¤ à¤¨à¤¹à¥à¤ à¤­à¥à¤¦à¤¤à¤¾à¥¤ à¤¨à¤¾à¤¶à¤µà¤à¤¤ à¤ªà¤¦à¤¾à¤°à¥à¤¥à¥à¤ à¤à¥ à¤à¤¾à¤°à¥à¤¯-à¤µà¥à¤¯à¤µà¤¹à¤¾à¤° à¤®à¥à¤ à¤¹à¥ à¤«à¤¸à¤¾ à¤°à¤¹à¤¤à¤¾ à¤¹à¥à¥¤ 6à¥¤\r",
+                    "time": 193023
+                },
+                {
+                    "line": "à¤à¤¬ à¤à¤¿à¤¸à¥ à¤®à¤¨à¥à¤·à¥à¤¯ à¤à¤¾ à¤à¤° à¤à¤² à¤à¤¾à¤¤à¤¾ à¤¹à¥à¥¤ à¤§à¤¨-à¤ªà¤¦à¤¾à¤°à¥à¤¥ à¤à¤² à¤à¤¾à¤¤à¤¾ à¤¹à¥ (à¤à¤¸ à¤à¤¯à¤¦à¤¾à¤¦ à¤¸à¥) à¤µà¤¿à¤à¥à¤¡à¤¼à¤¾ à¤¹à¥à¤ à¤µà¤¹ à¤®à¤¨à¥à¤·à¥à¤¯ à¤à¤¸à¤à¥ à¤®à¥à¤¹ à¤à¥ à¤à¤¾à¤°à¤£ à¤¬à¤¹à¥à¤¤ à¤¦à¥à¤à¥ à¤¹à¥à¤¤à¤¾ à¤¹à¥ (à¤à¤° à¤ªà¥à¤à¤¾à¤°à¤¤à¤¾ à¤¹à¥ 'à¤®à¥à¤ à¤²à¥à¤à¤¾ à¤à¤¯à¤¾à¥¤ à¤®à¥à¤ à¤²à¥à¤ à¤à¤¯à¤¾')à¥¤\r",
+                    "time": 205041
+                },
+                {
+                    "line": "à¤ªà¤° à¤à¤¤à¥à¤®à¤¿à¤ à¤à¥à¤µà¤¨ à¤²à¥à¤à¤¾ à¤°à¤¹à¥ à¤¹à¥ à¤®à¤¨à¥à¤·à¥à¤¯ ! (à¤à¤¸à¤² à¤®à¥à¤) à¤¤à¤¬ à¤¹à¥ à¤²à¥à¤à¥ à¤à¤¾à¤¤à¥ à¤¹à¥à¤ à¤à¤¬ à¤¦à¤¯à¤¾ à¤à¤¾ à¤¶à¥à¤°à¥à¤¤ à¤à¤à¤¾à¤²-à¤ªà¥à¤°à¤ à¤®à¤¨ à¤¸à¥ à¤­à¥à¤²à¤¤à¤¾ à¤¹à¥à¥¤ 7à¥¤\r",
+                    "time": 216084
+                },
+                {
+                    "line": "à¤¹à¥ à¤¨à¤¾à¤¨à¤ ! à¤à¤¿à¤¨ à¤®à¤¨à¥à¤·à¥à¤¯à¥à¤ à¤à¤¾ à¤à¥à¤µà¤¨-à¤¨à¤¿à¤¶à¤¾à¤¨à¤¾ (à¤ªà¥à¤°à¤­à¥-à¤à¤°à¤£à¥à¤ à¤à¤¾) à¤ªà¥à¤¯à¤¾à¤° à¤¹à¥à¥¤ (à¤à¤¿à¤¨ à¤®à¤¨à¥à¤·à¥à¤¯à¥à¤ à¤à¥) à¤®à¤¨ à¤®à¥à¤ (à¤ªà¥à¤°à¤­à¥ à¤à¥) à¤à¤°à¤£à¥à¤ à¤à¥ à¤¯à¤¾à¤¦ (à¤à¤¿à¤à¥ à¤°à¤¹à¤¤à¥) à¤¹à¥à¥¤\r",
+                    "time": 236027
+                },
+                {
+                    "line": "à¤µà¥ à¤®à¤¨à¥à¤·à¥à¤¯ à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¥ à¤à¤¶à¤¿à¤ à¤¹à¥à¤à¥¤ à¤µà¥ à¤®à¤¨à¥à¤·à¥à¤¯ ('à¤¨à¤µà¤à¤à¤¡ à¤¬à¤¸à¥à¤§à¤¾ à¤­à¤°à¤®' à¤à¤° 'à¤à¤ª à¤¤à¤ª à¤¸à¤à¤à¤®' à¤à¤¦à¤¿) à¤à¤° à¤à¤¿à¤¸à¥ à¤­à¥ à¤¤à¤°à¤« à¤¨à¤¹à¥à¤ à¤à¤¾à¤¤à¥à¥¤ 8à¥¤\r",
+                    "time": 246087
+                },
+                {
+                    "line": "à¤¹à¥ à¤­à¤¾à¤ ! (à¤®à¤¨à¥à¤·à¥à¤¯ à¤à¤¾) à¤à¤à¤à¤² à¤®à¤¨ (à¤¦à¥à¤¨à¤¿à¤¯à¤¾à¤µà¥ à¤¬à¤¡à¤¼à¤ªà¥à¤ªà¤¨ à¤à¥) à¤à¤¨à¥à¤à¥à¤ à¤à¤à¤à¥ à¤à¥à¤à¤¿à¤¯à¥à¤ (à¤ªà¤° à¤ªà¤¹à¥à¤à¤à¤¨à¥) à¤à¥ (à¤à¤ªà¤¨à¤¾) à¤¨à¤¿à¤¶à¤¾à¤¨à¤¾ à¤¬à¤¨à¤¾à¤ à¤°à¤à¤¤à¤¾ à¤¹à¥à¥¤ à¤à¤°à¥¤ à¤¦à¥à¤à¥ à¤¹à¥à¤¤à¤¾ à¤¹à¥à¥¤\r",
+                    "time": 259009
+                },
+                {
+                    "line": "à¤ªà¤° à¤à¥à¤à¤¡à¤¼ à¤¨à¤¿à¤à¤²à¥ à¤à¤à¤¹ à¤¹à¥ (à¤¨à¤¿à¤à¤²à¥ à¤à¤à¤¹ à¤¬à¤¨à¤¾ à¤°à¤¹à¤¤à¤¾ à¤¹à¥à¥¤ à¤¨à¥à¤à¥ à¤à¤à¤¹ à¤ªà¤° à¤¬à¤¨à¥ à¤°à¤¹à¤¨à¥ à¤µà¤¾à¤²à¥ à¤à¤¸à¤®à¥à¤) à¤¬à¤¡à¤¼à¥ à¤¨à¤¿à¤®à¥à¤°à¤¤à¤¾ à¤¹à¥à¥¤ à¤à¤¸ à¤à¥à¤µà¤¨ à¤à¤°à¥à¤¤à¤µà¥à¤¯ à¤à¥ à¤¬à¤°à¤à¤¤à¤¿ à¤¸à¥ (à¤à¤¸à¤®à¥à¤) à¤à¥à¤®à¤² à¤¸à¥à¤à¤¦à¤°à¤¤à¤¾ à¤µà¤¾à¤²à¤¾ à¤à¤®à¤²-à¤«à¥à¤² à¤à¤à¤¤à¤¾ à¤¹à¥à¥¤ 9à¥¤\r",
+                    "time": 271014
+                },
+                {
+                    "line": "à¤¹à¥ à¤à¤¤à¥à¤®à¤¿à¤ à¤à¥à¤µà¤¨ à¤à¥ à¤²à¥à¤à¤¾ à¤°à¤¹à¥ à¤®à¤¨à¥à¤·à¥à¤¯ ! à¤à¤à¤° à¤¤à¥ (à¤à¤¸ à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¥ à¤®à¤¿à¤²à¤¾à¤ª à¤à¥) à¤­à¥à¤¦ à¤®à¥à¤ à¤®à¤¸à¥à¤¤ à¤¹à¥à¤¨à¤¾ à¤à¤¾à¤¹à¤¤à¤¾ à¤¹à¥ à¤à¥ à¤à¤¾à¤à¤¦ à¤¸à¥ à¤¸à¥à¤à¤¦à¤° à¤®à¥à¤à¤¡à¤¼à¥ à¤µà¤¾à¤²à¤¾ à¤¹à¥à¥¤\r",
+                    "time": 283034
+                },
+                {
+                    "line": "à¤à¤° à¤¸à¥à¤à¤¦à¤° à¤à¤¿à¤à¥à¤¤ à¤µà¤¾à¤²à¤¾ à¤¹à¥ à¤à¤¿à¤¸à¤à¥ à¤à¤®à¤²-à¤«à¥à¤² à¤à¥à¤¸à¥ à¤¸à¥à¤à¤¦à¤° à¤¨à¥à¤¤à¥à¤° à¤¹à¥à¤ à¤à¤¿à¤¨ à¤®à¥à¤ à¤à¤¾à¤²à¤¾ à¤¸à¥à¤°à¤®à¤¾ à¤ªà¤¡à¤¼à¤¾ à¤¹à¥à¤ à¤¹à¥ (à¤­à¤¾à¤µà¥¤ à¤à¥ à¤ªà¤°à¤®à¤¾à¤¤à¥à¤®à¤¾ à¤à¤¤à¤¿ à¤¹à¥ à¤¸à¥à¤à¤¦à¤° à¤¹à¥)à¥¤ à¤¤à¥ à¤à¤ªà¤¨à¥ à¤à¤¨ à¤¹à¤¾à¤°à¥à¤ à¤à¥ ('à¤¨à¤µà¤à¤à¤¡ à¤¬à¤¸à¥à¤§à¤¾ à¤­à¤°à¤®' à¤à¤° 'à¤à¤ª à¤¤à¤ª à¤¸à¤à¤à¤®' à¤à¤¦à¤¿ à¤à¥ à¤¦à¤¿à¤à¤¾à¤µà¥à¤ à¤à¥) à¤à¥à¤à¤¡à¤¼à¥-à¤à¥à¤à¤¡à¤¼à¥ à¤à¤° à¤¦à¥à¥¤ 10à¥¤\r",
+                    "time": 296012
+                },
+                {
+                    "line": "à¤¹à¥ à¤¨à¤¾à¤¨à¤ ! (à¤¬à¥à¤à¤¾à¤°à¤¾) à¤¨à¥à¤ (à¤¸à¤¾) à¤ªà¤¤à¤à¤à¤¾ (à¤à¤ªà¤¨à¥) à¤ªà¥à¤¯à¤¾à¤°à¥ (à¤à¤²à¤¤à¥ à¤¹à¥à¤ à¤¦à¥à¤) à¤à¥ à¤ªà¥à¤¯à¤¾à¤° à¤®à¥à¤ (à¤à¤¤à¤¨à¤¾) à¤®à¤¸à¥à¤¤ à¤¹à¥ à¤à¤¾à¤¤à¤¾ à¤¹à¥ (à¤à¤¿ à¤ªà¥à¤¯à¤¾à¤°à¥ à¤à¥) à¤¯à¤¾à¤¦ à¤à¤°à¤¤à¥ à¤¹à¥à¤ à¤à¤¸à¥ à¤à¤ªà¤¨à¥ à¤¶à¤°à¥à¤° à¤à¥ à¤¸à¥à¤§-à¤¬à¥à¤§ à¤¨à¤¹à¥à¤ à¤°à¤¹à¤¤à¥ (à¤µà¤¹ à¤ªà¤¤à¤à¤à¤¾ à¤à¤²à¤¤à¥ à¤¹à¥à¤ à¤¦à¥à¤ à¤à¥ à¤²à¤¾à¤ à¤ªà¤° à¤à¤² à¤®à¤°à¤¤à¤¾ à¤¹à¥à¥¤\r",
+                    "time": 314011
+                },
+                {
+                    "line": "à¤ªà¤° à¤à¤ªà¤¨à¥ à¤à¤¸ à¤à¤¶à¥à¤ à¤à¥ à¤¸à¤¦à¤à¤¾) à¤¨à¥à¤ à¤¸à¤¾ à¤ªà¤¤à¤à¤à¤¾ à¤¸à¤¾à¤°à¥ à¤à¤à¤¤ à¤®à¥à¤ à¤®à¤¶à¤¹à¥à¤° à¤¹à¥ à¤à¤¯à¤¾ à¤¹à¥à¥¤ 11à¥¤\r",
+                    "time": 326040
+                }
+            ]
+        }
+    ],
+    "info": "testings"
+}

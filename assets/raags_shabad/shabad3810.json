@@ -1,0 +1,931 @@
+{
+    "status": 200,
+    "message": "",
+    "data": [
+        {
+            "albumart": "",
+            "author": "",
+            "song": "ਥਾਲ ਵਿਚਿ ਤਿੰਨਿ ਵਸਤੂ ਪਈਓ ਸਤੁ ਸੰਤੋਖੁ ਵੀਚਾਰੋ ॥",
+            "json": "https://shabad-guru.org/uploads/data/40 - Final and Raag Mala/ਥਾਲ ਵਿਚਿ ਤਿੰਨਿ ਵਸਤੂ ਪਈਓ ਸਤੁ ਸੰਤੋਖੁ ਵੀਚਾਰੋ ॥.json",
+            "audio": "https://shabadguru.s3.us-west-1.amazonaws.com/gurbani/lrc n- Project/40 - Final and Raag Mala/mp3/song/1088 B Pb.mp3",
+            "punjabi": 1,
+            "english": 1,
+            "english_trans": 1,
+            "spanish": 1,
+            "hindi": null,
+            "file_name_on_s3": "1088 B Pb",
+            "english_trans_lyrics": [
+                {
+                    "line": "mundaavanee mehlaa 5.\r",
+                    "time": 1049
+                },
+                {
+                    "line": "thaal vich tinn vastoo pa-ee-o sat santokh veechaaro.\r",
+                    "time": 14081
+                },
+                {
+                    "line": "amrit naam thaakur kaa pa-i-o jis kaa sabhas aDhaaro.\r",
+                    "time": 28066
+                },
+                {
+                    "line": "jay ko khaavai jay ko bhunchai tis kaa ho-ay uDhaaro.\r",
+                    "time": 49007
+                },
+                {
+                    "line": "ayh vasat tajee nah jaa-ee nit nit rakh ur Dhaaro.\r",
+                    "time": 62073
+                },
+                {
+                    "line": "tam sansaar charan lag taree-ai sabh naanak barahm pasaaro. ||1||\r",
+                    "time": 76031
+                }
+            ],
+            "english_lyrics": [
+                {
+                    "line": "Mundaavanee, Fifth Mehl:\r",
+                    "time": 1049
+                },
+                {
+                    "line": "Upon this Plate, three things have been placed: Truth, Contentment and Contemplation.\r",
+                    "time": 14081
+                },
+                {
+                    "line": "The Ambrosial Nectar of the Naam, the Name of our Lord and Master, has been placed upon it as well; it is the Support of all.\r",
+                    "time": 28066
+                },
+                {
+                    "line": "One who eats it and enjoys it shall be saved.\r",
+                    "time": 49007
+                },
+                {
+                    "line": "This thing can never be forsaken; keep this always and forever in your mind.\r",
+                    "time": 62073
+                },
+                {
+                    "line": "The dark world-ocean is crossed over, by grasping the Feet of the Lord; O Nanak, it is all the extension of God. ||1||\r",
+                    "time": 76031
+                }
+            ],
+            "spanish_lyrics": [
+                {
+                    "line": "Mundavani, Mejl Guru Aryan, Quinto Canal Divino.\r",
+                    "time": 1049
+                },
+                {
+                    "line": "Tres cosas se han puesto sobre este plato, Verdad, Contentamiento y Contemplación;\r",
+                    "time": 14081
+                },
+                {
+                    "line": "el Néctar Ambrosial del Naam, el Nombre de nuestro Señor y Maestro, el Soporte de todo,\r",
+                    "time": 28066
+                },
+                {
+                    "line": "también ha sido establecido. Quien Lo saborea y Lo disfruta, será salvado.\r",
+                    "time": 49007
+                },
+                {
+                    "line": "Esto no se te puede olvidar, consérvalo siempre en tu mente,\r",
+                    "time": 62073
+                },
+                {
+                    "line": "el aterrador océano del mundo es cruzado, aferrándose a los Pies del Señor. Oh, dice Nanak, todo es la Extensión de Dios. (1)",
+                    "time": 76031
+                }
+            ],
+            "hindi_lyrics": null
+        },
+        {
+            "albumart": "",
+            "author": "",
+            "song": "ਤੇਰਾ ਕੀਤਾ ਜਾਤੋ ਨਾਹੀ ਮੈਨੋ ਜੋਗੁ ਕੀਤੋਈ ॥",
+            "json": "https://shabad-guru.org/uploads/data/40 - Final and Raag Mala/ਤੇਰਾ ਕੀਤਾ ਜਾਤੋ ਨਾਹੀ ਮੈਨੋ ਜੋਗੁ ਕੀਤੋਈ ॥.json",
+            "audio": "https://shabadguru.s3.us-west-1.amazonaws.com/gurbani/lrc n- Project/40 - Final and Raag Mala/mp3/song/1088 C Pb.mp3",
+            "punjabi": 1,
+            "english": 1,
+            "english_trans": 1,
+            "spanish": 1,
+            "hindi": null,
+            "file_name_on_s3": "1088 C Pb",
+            "english_trans_lyrics": [
+                {
+                    "line": "salok mehlaa 5.\r",
+                    "time": 1033
+                },
+                {
+                    "line": "tayraa keetaa jaato naahee maino jog keeto-ee.\r",
+                    "time": 14071
+                },
+                {
+                    "line": "mai nirguni-aaray ko gun naahee aapay taras pa-i-o-ee.\r",
+                    "time": 28069
+                },
+                {
+                    "line": "taras pa-i-aa mihraamat ho-ee satgur sajan mili-aa.\r",
+                    "time": 42031
+                },
+                {
+                    "line": "naanak naam milai taaN jeevaaN tan man theevai hari-aa. ||1||\r",
+                    "time": 55066
+                }
+            ],
+            "english_lyrics": [
+                {
+                    "line": "Shalok, Fifth Mehl:\r",
+                    "time": 1033
+                },
+                {
+                    "line": "I have not appreciated what You have done for me, Lord; only You can make me worthy.\r",
+                    "time": 14071
+                },
+                {
+                    "line": "I am unworthy - I have no worth or virtues at all. You have taken pity on me.\r",
+                    "time": 28069
+                },
+                {
+                    "line": "You took pity on me, and blessed me with Your Mercy, and I have met the True Guru, my Friend.\r",
+                    "time": 42031
+                },
+                {
+                    "line": "O Nanak, if I am blessed with the Naam, I live, and my body and mind blossom forth. ||1||\r",
+                    "time": 55066
+                }
+            ],
+            "spanish_lyrics": [
+                {
+                    "line": "Shlok, Mejl Guru Aryan, Quinto Canal Divino.\r",
+                    "time": 1033
+                },
+                {
+                    "line": "No he apreciado lo que has hecho por mí, Señor, sólo Tú me haces Digno de Ti.\r",
+                    "time": 14071
+                },
+                {
+                    "line": "No me siento Digno, no tengo Valor o Virtudes, para nada, pero has tenido Piedad de mí.\r",
+                    "time": 28069
+                },
+                {
+                    "line": "y me has bendecido con Tu Misericordia y así he encontrado al Verdadero Guru, mi Amigo.\r",
+                    "time": 42031
+                },
+                {
+                    "line": "Oh, dice Nanak, he sido bendecido con el Naam, ahora vivo y mi cuerpo y mente están en flor. (1)",
+                    "time": 55066
+                }
+            ],
+            "hindi_lyrics": null
+        },
+        {
+            "albumart": "",
+            "author": "",
+            "song": "ਰਾਗ ਏਕ ਸੰਗਿ ਪੰਚ ਬਰੰਗਨ ॥",
+            "json": "https://shabad-guru.org/uploads/data/40 - Final and Raag Mala/ਰਾਗ ਏਕ ਸੰਗਿ ਪੰਚ ਬਰੰਗਨ ॥.json",
+            "audio": "https://shabadguru.s3.us-west-1.amazonaws.com/gurbani/lrc n- Project/40 - Final and Raag Mala/mp3/song/1089 A Pb.mp3",
+            "punjabi": 1,
+            "english": 1,
+            "english_trans": 1,
+            "spanish": 1,
+            "hindi": null,
+            "file_name_on_s3": "1089 A Pb",
+            "english_trans_lyrics": [
+                {
+                    "line": "raag maalaa.\r",
+                    "time": 1091
+                },
+                {
+                    "line": "raag ayk sang panch barangan.\r",
+                    "time": 34058
+                },
+                {
+                    "line": "sang alaapeh aath-o nandan.\r",
+                    "time": 50001
+                },
+                {
+                    "line": "paratham raag bhairo vai karhee.\r",
+                    "time": 71048
+                },
+                {
+                    "line": "panch raagnee sang uchrahee.\r",
+                    "time": 77058
+                },
+                {
+                    "line": "paratham bhairvee bilaavalee.\r",
+                    "time": 83080
+                },
+                {
+                    "line": "punni-aakee gaavahi banglee.\r",
+                    "time": 90046
+                },
+                {
+                    "line": "pun aslaykhee kee bha-ee baaree.\r",
+                    "time": 96007
+                },
+                {
+                    "line": "ay bhairo kee paacha-o naaree.\r",
+                    "time": 102021
+                },
+                {
+                    "line": "pancham harakh disaakh sunaaveh.\r",
+                    "time": 108032
+                },
+                {
+                    "line": "bangaalam maDh maaDhav gaavahi. ||1||\r",
+                    "time": 114083
+                },
+                {
+                    "line": "lalat bilaaval gaavhee apunee apunee bhaaNt.\r",
+                    "time": 121049
+                },
+                {
+                    "line": "asat putar bhairav kay gaavahi gaa-in paatar. ||1||\r",
+                    "time": 140029
+                },
+                {
+                    "line": "dutee-aa maalka-usak aalaapeh.\r",
+                    "time": 161009
+                },
+                {
+                    "line": "sang raagnee paacha-o thaapeh.\r",
+                    "time": 167009
+                },
+                {
+                    "line": "goNdkaree ar dayvganDhaaree.\r",
+                    "time": 176038
+                },
+                {
+                    "line": "ganDhaaree seehutee uchaaree.\r",
+                    "time": 182098
+                },
+                {
+                    "line": "Dhanaasree ay paacha-o gaa-ee.\r",
+                    "time": 197083
+                },
+                {
+                    "line": "maal raag ka-usak sang laa-ee.\r",
+                    "time": 204001
+                },
+                {
+                    "line": "maaroo masatang mayvaaraa.\r",
+                    "time": 209094
+                },
+                {
+                    "line": "parabalchand ka-usak ubhaaraa.\r",
+                    "time": 215097
+                },
+                {
+                    "line": "kha-ukhat a-o bha-uraanad gaa-ay.\r",
+                    "time": 222035
+                },
+                {
+                    "line": "asat maalka-usak sang laa-ay. ||1||\r",
+                    "time": 229010
+                },
+                {
+                    "line": "pun aa-i-a-o hindol panch naar sang asat sut.\r",
+                    "time": 234085
+                },
+                {
+                    "line": "utheh taan kalol gaa-in taar milaavahee. ||1||\r",
+                    "time": 246016
+                },
+                {
+                    "line": "taylangee dayvkaree aa-ee.\r",
+                    "time": 274000
+                },
+                {
+                    "line": "basantee sandoor suhaa-ee.\r",
+                    "time": 282087
+                },
+                {
+                    "line": "saras aheeree lai bhaarjaa.\r",
+                    "time": 288090
+                },
+                {
+                    "line": "sang laa-ee paaNcha-o aarjaa.\r",
+                    "time": 295002
+                },
+                {
+                    "line": "surmaanand bhaaskar aa-ay.\r",
+                    "time": 310078
+                },
+                {
+                    "line": "chandarbimb manglan suhaa-ay.\r",
+                    "time": 316012
+                },
+                {
+                    "line": "sarasbaan a-o aahi binodaa.\r",
+                    "time": 322067
+                },
+                {
+                    "line": "gaavahi saras basant kamodaa.\r",
+                    "time": 331027
+                },
+                {
+                    "line": "asat putar mai kahay savaaree.\r",
+                    "time": 334043
+                },
+                {
+                    "line": "pun aa-ee deepak kee baaree. ||1||\r",
+                    "time": 340083
+                },
+                {
+                    "line": "kachhaylee patmanjree todee kahee alaap.\r",
+                    "time": 361014
+                },
+                {
+                    "line": "kaamodee a-o goojree sang deepak kay thaap. ||1||\r",
+                    "time": 376062
+                },
+                {
+                    "line": "kaalankaa kuntal a-o raamaa.\r",
+                    "time": 397068
+                },
+                {
+                    "line": "kamalkusam champak kay naamaa.\r",
+                    "time": 403025
+                },
+                {
+                    "line": "ga-uraa a-o kaanraa kal-yaanaa.\r",
+                    "time": 409037
+                },
+                {
+                    "line": "asat putar deepak kay jaanaa. ||1||\r",
+                    "time": 415088
+                },
+                {
+                    "line": "sabh mil sireeraag vai gaavahi.\r",
+                    "time": 421059
+                },
+                {
+                    "line": "paaNcha-o sang barangan laaveh.\r",
+                    "time": 436033
+                },
+                {
+                    "line": "bairaaree karnaatee Dharee.\r",
+                    "time": 457033
+                },
+                {
+                    "line": "gavree gaaveh aasaavaree.\r",
+                    "time": 463071
+                },
+                {
+                    "line": "tih paachhai sinDhvee alaapee.\r",
+                    "time": 469018
+                },
+                {
+                    "line": "sireeraag si-o paaNcha-o thaapee. ||1||\r",
+                    "time": 475023
+                },
+                {
+                    "line": "saaloo saarag saagraa a-or gond gambheer.\r",
+                    "time": 481063
+                },
+                {
+                    "line": "asat putar sareeraag kay gund kumbh hameer. ||1||\r",
+                    "time": 493028
+                },
+                {
+                    "line": "khastam maygh raag vai gaavahi.\r",
+                    "time": 520079
+                },
+                {
+                    "line": "paaNcha-o sang barangan laaveh.\r",
+                    "time": 535010
+                },
+                {
+                    "line": "sorath gond malaaree Dhunee.\r",
+                    "time": 556030
+                },
+                {
+                    "line": "pun gaavahi aasaa gun gunee.\r",
+                    "time": 565020
+                },
+                {
+                    "line": "oochai sur sooha-o pun keenee.\r",
+                    "time": 568018
+                },
+                {
+                    "line": "maygh raag si-o paaNcha-o cheenee. ||1||\r",
+                    "time": 573059
+                },
+                {
+                    "line": "bairaaDhar gajDhar kaydaaraa.\r",
+                    "time": 579056
+                },
+                {
+                    "line": "jableeDhar nat a-o jalDhaaraa.\r",
+                    "time": 585030
+                },
+                {
+                    "line": "pun gaavahi sankar a-o si-aamaa.\r",
+                    "time": 591023
+                },
+                {
+                    "line": "maygh raag putran kay naamaa. ||1||\r",
+                    "time": 596068
+                },
+                {
+                    "line": "khasat raag un gaa-ay sang raagnee tees.\r",
+                    "time": 603044
+                },
+                {
+                    "line": "sabhai putar raagann kay athaarah das bees. ||1||1||\r",
+                    "time": 615012
+                }
+            ],
+            "english_lyrics": [
+                {
+                    "line": "Raag Maalaa:\r",
+                    "time": 1091
+                },
+                {
+                    "line": "Each Raga has five wives,\r",
+                    "time": 34058
+                },
+                {
+                    "line": "and eight sons, who emit distinctive notes.\r",
+                    "time": 50001
+                },
+                {
+                    "line": "In the first place is Raag Bhairao.\r",
+                    "time": 71048
+                },
+                {
+                    "line": "It is accompanied by the voices of its five Raaginis:\r",
+                    "time": 77058
+                },
+                {
+                    "line": "First come Bhairavee, and Bilaavalee;\r",
+                    "time": 83080
+                },
+                {
+                    "line": "then the songs of Punni-aakee and Bangalee;\r",
+                    "time": 90046
+                },
+                {
+                    "line": "and then Asalaykhee.\r",
+                    "time": 96007
+                },
+                {
+                    "line": "These are the five consorts of Bhairao.\r",
+                    "time": 102021
+                },
+                {
+                    "line": "The sounds of Pancham, Harakh and Disaakh;\r",
+                    "time": 108032
+                },
+                {
+                    "line": "the songs of Bangaalam, Madh and Maadhav. ||1||\r",
+                    "time": 114083
+                },
+                {
+                    "line": "Lalat and Bilaaval - each gives out its own melody.\r",
+                    "time": 121049
+                },
+                {
+                    "line": "when these eight sons of Bhairao are sung by accomplished musicians. ||1||\r",
+                    "time": 140029
+                },
+                {
+                    "line": "In the second family is Maalakausak,\r",
+                    "time": 161009
+                },
+                {
+                    "line": "who brings his five Raaginis:\r",
+                    "time": 167009
+                },
+                {
+                    "line": "Gondakaree and Dayv Gandhaaree,\r",
+                    "time": 176038
+                },
+                {
+                    "line": "the voices of Gandhaaree and Seehutee,\r",
+                    "time": 182098
+                },
+                {
+                    "line": "and the fifth song of Dhanaasaree.\r",
+                    "time": 197083
+                },
+                {
+                    "line": "This chain of Maalakausak brings along :\r",
+                    "time": 204001
+                },
+                {
+                    "line": "Maaroo, Masta-ang and Mayvaaraa,\r",
+                    "time": 209094
+                },
+                {
+                    "line": "Prabal, Chandakausak,\r",
+                    "time": 215097
+                },
+                {
+                    "line": "Khau, Khat and Bauraanad singing.\r",
+                    "time": 222035
+                },
+                {
+                    "line": "These are the eight sons of Maalakausak. ||1||\r",
+                    "time": 229010
+                },
+                {
+                    "line": "Then comes Hindol with his five wives and eight sons;\r",
+                    "time": 234085
+                },
+                {
+                    "line": "it rises in waves when the sweet-voiced chorus sings. ||1||\r",
+                    "time": 246016
+                },
+                {
+                    "line": "There come Taylangee and Darvakaree;\r",
+                    "time": 274000
+                },
+                {
+                    "line": "Basantee and Sandoor follow;\r",
+                    "time": 282087
+                },
+                {
+                    "line": "then Aheeree, the finest of women.\r",
+                    "time": 288090
+                },
+                {
+                    "line": "These five wives come together.\r",
+                    "time": 295002
+                },
+                {
+                    "line": "The sons: Surmaanand and Bhaaskar come,\r",
+                    "time": 310078
+                },
+                {
+                    "line": "Chandrabinb and Mangalan follow.\r",
+                    "time": 316012
+                },
+                {
+                    "line": "Sarasbaan and Binodaa then come,\r",
+                    "time": 322067
+                },
+                {
+                    "line": "and the thrilling songs of Basant and Kamodaa.\r",
+                    "time": 331027
+                },
+                {
+                    "line": "These are the eight sons I have listed.\r",
+                    "time": 334043
+                },
+                {
+                    "line": "Then comes the turn of Deepak. ||1||\r",
+                    "time": 340083
+                },
+                {
+                    "line": "Kachhaylee, Patamanjaree and Todee are sung;\r",
+                    "time": 361014
+                },
+                {
+                    "line": "Kaamodee and Goojaree accompany Deepak. ||1||\r",
+                    "time": 376062
+                },
+                {
+                    "line": "Kaalankaa, Kuntal and Raamaa,\r",
+                    "time": 397068
+                },
+                {
+                    "line": "Kamalakusam and Champak are their names;\r",
+                    "time": 403025
+                },
+                {
+                    "line": "Gauraa, Kaanaraa and Kaylaanaa;\r",
+                    "time": 409037
+                },
+                {
+                    "line": "these are the eight sons of Deepak. ||1||\r",
+                    "time": 415088
+                },
+                {
+                    "line": "All join together and sing Siree Raag,\r",
+                    "time": 421059
+                },
+                {
+                    "line": "which is accompanied by its five wives.:\r",
+                    "time": 436033
+                },
+                {
+                    "line": "Bairaaree and Karnaatee,\r",
+                    "time": 457033
+                },
+                {
+                    "line": "the songs of Gawree and Aasaavaree;\r",
+                    "time": 463071
+                },
+                {
+                    "line": "then follows Sindhavee.\r",
+                    "time": 469018
+                },
+                {
+                    "line": "These are the five wives of Siree Raag. ||1||\r",
+                    "time": 475023
+                },
+                {
+                    "line": "Saaloo, Saarang, Saagaraa, Gond and Gambheer\r",
+                    "time": 481063
+                },
+                {
+                    "line": "the eight sons of Siree Raag include Gund, Kumb and Hameer. ||1||\r",
+                    "time": 493028
+                },
+                {
+                    "line": "In the sixth place, Maygh Raag is sung,\r",
+                    "time": 520079
+                },
+                {
+                    "line": "with its five wives in accompaniment:\r",
+                    "time": 535010
+                },
+                {
+                    "line": "Sorat'h, Gond, and the melody of Malaaree;\r",
+                    "time": 556030
+                },
+                {
+                    "line": "then the harmonies of Aasaa are sung.\r",
+                    "time": 565020
+                },
+                {
+                    "line": "And finally comes the high tone Soohau.\r",
+                    "time": 568018
+                },
+                {
+                    "line": "These are the five with Maygh Raag. ||1||\r",
+                    "time": 573059
+                },
+                {
+                    "line": "Bairaadhar, Gajadhar, Kaydaaraa,\r",
+                    "time": 579056
+                },
+                {
+                    "line": "Jabaleedhar, Nat and Jaladhaaraa.\r",
+                    "time": 585030
+                },
+                {
+                    "line": "Then come the songs of Shankar and Shi-aamaa.\r",
+                    "time": 591023
+                },
+                {
+                    "line": "These are the names of the sons of Maygh Raag. ||1||\r",
+                    "time": 596068
+                },
+                {
+                    "line": "So all together, they sing the six Raagas and the thirty Raaginis,\r",
+                    "time": 603044
+                },
+                {
+                    "line": "and all the forty-eight sons of the Raagas. ||1||1||\r",
+                    "time": 615012
+                }
+            ],
+            "spanish_lyrics": [
+                {
+                    "line": "Rag Mala.\r",
+                    "time": 1091
+                },
+                {
+                    "line": "Cada Raga tiene cinco esposas y ocho hijos,.\r",
+                    "time": 34058
+                },
+                {
+                    "line": "quienes emiten notas distintas.\r",
+                    "time": 50001
+                },
+                {
+                    "line": "En primer lugar está Rag Bhairo.\r",
+                    "time": 71048
+                },
+                {
+                    "line": "La cuál está acompañada por las voces de sus cinco Raguinis.\r",
+                    "time": 77058
+                },
+                {
+                    "line": "Primero viene Bhairavi y Bilavali,.\r",
+                    "time": 83080
+                },
+                {
+                    "line": "después los cantos de Puni-aki y Bangali.\r",
+                    "time": 90046
+                },
+                {
+                    "line": "y después Asalayki,.\r",
+                    "time": 96007
+                },
+                {
+                    "line": "estos son los cinco consortes de Bhairo.\r",
+                    "time": 102021
+                },
+                {
+                    "line": "Los sonidos de Pancham, Jarakj y Disakj;.\r",
+                    "time": 108032
+                },
+                {
+                    "line": "los cantos de Bangalam, Madj y Madjab. (1)\r",
+                    "time": 114083
+                },
+                {
+                    "line": "Lalat y Bilaval, cada una da su propia melodía,.\r",
+                    "time": 121049
+                },
+                {
+                    "line": "cuando estos ocho hijos de Bhairo, son cantados por músicos preparados.\r",
+                    "time": 140029
+                },
+                {
+                    "line": "En la segunda familia está Malakusak,.\r",
+                    "time": 161009
+                },
+                {
+                    "line": "quien trae a sus cinco Raguinas,.\r",
+                    "time": 167009
+                },
+                {
+                    "line": "Gongakari y Dev Gandhari, las voces de Gandhari.\r",
+                    "time": 176038
+                },
+                {
+                    "line": "y Sijuti.\r",
+                    "time": 182098
+                },
+                {
+                    "line": "y la quinta voz de Dhanasari,.\r",
+                    "time": 197083
+                },
+                {
+                    "line": "la cadena de Malakusak.\r",
+                    "time": 204001
+                },
+                {
+                    "line": "trae consigo a Maru, Masta-ang y Mevara,.\r",
+                    "time": 209094
+                },
+                {
+                    "line": "Praval y Chandakaosak,.\r",
+                    "time": 215097
+                },
+                {
+                    "line": "Kjao, Kjat y Baoranad, cantando.\r",
+                    "time": 222035
+                },
+                {
+                    "line": "Estos son los ocho hijos de Malakusak. (1)\r",
+                    "time": 229010
+                },
+                {
+                    "line": "Luego viene Jindol, con sus cinco esposas y ocho hijos,.\r",
+                    "time": 234085
+                },
+                {
+                    "line": "se eleva en voces cuando las dulces voces del coro cantan. (1)\r",
+                    "time": 246016
+                },
+                {
+                    "line": "Ahí viene Teylangui y Darvakari,.\r",
+                    "time": 274000
+                },
+                {
+                    "line": "Basanti y Sandur siguen,.\r",
+                    "time": 282087
+                },
+                {
+                    "line": "después Ajiri, las más finas damas.\r",
+                    "time": 288090
+                },
+                {
+                    "line": "Estas cinco esposas vienen juntas,.\r",
+                    "time": 295002
+                },
+                {
+                    "line": "los hijos, Surmanand y Bhaskar,.\r",
+                    "time": 310078
+                },
+                {
+                    "line": "Chandrabinb y Mangalan le siguen.\r",
+                    "time": 316012
+                },
+                {
+                    "line": "Después vienen Sarasban y Binoda.\r",
+                    "time": 322067
+                },
+                {
+                    "line": "y los emocionantes cantos de Basant y Kamoda.\r",
+                    "time": 331027
+                },
+                {
+                    "line": "Estos son los ocho cantos que he enlistado.\r",
+                    "time": 334043
+                },
+                {
+                    "line": "y después le llega el turno a Dipak. (1)\r",
+                    "time": 340083
+                },
+                {
+                    "line": "Kacely, Patamanyari y Todi son entonados;\r",
+                    "time": 361014
+                },
+                {
+                    "line": "Kamodi y Guyari, acompañan a Dipak. (1)\r",
+                    "time": 376062
+                },
+                {
+                    "line": "Kalanka, Kuntal y Raama;.\r",
+                    "time": 397068
+                },
+                {
+                    "line": "los nombres de Kamalakusam y Champak;.\r",
+                    "time": 403025
+                },
+                {
+                    "line": "Gaura Kanara y Kaylana,.\r",
+                    "time": 409037
+                },
+                {
+                    "line": "estos son los ocho hijos de Dipak. (1)\r",
+                    "time": 415088
+                },
+                {
+                    "line": "Todos se juntan y cantan Siri Rag,.\r",
+                    "time": 421059
+                },
+                {
+                    "line": "quien está acompañado por sus cinco esposas,.\r",
+                    "time": 436033
+                },
+                {
+                    "line": "Berari, Karnati,.\r",
+                    "time": 457033
+                },
+                {
+                    "line": "los cantos de Gawri y Asavari.\r",
+                    "time": 463071
+                },
+                {
+                    "line": "y después sigue Sindhavi,.\r",
+                    "time": 469018
+                },
+                {
+                    "line": "éstas son las cinco esposas de Siri Rag. (1)\r",
+                    "time": 475023
+                },
+                {
+                    "line": "Salu, Sarang, Sagara, Gond y Gambhir.\r",
+                    "time": 481063
+                },
+                {
+                    "line": "Los ocho hijos de Siri Rag incluyen a Gung, Kumb y Jamir. (1)\r",
+                    "time": 493028
+                },
+                {
+                    "line": "En sexto lugar, Mellh Rag,.\r",
+                    "time": 520079
+                },
+                {
+                    "line": "es cantada, con sus cinco esposas en acompañamiento,.\r",
+                    "time": 535010
+                },
+                {
+                    "line": "Sorad, Gond y la melodía de Malari.\r",
+                    "time": 556030
+                },
+                {
+                    "line": "y después las armonías de Assa son entonadas.\r",
+                    "time": 565020
+                },
+                {
+                    "line": "y finalmente viene el tono alto de Sujo,.\r",
+                    "time": 568018
+                },
+                {
+                    "line": "que son los cinco que están con Mellh Rag, (1).\r",
+                    "time": 573059
+                },
+                {
+                    "line": "Beradhar, Gayadhar, Kedara,.\r",
+                    "time": 579056
+                },
+                {
+                    "line": "Yabalidhar, Nat y Yaladhara,.\r",
+                    "time": 585030
+                },
+                {
+                    "line": "después los cantos de Shankar y Shi-ama.\r",
+                    "time": 591023
+                },
+                {
+                    "line": "Estos son los nombres de los hijos de Mellh Rag. (1)\r",
+                    "time": 596068
+                },
+                {
+                    "line": "Juntos todos entonan las seis Ragas y las treinta Raguinas,.\r",
+                    "time": 603044
+                },
+                {
+                    "line": "con los cuarenta y cuatro hijos de las Ragas. (1-1)",
+                    "time": 615012
+                }
+            ],
+            "hindi_lyrics": null
+        }
+    ],
+    "info": "testings"
+}

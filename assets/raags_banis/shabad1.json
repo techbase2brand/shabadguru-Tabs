@@ -1,0 +1,1431 @@
+{
+    "status": 200,
+    "message": "",
+    "data": [
+        {
+            "albumart": "",
+            "author": "",
+            "song": "ਜਪੁਜੀ ਸਾਹਿਬ",
+            "json": "https://shabad-guru.org/uploads/data/0.1-Japji Sahib/ਜਪੁਜੀ ਸਾਹਿਬ.json",
+            "audio": "https://shabadguru.s3.us-west-1.amazonaws.com/gurbani/lrc n- Project/0.1-Japji Sahib/mp3/song/12.mp3",
+            "punjabi": 1,
+            "english": 1,
+            "english_trans": 1,
+            "spanish": 1,
+            "hindi": null,
+            "file_name_on_s3": "A 01 Pb",
+            "english_trans_lyrics": [
+                {
+                    "line": "Ikoankaar Sathnaam Karathaa Purakh Nirabho Niravair Akaal Moorath Ajoonee Saibhan Gurprasaadh||\r",
+                    "time": 11090
+                },
+                {
+                    "line": "|| Jap ||\r",
+                    "time": 102009
+                },
+                {
+                    "line": "Aadh Sach Jugaadh Sach ||Hai Bhee Sach Naanak Hosee Bhee Sach ||1||\r",
+                    "time": 104043
+                },
+                {
+                    "line": "Sochai Soch N Hovee Jae Sochee Lakh Vaar ||Chupai Chup N Hovee Jae Laae Rehaa Liv Thaar ||\r",
+                    "time": 155043
+                },
+                {
+                    "line": "Bhukhiaa Bhukh N Outharee Jae Bannaa Pureeaa Bhaar ||Sehas Siaanapaa Lakh Hohi Th Eik N Chalai Naal ||\r",
+                    "time": 186088
+                },
+                {
+                    "line": "Kiv Sachiaaraa Hoeeai Kiv Koorrai Thuttai Paal ||Hukam Rajaaee Chalanaa Naanak Likhiaa Naal ||1||\r",
+                    "time": 215054
+                },
+                {
+                    "line": "Hukamee Hovan Aakaar Hukam N Kehiaa Jaaee ||Hukamee Hovan Jeea Hukam Milai Vaddiaaee ||\r",
+                    "time": 265023
+                },
+                {
+                    "line": "Hukamee Outham Neech Hukam Likh Dhukh Sukh Paaeeahi ||Eikanaa Hukamee Bakhasees Eik Hukamee Sadhaa Bhavaaeeahi ||\r",
+                    "time": 291046
+                },
+                {
+                    "line": "Hukamai Andhar Sabh Ko Baahar Hukam N Koe ||Naanak Hukamai Jae Bujhai Th Houmai Kehai N Koe ||2||\r",
+                    "time": 318061
+                },
+                {
+                    "line": "Gaavai Ko Thaan Hovai Kisai Thaan ||Gaavai Ko Dhaath Jaanai Neesaan ||\r",
+                    "time": 365068
+                },
+                {
+                    "line": "Gaavai Ko Vidhiaa Vikham Veechaar ||Gaavai Ko Saaj Karae Than Khaeh ||Gaavai Ko Jeea Lai Fir Dhaeh ||\r",
+                    "time": 405087
+                },
+                {
+                    "line": "Gaavai Ko Jaapai Dhisai Dhoor ||Gaavai Ko Vaekhai Haadharaa Hadhoor ||Kathhanaa Kathhee N Aavai Thott ||\r",
+                    "time": 443068
+                },
+                {
+                    "line": "Kathh Kathh Kathhee Kottee Kott Kott ||Dhaedhaa Dhae Laidhae Thhak Paahi ||Jugaa Juganthar Khaahee Khaahi ||\r",
+                    "time": 480037
+                },
+                {
+                    "line": "Hukamee Hukam Chalaaeae Raahu ||Naanak Vigasai Vaeparavaahu ||3||Saachaa Saahib Saach Naae Bhaakhiaa Bhaao Apaar ||\r",
+                    "time": 504095
+                },
+                {
+                    "line": "Aakhehi Mangehi Dhaehi Dhaehi Dhaath Karae Dhaathaar ||Faer K Agai Rakheeai Jith Dhisai Dharabaar ||\r",
+                    "time": 551077
+                },
+                {
+                    "line": "Muha K Bolan Boleeai Jith Sun Dhharae Piaar ||Anmrith Vaelaa Sach Naao Vaddiaaee Veechaar ||\r",
+                    "time": 580041
+                },
+                {
+                    "line": "Karamee Aavai Kaparraa Nadharee Mokh Dhuaar ||Naanak Eaevai Jaaneeai Sabh Aapae Sachiaar ||4||\r",
+                    "time": 608060
+                },
+                {
+                    "line": "Thhaapiaa N Jaae Keethaa N Hoe ||Aapae Aap Niranjan Soe ||Jin Saeviaa Thin Paaeiaa Maan ||\r",
+                    "time": 654080
+                },
+                {
+                    "line": "Naanak Gaaveeai Gunee Nidhhaan ||Gaaveeai Suneeai Man Rakheeai Bhaao ||Dhukh Parehar Sukh Ghar Lai Jaae ||\r",
+                    "time": 696065
+                },
+                {
+                    "line": "Guramukh Naadhan Guramukh Vaedhan Guramukh Rehiaa Samaaee ||Gur Eesar Gur Gorakh Baramaa Gur Paarabathee Maaee ||\r",
+                    "time": 735054
+                },
+                {
+                    "line": "Jae Ho Jaanaa Aakhaa Naahee Kehanaa Kathhan N Jaaee ||Guraa Eik Dhaehi Bujhaaee ||Sabhanaa Jeeaa Kaa Eik Dhaathaa So Mai Visar N Jaaee ||5||\r",
+                    "time": 768053
+                },
+                {
+                    "line": "Theerathh Naavaa Jae This Bhaavaa Vin Bhaanae K Naae Karee ||Jaethee Sirath Oupaaee Vaekhaa Vin Karamaa K Milai Lee ||\r",
+                    "time": 822005
+                },
+                {
+                    "line": "Math Vich Rathan Javaahar Maanik Jae Eik Gur Kee Sikh Sunee ||Guraa Eik Dhaehi Bujhaaee ||Sabhanaa Jeeaa Kaa Eik Dhaathaa So Mai Visar N Jaaee ||6||\r",
+                    "time": 883092
+                },
+                {
+                    "line": "Jae Jug Chaarae Aarajaa Hor Dhasoonee Hoe ||Navaa Khanddaa Vich Jaaneeai Naal Chalai Sabh Koe ||Changaa Naao Rakhaae Kai Jas Keerath Jag Laee ||\r",
+                    "time": 971035
+                },
+                {
+                    "line": "Jae This Nadhar N Aavee Th Vaath N Pushhai Kae ||Keettaa Andhar Keett Kar Dhosee Dhos Dhharae ||Naanak Niragun Gun Karae Gunavanthiaa Gun Dhae ||\r",
+                    "time": 1014007
+                },
+                {
+                    "line": "Thaehaa Koe N Sujhee J This Gun Koe Karae ||7||Suniai Sidhh Peer Sur Naathh ||Suniai Dhharath Dhhaval Aakaas ||\r",
+                    "time": 1056006
+                },
+                {
+                    "line": "Suniai Dheep Loa Paathaal ||Suniai Pohi N Sakai Kaal ||Naanak Bhagathaa Sadhaa Vigaas ||Suniai Dhookh Paap Kaa Naas ||8||\r",
+                    "time": 1113013
+                },
+                {
+                    "line": "Suniai Eesar Baramaa Eindh ||Suniai Mukh Saalaahan Mandh ||Suniai Jog Jugath Than Bhaedh ||Suniai Saasath Simrith Vaedh ||\r",
+                    "time": 1204024
+                },
+                {
+                    "line": "Naanak Bhagathaa Sadhaa Vigaas ||Suniai Dhookh Paap Kaa Naas ||9||Suniai Sath Santhokh Giaan ||Suniai Athasath Kaa Eisanaan ||\r",
+                    "time": 1240066
+                },
+                {
+                    "line": "Suniai Parr Parr Paavehi Maan ||Suniai Laagai Sehaj Dhhiaan ||Naanak Bhagathaa Sadhaa Vigaas ||Suniai Dhookh Paap Kaa Naas ||10||\r",
+                    "time": 1312031
+                },
+                {
+                    "line": "Suniai Saraa Gunaa Kae Gaah ||Suniai Saekh Peer Paathisaah ||Suniai Andhhae Paavehi Raahu ||Suniai Haathh Hovai Asagaahu ||Naanak Bhagathaa Sadhaa Vigaas ||\r",
+                    "time": 1402003
+                },
+                {
+                    "line": "Suniai Dhookh Paap Kaa Naas ||11||Mannae Kee Gath Kehee N Jaae ||Jae Ko Kehai Pishhai Pashhuthaae ||Kaagadh Kalam N Likhanehaar ||Mannae Kaa Behi Karan Veechaar ||\r",
+                    "time": 1449054
+                },
+                {
+                    "line": "Aisaa Naam Niranjan Hoe ||Jae Ko Mann Jaanai Man Koe ||12||Mannai Surath Hovai Man Budhh ||Mannai Sagal Bhavan Kee Sudhh ||Mannai Muhi Chottaa Naa Khaae ||\r",
+                    "time": 1525004
+                },
+                {
+                    "line": "Mannai Jam Kai Saathh N Jaae ||Aisaa Naam Niranjan Hoe ||Jae Ko Mann Jaanai Man Koe ||13||Mannai Maarag Thaak N Paae ||Mannai Path Sio Paragatt Jaae ||\r",
+                    "time": 1612051
+                },
+                {
+                    "line": "Mannai Mag N Chalai Panthh ||Mannai Dhharam Saethee Sanabandhh ||Aisaa Naam Niranjan Hoe ||Jae Ko Mann Jaanai Man Koe ||14||\r",
+                    "time": 1682078
+                },
+                {
+                    "line": "Mannai Paavehi Mokh Dhuaar ||Mannai Paravaarai Saadhhaar ||Mannai Tharai Thaarae Gur Sikh ||Mannai Naanak Bhavehi N Bhikh ||Aisaa Naam Niranjan Hoe ||\r",
+                    "time": 1766010
+                },
+                {
+                    "line": "Jae Ko Mann Jaanai Man Koe ||15||Panch Paravaan Panch Paradhhaan ||Panchae Paavehi Dharagehi Maan ||Panchae Sohehi Dhar Raajaan ||Panchaa Kaa Gur Eaek Dhhiaan ||\r",
+                    "time": 1815081
+                },
+                {
+                    "line": "Jae Ko Kehai Karai Veechaar ||Karathae Kai Karanai Naahee Sumaar ||Dhhaal Dhharam Dhaeiaa Kaa Pooth ||Santhokh Thhaap Rakhiaa Jin Sooth ||Jae Ko Bujhai Hovai Sachiaar ||\r",
+                    "time": 1896085
+                },
+                {
+                    "line": "Dhhavalai Oupar Kaethaa Bhaar ||Dhharathee Hor Parai Hor Hor ||This Thae Bhaar Thalai Kavan Jor ||Jeea Jaath Rangaa Kae Naav ||\r",
+                    "time": 1959012
+                },
+                {
+                    "line": "Sabhanaa Likhiaa Vurree Kalaam ||Eaehu Laekhaa Likh Jaanai Koe ||Laekhaa Likhiaa Kaethaa Hoe ||\r",
+                    "time": 2008055
+                },
+                {
+                    "line": "Kaethaa Thaan Suaalihu Roop ||Kaethee Dhaath Jaanai Kaan Kooth ||Keethaa Pasaao Eaeko Kavaao ||This Thae Hoeae Lakh Dhareeaao ||\r",
+                    "time": 2045090
+                },
+                {
+                    "line": "Kudharath Kavan Kehaa Veechaar ||Vaariaa N Jaavaa Eaek Vaar ||Jo Thudhh Bhaavai Saaee Bhalee Kaar ||\r",
+                    "time": 2094098
+                },
+                {
+                    "line": "Thoo Sadhaa Salaamath Nirankaar ||16||Asankh Jap Asankh Bhaao ||Asankh Poojaa Asankh Thap Thaao ||Asankh Garanthh Mukh Vaedh Paath ||\r",
+                    "time": 2128077
+                },
+                {
+                    "line": "Asankh Jog Man Rehehi Oudhaas ||Asankh Bhagath Gun Giaan Veechaar ||Asankh Sathee Asankh Dhaathaar ||Asankh Soor Muh Bhakh Saar ||\r",
+                    "time": 2181070
+                },
+                {
+                    "line": "Asankh Mon Liv Laae Thaar ||Kudharath Kavan Kehaa Veechaar ||Vaariaa N Jaavaa Eaek Vaar ||\r",
+                    "time": 2238000
+                },
+                {
+                    "line": "Jo Thudhh Bhaavai Saaee Bhalee Kaar ||Thoo Sadhaa Salaamath Nirankaar ||17||Asankh Moorakh Andhh Ghor ||Asankh Chor Haraamakhor ||\r",
+                    "time": 2269065
+                },
+                {
+                    "line": "Asankh Amar Kar Jaahi Jor ||Asankh Galavadt Hathiaa Kamaahi ||Asankh Paapee Paap Kar Jaahi ||Asankh Koorriaar Koorrae Firaahi ||\r",
+                    "time": 2350009
+                },
+                {
+                    "line": "Asankh Malaeshh Mal Bhakh Khaahi ||Asankh Nindhak Sir Karehi Bhaar ||Naanak Neech Kehai Veechaar ||Vaariaa N Jaavaa Eaek Vaar ||Jo Thudhh Bhaavai Saaee Bhalee Kaar ||\r",
+                    "time": 2394041
+                },
+                {
+                    "line": "Thoo Sadhaa Salaamath Nirankaar ||18||Asankh Naav Asankh Thhaav ||Aganm Aganm Asankh Loa ||Asankh Kehehi Sir Bhaar Hoe ||Akharee Naam Akharee Saalaah ||\r",
+                    "time": 2452078
+                },
+                {
+                    "line": "Akharee Giaan Geeth Gun Gaah ||Akharee Likhan Bolan Baan ||Akharaa Sir Sanjog Vakhaan ||Jin Eaehi Likhae This Sir Naahi ||Jiv Furamaaeae Thiv Thiv Paahi ||\r",
+                    "time": 2510041
+                },
+                {
+                    "line": "Jaethaa Keethaa Thaethaa Naao ||Vin Naavai Naahee Ko Thhaao ||Kudharath Kavan Kehaa Veechaar ||Vaariaa N Jaavaa Eaek Vaar ||Jo Thudhh Bhaavai Saaee Bhalee Kaar ||\r",
+                    "time": 2573031
+                },
+                {
+                    "line": "Thoo Sadhaa Salaamath Nirankaar ||19||Bhareeai Hathh Pair Than Dhaeh ||Paanee Dhhothai Outharas Khaeh ||Mooth Paleethee Kaparr Hoe ||Dhae Saaboon Leeai Ouhu Dhhoe ||\r",
+                    "time": 2625034
+                },
+                {
+                    "line": "Bhareeai Math Paapaa Kai Sang ||Ouhu Dhhopai Naavai Kai Rang ||Punnee Paapee Aakhan Naahi ||Kar Kar Karanaa Likh Lai Jaahu ||\r",
+                    "time": 2684033
+                },
+                {
+                    "line": "Aapae Beej Aapae Hee Khaahu ||Naanak Hukamee Aavahu Jaahu ||20||Theerathh Thap Dhaeiaa Dhath Dhaan ||Jae Ko Paavai Thil Kaa Maan ||Suniaa Manniaa Man Keethaa Bhaao ||\r",
+                    "time": 2733087
+                },
+                {
+                    "line": "Antharagath Theerathh Mal Naao ||Sabh Gun Thaerae Mai Naahee Koe ||Vin Gun Keethae Bhagath N Hoe ||Suasath Aathh Baanee Baramaao ||Sath Suhaan Sadhaa Man Chaao ||\r",
+                    "time": 2792078
+                },
+                {
+                    "line": "Kavan S Vaelaa Vakhath Kavan Kavan Thhith Kavan Vaar ||Kavan S Ruthee Maahu Kavan Jith Hoaa Aakaar ||Vael N Paaeeaa Panddathee J Hovai Laekh Puraan ||\r",
+                    "time": 2855061
+                },
+                {
+                    "line": "Vakhath N Paaeiou Kaadheeaa J Likhan Laekh Kuraan ||Thhith Vaar Naa Jogee Jaanai Ruth Maahu Naa Koee ||Jaa Karathaa Sirathee Ko Saajae Aapae Jaanai Soee ||\r",
+                    "time": 2926092
+                },
+                {
+                    "line": "Kiv Kar Aakhaa Kiv Saalaahee Kio Varanee Kiv Jaanaa ||Naanak Aakhan Sabh Ko Aakhai Eik Dhoo Eik Siaanaa ||Vaddaa Saahib Vaddee Naaee Keethaa Jaa Kaa Hovai ||\r",
+                    "time": 2998024
+                },
+                {
+                    "line": "Naanak Jae Ko Aapa Jaanai Agai Gaeiaa N Sohai ||21||Paathaalaa Paathaal Lakh Aagaasaa Aagaas ||Ourrak Ourrak Bhaal Thhakae Vaedh Kehan Eik Vaath ||\r",
+                    "time": 3069027
+                },
+                {
+                    "line": "Sehas Athaareh Kehan Kathaebaa Asuloo Eik Dhhaath ||Laekhaa Hoe Th Likheeai Laekhai Hoe Vinaas ||Naanak Vaddaa Aakheeai Aapae Jaanai Aap ||22||\r",
+                    "time": 3127018
+                },
+                {
+                    "line": "Saalaahee Saalaahi Eaethee Surath N Paaeeaa ||Nadheeaa Athai Vaah Pavehi Samundh N Jaaneeahi ||Samundh Saah Sulathaan Girehaa Saethee Maal Dhhan ||\r",
+                    "time": 3176028
+                },
+                {
+                    "line": "Keerree Thul N Hovanee Jae This Manahu N Veesarehi ||23||Anth N Sifathee Kehan N Anth ||Anth N Karanai Dhaen N Anth ||\r",
+                    "time": 3222004
+                },
+                {
+                    "line": "Anth N Vaekhan Sunan N Anth ||Anth N Jaapai Kiaa Man Manth ||Anth N Jaapai Keethaa Aakaar ||Anth N Jaapai Paaraavaar ||\r",
+                    "time": 3257092
+                },
+                {
+                    "line": "Anth Kaaran Kaethae Bilalaahi ||Thaa Kae Anth N Paaeae Jaahi ||Eaehu Anth N Jaanai Koe ||Bahuthaa Keheeai Bahuthaa Hoe ||\r",
+                    "time": 3299029
+                },
+                {
+                    "line": "Vaddaa Saahib Oochaa Thhaao ||Oochae Oupar Oochaa Naao ||Eaevadd Oochaa Hovai Koe ||This Oochae Ko Jaanai Soe ||\r",
+                    "time": 3333041
+                },
+                {
+                    "line": "Jaevadd Aap Jaanai Aap Aap ||Naanak Nadharee Karamee Dhaath ||24||Bahuthaa Karam Likhiaa Naa Jaae ||\r",
+                    "time": 3370050
+                },
+                {
+                    "line": "Vaddaa Dhaathaa Thil N Thamaae ||Kaethae Mangehi Jodhh Apaar ||Kaethiaa Ganath Nehee Veechaar ||Kaethae Khap Thuttehi Vaekaar ||\r",
+                    "time": 3400053
+                },
+                {
+                    "line": "Kaethae Lai Lai Mukar Paahi ||Kaethae Moorakh Khaahee Khaahi ||Kaethiaa Dhookh Bhookh Sadh Maar ||Eaehi Bh Dhaath Thaeree Dhaathaar ||\r",
+                    "time": 3432078
+                },
+                {
+                    "line": "Bandh Khalaasee Bhaanai Hoe ||Hor Aakh N Sakai Koe ||Jae Ko Khaaeik Aakhan Paae ||Ouhu Jaanai Jaetheeaa Muhi Khaae ||\r",
+                    "time": 3468074
+                },
+                {
+                    "line": "Aapae Jaanai Aapae Dhaee ||Aakhehi S Bh Kaeee Kaee ||Jis No Bakhasae Sifath Saalaah ||Naanak Paathisaahee Paathisaahu ||25||\r",
+                    "time": 3503033
+                },
+                {
+                    "line": "Amul Gun Amul Vaapaar ||Amul Vaapaareeeae Amul Bhanddaar ||Amul Aavehi Amul Lai Jaahi ||\r",
+                    "time": 3537097
+                },
+                {
+                    "line": "Amul Bhaae Amulaa Samaahi ||Amul Dhharam Amul Dheebaan ||Amul Thul Amul Paravaan ||\r",
+                    "time": 3564059
+                },
+                {
+                    "line": "Amul Bakhasees Amul Neesaan ||Amul Karam Amul Furamaan ||Amulo Amul Aakhiaa N Jaae ||\r",
+                    "time": 3591039
+                },
+                {
+                    "line": "Aakh Aakh Rehae Liv Laae ||Aakhehi Vaedh Paath Puraan ||Aakhehi Parrae Karehi Vakhiaan ||\r",
+                    "time": 3610102
+                },
+                {
+                    "line": "Aakhehi Baramae Aakhehi Eindh ||Aakhehi Gopee Thai Govindh ||Aakhehi Eesar Aakhehi Sidhh ||Aakhehi Kaethae Keethae Budhh ||\r",
+                    "time": 3636041
+                },
+                {
+                    "line": "Aakhehi Dhaanav Aakhehi Dhaev ||Aakhehi Sur Nar Mun Jan Saev ||Kaethae Aakhehi Aakhan Paahi ||\r",
+                    "time": 3664043
+                },
+                {
+                    "line": "Kaethae Kehi Kehi Outh Outh Jaahi ||Eaethae Keethae Hor Karaehi ||Thaa Aakh N Sakehi Kaeee Kaee ||\r",
+                    "time": 3689119
+                },
+                {
+                    "line": "Jaevadd Bhaavai Thaevadd Hoe ||Naanak Jaanai Saachaa Soe ||Jae Ko Aakhai Boluvigaarr ||Thaa Likheeai Sir Gaavaaraa Gaavaar ||26||\r",
+                    "time": 3715081
+                },
+                {
+                    "line": "So Dhar Kaehaa So Ghar Kaehaa Jith Behi Sarab Samaalae ||Vaajae Naadh Anaek Asankhaa Kaethae Vaavanehaarae ||\r",
+                    "time": 3759120
+                },
+                {
+                    "line": "Kaethae Raag Paree Sio Keheean Kaethae Gaavanehaarae ||Gaavehi Thuhano Poun Paanee Baisanthar Gaavai Raajaa Dhharam Dhuaarae ||\r",
+                    "time": 3781040
+                },
+                {
+                    "line": "Gaavehi Chith Gupath Likh Jaanehi Likh Likh Dhharam Veechaarae ||Gaavehi Eesar Baramaa Dhaevee Sohan Sadhaa Savaarae ||\r",
+                    "time": 3802043
+                },
+                {
+                    "line": "Gaavehi Eindh Eidhaasan Baithae Dhaevathiaa Dhar Naalae ||Gaavehi Sidhh Samaadhhee Andhar Gaavan Saadhh Vichaarae ||\r",
+                    "time": 3822103
+                },
+                {
+                    "line": "Gaavan Jathee Sathee Santhokhee Gaavehi Veer Karaarae ||Gaavan Panddith Parran Rakheesar Jug Jug Vaedhaa Naalae ||\r",
+                    "time": 3843074
+                },
+                {
+                    "line": "Gaavehi Mohaneeaa Man Mohan Suragaa Mashh Paeiaalae ||Gaavan Rathan Oupaaeae Thaerae Athasath Theerathh Naalae ||\r",
+                    "time": 3863127
+                },
+                {
+                    "line": "Gaavehi Jodhh Mehaabal Sooraa Gaavehi Khaanee Chaarae ||Gaavehi Khandd Manddal Varabhanddaa Kar Kar Rakhae Dhhaarae ||\r",
+                    "time": 3884078
+                },
+                {
+                    "line": "Saeee Thudhhuno Gaavehi Jo Thudhh Bhaavan Rathae Thaerae Bhagath Rasaalae ||Hor Kaethae Gaavan Sae Mai Chith N Aavan Naanak Kiaa Veechaarae ||\r",
+                    "time": 3904104
+                },
+                {
+                    "line": "Soee Soee Sadhaa Sach Saahib Saachaa Saachee Naaee ||Hai Bhee Hosee Jaae N Jaasee Rachanaa Jin Rachaaee ||\r",
+                    "time": 3925135
+                },
+                {
+                    "line": "Rangee Rangee Bhaathee Kar Kar Jinasee Maaeiaa Jin Oupaaee ||Kar Kar Vaekhai Keethaa Aapanaa Jiv This Dhee Vaddiaaee ||\r",
+                    "time": 3955106
+                },
+                {
+                    "line": "Jo This Bhaavai Soee Karasee Hukam N Karanaa Jaaee ||So Paathisaahu Saahaa Paathisaahib Naanak Rehan Rajaaee ||27||\r",
+                    "time": 3987061
+                },
+                {
+                    "line": "Mundhaa Santhokh Saram Path Jholee Dhhiaan Kee Karehi Bibhooth ||Khinthhaa Kaal Kuaaree Kaaeiaa Jugath Ddanddaa Paratheeth ||\r",
+                    "time": 4016110
+                },
+                {
+                    "line": "Aaee Panthhee Sagal Jamaathee Man Jeethai Jag Jeeth ||Aadhaes Thisai Aadhaes ||Aadh Aneel Anaadh Anaahath Jug Jug Eaeko Vaes ||28||\r",
+                    "time": 4047118
+                },
+                {
+                    "line": "Bhugath Giaan Dhaeiaa Bhanddaaran Ghatt Ghatt Vaajehi Naadh ||Aap Naathh Naathhee Sabh Jaa Kee Ridhh Sidhh Avaraa Saadh ||\r",
+                    "time": 4084136
+                },
+                {
+                    "line": "Sanjog Vijog Dhue Kaar Chalaavehi Laekhae Aavehi Bhaag ||Aadhaes Thisai Aadhaes ||Aadh Aneel Anaadh Anaahath Jug Jug Eaeko Vaes ||29||\r",
+                    "time": 4113118
+                },
+                {
+                    "line": "Eaekaa Maaee Jugath Viaaee Thin Chaelae Paravaan ||Eik Sansaaree Eik Bhanddaaree Eik Laaeae Dheebaan ||Jiv This Bhaavai Thivai Chalaavai Jiv Hovai Furamaan ||\r",
+                    "time": 4150078
+                },
+                {
+                    "line": "Ouhu Vaekhai Ounaa Nadhar N Aavai Bahuthaa Eaehu Viddaan ||Aadhaes Thisai Aadhaes ||Aadh Aneel Anaadh Anaahath Jug Jug Eaeko Vaes ||30||\r",
+                    "time": 4191067
+                },
+                {
+                    "line": "Aasan Loe Loe Bhanddaar ||Jo Kishh Paaeiaa S Eaekaa Vaar ||Kar Kar Vaekhai Sirajanehaar ||Naanak Sachae Kee Saachee Kaar ||Aadhaes Thisai Aadhaes ||\r",
+                    "time": 4246051
+                },
+                {
+                    "line": "Aadh Aneel Anaadh Anaahath Jug Jug Eaeko Vaes ||31||Eik Dhoo Jeebha Lakh Hohi Lakh Hovehi Lakh Vees ||\r",
+                    "time": 4285051
+                },
+                {
+                    "line": "Lakh Lakh Gaerraa Aakheeahi Eaek Naam Jagadhees ||Eaeth Raahi Path Pavarreeaa Charreeai Hoe Eikees ||\r",
+                    "time": 4312061
+                },
+                {
+                    "line": "Sun Galaa Aakaas Kee Keettaa Aaee Rees ||Naanak Nadharee Paaeeai Koorree Koorrai Thees ||32||\r",
+                    "time": 4339076
+                },
+                {
+                    "line": "Aakhan Jor Chupai Neh Jor ||Jor N Mangan Dhaen N Jor ||Jor N Jeevan Maran Neh Jor ||\r",
+                    "time": 4364106
+                },
+                {
+                    "line": "Jor N Raaj Maal Man Sor ||Jor N Surathee Giaan Veechaar ||Jor N Jugathee Shhuttai Sansaar ||\r",
+                    "time": 4392114
+                },
+                {
+                    "line": "Jis Hathh Jor Kar Vaekhai Soe ||Naanak Outham Neech N Koe ||33||Raathee Ruthee Thhithee Vaar ||\r",
+                    "time": 4411100
+                },
+                {
+                    "line": "Pavan Paanee Aganee Paathaal ||This Vich Dhharathee Thhaap Rakhee Dhharam Saal ||This Vich Jeea Jugath Kae Rang ||\r",
+                    "time": 4438077
+                },
+                {
+                    "line": "Thin Kae Naam Anaek Ananth ||Karamee Karamee Hoe Veechaar ||Sachaa Aap Sachaa Dharabaar ||Thithhai Sohan Panch Paravaan ||\r",
+                    "time": 4459122
+                },
+                {
+                    "line": "Nadharee Karam Pavai Neesaan ||Kach Pakaaee Outhhai Paae ||Naanak Gaeiaa Jaapai Jaae ||34||Dhharam Khandd Kaa Eaeho Dhharam ||\r",
+                    "time": 4484066
+                },
+                {
+                    "line": "Giaan Khandd Kaa Aakhahu Karam ||Kaethae Pavan Paanee Vaisanthar Kaethae Kaan Mehaes ||Kaethae Baramae Ghaarrath Gharreeahi Roop Rang Kae Vaes ||\r",
+                    "time": 4518124
+                },
+                {
+                    "line": "Kaetheeaa Karam Bhoomee Maer Kaethae Kaethae Dhhoo Oupadhaes ||Kaethae Eindh Chandh Soor Kaethae Kaethae Manddal Dhaes ||Kaethae Sidhh Budhh Naathh Kaethae Kaethae Dhaevee Vaes ||\r",
+                    "time": 4541078
+                },
+                {
+                    "line": "Kaethae Dhaev Dhaanav Mun Kaethae Kaethae Rathan Samundh ||Kaetheeaa Khaanee Kaetheeaa Baanee Kaethae Paath Narindh ||Kaetheeaa Surathee Saevak Kaethae Naanak Anth N Anth ||35||\r",
+                    "time": 4596075
+                },
+                {
+                    "line": "Giaan Khandd Mehi Giaan Parachandd ||Thithhai Naadh Binodh Kodd Anandh ||Saram Khandd Kee Baanee Roop ||Thithhai Ghaarrath Gharreeai Bahuth Anoop ||\r",
+                    "time": 4637092
+                },
+                {
+                    "line": "Thaa Keeaa Galaa Kathheeaa Naa Jaahi ||Jae Ko Kehai Pishhai Pashhuthaae ||Thithhai Gharreeai Surath Math Man Budhh ||Thithhai Gharreeai Suraa Sidhhaa Kee Sudhh ||36||\r",
+                    "time": 4670103
+                },
+                {
+                    "line": "Karam Khandd Kee Baanee Jor ||Thithhai Hor N Koee Hor ||Thithhai Jodhh Mehaabal Soor ||Thin Mehi Raam Rehiaa Bharapoor ||Thithhai Seetho Seethaa Mehimaa Maahi ||\r",
+                    "time": 4714056
+                },
+                {
+                    "line": "Thaa Kae Roop N Kathhanae Jaahi ||Naa Ouhi Marehi N Thaagae Jaahi ||Jin Kai Raam Vasai Man Maahi ||Thithhai Bhagath Vasehi Kae Loa ||Karehi Anandh Sachaa Man Soe ||\r",
+                    "time": 4752116
+                },
+                {
+                    "line": "Sach Khandd Vasai Nirankaar ||Kar Kar Vaekhai Nadhar Nihaal ||Thithhai Khandd Manddal Varabhandd ||Jae Ko Kathhai Th Anth N Anth ||Thithhai Loa Loa Aakaar ||\r",
+                    "time": 4788095
+                },
+                {
+                    "line": "Jiv Jiv Hukam Thivai Thiv Kaar ||Vaekhai Vigasai Kar Veechaar ||Naanak Kathhanaa Kararraa Saar ||37||Jath Paahaaraa Dhheeraj Suniaar ||Aharan Math Vaedh Hathheeaar ||\r",
+                    "time": 4825083
+                },
+                {
+                    "line": "Bho Khalaa Agan Thap Thaao ||Bhaanddaa Bhaao Anmrith Thith Dtaal ||Gharreeai Sabadh Sachee Ttakasaal ||Jin Ko Nadhar Karam Thin Kaar ||Naanak Nadharee Nadhar Nihaal ||38||Salok ||\r",
+                    "time": 4863093
+                },
+                {
+                    "line": "Pavan Guroo Paanee Pithaa Maathaa Dhharath Mehath ||Dhivas Raath Dhue Dhaaee Dhaaeiaa Khaelai Sagal Jagath ||Changiaaeeaa Buriaaeeaa Vaachai Dhharam Hadhoor ||Karamee Aapo Aapanee Kae Naerrai Kae Dhoor ||\r",
+                    "time": 4904045
+                },
+                {
+                    "line": "Jinee Naam Dhhiaaeiaa Geae Masakath Ghaal ||Naanak Thae Mukh Oujalae Kaethee Shhuttee Naal ||1||\r",
+                    "time": 4951086
+                }
+            ],
+            "english_lyrics": [
+                {
+                    "line": "One Universal Creator God, TheName Is Truth Creative Being Personified No Fear No Hatred Image Of The Undying, Beyond Birth, Self-Existent. By Guru's Grace~\r",
+                    "time": 11090
+                },
+                {
+                    "line": "Chant And Meditate:\r",
+                    "time": 102009
+                },
+                {
+                    "line": "True In The Primal Beginning. True Throughout The Ages.True Here And Now. O Nanak, Forever And Ever True. ||1||\r",
+                    "time": 104043
+                },
+                {
+                    "line": "By thinking, He cannot be reduced to thought, even by thinking hundreds of thousands of times.By remaining silent, inner silence is not obtained, even by remaining lovingly absorbed deep within.\r",
+                    "time": 155043
+                },
+                {
+                    "line": "The hunger of the hungry is not appeased, even by piling up loads of worldly goods.Hundreds of thousands of clever tricks, but not even one of them will go along with you in the end.\r",
+                    "time": 186088
+                },
+                {
+                    "line": "So how can you become truthful? And how can the veil of illusion be torn away?O Nanak, it is written that you shall obey the Hukam of His Command, and walk in the Way of His Will. ||1||\r",
+                    "time": 215054
+                },
+                {
+                    "line": "By His Command, bodies are created; His Command cannot be described.By His Command, souls come into being; by His Command, glory and greatness are obtained.\r",
+                    "time": 265023
+                },
+                {
+                    "line": "By His Command, some are high and some are low; by His Written Command, pain and pleasure are obtained.Some, by His Command, are blessed and forgiven; others, by His Command, wander aimlessly forever.\r",
+                    "time": 291046
+                },
+                {
+                    "line": "Everyone is subject to His Command; no one is beyond His Command.O Nanak, one who understands His Command, does not speak in ego. ||2||\r",
+                    "time": 318061
+                },
+                {
+                    "line": "Some sing of His Power-who has that Power?Some sing of His Gifts, and know His Sign and Insignia.Some sing of His Glorious Virtues, Greatness and Beauty.\r",
+                    "time": 365068
+                },
+                {
+                    "line": "Some sing of knowledge obtained of Him, through difficult philosophical studies.Some sing that He fashions the body, and then again reduces it to dust.Some sing that He takes life away, and then again restores it.\r",
+                    "time": 405087
+                },
+                {
+                    "line": "Some sing that He seems so very far away.Some sing that He watches over us, face to face, ever-present.There is no shortage of those who preach and teach.\r",
+                    "time": 443068
+                },
+                {
+                    "line": "Millions upon millions offer millions of sermons and stories.The Great Giver keeps on giving, while those who receive grow weary of receiving.Throughout the ages, consumers consume.\r",
+                    "time": 480037
+                },
+                {
+                    "line": "The Commander, by His Command, leads us to walk on the Path.O Nanak, He blossoms forth, Carefree and Untroubled. ||3||True is the Master, True is His Name-speak it with infinite love.\r",
+                    "time": 504095
+                },
+                {
+                    "line": "People beg and pray, \"\"Give to us, give to us\"\", and the Great Giver gives His Gifts.So what offering can we place before Him, by which we might see the Darbaar of His Court?\r",
+                    "time": 551077
+                },
+                {
+                    "line": "What words can we speak to evoke His Love?In the Amrit Vaylaa, the ambrosial hours before dawn, chant the True Name, and contemplate His Glorious Greatness.\r",
+                    "time": 580041
+                },
+                {
+                    "line": "By the karma of past actions, the robe of this physical body is obtained. By His Grace, the Gate of Liberation is found.O Nanak, know this well: the True One Himself is All. ||4||\r",
+                    "time": 608060
+                },
+                {
+                    "line": "He cannot be established, He cannot be created.He Himself is Immaculate and Pure.Those who serve Him are honored.\r",
+                    "time": 654080
+                },
+                {
+                    "line": "O Nanak, sing of the Lord, the Treasure of Excellence.Sing, and listen, and let your mind be filled with love.Your pain shall be sent far away, and peace shall come to your home.\r",
+                    "time": 696065
+                },
+                {
+                    "line": "The Guru's Word is the Sound-current of the Naad; the Guru's Word is the Wisdom of the Vedas; the Guru's Word is all-pervading.The Guru is Shiva, the Guru is Vishnu and Brahma; the Guru is Paarvati and Lakhshmi.\r",
+                    "time": 735054
+                },
+                {
+                    "line": "Even knowing God, I cannot describe Him; He cannot be described in words.The Guru has given me this one understanding:There is only the One, the Giver of all souls. May I never forget Him! ||5||\r",
+                    "time": 768053
+                },
+                {
+                    "line": "If I am pleasing to Him, then that is my pilgrimage and cleansing bath. Without pleasing Him, what good are ritual cleansings?I gaze upon all the created beings: without the karma of good actions, what are they given to receive?\r",
+                    "time": 822005
+                },
+                {
+                    "line": "Within the mind are gems, jewels and rubies, if you listen to the Guru's Teachings, even once.The Guru has given me this one understanding:There is only the One, the Giver of all souls. May I never forget Him! ||6||\r",
+                    "time": 883092
+                },
+                {
+                    "line": "Even if you could live throughout the four ages, or even ten times more,And even if you were known throughout the nine continents and followed by all,With a good name and reputation, with praise and fame throughout the world.\r",
+                    "time": 971035
+                },
+                {
+                    "line": "Still, if the Lord does not bless you with His Glance of Grace, then who cares? What is the use?Among worms, you would be considered a lowly worm, and even contemptible sinners would hold you in contempt.O Nanak, God blesses the unworthy with virtue, and bestows virtue on the virtuous.\r",
+                    "time": 1014007
+                },
+                {
+                    "line": "No one can even imagine anyone who can bestow virtue upon Him. ||7||Listening-the Siddhas, the spiritual teachers, the heroic warriors, the yogic masters.Listening-the earth, its support and the Akaashic ethers.\r",
+                    "time": 1056006
+                },
+                {
+                    "line": "Listening-the oceans, the lands of the world and the nether regions of the underworld.Listening-Death cannot even touch you.O Nanak, the devotees are forever in bliss.Listening-pain and sin are erased. ||8||\r",
+                    "time": 1113013
+                },
+                {
+                    "line": "Listening-Shiva, Brahma and Indra.Listening-even foul-mouthed people praise Him.Listening-the technology of Yoga and the secrets of the body.Listening-the Shaastras, the Simritees and the Vedas.\r",
+                    "time": 1204024
+                },
+                {
+                    "line": "O Nanak, the devotees are forever in bliss.Listening-pain and sin are erased. ||9||Listening-truth, contentment and spiritual wisdom.Listening-take your cleansing bath at the sixty-eight places of pilgrimage.\r",
+                    "time": 1240066
+                },
+                {
+                    "line": "Listening-reading and reciting, honor is obtained.Listening-intuitively grasp the essence of meditation.O Nanak, the devotees are forever in bliss.Listening-pain and sin are erased. ||10||\r",
+                    "time": 1312031
+                },
+                {
+                    "line": "Listening-dive deep into the ocean of virtue.Listening-the Shaykhs, religious scholars, spiritual teachers and emperors.Listening-even the blind find the Path.Listening-the Unreachable comes within your grasp.O Nanak, the devotees are forever in bliss.\r",
+                    "time": 1402003
+                },
+                {
+                    "line": "Listening-pain and sin are erased. ||11||The state of the faithful cannot be described.One who tries to describe this shall regret the attempt.No paper, no pen, no scribe Can record the state of the faithful.\r",
+                    "time": 1449054
+                },
+                {
+                    "line": "Such is the Name of the Immaculate Lord.Only one who has faith comes to know such a state of mind. ||12||The faithful have intuitive awareness and intelligence.The faithful know about all worlds and realms.The faithful shall never be struck across the face.\r",
+                    "time": 1525004
+                },
+                {
+                    "line": "The faithful do not have to go with the Messenger of Death.Such is the Name of the Immaculate Lord.Only one who has faith comes to know such a state of mind. ||13||The path of the faithful shall never be blocked.The faithful shall depart with honor and fame.\r",
+                    "time": 1612051
+                },
+                {
+                    "line": "The faithful do not follow empty religious rituals.The faithful are firmly bound to the Dharma.Such is the Name of the Immaculate Lord.Only one who has faith comes to know such a state of mind. ||14||\r",
+                    "time": 1682078
+                },
+                {
+                    "line": "The faithful find the Door of Liberation.The faithful uplift and redeem their family and relations.The faithful are saved, and carried across with the Sikhs of the Guru.The faithful, O Nanak, do not wander around begging.Such is the Name of the Immaculate Lord.\r",
+                    "time": 1766010
+                },
+                {
+                    "line": "Only one who has faith comes to know such a state of mind. ||15||The chosen ones, the self-elect, are accepted and approved.The chosen ones are honored in the Court of the Lord.The chosen ones look beautiful in the courts of kings.The chosen ones meditate single-mindedly on the Guru.\r",
+                    "time": 1815081
+                },
+                {
+                    "line": "No matter how much anyone tries to explain and describe them,The actions of the Creator cannot be counted.The mythical bull is Dharma, the son of compassion;This is what patiently holds the earth in its place.One who understands this becomes truthful.\r",
+                    "time": 1896085
+                },
+                {
+                    "line": "What a great load there is on the bull!So many worlds beyond this world-so very many!What power holds them, and supports their weight?The names and the colors of the assorted species of beings.\r",
+                    "time": 1959012
+                },
+                {
+                    "line": "Were all inscribed by the Ever-flowing Pen of God.Who knows how to write this account?Just imagine what a huge scroll it would take!\r",
+                    "time": 2008055
+                },
+                {
+                    "line": "What power! What fascinating beauty!And what gifts! Who can know their extent?You created the vast expanse of the Universe with One Word!Hundreds of thousands of rivers began to flow.\r",
+                    "time": 2045090
+                },
+                {
+                    "line": "How can Your Creative Potency be described?I cannot even once be a sacrifice to You.Whatever pleases You is the only good done,\r",
+                    "time": 2094098
+                },
+                {
+                    "line": "You, Eternal and Formless One! ||16||Countless meditations, countless loves.Countless worship services, countless austere disciplines.Countless scriptures, and ritual recitations of the Vedas.\r",
+                    "time": 2128077
+                },
+                {
+                    "line": "Countless Yogis, whose minds remain detached from the world.Countless devotees contemplate the Wisdom and Virtues of the Lord.Countless the holy, countless the givers.Countless heroic spiritual warriors, who bear the brunt of the attack in battle (who with their mouths eat steel).\r",
+                    "time": 2181070
+                },
+                {
+                    "line": "Countless silent sages, vibrating the String of His Love.How can Your Creative Potency be described?I cannot even once be a sacrifice to You.\r",
+                    "time": 2238000
+                },
+                {
+                    "line": "Whatever pleases You is the only good done,You, Eternal and Formless One. ||17||Countless fools, blinded by ignorance.Countless thieves and embezzlers.\r",
+                    "time": 2269065
+                },
+                {
+                    "line": "Countless impose their will by force.Countless cut-throats and ruthless killers.Countless sinners who keep on sinning.Countless liars, wandering lost in their lies.\r",
+                    "time": 2350009
+                },
+                {
+                    "line": "Countless wretches, eating filth as their ration.Countless slanderers, carrying the weight of their stupid mistakes on their heads.Nanak describes the state of the lowly.I cannot even once be a sacrifice to You.Whatever pleases You is the only good done,\r",
+                    "time": 2394041
+                },
+                {
+                    "line": "You, Eternal and Formless One. ||18||Countless names, countless places.Inaccessible, unapproachable, countless celestial realms.Even to call them countless is to carry the weight on your head.From the Word, comes the Naam; from the Word, comes Your Praise.\r",
+                    "time": 2452078
+                },
+                {
+                    "line": "From the Word, comes spiritual wisdom, singing the Songs of Your Glory.From the Word, come the written and spoken words and hymns.From the Word, comes destiny, written on one's forehead.But the One who wrote these Words of Destiny-no words are written on His Forehead.As He ordains, so do we receive.\r",
+                    "time": 2510041
+                },
+                {
+                    "line": "The created universe is the manifestation of Your Name.Without Your Name, there is no place at all.How can I describe Your Creative Power?I cannot even once be a sacrifice to You.Whatever pleases You is the only good done,\r",
+                    "time": 2573031
+                },
+                {
+                    "line": "You, Eternal and Formless One. ||19||When the hands and the feet and the body are dirty,Water can wash away the dirt.When the clothes are soiled and stained by urine,Soap can wash them clean.\r",
+                    "time": 2625034
+                },
+                {
+                    "line": "But when the intellect is stained and polluted by sin,It can only be cleansed by the Love of the Name.Virtue and vice do not come by mere words;Actions repeated, over and over again, are engraved on the soul.\r",
+                    "time": 2684033
+                },
+                {
+                    "line": "You shall harvest what you plant.O Nanak, by the Hukam of God's Command, we come and go in reincarnation. ||20||Pilgrimages, austere discipline, compassion and charityThese, by themselves, bring only an iota of merit.Listening and believing with love and humility in your mind,\r",
+                    "time": 2733087
+                },
+                {
+                    "line": "Cleanse yourself with the Name, at the sacred shrine deep within.All virtues are Yours, Lord, I have none at all.Without virtue, there is no devotional worship.I bow to the Lord of the World, to His Word, to Brahma the Creator.He is Beautiful, True and Eternally Joyful.\r",
+                    "time": 2792078
+                },
+                {
+                    "line": "What was that time, and what was that moment? What was that day, and what was that date?What was that season, and what was that month, when the Universe was created?The Pandits, the religious scholars, cannot find that time, even if it is written in the Puraanas.\r",
+                    "time": 2855061
+                },
+                {
+                    "line": "That time is not known to the Qazis, who study the Koran.The day and the date are not known to the Yogis, nor is the month or the season.The Creator who created this creation-only He Himself knows.\r",
+                    "time": 2926092
+                },
+                {
+                    "line": "How can we speak of Him? How can we praise Him? How can we describe Him? How can we know Him?O Nanak, everyone speaks of Him, each one wiser than the rest.Great is the Master, Great is His Name. Whatever happens is according to His Will.\r",
+                    "time": 2998024
+                },
+                {
+                    "line": "O Nanak, one who claims to know everything shall not be decorated in the world hereafter. ||21||There are nether worlds beneath nether worlds, and hundreds of thousands of heavenly worlds above.à¨à©à¨ à¨à©à¨ à¨­à¨¾à¨²à¨¿ à¨¥à¨à© à¨µà©à¨¦ à¨à¨¹à¨¨à¨¿ à¨à¨ à¨µà¨¾à¨¤ à¥¥\r",
+                    "time": 3069027
+                },
+                {
+                    "line": "The scriptures say that there are 18,000 worlds, but in reality, there is only One Universe.If you try to write an account of this, you will surely finish yourself before you finish writing it.O Nanak, call Him Great! He Himself knows Himself. ||22||\r",
+                    "time": 3127018
+                },
+                {
+                    "line": "Saalaahee Saalaahi Eaethee Surath N Paaeeaa ||The streams and rivers flowing into the ocean do not know its vastness.Even kings and emperors, with mountains of property and oceans of wealth.\r",
+                    "time": 3176028
+                },
+                {
+                    "line": "these are not even equal to an ant, who does not forget God. ||23||Endless are His Praises, endless are those who speak them.Endless are His Actions, endless are His Gifts.\r",
+                    "time": 3222004
+                },
+                {
+                    "line": "Endless is His Vision, endless is His Hearing.His limits cannot be perceived. What is the Mystery of His Mind?The limits of the created universe cannot be perceived.Its limits here and beyond cannot be perceived.\r",
+                    "time": 3257092
+                },
+                {
+                    "line": "Many struggle to know His limits,But His limits cannot be found.No one can know these limits.The more you say about them, the more there still remains to be said.\r",
+                    "time": 3299029
+                },
+                {
+                    "line": "Great is the Master, High is His Heavenly Home.Highest of the High, above all is His Name.Only one as Great and as High as God Can know His Lofty and Exalted State.\r",
+                    "time": 3333041
+                },
+                {
+                    "line": "Only He Himself is that Great. He Himself knows Himself.O Nanak, by His Glance of Grace, He bestows His Blessings. ||24||His Blessings are so abundant that there can be no written account of them.\r",
+                    "time": 3370050
+                },
+                {
+                    "line": "The Great Giver does not hold back anything.There are so many great, heroic warriors begging at the Door of the Infinite Lord.So many contemplate and dwell upon Him, that they cannot be counted.So many waste away to death engaged in corruption.\r",
+                    "time": 3400053
+                },
+                {
+                    "line": "So many take and take again, and then deny receiving.So many foolish consumers keep on consuming.So many endure distress, deprivation and constant abuse.Even these are Your Gifts, O Great Giver!\r",
+                    "time": 3432078
+                },
+                {
+                    "line": "Liberation from bondage comes only by Your Will.No one else has any say in this.If some fool should presume to say that he does,He shall learn, and feel the effects of his folly.\r",
+                    "time": 3468074
+                },
+                {
+                    "line": "He Himself knows, He Himself gives.Few, very few are those who acknowledge this.One who is blessed to sing the Praises of the Lord,O Nanak, is the king of kings. ||25||\r",
+                    "time": 3503033
+                },
+                {
+                    "line": "Priceless are His Virtues, Priceless are His Dealings.Priceless are His Dealers, Priceless are His Treasures.Priceless are those who come to Him, Priceless are those who buy from Him.\r",
+                    "time": 3537097
+                },
+                {
+                    "line": "Priceless is Love for Him, Priceless is absorption into Him.Priceless is the Divine Law of Dharma, Priceless is the Divine Court of Justice.Priceless are the scales, priceless are the weights.\r",
+                    "time": 3564059
+                },
+                {
+                    "line": "Priceless are His Blessings, Priceless is His Banner and Insignia.Priceless is His Mercy, Priceless is His Royal Command.Priceless, O Priceless beyond expression!\r",
+                    "time": 3591039
+                },
+                {
+                    "line": "Speak of Him continually, and remain absorbed in His Love.The Vedas and the Puraanas speak.The scholars speak and lecture.\r",
+                    "time": 3610102
+                },
+                {
+                    "line": "Brahma speaks, Indra speaks.The Gopis and Krishna speak.Shiva speaks, the Siddhas speak.The many created Buddhas speak.\r",
+                    "time": 3636041
+                },
+                {
+                    "line": "The demons speak, the demi-gods speak.The spiritual warriors, the heavenly beings, the silent sages, the humble and serviceful speak.Many speak and try to describe Him.\r",
+                    "time": 3664043
+                },
+                {
+                    "line": "Many have spoken of Him over and over again, and have then arisen and departed.If He were to create as many again as there already are,Even then, they could not describe Him.\r",
+                    "time": 3689119
+                },
+                {
+                    "line": "He is as Great as He wishes to be.O Nanak, the True Lord knows.If anyone presumes to describe God,He shall be known as the greatest fool of fools! ||26||\r",
+                    "time": 3715081
+                },
+                {
+                    "line": "Where is that Gate, and where is that Dwelling, in which You sit and take care of all?The Sound-current of the Naad vibrates there, and countless musicians play on all sorts of instruments there.\r",
+                    "time": 3759120
+                },
+                {
+                    "line": "So many Ragas, so many musicians singing there.The praanic wind, water and fire sing; the Righteous Judge of Dharma sings at Your Door.\r",
+                    "time": 3781040
+                },
+                {
+                    "line": "Chitr and Gupt, the angels of the conscious and the subconscious who record actions, and the Righteous Judge of Dharma who judges this record sing.Shiva, Brahma and the Goddess of Beauty, ever adorned, sing.\r",
+                    "time": 3802043
+                },
+                {
+                    "line": "Indra, seated upon His Throne, sings with the deities at Your Door.The Siddhas in Samaadhi sing; the Saadhus sing in contemplation.\r",
+                    "time": 3822103
+                },
+                {
+                    "line": "The celibates, the fanatics, the peacefully accepting and the fearless warriors sing.The Pandits, the religious scholars who recite the Vedas, with the supreme sages of all the ages, sing.\r",
+                    "time": 3843074
+                },
+                {
+                    "line": "The Mohinis, the enchanting heavenly beauties who entice hearts in this world, in paradise, and in the underworld of the subconscious sing.The celestial jewels created by You, and the sixty-eight holy places of pilgrimage sing.\r",
+                    "time": 3863127
+                },
+                {
+                    "line": "The brave and mighty warriors sing; the spiritual heroes and the four sources of creation sing.The planets, solar systems and galaxies, created and arranged by Your Hand, sing.\r",
+                    "time": 3884078
+                },
+                {
+                    "line": "They alone sing, who are pleasing to Your Will. Your devotees are imbued with the Nectar of Your Essence.So many others sing, they do not come to mind. O Nanak, how can I consider them all?\r",
+                    "time": 3904104
+                },
+                {
+                    "line": "That True Lord is True, Forever True, and True is His Name.He is, and shall always be. He shall not depart, even when this Universe which He has created departs.\r",
+                    "time": 3925135
+                },
+                {
+                    "line": "He created the world, with its various colors, species of beings, and the variety of Maya.Having created the creation, He watches over it Himself, by His Greatness.\r",
+                    "time": 3955106
+                },
+                {
+                    "line": "He does whatever He pleases. No order can be issued to Him.He is the King, the King of kings, the Supreme Lord and Master of kings. Nanak remains subject to His Will. ||27||\r",
+                    "time": 3987061
+                },
+                {
+                    "line": "Make contentment your ear-rings, humility your begging bowl, and meditation the ashes you apply to your body.Let the remembrance of death be the patched coat you wear, let the purity of virginity be your way in the world, and let faith in the Lord be your walking stick.\r",
+                    "time": 4016110
+                },
+                {
+                    "line": "See the brotherhood of all mankind as the highest order of Yogis; conquer your own mind, and conquer the world.I bow to Him, I humbly bow.The Primal One, the Pure Light, without beginning, without end. Throughout all the ages, He is One and the Same. ||28||\r",
+                    "time": 4047118
+                },
+                {
+                    "line": "Let spiritual wisdom be your food, and compassion your attendant. The Sound-current of the Naad vibrates in each and every heart.He Himself is the Supreme Master of all; wealth and miraculous spiritual powers, and all other external tastes and pleasures, are all like beads on a string.\r",
+                    "time": 4084136
+                },
+                {
+                    "line": "Union with Him, and separation from Him, come by His Will. We come to receive what is written in our destiny.I bow to Him, I humbly bow.The Primal One, the Pure Light, without beginning, without end. Throughout all the ages, He is One and the Same. ||29||\r",
+                    "time": 4113118
+                },
+                {
+                    "line": "The One Divine Mother conceived and gave birth to the three deities.One, the Creator of the World; One, the Sustainer; and One, the Destroyer.He makes things happen according to the Pleasure of His Will. Such is His Celestial Order.\r",
+                    "time": 4150078
+                },
+                {
+                    "line": "He watches over all, but none see Him. How wonderful this is!I bow to Him, I humbly bow.The Primal One, the Pure Light, without beginning, without end. Throughout all the ages, He is One and the Same. ||30||\r",
+                    "time": 4191067
+                },
+                {
+                    "line": "On world after world are His Seats of Authority and His Storehouses.Whatever was put into them, was put there once and for all.Having created the creation, the Creator Lord watches over it.O Nanak, True is the Creation of the True Lord.I bow to Him, I humbly bow.\r",
+                    "time": 4246051
+                },
+                {
+                    "line": "The Primal One, the Pure Light, without beginning, without end. Throughout all the ages, He is One and the Same. ||31||If I had 100,000 tongues, and these were then multiplied twenty times more, with each tongue,\r",
+                    "time": 4285051
+                },
+                {
+                    "line": "I would repeat, hundreds of thousands of times, the Name of the One, the Lord of the Universe.Along this path to our Husband Lord, we climb the steps of the ladder, and come to merge with Him.\r",
+                    "time": 4312061
+                },
+                {
+                    "line": "Hearing of the etheric realms, even worms long to come back home.O Nanak, by His Grace He is obtained. False are the boastings of the false. ||32||\r",
+                    "time": 4339076
+                },
+                {
+                    "line": "No power to speak, no power to keep silent.No power to beg, no power to give.No power to live, no power to die.\r",
+                    "time": 4364106
+                },
+                {
+                    "line": "No power to rule, with wealth and occult mental powers.No power to gain intuitive understanding, spiritual wisdom and meditation.No power to find the way to escape from the world.\r",
+                    "time": 4392114
+                },
+                {
+                    "line": "He alone has the Power in His Hands. He watches over all.O Nanak, no one is high or low. ||33||Nights, days, weeks and seasons;\r",
+                    "time": 4411100
+                },
+                {
+                    "line": "Wind, water, fire and the nether regions In the midst of these, He established the earth as a home for Dharma.Upon it, He placed the various species of beings.\r",
+                    "time": 4438077
+                },
+                {
+                    "line": "Their names are uncounted and endless.By their deeds and their actions, they shall be judged.God Himself is True, and True is His Court.There, in perfect grace and ease, sit the self-elect, the self-realized Saints.\r",
+                    "time": 4459122
+                },
+                {
+                    "line": "They receive the Mark of Grace from the Merciful Lord.The ripe and the unripe, the good and the bad, shall there be judged.O Nanak, when you go home, you will see this. ||34||This is righteous living in the realm of Dharma.\r",
+                    "time": 4484066
+                },
+                {
+                    "line": "And now we speak of the realm of spiritual wisdom.So many winds, waters and fires; so many Krishnas and Shivas.So many Brahmas, fashioning forms of great beauty, adorned and dressed in many colors.\r",
+                    "time": 4518124
+                },
+                {
+                    "line": "So many worlds and lands for working out karma. So very many lessons to be learned!So many Indras, so many moons and suns, so many worlds and lands.So many Siddhas and Buddhas, so many Yogic masters. So many goddesses of various kinds.\r",
+                    "time": 4541078
+                },
+                {
+                    "line": "So many demi-gods and demons, so many silent sages. So many oceans of jewels.So many ways of life, so many languages. So many dynasties of rulers.So many intuitive people, so many selfless servants. O Nanak, His limit has no limit! ||35||\r",
+                    "time": 4596075
+                },
+                {
+                    "line": "In the realm of wisdom, spiritual wisdom reigns supreme.The Sound-current of the Naad vibrates there, amidst the sounds and the sights of bliss.In the realm of humility, the Word is Beauty.Forms of incomparable beauty are fashioned there.\r",
+                    "time": 4637092
+                },
+                {
+                    "line": "These things cannot be described.One who tries to speak of these shall regret the attempt.The intuitive consciousness, intellect and understanding of the mind are shaped there.The consciousness of the spiritual warriors and the Siddhas, the beings of spiritual perfection, are shaped there. ||36||\r",
+                    "time": 4670103
+                },
+                {
+                    "line": "In the realm of karma, the Word is Power.No one else dwells there,Except the warriors of great power, the spiritual heroes.They are totally fulfilled, imbued with the Lord's Essence.Myriads of Sitas are there, cool and calm in their majestic glory.\r",
+                    "time": 4714056
+                },
+                {
+                    "line": "Their beauty cannot be described.Neither death nor deception comes to those,Within whose minds the Lord abides.The devotees of many worlds dwell there.They celebrate; their minds are imbued with the True Lord.\r",
+                    "time": 4752116
+                },
+                {
+                    "line": "In the realm of Truth, the Formless Lord abides.Having created the creation, He watches over it. By His Glance of Grace, He bestows happiness.There are planets, solar systems and galaxies.If one speaks of them, there is no limit, no end.There are worlds upon worlds of His Creation.\r",
+                    "time": 4788095
+                },
+                {
+                    "line": "As He commands, so they exist.He watches over all, and contemplating the creation, He rejoices.O Nanak, to describe this is as hard as steel! ||37||Let self-control be the furnace, and patience the goldsmith.Let understanding be the anvil, and spiritual wisdom the tools.\r",
+                    "time": 4825083
+                },
+                {
+                    "line": "With the Fear of God as the bellows, fan the flames of tapa, the body's inner heat.In the crucible of love, melt the Nectar of the Name,And mint the True Coin of the Shabad, the Word of God.Such is the karma of those upon whom He has cast His Glance of Grace.O Nanak, the Merciful Lord, by His Grace, uplifts and exalts them. ||38||Shalok:\r",
+                    "time": 4863093
+                },
+                {
+                    "line": "Air is the Guru, Water is the Father, and Earth is the Great Mother of all.Day and night are the two nurses, in whose lap all the world is at play.Good deeds and bad deeds-the record is read out in the Presence of the Lord of Dharma.According to their own actions, some are drawn closer, and some are driven farther away.\r",
+                    "time": 4904045
+                },
+                {
+                    "line": "Those who have meditated on the Naam, the Name of the Lord, and departed after having worked by the sweat of their brows-O Nanak, their faces are radiant in the Court of the Lord, and many are saved along with them! ||1||\r",
+                    "time": 4951086
+                }
+            ],
+            "spanish_lyrics": [
+                {
+                    "line": "Un sólo Creador Universal, Verdad es Su Nombre. Creativa Su Personalidad. Sin Miedo, sin Venganza. Inmortal, Sin Principio, Sin Fin, Auto Existente. Por la Gracia del Verdadero Guru.\r",
+                    "time": 11090
+                },
+                {
+                    "line": "Canta y medita en esto,\r",
+                    "time": 102009
+                },
+                {
+                    "line": "era Verdad en el principio, Él ha sido Verdad a través de todas las épocas.Él es Verdad ahora, y ¡Oh!, dice Nanak, Él siempre será Verdad. (1)\r",
+                    "time": 104043
+                },
+                {
+                    "line": "Si uno se baña cientos de miles de veces, la mente no está limpia.por más que pienses profundamente en Él, la mente no se desprenderá para unirse con Él.\r",
+                    "time": 155043
+                },
+                {
+                    "line": "Acumulando todos los bienes del mundo, el hambre de tu Alma seguirá sin saciarse.Ni siquiera cientos de miles de entrenamientos y preparaciones te llevarán a la Corte del Señor\r",
+                    "time": 186088
+                },
+                {
+                    "line": "EntoncesCómo podemos conocer la Verdad? Cómo podemos liberarnos de la ilusión.Oh, dice Nanak, cuando por Su Gracia nuestro Destino es prefecto y vivimos en el Jukam de Su Voluntad, el velo de la ilusión es levantado. (1)\r",
+                    "time": 215054
+                },
+                {
+                    "line": "Por Su Voluntad los cuerpos son creados, Su Mandato no puede ser comprendido.Por Su Voluntad todas las Almas toman forma y por Su Voluntad la Grandeza es obtenida.\r",
+                    "time": 265023
+                },
+                {
+                    "line": "Por Su Voluntad unos están elevados mientras otros andan en niveles bajos.Por Su Voluntad unos conocen una gran Dicha mientras otros sólo experimentan pena y tristeza.Por la Voluntad de Dios algunas Almas son liberadas mientras otras son obligadas a vagar de vida en vida.\r",
+                    "time": 291046
+                },
+                {
+                    "line": "Todos los seres viven bajo la Voluntad de Dios; ninguno vive fuera de ella.Oh, dice Nanak, quien entiende Su Voluntad, no se aferra a su tonto orgullo. (2)\r",
+                    "time": 318061
+                },
+                {
+                    "line": "Quién por sí mismo puede ser grande.Quién tiene algo, a menos que venga de Él.Quién puede manifestar todas las facetas de Dios y quién puede brillar con todo su esplendor\r",
+                    "time": 365068
+                },
+                {
+                    "line": "Quién puede manifestar todas las facetas de Dios y quién puede brillar con todo su esplendor.Muchos son los que cantan las Alabanzas y las Perfecciones del Señor, pero nadie puede acabar de contarlas todas.Algunos cantan que Él crea la vida, otros cantan que es Él quien la toma de regreso.\r",
+                    "time": 405087
+                },
+                {
+                    "line": "Algunos dicen que Él está muy lejos.otros dicen que Él está ahí si lo llamas.Incontables son los que meditan en los Discursos del Señor;\r",
+                    "time": 443068
+                },
+                {
+                    "line": "millones son los que dan un sinfín de descripciones de Él.El Gran Dador incansablemente da más y más, mientras los que reciben se cansan de recibir.Por generaciones los consumidores consumen,\r",
+                    "time": 480037
+                },
+                {
+                    "line": "Vivimos gracias a Su Bondad, época tras época, cuando por fin, también por el Mandato de Dios, caminamos enfocados hacia Él.Oh, dice Nanak, el Maestro está disfrutando sin preocupación. (3)El Señor es Verdad y Verdad es Su Nombre; las criaturas repiten Su Nombre con Amor infinito.\r",
+                    "time": 504095
+                },
+                {
+                    "line": "Pedimos continuamente, danos más, oh Dios, danos más, y Dios generosamente da sin cesar.Qué podemos ofrecerle para ver Su Reino.\r",
+                    "time": 551077
+                },
+                {
+                    "line": "Qué palabras puede uno pronunciar para ganar Su Amor.En el Amrit Vela, las horas fragantes del amanecer, medita en El Nombre y en la Grandeza de Dios.\r",
+                    "time": 580041
+                },
+                {
+                    "line": "Por el Karma de las acciones pasadas hemos llegado a tener este bello nacimiento humano; pero es solamente por Su Gracia que obtendremos la Salvación.Sólo hace falta saber, oh, dice Nanak, que Dios, por ser la Verdad, es Todo en todo. (4)\r",
+                    "time": 608060
+                },
+                {
+                    "line": "Dios no puede ser definido, no puede ser creado.Él en Sí Mismo es Inmaculado y Puro.Los que Lo sirven son honrados.\r",
+                    "time": 654080
+                },
+                {
+                    "line": "Oh, dice Nanak, canta las Misericordias y las Virtudes del Señor, Tesoro de Excelencias.y guarda la Reverencia Amorosa hacia Él en tu corazón.Así vendrá el alivio de la pena, y la Paz florecerá en tu interior.\r",
+                    "time": 696065
+                },
+                {
+                    "line": "Palabra del Guru es la Corriente de Sonido del Naad. En él es encontrada la sabiduría de los Vedas y la Palabra del Guru prevalece a través de él.Palabra del Guru es la Corriente de Sonido del Naad. En él es encontrada la sabiduría de los Vedas y la Palabra del Guru prevalece a través de él.\r",
+                    "time": 735054
+                },
+                {
+                    "line": "¡No hay palabras para describir el Estado de aquél que realiza la Conciencia de Dios!El Guru me ha enseñado esto,hay sólo un Dios Dador de todas las Almas. ¡Que nunca lo olvide a Él! (5)\r",
+                    "time": 768053
+                },
+                {
+                    "line": "Si complaciera al Señor, ese sería mi baño de peregrinaje. Sin complacerlo, ¿de qué valen todos los baños en los lugares Santos.Su creación la veo esparcida a mi derredor; nada existe fuera de ella.\r",
+                    "time": 822005
+                },
+                {
+                    "line": "Las verdaderas gemas, las joyas, los rubíes, son estados de la mente que son revelados cuando el corazón se abre para recibir Su Instrucción.El Guru me ha enseñado esto.hay sólo un Dios Dador de todas las Almas. ¡Que nunca me olvide de Él! (6)\r",
+                    "time": 883092
+                },
+                {
+                    "line": "El hombre podría vivir por cuatro épocas o por cientos de épocas más.Podría ser famoso, seguido, honrado y buscado por todos.Podría ser famoso, seguido, honrado y buscado por todos.\r",
+                    "time": 971035
+                },
+                {
+                    "line": "pero si él cayera de Su Gracia.se volvería un gusano entre gusanos y aun el peor desgraciado lo vería con desprecio.Oh, dice Nanak, Dios otorga la Virtud al que no la tiene; Él brinda Piedad al Devoto.\r",
+                    "time": 1014007
+                },
+                {
+                    "line": "Nosotros no podemos darle nada a Él. (7)Oyendo el Nombre de Dios, el hombre se vuelve un Siddha, un Pir, un héroe espiritual o un gran Yogui.La tierra y el toro que la soporta son revelados; y los cielos también son vistos.\r",
+                    "time": 1056006
+                },
+                {
+                    "line": "Escuchando el Nombre de Dios, el hombre viene a conocer los continentes, los mundos y las regiones inferiores.Al escuchar el Nombre de Dios, el hombre se libera del tormento de la muerte.Oh, dice Nanak, el Devoto está siempre en Éxtasis;oyendo el Nombre del Señor, su pena y tristeza son destruidas. (8)\r",
+                    "time": 1113013
+                },
+                {
+                    "line": "Oyendo el Nombre de Dios, el hombre se vuelve Brahma, Shiva e Indra.Oyendo el Nombre de Dios, Hasta el blasfemo lo alaba.Oyendo el Nombre de Dios, uno obtiene el Verdadero Yoga y los secretos de la existencia.Oyendo el Nombre de Dios, uno entiende el conocimiento de los Shastras, Textos Semíticos y Vedas.\r",
+                    "time": 1204024
+                },
+                {
+                    "line": "Oh, dice Nanak, el Devoto está siempre en Éxtasis;Escuchando el Nombre de Dios, su pena y tristeza son destruidas. (9)Oyendo el Nombre de Dios, uno logra la Verdad, el precioso Conocimiento y el Contentamiento.Oyendo el Nombre de Dios, uno recibe todas las bendiciones que dicen ser obtenidas al bañarse en los lugares santos.\r",
+                    "time": 1240066
+                },
+                {
+                    "line": "Los que cantan Sus Alabanzas crecen en honor.y sus mentes están firmemente sostenidas en la Meditación del Señor.Oh, dice Nanak, el Devoto está siempre en Éxtasis,oyendo el Nombre de Dios, su pena y tristeza son destruidas.(10)\r",
+                    "time": 1312031
+                },
+                {
+                    "line": "Oyendo el Nombre de Dios, el hombre se sumerge en un Océano de virtudes,escuchando están los Sheikjs, los escolares, los maestros espirituales y los emperadores.Oyendo el Nombre de Dios, hasta el ciego encuentra el camino.Oyendo el Nombre de Dios, uno comprende las profundidades de la mente.Oh, dice Nanak, el Devoto está siempre en Éxtasis,\r",
+                    "time": 1402003
+                },
+                {
+                    "line": "oyendo el Nombre de Dios, su pena y tristeza son destruidas. (11)Es imposible describir la experiencia de aquél que fluye en la Voluntad del Señor.Si alguien tratara de Definirlo, se arrepentiría.Ni papel, ni pluma, ni escritor,son capaces de describir el Estado mental de un Fiel.\r",
+                    "time": 1449054
+                },
+                {
+                    "line": "Tal es Nombre del Inmaculado Señor,sólo quien tiene Fe alcanza este estado. (12)Quien practica el Nombre con una Fe sincera, adquiere la Intuición del Conocimiento Divino y desarrolla su inteligencia.El Fiel conoce todos los mundos y los ámbitos.No hay nadie que lo pueda desgraciar,\r",
+                    "time": 1525004
+                },
+                {
+                    "line": "ni nadie que lo pueda traer ante la cara de la muerte.Tal es el Nombre del Inmaculado Señor,sólo quien tiene Fe llega a tener ese estado mental. (13)El camino de aquél que practica el Nombre no tiene obstáculos;ese Devoto parte de esta tierra con honor y reconocimiento.\r",
+                    "time": 1612051
+                },
+                {
+                    "line": "No se pierde en los asuntos terrenales, ni tampoco en los ritos sin sentido.El que practica el Nombre de Dios es sincero en realizar su Dharma.Tal es Nombre del Inmaculado Señor,sólo quien tiene Fe llega a tener ese estado mental. (14)\r",
+                    "time": 1682078
+                },
+                {
+                    "line": "Los fieles hallan la puerta hacia la liberación.Los fieles levantan y redimen a sus familiares y allegados.Los fieles son salvos, y sobrellevados con los Sikhs del Guru.Los fieles, Oh Nanak, no deambulan mendigando.Tal es Nombre del Inmaculado Señor,\r",
+                    "time": 1766010
+                },
+                {
+                    "line": "sólo quien tiene Fe llega a tener ese estado mental.(15)Los elegidos son aprobados,respetados y honrados en la Corte del Señor.Los elegidos se ven bellos en la corte de los reyes.En medio de honores mundanos, fijan su mente sólo en el Guru.\r",
+                    "time": 1815081
+                },
+                {
+                    "line": "No importa qué tanto uno trate de describirlas,las acciones del Creador no pueden contarse.El mitológico toro que pacientemente mantiene al mundo es Dharma, la rectitud, nacida de la compasión.De no ser así, ¿cómo tendría la fuerza para soportar el mundo en su espalda.¡El que entiende esto se vuelve Verdadero!\r",
+                    "time": 1896085
+                },
+                {
+                    "line": "Gran peso lleva el buey!Hay mundos sobre mundos arriba y abajo.¿Qué fuerza es aquélla que los mantiene a todos.lo que determina el tipo, color, y naturaleza de todas las criaturas.\r",
+                    "time": 1959012
+                },
+                {
+                    "line": "Son las letras de la fluente Pluma de Dios,Quien pudiera escribir de esta manera.¡Qué asombroso sería relatar todos esos hechos!\r",
+                    "time": 2008055
+                },
+                {
+                    "line": "¡Qué Grande es Su Poder, qué Increíble Su Belleza!Nadie puede entender qué tan Grande es Su Regalo.Una Palabra de Él y todo el Universo entero se creó.millones de ríos de vida florecieron.\r",
+                    "time": 2045090
+                },
+                {
+                    "line": "No tengo poder para describir Tu Grandeza, oh Señor.No encuentro la manera de postrarme suficientemente ante Ti.Lo que te place es bueno,\r",
+                    "time": 2094098
+                },
+                {
+                    "line": "¡Oh Ser Eterno y sin Forma!(16)Incontables son las oraciones; Incontable su amor.Incontables las religiones y las maneras de alabar.Incontables escrituras y recitaciones de los Vedas.\r",
+                    "time": 2128077
+                },
+                {
+                    "line": "Incontables Yoghis, los cuales se mantienen alejados del mundo.Incontables lo siguen y contemplan las sabidurías y Virtudes del Señor.Incontables los sabios contemplando la Sabiduría y la Virtud.Incontables son los hombres piadosos y serenos;\r",
+                    "time": 2181070
+                },
+                {
+                    "line": "Incontables los mártires y los héroes, conquistadores de su ser.No puedo relatar Tus Excelencias, oh Señor;¡No puedo postrarme lo suficiente ante Ti!\r",
+                    "time": 2238000
+                },
+                {
+                    "line": "Lo que Te place es lo único bueno,¡Oh Señor Eterno y sin forma! (17)Incontables son los tontos y los ignorantes;Incontables los irrespetuosos y ladrones.\r",
+                    "time": 2269065
+                },
+                {
+                    "line": "Incontables los políticos que imponen su voluntad por la fuerza;Incontables los asesinos que derraman sangre inocente.Incontables los necios empeñados en hacer el mal;Incontables los mentirosos que viven en la falsedad,\r",
+                    "time": 2350009
+                },
+                {
+                    "line": "Incontables los calumniadores, agobiados por su envidia;Incontables son los desgraciados que como ración comen inmundicia.Nanak describe el estado del desdichado, oh Señor;¡No puedo acabar de postrarme lo suficiente ante Ti!Lo que Te place a Ti es lo único bueno,\r",
+                    "time": 2394041
+                },
+                {
+                    "line": "¡Oh Señor Eterno y sin forma!(18)Incontables son los nombres, incontables los lugares;Incontables las esferas y los mundos,¡Oh, tantos que nunca habría manera de contar!Tu Nombre se ha formado de la Letra de Tu Palabra.\r",
+                    "time": 2452078
+                },
+                {
+                    "line": "Con palabras Te nombramos, Te alabamos Con palabras relatamos todo conocimiento, toda Alabanza y canción.con palabras leemos en la frente el Destino del hombre.Las palabras vienen de Ti, pero Tú no estás determinado por ellas; solamente nosotros estamos sujetos a Ti.El ordena y nosotros recibimos.\r",
+                    "time": 2510041
+                },
+                {
+                    "line": "La creación entera atestigua Tu Magnitud.Sin su nombre, no tenemos nada.Cómo puedo describir Tus Excelencias.¡No puedo postrarme lo suficiente ante Ti!Lo que Te place es lo único bueno,\r",
+                    "time": 2573031
+                },
+                {
+                    "line": "¡Oh Señor Eterno y sin forma! (19)Cuando las manos y el cuerpo están sucios,el agua los puede limpiar.Cuando la ropa está enlodada y cubierta de tierra,el jabón quita la mancha.\r",
+                    "time": 2625034
+                },
+                {
+                    "line": "Pero si la mente no brilla debido al error y la vergüenza,solamente será regenerada por el Amor al Nombre.Si el hombre es atraído por la Virtud o el vicio,tiene que entender que eso mismo atrae para sí.\r",
+                    "time": 2684033
+                },
+                {
+                    "line": "Como siembras, cosecharás;oh, dice Nanak, por el Jukam de Su Mandato, reencarnamos, yendo y viniendo. (20)haciendo peregrinajes y austeridades, siendo piadoso o dando caridades a otros,todo esto por su cuenta, trae poco merito.Lo que importa es bañarse en la Sagrada Fuente interior, amando, oyendo y recitando el Nombre.\r",
+                    "time": 2733087
+                },
+                {
+                    "line": "Sin esta purificación de pensamientos y acciones, uno no puede volverse Devoto a Su Servicio.¡Oh Señor todas las Virtudes son Tuyas!;Sin virtud, no hay adoración devota.Oh, dice Nanak, aquél que piensa que es muy grande, será hecho muy pequeño en el Reino de Dios. (21)Ilimitados son los mundos de abajo e ilimitados son los mundos de arriba,\r",
+                    "time": 2792078
+                },
+                {
+                    "line": "uno podrá cansarse de buscar Sus límites, pero nunca llegará al fin de Su VastedadLos Vedas hablan de los dieciocho mil mundos, pero todos ellos forman parte de la misma Unidad.Aunque uno dedicara la vida entera Definirlo, nunca terminaría de hacerlo.\r",
+                    "time": 2855061
+                },
+                {
+                    "line": "Oh, dice Nanak, llámalo Grandioso, Él Mismo conoce Su Ser. (22)Aquéllos que cantan Su Alabanza, no saben lo Grande que es Él.Así como los ríos fluyen sin saber el tamaño del mar.\r",
+                    "time": 2926092
+                },
+                {
+                    "line": "De la misma manera, El hombre de mucha riqueza y vasta fortuna,no puede igualarse a una hormiga que nunca olvida a su Creador. (23)Infinita es Su Alabanza e Infinitos son los que la cantan.\r",
+                    "time": 2998024
+                },
+                {
+                    "line": "Infinitas son Sus Obras e Infinitas Sus Maneras. Infinitos son Sus Regalos,Infinitos son los sonidos y las visiones.Infinitos los Misterios de Su Voluntad.\r",
+                    "time": 3069027
+                },
+                {
+                    "line": "Infinita es la creación, Infinita su expansión.Sus limites tangibles e intangibles no pueden ser medidos.Infinito será nuestro esfuerzo para encontrar Su Límite,\r",
+                    "time": 3127018
+                },
+                {
+                    "line": "Pero sus poderes no tienen limites.Nadie conoce de sus limites.Mientras más tenga uno que decir, más habrá que decir.\r",
+                    "time": 3176028
+                },
+                {
+                    "line": "Exaltado es el Creador de todo el Juego; más allá de nuestra imaginación está Su Inmensidad.Uno debe ser tan grande como Él para entender Su Grandeza.Mientras más tenga uno que decir, más habrá que decir. Exaltado es el Creador de todo el Juego;\r",
+                    "time": 3222004
+                },
+                {
+                    "line": "más allá de nuestra imaginación está Su Inmensidad.Uno debe ser tan grande como Él para entender Su Grandeza.Oh, dice Nanak, sólo por Su Gracia el hombre puede elevarse tanto, y ahí se realiza la Unión con Él. (24)Sus Bendiciones son tan abundantes que la descripción de Su Maravillosa Misericordia es imposible de lograr.\r",
+                    "time": 3257092
+                },
+                {
+                    "line": "Él, el Dador da todo; para Él no guarda nada.Muchos son los guerreros que tocan a Su Puerta; imposibles de contar los que se acercan a Él.Muchos son los guerreros que tocan a Su Puerta;imposibles de contar los que se acercan a Él.\r",
+                    "time": 3299029
+                },
+                {
+                    "line": "muchos reciben Su Favor, y gozando de éste se olvidan de su Creador.Tantos consumidores tontos se dedican a consumir.Muchos son los que sufren tensión y privación y constante abuso;aun estas también son Tus Bendiciones, oh Ser Bondadoso.\r",
+                    "time": 3333041
+                },
+                {
+                    "line": "Es por Tu Voluntad que las amarras son cortadas para que el hombre sea liberado.Tus Maneras son conocidas solamente por Ti.y si el hombre osara decir que las entiende,\r",
+                    "time": 3370050
+                },
+                {
+                    "line": "seguramente después tendría que reconocer su tontería.Él Mismo conoce y Él Mismo da.Pero pocos, muy pocos son los que saben esto.Oh, dice Nanak, aquél a quien Dios ha otorgado el Don de Alabarlo,\r",
+                    "time": 3400053
+                },
+                {
+                    "line": "es rey entre los reyes. (25)Incalculables son Tus Virtudes y el comercio Contigo;Incalculables son Tus Compradores , Incalculables tus tesoros.Valor incalculable tienen los que se acercan a ti, incalculable valor el que pide tu ayuda.\r",
+                    "time": 3432078
+                },
+                {
+                    "line": "Incalculable es Tu Amor y la Unión Contigo;Incalculables son Tus Favores y Tu Dote. Incalculable es Tu Ley y la Justicia Suprema;Incalculable es tu balanza y de incalculable valor tus pesos.incontables tus misericordias, e incalculable tu Escudo e Insignia.\r",
+                    "time": 3468074
+                },
+                {
+                    "line": "Perfecto es Tu Comando y Tu Bondad.Incontable, Incalculable mas haya de lo que podemos expresar.Muchos son los que alaban Tu Nombre.En Alabanza del Nombre algunos recitan los Vedas, otros los Puranas,\r",
+                    "time": 3503033
+                },
+                {
+                    "line": "mientras que los escolares Lo proclaman en largos discursos.Tus Himnos son cantados por Indra y Brahma,por las Gopis y Krishna;\r",
+                    "time": 3537097
+                },
+                {
+                    "line": "Tu Nombre es recitado por Shiva, los Siddhas.y los Budas también.Los dioses y los seres malignos, los semidioses,\r",
+                    "time": 3564059
+                },
+                {
+                    "line": "los hombres, los mutantes y esclavos, todos son una Alabanza a Ti.Millones y millones tratan de Describirte;millones han hecho descripciones de Ti y han partido de esta tierra.\r",
+                    "time": 3591039
+                },
+                {
+                    "line": "Solamente para Describirte millones más esperan tu nacimiento,y aun asi son incapaces de describirte.Tu Grandeza es conocida sólo por Ti.\r",
+                    "time": 3610102
+                },
+                {
+                    "line": "Oh, dice Nanak, el Verdadero Señor sabe.y si alguien presumiera y dijera que Lo conoce,sería el más grande tonto. (26)Oh, dónde está Tu casa y cómo abrir Tu Puerta? ¿En dónde Te sientas para dar Soporte a todos?\r",
+                    "time": 3636041
+                },
+                {
+                    "line": "Sin fin son las melodías tocadas por los músicos;en Alabanza preparan un sin fin de armonías y compases para Cantarte, oh Creador Bondadoso.Para Cantarte están los vientos, el agua y el fuego,\r",
+                    "time": 3664043
+                },
+                {
+                    "line": "Tu Alabanza está el rey de la muerte con todos los ángeles que le acompañan.Cantan Shiva y Brahma,canta la diosa Parwati;\r",
+                    "time": 3689119
+                },
+                {
+                    "line": "Los Siddhas cantan con su meditación silenciosa; todos los Santos cantan en profunda contemplación.Los entusiastas, los célibes y los guerreros ofrecen su vida como una melodía a Ti.Los escolares, aquéllos que leen los Vedas, sosteniendo la sabiduría de las épocas;los siete supremos sabios, todos Te alaban. Las doncellas que encantan con su belleza en la tierra, en los cielos y en los abismos, cantan siempre Tu Alabanza.\r",
+                    "time": 3715081
+                },
+                {
+                    "line": "Las gemas creadas por Ti y los lugares santos, todos relatan Tus Excelencias.Los poderosos guerreros y los héroes divinos son un himno para Ti, y las cuatro fuentes de la creación, el huevo, el vientre, el sudor y la semilla, Te magnifican.\r",
+                    "time": 3759120
+                },
+                {
+                    "line": "Los continentes, los mundos y sistemas solares, creados y establecidos por Tu Mano.Tu Gloria.\r",
+                    "time": 3781040
+                },
+                {
+                    "line": "Estos Santos que Te placen están llenos del Naam, el Nombre de Dios, y cantan siempre Tu Alabanza. Hay tantos otros, que Nanak no puede nombrar a cada uno.Verdad es Él y Verdad es Su Nombre;\r",
+                    "time": 3802043
+                },
+                {
+                    "line": "Él es el Creador de todo,y Él es quien manifestó este mundo con muchos colores y seres.\r",
+                    "time": 3822103
+                },
+                {
+                    "line": "Él es el Creador de todo, y Él es quien manifestó este mundo con muchos colores y seres. Él cuida todo lo que ha hecho.estando todo justo como a Él le place. No toma instrucción de nadie.\r",
+                    "time": 3843074
+                },
+                {
+                    "line": "Él es el Rey, el Rey de reyes, el Supremo Señor y Maestro de todos los reyes, y Nanak permanece sujeto a Su Voluntad. (27)Oh Yogui, valora más en tu mente el Contentamiento que la castidad, más la Modestia que el rechazo de los bienes mundanos y, en vez de abnegarte en Nombre de la religión, ponte a meditar.\r",
+                    "time": 3863127
+                },
+                {
+                    "line": "Deja que tu camino escogido sea una vida de Pureza, con la Fe en Dios como tu único bastón.Únete a la práctica más elevada, a la Kjalsa, la Hermandad de la humanidad, y conquista tu propio ser en vez de tratar de dominar a los demás.\r",
+                    "time": 3884078
+                },
+                {
+                    "line": "Me postro siempre y solamente ante el Señor,el Ser Primordial, Puro, sin Principio, sin Fin; Quien prevalece a través de todas las épocas. (28)\r",
+                    "time": 3904104
+                },
+                {
+                    "line": "Toma la Sabiduría Divina como tu comida y la Misericordia tómala como tu velador; escucha la Melodía Divina que suena en tu interior.El Supremo Señor es dueño de la creación y la Perfección; el Supremo Señor rige a los Yoguis y a los seres perfeccionados. Sus Santos no tienen necesidad de riquezas ni de milagros.\r",
+                    "time": 3925135
+                },
+                {
+                    "line": "Él es quien nos acerca o nos aleja de Sí Mismo, regulando el comercio del mundo y determinando el Destino de los hombres.Postro mi ser siempre y para siempre ante ese Señor,\r",
+                    "time": 3955106
+                },
+                {
+                    "line": "Primordial, Puro, sin Principio, sin Fin; a través de las épocas, Él prevalece en todo.(29)Algunos hablan de la Madre Divina, Maya,\r",
+                    "time": 3987061
+                },
+                {
+                    "line": "quien en unión con Dios, dio nacimiento a las tres deidades, Brahma, el creador, Vishnú, el sostenedor y Shiva, el destructor.Pero no, Dios comprende en Sí Mismo todo lo demás y Él hace danzar a estos tres como Le place.\r",
+                    "time": 4016110
+                },
+                {
+                    "line": "A todos los ve, pero nadie lo ve a Él, mientras tanto todos participan de Su Maravilloso Juego.Me postro siempre y para siempre ante El Señor,Primordial, Puro, sin Principio, sin Fin, Quien prevalece siempre en todo. (30)\r",
+                    "time": 4047118
+                },
+                {
+                    "line": "El Bello Señor está en todas partes,en todas partes está Su Sitio, en todas partes se realiza Su Comercio.\r",
+                    "time": 4084136
+                },
+                {
+                    "line": "Habiendo creado la creación, el Creador la disfruta.Oh, dice Nanak, Verdad es Él y Verdad es lo que Él hace.Me postro siempre y para siempre ante El\r",
+                    "time": 4113118
+                },
+                {
+                    "line": "El Señor, Primordial, Puro, sin Principio, sin Fin; a través de todas las épocas, Él es el Uno. (31)Si mi lengua se multiplicara por cien mil y si esas cien mil se multiplicaran por veinte más,con cada una repetiría el Nombre de Dios, del Señor del Universo.\r",
+                    "time": 4150078
+                },
+                {
+                    "line": "Muchos son los pasos en el camino que conducen al Señor, hasta que por fin nos volvemos Uno con Él.Escuchando las Glorias de esa Unión, aun los gusanos mueren por llegar ahí.Nanak, por Su Gracia es obtenido y falso es el parloteo de los falsos. (32)\r",
+                    "time": 4191067
+                },
+                {
+                    "line": "Sin poder para hablar, sin poder para callar,Sin poder para pedir, ni poder para dar,Sin poder para morir, sin poder para vivir,Sin Poder de governar, con riquezas y poderes ocultos,Sin poder para despertar mi Alma hacia Ti,\r",
+                    "time": 4246051
+                },
+                {
+                    "line": "sin poder para encontrar la manera de ser libre. Por su propia voluntad,sin poder hallar la manera de escapar de este mundo,\r",
+                    "time": 4285051
+                },
+                {
+                    "line": "oh, dice Nanak, nadie puede ser bueno o malo. Solamente Dios tiene el poder de elevarnos hacia Él. (33)Él creó la noche junto con el día,\r",
+                    "time": 4312061
+                },
+                {
+                    "line": "Él compuso los elementos del aire, el agua, el fuego, y las regiones inferiores,y en medio de todo esto puso esta firme tierra como hogar para cumplir con Su Servicio\r",
+                    "time": 4339076
+                },
+                {
+                    "line": "y la pobló con todo tipo de gente, criaturas y seres, de diferentes formas, colores y tonos.Él, el Uno en todo, comprende todo lo que pasa.Así como actuemos aquí así seremos juzgados.\r",
+                    "time": 4364106
+                },
+                {
+                    "line": "Este mundo es Su Corte y El es verdadero.En su Corte, en su perfecta misericordia y gracia se sientan los galardonados y santos por merito.Los que lucen la Verdad son aprobados y señalados.\r",
+                    "time": 4392114
+                },
+                {
+                    "line": "Cuando sus mentes estén ungidas con la señal de Su Gracia, los falsos o verdaderos serán claramente reconocidos.Oh, dice Nanak, en ese Estado de Conciencia todo será conocido. (34)Ahora después de hablar de la rectitud y servicio en el ámbito del Dharma,\r",
+                    "time": 4411100
+                },
+                {
+                    "line": "pasemos a hablar del reino de la Sabiduría Espiritual.Muchos son los elementos de la tierra, el aire, el agua y el fuego. Allí están los Shivas,los Krishnas y los Brahmas, dando forma a muchos mundos con todo tipo de géneros, tamaños, colores y tonos.\r",
+                    "time": 4438077
+                },
+                {
+                    "line": "Tantos espacios y tierras para trabajar el Karma, tantas lecciones que aprender.Tantos Indras, tantas lunas y soles, tantos mundos y tierras.Tantos Siddas y Buddas; tantos maestros yoguis, tantas diosas de tan variadas clases.Muchos son los dioses, semidioses, seres malignos y sabios silenciosos; muchas las joyas nacidas de los océanos.\r",
+                    "time": 4459122
+                },
+                {
+                    "line": "Muchas las formas de vida, lenguajes y dinastías de regidores.Muchos los Devotos de Dios y hombres de Divina Sabiduría. Oh, dice Nanak, Sus Formas no tienen Límite. (35)En el reino del la Sabiduría, es la Sabiduría Espiritual la reina Suprema,ahí la belleza guía y dirige todo lenguaje en la Corriente Sonora del Naad, en medio de sonidos y visiones de Beatitud.\r",
+                    "time": 4484066
+                },
+                {
+                    "line": "En este reino de Humildad, la Palabra es Belleza,formas incomparables indescriptibles en Belleza son creadas;Estas cosas no pueden ser descritas.\r",
+                    "time": 4518124
+                },
+                {
+                    "line": "el que se atreviera a describirlas se arrepentiría.Aquí la mente es iluminada y el entendimiento extendido.La conciencia de los guerreros espirituales, de lo Siddhas y de los seres de perfección espiritual es formada ahí (36)\r",
+                    "time": 4541078
+                },
+                {
+                    "line": "Pasando ahora al ámbito del Karma,la Palabra es el Poder y nadie más habita ahí.excepto los guerreros espirituales de gran poder y los héroes valientes\r",
+                    "time": 4596075
+                },
+                {
+                    "line": "ellos están completos, sumergidos con el Espíritu del Todopoderoso.Aquí se sientan los Sitas, ecuánimes y calmados en su majestuosa Gloria,su Belleza no puede ser descrita.Ni la muerte ni la trampa de la traición\r",
+                    "time": 4637092
+                },
+                {
+                    "line": "tienen cabida en la mente de aquéllos que meditan en la Palabra del Señor.Los Devotos de incontables mundos habitan ahí y,celebrando, conservan sus mentes imbuidas en el Señor Verdadero.En el Ámbito de la Verdad, el Dios sin Forma habita\r",
+                    "time": 4670103
+                },
+                {
+                    "line": "y observa Su Creación con la Mirada Bondadosa que otorga Plenitud.Existen mundos, universos y galaxias,que no tienen límite ni cuenta;que no tienen límite ni cuenta;mundos sobre mundos de creación,todos bajo Su Comando.\r",
+                    "time": 4714056
+                },
+                {
+                    "line": "El Señor ve y contempla todo, lleno de Dicha.Oh, dice Nanak, tratar de describir esto es tan duro como el acero. (37)Que la continencia sea el horno y la paciencia el maestro fundidor;que el entendimiento sirva como sólido yunque y las experiencias de la Energía Divina sean la herramienta para trabajar;que el dolor, al desprenderse del cuerpo se vuelva combustible y el Temor Reverencial a Dios sea el fuelle que enciende las flamas de Tapa,\r",
+                    "time": 4752116
+                },
+                {
+                    "line": "el calor interno del cuerpo. En el Crisol del Amor, funde el Néctar del Nombre.y acuña la Verdadera Moneda del Shabd, la Palabra de Dios.Tal es el Karma de aquéllos que han sido inspirados para vislumbrar la Incomparable Gracia.Manifestación de Dios. Oh, dice Nanak, el Señor Misericordioso, por Su Gracia, los eleva y exalta.Shlok.\r",
+                    "time": 4788095
+                },
+                {
+                    "line": "El aire es el Guru, el agua el padre, la inmensa tierra la madre de todos.El mundo juega en el regazo de las dos niñeras, el día y la noche.El registro de las buenas y de las malas obras es leído en voz alta en la Presencia del Señor del Dharma.De acuerdo a las propias acciones, algunos son traídos cerca y otros son alejados aún más.Aquéllos que han meditado en el Naam, el Nombre del Señor y partieron después de haber trabajado con el sudor de su frente,\r",
+                    "time": 4825083
+                },
+                {
+                    "line": "El temor es el fuego, el esfuerzo es el combustible; en la olla del amor, vierte el néctar. Cocina la verdad en el crisol del Shabad, aquellos en cuyas vidas la gracia obra. Oh Nanak, por la gracia divina, son encontrados en la contemplación. 38. Salok.\r",
+                    "time": 4863093
+                },
+                {
+                    "line": "El aire es el Guru, el agua es el Padre, y la tierra es la Madre de todos. Día y noche, las dos niñeras juegan; todo el mundo está inmerso en su juego. Por el juicio divino, se pronuncian las bendiciones y los infortunios, de acuerdo con la justicia. Por sus propias acciones, algunos están cerca y otros están lejos.\r",
+                    "time": 4904045
+                },
+                {
+                    "line": "Aquellos que meditan en el Nombre, han cumplido su destino. Oh Nanak, sus rostros brillan radiantes y muchos se salvan con ellos. 1.\r",
+                    "time": 4951086
+                }
+            ],
+            "hindi_lyrics": null
+        }
+    ],
+    "info": "testings"
+}
