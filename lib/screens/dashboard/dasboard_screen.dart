@@ -32,6 +32,37 @@ class _DashboardScreenState extends State<DashboardScreen>
     );
   }
 
+  // @override
+  // Widget build(BuildContext context) {
+  //   final themeProvider = Provider.of<DarkThemeProvider>(context);
+  //   return GetBuilder<DashboardController>(
+  //     init: DashboardController(context: context),
+  //     builder: (controller) {
+  //       return Scaffold(
+  //         body: PersistentTabView(
+  //           context,
+  //           controller: controller.tabController,
+  //           screens: controller.buildScreens(),
+  //           navBarHeight: 60,
+  //           items: controller.navBarsItems(themeProvider),
+  //           confineInSafeArea: true,
+  //           backgroundColor: themeProvider.darkTheme
+  //               ? Colors.blueGrey.shade900
+  //               : const Color.fromARGB(
+  //                   255, 239, 242, 248), // Default is Colors.white.
+  //           handleAndroidBackButtonPress: true, // Default is true.
+  //           resizeToAvoidBottomInset: true,
+  //           floatingActionButton: (audioHandler != null)
+  //               ? const MiniMusicPlayer()
+  //               : const IgnorePointer(),
+  //           navBarStyle: NavBarStyle
+  //               .simple, // Choose the nav bar style with this property.
+  //         ),
+  //       );
+  //     },
+  //   );
+  // }
+
   @override
   Widget build(BuildContext context) {
     final themeProvider = Provider.of<DarkThemeProvider>(context);
@@ -39,24 +70,33 @@ class _DashboardScreenState extends State<DashboardScreen>
       init: DashboardController(context: context),
       builder: (controller) {
         return Scaffold(
-          body: PersistentTabView(
-            context,
-            controller: controller.tabController,
-            screens: controller.buildScreens(),
-            navBarHeight: 60,
-            items: controller.navBarsItems(themeProvider),
-            confineInSafeArea: true,
-            backgroundColor: themeProvider.darkTheme
-                ? Colors.blueGrey.shade900
-                : const Color.fromARGB(
-                    255, 239, 242, 248), // Default is Colors.white.
-            handleAndroidBackButtonPress: true, // Default is true.
-            resizeToAvoidBottomInset: true,
-            floatingActionButton: (audioHandler != null)
-                ? const MiniMusicPlayer()
-                : const IgnorePointer(),
-            navBarStyle: NavBarStyle
-                .simple, // Choose the nav bar style with this property.
+          body: Stack(
+            children: [
+              PersistentTabView(
+                context,
+                controller: controller.tabController,
+                screens: controller.buildScreens(),
+                navBarHeight: 60, // Adjust this value as needed
+                items: controller.navBarsItems(themeProvider),
+                confineInSafeArea: true,
+                backgroundColor: themeProvider.darkTheme
+                    ? Colors.blueGrey.shade900
+                    : const Color.fromARGB(
+                        255, 239, 242, 248), // Default is Colors.white.
+                handleAndroidBackButtonPress: true, // Default is true.
+                resizeToAvoidBottomInset: true,
+                navBarStyle: NavBarStyle
+                    .simple, // Choose the nav bar style with this property.
+              ),
+              Positioned(
+                left: 0,
+                right: 0,
+                bottom: 60, // Align it perfectly with the bottom
+                child: (audioHandler != null)
+                    ? const MiniMusicPlayer()
+                    : const IgnorePointer(),
+              ),
+            ],
           ),
         );
       },
