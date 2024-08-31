@@ -79,54 +79,54 @@ class EmailSubscribeScreen extends StatelessWidget {
                           width: screenWidth > 800
                               ? 300.00
                               : screenWidth / 1.2, // Desired width
-                          // Form(
-                          //   key: controller.formKey,
-                          child: TextFormField(
-                            controller: controller.emailController,
-                            style: TextStyle(
-                                fontFamily: poppinsRegular,
-                                color: themeProvider.darkTheme
-                                    ? Colors.white
-                                    : Colors.black),
-                            cursorColor: themeProvider.darkTheme
-                                ? Colors.white
-                                : const Color(0XFF24163A),
-                            validator: (value) {
-                              if (value!.isEmpty) {
-                                return 'Please enter email';
-                              }
-                              final bool emailValid = RegExp(
-                                      r"^[a-zA-Z0-9.a-zA-Z0-9.!#$%&'*+-/=?^_`{|}~]+@[a-zA-Z0-9]+\.[a-zA-Z]+")
-                                  .hasMatch(value);
-                              if (!emailValid) {
-                                return 'Please enter valid email';
-                              }
-                              return null;
-                            },
-                            decoration: InputDecoration(
-                              label: Text(
-                                'Enter your email',
-                                style: TextStyle(
+                          child: Form(
+                            key: controller.formKey,
+                            child: TextFormField(
+                              controller: controller.emailController,
+                              style: TextStyle(
                                   fontFamily: poppinsRegular,
                                   color: themeProvider.darkTheme
                                       ? Colors.white
-                                      : Colors.black,
+                                      : Colors.black),
+                              cursorColor: themeProvider.darkTheme
+                                  ? Colors.white
+                                  : const Color(0XFF24163A),
+                              validator: (value) {
+                                if (value!.isEmpty) {
+                                  return 'Please enter email';
+                                }
+                                final bool emailValid = RegExp(
+                                        r"^[a-zA-Z0-9.a-zA-Z0-9.!#$%&'*+-/=?^_`{|}~]+@[a-zA-Z0-9]+\.[a-zA-Z]+")
+                                    .hasMatch(value);
+                                if (!emailValid) {
+                                  return 'Please enter valid email';
+                                }
+                                return null;
+                              },
+                              decoration: InputDecoration(
+                                label: Text(
+                                  'Enter your email',
+                                  style: TextStyle(
+                                    fontFamily: poppinsRegular,
+                                    color: themeProvider.darkTheme
+                                        ? Colors.white
+                                        : Colors.black,
+                                  ),
                                 ),
-                              ),
-                              floatingLabelStyle: TextStyle(
-                                color: const Color(0XFF24163A),
-                                fontFamily: poppinsRegular,
-                              ),
-                              focusedBorder: UnderlineInputBorder(
-                                borderSide: BorderSide(
-                                  color: themeProvider.darkTheme
-                                      ? Colors.white
-                                      : const Color(0XFF24163A),
+                                floatingLabelStyle: TextStyle(
+                                  color: const Color(0XFF24163A),
+                                  fontFamily: poppinsRegular,
+                                ),
+                                focusedBorder: UnderlineInputBorder(
+                                  borderSide: BorderSide(
+                                    color: themeProvider.darkTheme
+                                        ? Colors.white
+                                        : const Color(0XFF24163A),
+                                  ),
                                 ),
                               ),
                             ),
                           ),
-                          // ),
                         ),
                         const SizedBox(
                           height: 60,

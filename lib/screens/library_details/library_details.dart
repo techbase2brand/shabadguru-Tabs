@@ -46,21 +46,21 @@ class LibraryDetails extends StatelessWidget {
                 color: Colors.white,
               ),
             ),
-            actions: [
-              Obx(
-                () => !controller.isSearchEnable.value
-                    ? IconButton(
-                        onPressed: () {
-                          controller.isSearchEnable.value = true;
-                        },
-                        icon: const Icon(
-                          Icons.search,
-                          color: Colors.white,
-                        ),
-                      )
-                    : const IgnorePointer(),
-              ),
-            ],
+            // actions: [
+            //   Obx(
+            //     () => !controller.isSearchEnable.value
+            //         ? IconButton(
+            //             onPressed: () {
+            //               controller.isSearchEnable.value = true;
+            //             },
+            //             icon: const Icon(
+            //               Icons.search,
+            //               color: Colors.white,
+            //             ),
+            //           )
+            //         : const IgnorePointer(),
+            //   ),
+            // ],
           ),
           body: Column(
             children: [
@@ -123,11 +123,11 @@ class LibraryDetails extends StatelessWidget {
                     child: Column(
                       mainAxisSize: MainAxisSize.min,
                       children: [
-                        Image.asset(
-                          'assets/images/empty_search.png',
-                          width: 150,
-                          height: 150,
-                        ),
+                        // Image.asset(
+                        //   'assets/images/empty_search.png',
+                        //   width: 150,
+                        //   height: 150,
+                        // ),
                         const SizedBox(
                           height: 15,
                         ),

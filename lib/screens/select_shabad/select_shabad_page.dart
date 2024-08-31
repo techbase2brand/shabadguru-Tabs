@@ -44,21 +44,21 @@ class SelectShabadPage extends StatelessWidget {
                 color: Colors.white,
               ),
             ),
-            actions: [
-              Obx(
-                () => !controller.isShabadSearchEnable.value
-                    ? IconButton(
-                        onPressed: () {
-                          controller.isShabadSearchEnable.value = true;
-                        },
-                        icon: const Icon(
-                          Icons.search,
-                          color: Colors.white,
-                        ),
-                      )
-                    : const IgnorePointer(),
-              ),
-            ],
+            // actions: [
+            //   Obx(
+            //     () => !controller.isShabadSearchEnable.value
+            //         ? IconButton(
+            //             onPressed: () {
+            //               controller.isShabadSearchEnable.value = true;
+            //             },
+            //             icon: const Icon(
+            //               Icons.search,
+            //               color: Colors.white,
+            //             ),
+            //           )
+            //         : const IgnorePointer(),
+            //   ),
+            // ],
           ),
           body: Column(
             children: [

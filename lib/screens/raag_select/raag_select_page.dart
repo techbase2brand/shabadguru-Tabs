@@ -44,21 +44,21 @@ class RaagSelectPage extends StatelessWidget {
                 color: Colors.white,
               ),
             ),
-            actions: [
-              Obx(
-                () => !controller.isRaagSearchEnable.value
-                    ? IconButton(
-                        onPressed: () {
-                          controller.isRaagSearchEnable.value = true;
-                        },
-                        icon: const Icon(
-                          Icons.search,
-                          color: Colors.white,
-                        ),
-                      )
-                    : const IgnorePointer(),
-              ),
-            ],
+            // actions: [
+            //   Obx(
+            //     () => !controller.isRaagSearchEnable.value
+            //         ? IconButton(
+            //             onPressed: () {
+            //               controller.isRaagSearchEnable.value = true;
+            //             },
+            //             icon: const Icon(
+            //               Icons.search,
+            //               color: Colors.white,
+            //             ),
+            //           )
+            //         : const IgnorePointer(),
+            //   ),
+            // ],
           ),
           body: Column(
             children: [

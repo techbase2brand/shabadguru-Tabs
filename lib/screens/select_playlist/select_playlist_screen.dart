@@ -58,11 +58,11 @@ class SelectPlaylistScreen extends StatelessWidget {
                     child: Column(
                       mainAxisSize: MainAxisSize.min,
                       children: [
-                        Image.asset(
-                          'assets/images/empty_search.png',
-                          width: 150,
-                          height: 150,
-                        ),
+                        // Image.asset(
+                        //   'assets/images/empty_search.png',
+                        //   width: 150,
+                        //   height: 150,
+                        // ),
                         const SizedBox(
                           height: 15,
                         ),

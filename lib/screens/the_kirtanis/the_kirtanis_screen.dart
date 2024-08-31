@@ -89,7 +89,7 @@ class TheKirtanisScreen extends StatelessWidget {
                         Container(
                           margin: const EdgeInsets.symmetric(horizontal: 15),
                           child: Text(
-                            'The Kirtan on this website has been sung by the students of Baru Sahib (Kalgidhar Society). These young students have been trained in Raags by dozens of accomplished Professors of Raagas (Music).Anahad BaniwithTantiSaaz has been undertaken by these students for the first time in the history of Sikh television. It is a mesmerizing Raag Aadharit rendition of the complete Guru Granth Sahib Ji. All the Kirtan you hear on this website is the audio files of the Kirtan they sung on television. More information on the Kalgidhar Society is available on https://barusahib.org/. You can also see the Baru Sahib students doing Kirtan on the youtube link below.',
+                            'The Kirtan on this website has been sung by the students of Baru Sahib (Kalgidhar Society). These young students have been trained in Raags by dozens of accomplished Professors of Raagas (Music).Anahad BaniwithTantiSaaz has been undertaken by these students for the first time in the history of Sikh television. It is a mesmerizing Raag Aadharit rendition of the complete Guru Granth Sahib Ji. All the Kirtan you hear on this website is the audio files of the Kirtan they sung on television. More information on the Kalgidhar Society is available on https://barusahib.org/.',
                             textAlign: TextAlign.center,
                             style: TextStyle(
                                 fontFamily: poppinsMedium,

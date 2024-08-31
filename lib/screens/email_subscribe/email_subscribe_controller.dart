@@ -20,6 +20,8 @@ class EmailSubscrieController extends GetxController {
       final body = jsonEncode({
         'email': emailController.text,
       });
+     print('Sending data: $body');
+
       await apiRepository.emailSubscribe(body);
       emailController.clear();
       showLoading = false;
