@@ -9,6 +9,7 @@ import 'package:shabadguru/audio_service/audio_service.dart';
 import 'package:shabadguru/screens/dashboard/dashboard_controller.dart';
 import 'package:shabadguru/screens/dashboard/mini_music_player.dart';
 import 'package:shabadguru/utils/dark_mode/app_state_notifier.dart';
+import 'dart:io' show Platform;
 
 class DashboardScreen extends StatefulWidget {
   const DashboardScreen({super.key});
@@ -91,7 +92,11 @@ class _DashboardScreenState extends State<DashboardScreen>
               Positioned(
                 left: 0,
                 right: 0,
-                bottom: 60, // Align it perfectly with the bottom
+                bottom: Platform.isIOS
+                    ? MediaQuery.of(context).size.width > 600
+                        ? 80
+                        : 93
+                    : 60, // Align it perfectly with the bottom
                 child: (audioHandler != null)
                     ? const MiniMusicPlayer()
                     : const IgnorePointer(),

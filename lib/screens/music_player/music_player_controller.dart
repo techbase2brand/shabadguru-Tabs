@@ -20,6 +20,7 @@ import 'package:shabadguru/utils/colors.dart';
 import 'package:shabadguru/utils/font.dart';
 import 'package:shabadguru/utils/routes.dart';
 import 'package:shabadguru/utils/shared_pref.dart';
+import 'dart:convert';
 
 class MusicPlayerController extends GetxController {
   MusicPlayerController(
@@ -346,14 +347,14 @@ class MusicPlayerController extends GetxController {
 
           hindiLyrics = '';
 
-          // if (shabadData.hindiLyrics != null) {
-          //   for (var i = 0; i < shabadData.hindiLyrics!.length; i++) {
-          //     String lyrics =
-          //         '[${printDuration(Duration(milliseconds: shabadData.hindiLyrics![i].time))}] ${shabadData.hindiLyrics![i].line}';
+          if (shabadData.hindiLyrics != null) {
+            for (var i = 0; i < shabadData.hindiLyrics!.length; i++) {
+              String lyrics =
+                  '[${printDuration(Duration(milliseconds: shabadData.hindiLyrics![i].time))}] ${shabadData.hindiLyrics![i].line}';
 
-          //     hindiLyrics = '$hindiLyrics\n$lyrics';
-          //   }
-          // }
+              hindiLyrics = '$hindiLyrics\n$lyrics';
+            }
+          }
 
           playingNormalLyrics = normalLyrics;
           playingEnglishLyrics = englishLyrics;
@@ -379,7 +380,9 @@ class MusicPlayerController extends GetxController {
             }
 
             if (isHindiLyricsSelected.value && hindiLyrics.isNotEmpty) {
-              modelBuilder.bindLyricToHindi(hindiLyrics);
+              // modelBuilder.bindLyricToHindi(hindiLyrics);
+              String correctedHindiLyrics = correctHindiLyrics(hindiLyrics);
+              modelBuilder.bindLyricToHindi(correctedHindiLyrics);
             }
 
             lyricModel = modelBuilder.getModel();
@@ -603,6 +606,13 @@ class MusicPlayerController extends GetxController {
     sendBroadcast('actionMusicPlaying');
   }
 
+  String correctHindiLyrics(String input) {
+    // Assuming the input string contains improperly rendered Unicode
+    List<int> bytes =
+        input.codeUnits; // Convert the string to UTF-16 code units
+    return utf8.decode(bytes); // Decode it to proper UTF-8 string
+  }
+
   void changeLyrics(bool englishLyricsSelected, bool spanishLyricsSelected,
       bool hindiLyricSelected) {
     isEnglishLyricsSelected.value = englishLyricsSelected;
@@ -626,7 +636,10 @@ class MusicPlayerController extends GetxController {
       }
 
       if (isHindiLyricsSelected.value && hindiLyrics.isNotEmpty) {
-        modelBuilder.bindLyricToHindi(hindiLyrics);
+        // print(hindiLyrics);
+        String correctedHindiLyrics = correctHindiLyrics(hindiLyrics);
+        // print(correctedHindiLyrics);
+        modelBuilder.bindLyricToHindi(correctedHindiLyrics); 
       }
 
       lyricModel = modelBuilder.getModel();
