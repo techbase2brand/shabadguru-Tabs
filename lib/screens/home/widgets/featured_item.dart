@@ -1,8 +1,9 @@
 // ignore_for_file: deprecated_member_use
-
+import 'package:provider/provider.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:shabadguru/screens/home/home_controller.dart';
+import 'package:shabadguru/utils/dark_mode/app_state_notifier.dart';
 import 'package:shabadguru/utils/font.dart';
 
 class FeaturedItem extends StatelessWidget {
@@ -14,6 +15,7 @@ class FeaturedItem extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    final themeProvider = Provider.of<DarkThemeProvider>(context);
     return Container(
       margin: EdgeInsets.only(
           right: 15, top: 15, bottom: 15, left: index == 0 ? 15 : 0),
@@ -54,7 +56,9 @@ class FeaturedItem extends StatelessWidget {
                 fontSize: 15,
                 fontFamily: poppinsRegular,
                 fontWeight: FontWeight.w400,
-                color: Colors.black),
+                color: themeProvider.darkTheme
+                                        ? Colors.white
+                                        : Colors.black),
           ),
         ],
       ),

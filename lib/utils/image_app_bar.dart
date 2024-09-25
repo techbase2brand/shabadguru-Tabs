@@ -26,8 +26,8 @@ class ImageAppBar extends StatelessWidget {
     if (screenWidth > 600) {
       // Example breakpoint for tablets
       appBarHeight = 99;
-      imageHeight = screenWidth * 0.909;
-      imageWidth = screenWidth * 0.172;
+      imageHeight = widthOfScreen * 0.9;
+      imageWidth = widthOfScreen * 0.20;
     } else {
       appBarHeight = 60;
       imageHeight = screenWidth * 0.14;

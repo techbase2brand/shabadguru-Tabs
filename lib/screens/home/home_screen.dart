@@ -60,159 +60,18 @@ class HomeScreen extends StatelessWidget {
                   )
                 else
                   Expanded(
-                    child: SingleChildScrollView(
-                      physics: const BouncingScrollPhysics(),
-                      child: Column(
-                        crossAxisAlignment: CrossAxisAlignment.start,
-                        children: [
-                          Padding(
-                            padding: const EdgeInsets.only(
-                                top: 30, left: 15, right: 15),
-                            child: Text(
-                              'Featured',
-                              style: TextStyle(
-                                  fontSize: 22,
-                                  fontFamily: poppinsBold,
-                                  fontWeight: FontWeight.w600,
-                                  color: controller.themeProvider.darkTheme
-                                      ? Colors.white
-                                      : Colors.black),
-                            ),
-                          ),
-                          SizedBox(
-                            width: widthOfScreen,
-                            height: 200,
-                            child: AnimationLimiter(
-                              child: ListView.builder(
-                                physics: const BouncingScrollPhysics(),
-                                scrollDirection: Axis.horizontal,
-                                itemCount: controller.featuredList.length,
-                                itemBuilder: (context, index) {
-                                  return AnimationConfiguration.staggeredList(
-                                    position: index,
-                                    duration:
-                                        const Duration(milliseconds: 1500),
-                                    child: SlideAnimation(
-                                      horizontalOffset: 50.0,
-                                      duration:
-                                          const Duration(milliseconds: 1500),
-                                      child: FadeInAnimation(
-                                        child: GestureDetector(
-                                          onTap: () {
-                                            if (index == 0) {
-                                              tabController.jumpToTab(1);
-                                            } else if (index == 1) {
-                                              tabController.jumpToTab(2);
-                                            } else if (index == 2) {
-                                              goToTheKirtanisPage(context);
-                                            }
-                                          },
-                                          child: FeaturedItem(
-                                            index: index,
-                                            featuredModel:
-                                                controller.featuredList[index],
-                                          ),
-                                        ),
-                                      ),
-                                    ),
-                                  );
-                                },
-                              ),
-                            ),
-                          ),
-                          if (controller.recentData.isNotEmpty)
+                    child: Container(
+                      width: screenWidth,
+                      child: SingleChildScrollView(
+                        physics: const BouncingScrollPhysics(),
+                        child: Column(
+                          crossAxisAlignment: CrossAxisAlignment.start,
+                          children: [
                             Padding(
                               padding: const EdgeInsets.only(
-                                  top: 20, left: 15, right: 15, bottom: 15),
-                              child: Row(
-                                children: [
-                                  Text(
-                                    'Recently Played',
-                                    style: TextStyle(
-                                      fontSize: 22,
-                                      fontFamily: poppinsBold,
-                                      fontWeight: FontWeight.w600,
-                                      color: controller.themeProvider.darkTheme
-                                          ? Colors.white
-                                          : Colors.black,
-                                    ),
-                                  ),
-                                  const Spacer(),
-                                  GestureDetector(
-                                    onTap: () {
-                                      goToRecentPage(
-                                        context,
-                                        controller.recentData,
-                                      );
-                                    },
-                                    child: Text(
-                                      'See more',
-                                      style: TextStyle(
-                                        fontSize: 14,
-                                        fontFamily: poppinsBold,
-                                        fontWeight: FontWeight.w600,
-                                        color:
-                                            controller.themeProvider.darkTheme
-                                                ? Colors.white
-                                                : const Color(0XFF876600),
-                                      ),
-                                    ),
-                                  ),
-                                ],
-                              ),
-                            ),
-                          if (controller.recentData.isNotEmpty)
-                            SizedBox(
-                              width: widthOfScreen,
-                              child: AnimationLimiter(
-                                child: ListView.builder(
-                                  shrinkWrap: true,
-                                  itemCount: controller.recentData.length > 3
-                                      ? 3
-                                      : controller.recentData.length,
-                                  padding: EdgeInsets.zero,
-                                  physics: const NeverScrollableScrollPhysics(),
-                                  itemBuilder: (context, index) {
-                                    return AnimationConfiguration.staggeredList(
-                                      position: index,
-                                      duration:
-                                          const Duration(milliseconds: 1500),
-                                      child: SlideAnimation(
-                                        verticalOffset: 50.0,
-                                        duration:
-                                            const Duration(milliseconds: 1500),
-                                        child: FadeInAnimation(
-                                          child: GestureDetector(
-                                            onTap: () {
-                                              goToMusicPlayerPage(
-                                                  context,
-                                                  controller.recentData[index],
-                                                  controller.recentData[index]
-                                                          .title ??
-                                                      '',
-                                                  controller.recentData);
-                                            },
-                                            child: RecentItem(
-                                              index: index,
-                                              recentListShabad:
-                                                  controller.recentData,
-                                              shabadData:
-                                                  controller.recentData[index],
-                                            ),
-                                          ),
-                                        ),
-                                      ),
-                                    );
-                                  },
-                                ),
-                              ),
-                            ),
-                          if (controller.popularRaagsList.isNotEmpty)
-                            Padding(
-                              padding: const EdgeInsets.only(
-                                  top: 20, left: 15, right: 15, bottom: 15),
+                                  top: 30, left: 15, right: 15),
                               child: Text(
-                                'Raags',
+                                'Featured',
                                 style: TextStyle(
                                     fontSize: 22,
                                     fontFamily: poppinsBold,
@@ -222,25 +81,105 @@ class HomeScreen extends StatelessWidget {
                                         : Colors.black),
                               ),
                             ),
-                          if (controller.popularRaagsList.isNotEmpty)
                             SizedBox(
                               width: widthOfScreen,
+                              height: 200,
                               child: AnimationLimiter(
-                                child: GridView.count(
-                                  childAspectRatio: screenWidth > 600 ? 5 : 3,
+                                child: ListView.builder(
                                   physics: const BouncingScrollPhysics(),
-                                  padding: const EdgeInsets.all(8.0),
-                                  crossAxisCount: screenWidth > 800 ? 3 : 2,
-                                  mainAxisSpacing: 15,
-                                  shrinkWrap: true,
-                                  crossAxisSpacing: 10,
-                                  children: List.generate(
-                                    controller.popularRaagsList.length,
-                                    (int i) {
+                                  scrollDirection: Axis.horizontal,
+                                  itemCount: controller.featuredList.length,
+                                  itemBuilder: (context, index) {
+                                    return AnimationConfiguration.staggeredList(
+                                      position: index,
+                                      duration:
+                                          const Duration(milliseconds: 1500),
+                                      child: SlideAnimation(
+                                        horizontalOffset: 50.0,
+                                        duration:
+                                            const Duration(milliseconds: 1500),
+                                        child: FadeInAnimation(
+                                          child: GestureDetector(
+                                            onTap: () {
+                                              if (index == 0) {
+                                                tabController.jumpToTab(1);
+                                              } else if (index == 1) {
+                                                tabController.jumpToTab(2);
+                                              } else if (index == 2) {
+                                                goToTheKirtanisPage(context);
+                                              }
+                                            },
+                                            child: FeaturedItem(
+                                              index: index,
+                                              featuredModel: controller
+                                                  .featuredList[index],
+                                            ),
+                                          ),
+                                        ),
+                                      ),
+                                    );
+                                  },
+                                ),
+                              ),
+                            ),
+                            if (controller.recentData.isNotEmpty)
+                              Padding(
+                                padding: const EdgeInsets.only(
+                                    top: 20, left: 15, right: 15, bottom: 15),
+                                child: Row(
+                                  children: [
+                                    Text(
+                                      'Recently Played',
+                                      style: TextStyle(
+                                        fontSize: 22,
+                                        fontFamily: poppinsBold,
+                                        fontWeight: FontWeight.w600,
+                                        color:
+                                            controller.themeProvider.darkTheme
+                                                ? Colors.white
+                                                : Colors.black,
+                                      ),
+                                    ),
+                                    const Spacer(),
+                                    GestureDetector(
+                                      onTap: () {
+                                        goToRecentPage(
+                                          context,
+                                          controller.recentData,
+                                        );
+                                      },
+                                      child: Text(
+                                        'See more',
+                                        style: TextStyle(
+                                          fontSize: 14,
+                                          fontFamily: poppinsBold,
+                                          fontWeight: FontWeight.w600,
+                                          color:
+                                              controller.themeProvider.darkTheme
+                                                  ? Colors.white
+                                                  : const Color(0XFF876600),
+                                        ),
+                                      ),
+                                    ),
+                                  ],
+                                ),
+                              ),
+                            if (controller.recentData.isNotEmpty)
+                              SizedBox(
+                                width: screenWidth,
+                                child: AnimationLimiter(
+                                  child: ListView.builder(
+                                    shrinkWrap: true,
+                                    itemCount: controller.recentData.length > 3
+                                        ? 3
+                                        : controller.recentData.length,
+                                    padding: EdgeInsets.zero,
+                                    physics:
+                                        const NeverScrollableScrollPhysics(),
+                                    itemBuilder: (context, index) {
                                       return AnimationConfiguration
-                                          .staggeredGrid(
-                                        columnCount: 2,
-                                        position: i,
+                                          .staggeredList(
+                                        position: index,
                                         duration:
                                             const Duration(milliseconds: 1500),
                                         child: SlideAnimation(
@@ -250,24 +189,21 @@ class HomeScreen extends StatelessWidget {
                                           child: FadeInAnimation(
                                             child: GestureDetector(
                                               onTap: () {
-                                                goToShabadHomePage(
+                                                goToMusicPlayerPage(
                                                     context,
                                                     controller
-                                                        .popularRaagsList[i]
-                                                        .categories![0]
-                                                        .id
-                                                        .toString(),
-                                                    controller
-                                                        .popularRaagsList[i].id
-                                                        .toString(),
-                                                    controller
-                                                            .popularRaagsList[i]
-                                                            .name ??
-                                                        '');
+                                                        .recentData[index],
+                                                    controller.recentData[index]
+                                                            .title ??
+                                                        '',
+                                                    controller.recentData);
                                               },
-                                              child: PopularRaagItem(
-                                                raagData: controller
-                                                    .popularRaagsList[i],
+                                              child: RecentItem(
+                                                index: index,
+                                                recentListShabad:
+                                                    controller.recentData,
+                                                shabadData: controller
+                                                    .recentData[index],
                                               ),
                                             ),
                                           ),
@@ -277,14 +213,87 @@ class HomeScreen extends StatelessWidget {
                                   ),
                                 ),
                               ),
+                            if (controller.popularRaagsList.isNotEmpty)
+                              Padding(
+                                padding: const EdgeInsets.only(
+                                    top: 20, left: 15, right: 15, bottom: 15),
+                                child: Text(
+                                  'Raags',
+                                  style: TextStyle(
+                                      fontSize: 22,
+                                      fontFamily: poppinsBold,
+                                      fontWeight: FontWeight.w600,
+                                      color: controller.themeProvider.darkTheme
+                                          ? Colors.white
+                                          : Colors.black),
+                                ),
+                              ),
+                            if (controller.popularRaagsList.isNotEmpty)
+                              SizedBox(
+                                width: screenWidth,
+                                child: AnimationLimiter(
+                                  child: GridView.count(
+                                    childAspectRatio: screenWidth > 600 ? 5 : 3,
+                                    physics: const BouncingScrollPhysics(),
+                                    padding: const EdgeInsets.all(8.0),
+                                    crossAxisCount: screenWidth > 800 ? 3 : 2,
+                                    mainAxisSpacing: 15,
+                                    shrinkWrap: true,
+                                    crossAxisSpacing: 10,
+                                    children: List.generate(
+                                      controller.popularRaagsList.length,
+                                      (int i) {
+                                        return AnimationConfiguration
+                                            .staggeredGrid(
+                                          columnCount: 2,
+                                          position: i,
+                                          duration: const Duration(
+                                              milliseconds: 1500),
+                                          child: SlideAnimation(
+                                            verticalOffset: 50.0,
+                                            duration: const Duration(
+                                                milliseconds: 1500),
+                                            child: FadeInAnimation(
+                                              child: GestureDetector(
+                                                onTap: () {
+                                                  goToShabadHomePage(
+                                                      context,
+                                                      controller
+                                                          .popularRaagsList[i]
+                                                          .categories![0]
+                                                          .id
+                                                          .toString(),
+                                                      controller
+                                                          .popularRaagsList[i]
+                                                          .id
+                                                          .toString(),
+                                                      controller
+                                                              .popularRaagsList[
+                                                                  i]
+                                                              .name ??
+                                                          '');
+                                                },
+                                                child: PopularRaagItem(
+                                                  raagData: controller
+                                                      .popularRaagsList[i],
+                                                ),
+                                              ),
+                                            ),
+                                          ),
+                                        );
+                                      },
+                                    ),
+                                  ),
+                                ),
+                              ),
+                            const SizedBox(
+                              height: 80,
                             ),
-                          const SizedBox(
-                            height: 80,
-                          ),
-                        ],
+                          ],
+                        ),
                       ),
                     ),
-                  ),
+                  )
               ],
             ),
           ),

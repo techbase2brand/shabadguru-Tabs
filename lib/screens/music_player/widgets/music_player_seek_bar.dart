@@ -19,9 +19,10 @@ class _MusicPlayerSeekBarState extends State<MusicPlayerSeekBar> {
   @override
   Widget build(BuildContext context) {
     final themeProvider = Provider.of<DarkThemeProvider>(context);
+     final screenWidth = MediaQuery.of(context).size.width;
     return GetBuilder<MusicPlayerController>(builder: (controller) {
       return SizedBox(
-        width: widthOfScreen,
+        width: screenWidth,
         child: StreamBuilder<MediaState>(
             stream: mediaStateStream,
             builder: (context, snapshot) {

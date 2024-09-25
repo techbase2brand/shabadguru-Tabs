@@ -45,12 +45,13 @@ class _PlayerControlsState extends State<PlayerControls> {
   @override
   Widget build(BuildContext context) {
     final themeProvider = Provider.of<DarkThemeProvider>(context);
+    final screenWidth = MediaQuery.of(context).size.width;
     return GetBuilder<MusicPlayerController>(
       builder: (controller) {
         return Column(
           children: [
             SizedBox(
-              width: widthOfScreen,
+              width: screenWidth,
               child: const MusicPlayerSeekBar(),
             ),
             StreamBuilder<MediaState>(
@@ -67,14 +68,14 @@ class _PlayerControlsState extends State<PlayerControls> {
                   }
                 }
 
-
-              if (progressDuration != null && totalDuration != null) {
-                if (progressDuration.inMilliseconds > totalDuration.inMilliseconds) {
-                  progressDuration = totalDuration;
+                if (progressDuration != null && totalDuration != null) {
+                  if (progressDuration.inMilliseconds >
+                      totalDuration.inMilliseconds) {
+                    progressDuration = totalDuration;
+                  }
                 }
-              }
                 return Padding(
-                  padding: const EdgeInsets.only(left: 30, right: 30),
+                  padding: const EdgeInsets.only(left: 30, right: 30,top: 30),
                   child: Row(
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
                     children: [
@@ -126,45 +127,46 @@ class _PlayerControlsState extends State<PlayerControls> {
                           return IconButton(
                             onPressed: () {
                               if (widget.listOfShabads.length > 1) {
-                                int playingIndex = widget
-                                      .listOfShabads
-                                      .indexWhere((element) =>
-                                          element == widget.shabadData);
-                                          if(playingIndex < widget.listOfShabads.length && playingIndex>0){
-                                audioHandler!.pause();
-                                audioHandler!.stop();
-                                audioHandler = null;
-                                playingLyricModel = null;
-                                playingNormalLyrics = '';
-                                playingEnglishLyrics = '';
-                                playingTranslationLyrics = '';
-                                controller.sheetHeight = 0.1;
-                                if (shuffleOn) {
-                                  if (getRandomNumberFromList() > 0) {
-                                    controller.shabadData =
-                                        widget.listOfShabads[
-                                            getRandomNumberFromList()];
-                                    controller.playerLoading = true;
-                                    playingShabadData = controller.shabadData;
-                                    controller.update();
-                                    controller.onInit();
-                                  }
-                                } else {
-                                  int indexOfPlayingShabad = widget
-                                      .listOfShabads
-                                      .indexWhere((element) =>
-                                          element == widget.shabadData);
-                                  if (indexOfPlayingShabad > 0) {
-                                    controller.shabadData =
-                                        widget.listOfShabads[
-                                            indexOfPlayingShabad - 1];
-                                    controller.playerLoading = true;
-                                    playingShabadData = controller.shabadData;
-                                    controller.update();
-                                    controller.onInit();
+                                int playingIndex = widget.listOfShabads
+                                    .indexWhere((element) =>
+                                        element == widget.shabadData);
+                                if (playingIndex <
+                                        widget.listOfShabads.length &&
+                                    playingIndex > 0) {
+                                  audioHandler!.pause();
+                                  audioHandler!.stop();
+                                  audioHandler = null;
+                                  playingLyricModel = null;
+                                  playingNormalLyrics = '';
+                                  playingEnglishLyrics = '';
+                                  playingTranslationLyrics = '';
+                                  controller.sheetHeight = 0.1;
+                                  if (shuffleOn) {
+                                    if (getRandomNumberFromList() > 0) {
+                                      controller.shabadData =
+                                          widget.listOfShabads[
+                                              getRandomNumberFromList()];
+                                      controller.playerLoading = true;
+                                      playingShabadData = controller.shabadData;
+                                      controller.update();
+                                      controller.onInit();
+                                    }
+                                  } else {
+                                    int indexOfPlayingShabad = widget
+                                        .listOfShabads
+                                        .indexWhere((element) =>
+                                            element == widget.shabadData);
+                                    if (indexOfPlayingShabad > 0) {
+                                      controller.shabadData =
+                                          widget.listOfShabads[
+                                              indexOfPlayingShabad - 1];
+                                      controller.playerLoading = true;
+                                      playingShabadData = controller.shabadData;
+                                      controller.update();
+                                      controller.onInit();
+                                    }
                                   }
                                 }
-                                          }
                               }
                             },
                             icon: SvgPicture.asset(
@@ -210,49 +212,48 @@ class _PlayerControlsState extends State<PlayerControls> {
                           return IconButton(
                             onPressed: () {
                               if (widget.listOfShabads.length > 1) {
-                                int indexOfPlayingShabad = widget
-                                      .listOfShabads
-                                      .indexWhere((element) =>
-                                          element == widget.shabadData);
-                                  if (indexOfPlayingShabad + 1 <
-                                      widget.listOfShabads.length) {
-                                audioHandler!.pause();
-                                audioHandler!.stop();
-                                audioHandler = null;
-                                playingLyricModel = null;
-                                playingNormalLyrics = '';
-                                playingEnglishLyrics = '';
-                                playingTranslationLyrics = '';
-                                controller.sheetHeight = 0.1;
+                                int indexOfPlayingShabad = widget.listOfShabads
+                                    .indexWhere((element) =>
+                                        element == widget.shabadData);
+                                if (indexOfPlayingShabad + 1 <
+                                    widget.listOfShabads.length) {
+                                  audioHandler!.pause();
+                                  audioHandler!.stop();
+                                  audioHandler = null;
+                                  playingLyricModel = null;
+                                  playingNormalLyrics = '';
+                                  playingEnglishLyrics = '';
+                                  playingTranslationLyrics = '';
+                                  controller.sheetHeight = 0.1;
 
-                                if (shuffleOn) {
-                                  if (getRandomNumberFromList() <
-                                      widget.listOfShabads.length) {
-                                    controller.shabadData =
-                                        widget.listOfShabads[
-                                            getRandomNumberFromList()];
-                                    playingShabadData = controller.shabadData;
-                                    controller.playerLoading = true;
-                                    controller.update();
-                                    controller.onInit();
-                                  }
-                                } else {
-                                  int indexOfPlayingShabad = widget
-                                      .listOfShabads
-                                      .indexWhere((element) =>
-                                          element == widget.shabadData);
-                                  if (indexOfPlayingShabad + 1 <
-                                      widget.listOfShabads.length) {
-                                    controller.shabadData =
-                                        widget.listOfShabads[
-                                            indexOfPlayingShabad + 1];
-                                    playingShabadData = controller.shabadData;
-                                    controller.playerLoading = true;
-                                    controller.update();
-                                    controller.onInit();
+                                  if (shuffleOn) {
+                                    if (getRandomNumberFromList() <
+                                        widget.listOfShabads.length) {
+                                      controller.shabadData =
+                                          widget.listOfShabads[
+                                              getRandomNumberFromList()];
+                                      playingShabadData = controller.shabadData;
+                                      controller.playerLoading = true;
+                                      controller.update();
+                                      controller.onInit();
+                                    }
+                                  } else {
+                                    int indexOfPlayingShabad = widget
+                                        .listOfShabads
+                                        .indexWhere((element) =>
+                                            element == widget.shabadData);
+                                    if (indexOfPlayingShabad + 1 <
+                                        widget.listOfShabads.length) {
+                                      controller.shabadData =
+                                          widget.listOfShabads[
+                                              indexOfPlayingShabad + 1];
+                                      playingShabadData = controller.shabadData;
+                                      controller.playerLoading = true;
+                                      controller.update();
+                                      controller.onInit();
+                                    }
                                   }
                                 }
-                              }
                               }
                             },
                             icon: SvgPicture.asset(

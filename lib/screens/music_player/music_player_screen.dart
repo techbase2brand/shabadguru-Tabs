@@ -66,7 +66,7 @@ class MusicPlayerScreen extends StatelessWidget {
                             children: [
                               Container(
                                 height: 72,
-                                width: widthOfScreen,
+                                width: screenWidth,
                                 color: themeProvider.darkTheme
                                     ? Colors.black
                                     : const Color(0XFFFFF8EA),
@@ -128,7 +128,7 @@ class MusicPlayerScreen extends StatelessWidget {
                                       child: CustomPopupMenu(
                                         menuBuilder: () {
                                           return Container(
-                                            height: 180,
+                                            height: 120,
                                             width: 210,
                                             decoration: BoxDecoration(
                                               border: Border.all(
@@ -272,70 +272,70 @@ class MusicPlayerScreen extends StatelessWidget {
                                                     ),
                                                   );
                                                 }),
-                                                Obx(() {
-                                                  return GestureDetector(
-                                                    onTap: () {
-                                                      // print('Hindi Lyrics clicked');
-                                                      controller.changeLyrics(
-                                                          controller
-                                                              .isEnglishLyricsSelected
-                                                              .value,
-                                                          controller
-                                                              .isSpanishLyricsSelected
-                                                              .value,
-                                                          !controller
-                                                              .isHindiLyricsSelected
-                                                              .value);
-                                                      controller.update();
-                                                      controller.controller!
-                                                          .hideMenu();
-                                                    },
-                                                    child: Container(
-                                                      margin:
-                                                          const EdgeInsets.all(
-                                                              5),
-                                                      decoration: BoxDecoration(
-                                                        color: controller
-                                                                .isHindiLyricsSelected
-                                                                .value
-                                                            ? Colors.white
-                                                            : Colors
-                                                                .transparent,
-                                                        borderRadius:
-                                                            BorderRadius
-                                                                .circular(5),
-                                                      ),
-                                                      padding: const EdgeInsets
-                                                          .symmetric(
-                                                          vertical: 10,
-                                                          horizontal: 10),
-                                                      child: Row(
-                                                        children: [
-                                                          Text(
-                                                            'Hindi',
-                                                            style: TextStyle(
-                                                              color:
-                                                                  Colors.black,
-                                                              fontFamily:
-                                                                  poppinsRegular,
-                                                              fontSize: 16,
-                                                            ),
-                                                          ),
-                                                          const Spacer(),
-                                                          if (controller
-                                                              .isHindiLyricsSelected
-                                                              .value)
-                                                            const Icon(
-                                                              Icons
-                                                                  .check_rounded,
-                                                              color:
-                                                                  secondPrimaryColor,
-                                                            ),
-                                                        ],
-                                                      ),
-                                                    ),
-                                                  );
-                                                }),
+                                                // Obx(() {
+                                                //   return GestureDetector(
+                                                //     onTap: () {
+                                                //       // print('Hindi Lyrics clicked');
+                                                //       controller.changeLyrics(
+                                                //           controller
+                                                //               .isEnglishLyricsSelected
+                                                //               .value,
+                                                //           controller
+                                                //               .isSpanishLyricsSelected
+                                                //               .value,
+                                                //           !controller
+                                                //               .isHindiLyricsSelected
+                                                //               .value);
+                                                //       controller.update();
+                                                //       controller.controller!
+                                                //           .hideMenu();
+                                                //     },
+                                                //     child: Container(
+                                                //       margin:
+                                                //           const EdgeInsets.all(
+                                                //               5),
+                                                //       decoration: BoxDecoration(
+                                                //         color: controller
+                                                //                 .isHindiLyricsSelected
+                                                //                 .value
+                                                //             ? Colors.white
+                                                //             : Colors
+                                                //                 .transparent,
+                                                //         borderRadius:
+                                                //             BorderRadius
+                                                //                 .circular(5),
+                                                //       ),
+                                                //       padding: const EdgeInsets
+                                                //           .symmetric(
+                                                //           vertical: 10,
+                                                //           horizontal: 10),
+                                                //       child: Row(
+                                                //         children: [
+                                                //           Text(
+                                                //             'Hindi',
+                                                //             style: TextStyle(
+                                                //               color:
+                                                //                   Colors.black,
+                                                //               fontFamily:
+                                                //                   poppinsRegular,
+                                                //               fontSize: 16,
+                                                //             ),
+                                                //           ),
+                                                //           const Spacer(),
+                                                //           if (controller
+                                                //               .isHindiLyricsSelected
+                                                //               .value)
+                                                //             const Icon(
+                                                //               Icons
+                                                //                   .check_rounded,
+                                                //               color:
+                                                //                   secondPrimaryColor,
+                                                //             ),
+                                                //         ],
+                                                //       ),
+                                                //     ),
+                                                //   );
+                                                // }),
                                               ],
                                             ),
                                           );
@@ -541,7 +541,7 @@ class MusicPlayerScreen extends StatelessWidget {
                                                   600
                                               ? Platform.isIOS
                                                   ? 40
-                                                  : 10
+                                                  : 28
                                               : 17,
                                     ),
                                     Column(
@@ -675,6 +675,9 @@ class MusicPlayerScreen extends StatelessWidget {
                           )
                         ],
                       ),
+                    ),
+                     const SizedBox(
+                      height: 15,
                     ),
                     PlayerControls(
                       subTitle: controller.shabadData.song ?? '',
