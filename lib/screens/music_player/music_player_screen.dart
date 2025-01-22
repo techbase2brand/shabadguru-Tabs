@@ -128,7 +128,7 @@ class MusicPlayerScreen extends StatelessWidget {
                                       child: CustomPopupMenu(
                                         menuBuilder: () {
                                           return Container(
-                                            height: 120,
+                                            height: 180,
                                             width: 210,
                                             decoration: BoxDecoration(
                                               border: Border.all(
@@ -272,70 +272,70 @@ class MusicPlayerScreen extends StatelessWidget {
                                                     ),
                                                   );
                                                 }),
-                                                // Obx(() {
-                                                //   return GestureDetector(
-                                                //     onTap: () {
-                                                //       // print('Hindi Lyrics clicked');
-                                                //       controller.changeLyrics(
-                                                //           controller
-                                                //               .isEnglishLyricsSelected
-                                                //               .value,
-                                                //           controller
-                                                //               .isSpanishLyricsSelected
-                                                //               .value,
-                                                //           !controller
-                                                //               .isHindiLyricsSelected
-                                                //               .value);
-                                                //       controller.update();
-                                                //       controller.controller!
-                                                //           .hideMenu();
-                                                //     },
-                                                //     child: Container(
-                                                //       margin:
-                                                //           const EdgeInsets.all(
-                                                //               5),
-                                                //       decoration: BoxDecoration(
-                                                //         color: controller
-                                                //                 .isHindiLyricsSelected
-                                                //                 .value
-                                                //             ? Colors.white
-                                                //             : Colors
-                                                //                 .transparent,
-                                                //         borderRadius:
-                                                //             BorderRadius
-                                                //                 .circular(5),
-                                                //       ),
-                                                //       padding: const EdgeInsets
-                                                //           .symmetric(
-                                                //           vertical: 10,
-                                                //           horizontal: 10),
-                                                //       child: Row(
-                                                //         children: [
-                                                //           Text(
-                                                //             'Hindi',
-                                                //             style: TextStyle(
-                                                //               color:
-                                                //                   Colors.black,
-                                                //               fontFamily:
-                                                //                   poppinsRegular,
-                                                //               fontSize: 16,
-                                                //             ),
-                                                //           ),
-                                                //           const Spacer(),
-                                                //           if (controller
-                                                //               .isHindiLyricsSelected
-                                                //               .value)
-                                                //             const Icon(
-                                                //               Icons
-                                                //                   .check_rounded,
-                                                //               color:
-                                                //                   secondPrimaryColor,
-                                                //             ),
-                                                //         ],
-                                                //       ),
-                                                //     ),
-                                                //   );
-                                                // }),
+                                                Obx(() {
+                                                  return GestureDetector(
+                                                    onTap: () {
+                                                      // print('Hindi Lyrics clicked');
+                                                      controller.changeLyrics(
+                                                          controller
+                                                              .isEnglishLyricsSelected
+                                                              .value,
+                                                          controller
+                                                              .isSpanishLyricsSelected
+                                                              .value,
+                                                          !controller
+                                                              .isHindiLyricsSelected
+                                                              .value);
+                                                      controller.update();
+                                                      controller.controller!
+                                                          .hideMenu();
+                                                    },
+                                                    child: Container(
+                                                      margin:
+                                                          const EdgeInsets.all(
+                                                              5),
+                                                      decoration: BoxDecoration(
+                                                        color: controller
+                                                                .isHindiLyricsSelected
+                                                                .value
+                                                            ? Colors.white
+                                                            : Colors
+                                                                .transparent,
+                                                        borderRadius:
+                                                            BorderRadius
+                                                                .circular(5),
+                                                      ),
+                                                      padding: const EdgeInsets
+                                                          .symmetric(
+                                                          vertical: 10,
+                                                          horizontal: 10),
+                                                      child: Row(
+                                                        children: [
+                                                          Text(
+                                                            'Hindi',
+                                                            style: TextStyle(
+                                                              color:
+                                                                  Colors.black,
+                                                              fontFamily:
+                                                                  poppinsRegular,
+                                                              fontSize: 16,
+                                                            ),
+                                                          ),
+                                                          const Spacer(),
+                                                          if (controller
+                                                              .isHindiLyricsSelected
+                                                              .value)
+                                                            const Icon(
+                                                              Icons
+                                                                  .check_rounded,
+                                                              color:
+                                                                  secondPrimaryColor,
+                                                            ),
+                                                        ],
+                                                      ),
+                                                    ),
+                                                  );
+                                                }),
                                               ],
                                             ),
                                           );
