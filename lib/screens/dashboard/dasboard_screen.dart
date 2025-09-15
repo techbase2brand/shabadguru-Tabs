@@ -3,7 +3,7 @@
 import 'package:action_broadcast/action_broadcast.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:persistent_bottom_nav_bar_v2/persistent-tab-view.dart';
+import 'package:persistent_bottom_nav_bar/persistent_tab_view.dart';
 import 'package:provider/provider.dart';
 import 'package:shabadguru/audio_service/audio_service.dart';
 import 'package:shabadguru/screens/dashboard/dashboard_controller.dart';

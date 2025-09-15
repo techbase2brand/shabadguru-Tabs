@@ -16,10 +16,10 @@ publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 # https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
 # In Windows, build-name is used as the major, minor, and patch parts
 # of the product and file versions while build-number is used as the build suffix.
-version: 1.0.7+7
+version: 1.0.8+8
 
 environment:
-  sdk: '>=2.19.6 <3.0.0'
+  sdk: '>=3.0.0 <4.0.0'  # Updated for better compatibility
 
 # Dependencies specify other packages that your package needs in order to work.
 # To automatically upgrade your package dependencies to the latest versions
@@ -30,33 +30,35 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-
+  persistent_bottom_nav_bar: ^5.0.2
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
-  cupertino_icons: ^1.0.2
-  get: ^4.6.5
-  persistent_bottom_nav_bar_v2: ^4.2.8
-  flutter_svg: ^2.0.5
+  cupertino_icons: ^1.0.8
+  get: ^4.6.6
+  persistent_bottom_nav_bar_v2: ^6.1.0  # Using compatible fork version
+  flutter_svg: ^2.0.10+1
   flutter_staggered_animations: ^1.1.1
   # flutter_lyric: ^2.0.4+6
-  audio_service: ^0.18.12
-  just_audio: ^0.9.35
-  audio_video_progress_bar: ^0.11.0
-  http: ^0.13.4
-  logger: ^1.1.0
-  fluttertoast: ^8.2.2
+  audio_service: ^0.18.15
+  just_audio: ^0.10.5
+  audio_video_progress_bar: ^2.0.3  # Updated to fix bodyText1 error
+  http: ^1.2.2
+  logger: ^2.4.0
+  fluttertoast: ^8.2.8
   custom_pop_up_menu_fork: ^2.0.0
   action_broadcast: ^3.0.2
-  shared_preferences: ^2.1.2
-  collection: ^1.17.0
-  url_launcher: ^6.1.11
-  upgrader: ^6.3.0
-  flutter_local_notifications: ^15.1.1
-  provider: ^6.1.1
-  firebase_messaging: ^14.7.19
-  firebase_core: ^2.27.0
-  device_info_plus: ^9.1.2
+  shared_preferences: ^2.3.2
+  collection: ^1.18.0
+  url_launcher: ^6.3.2
+  upgrader: ^11.5.0  # Compatible version
+  flutter_local_notifications: ^19.4.1  # Compatible version
+  provider: ^6.1.2
+  firebase_messaging: ^16.0.1
+  firebase_core: ^4.1.0
+  device_info_plus: ^11.5.0
+  path_provider_android: ^2.2.7   
+
 
 dev_dependencies:
   flutter_test:
@@ -67,7 +69,11 @@ dev_dependencies:
   # activated in the `analysis_options.yaml` file located at the root of your
   # package. See that file for information about deactivating specific lint
   # rules and activating additional ones.
-  flutter_lints: ^2.0.0
+  flutter_lints: ^6.0.0
+
+# Dependency overrides to fix compatibility issues
+dependency_overrides:
+  win32: ^5.7.0  # This will fix the UnmodifiableUint8ListView error
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec

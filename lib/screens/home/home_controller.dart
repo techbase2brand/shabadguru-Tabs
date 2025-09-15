@@ -331,8 +331,7 @@ class HomeController extends GetxController {
         AndroidInitializationSettings('@mipmap/ic_launcher');
 
     final DarwinInitializationSettings initializationSettingsDarwin =
-        DarwinInitializationSettings(
-            onDidReceiveLocalNotification: onDidReceiveLocalNotification);
+        DarwinInitializationSettings();
     const LinuxInitializationSettings initializationSettingsLinux =
         LinuxInitializationSettings(defaultActionName: 'Open notification');
     final InitializationSettings initializationSettings =
@@ -366,12 +365,17 @@ class HomeController extends GetxController {
       },
     );
 
-    if (Platform.isAndroid) {
-      flutterLocalNotificationsPlugin
-          .resolvePlatformSpecificImplementation<
-              AndroidFlutterLocalNotificationsPlugin>()!
-          .requestPermission();
-    }
+if (Platform.isAndroid) {
+  // No need to request permissions explicitly for most Android versions.
+  // For Android 13 (API 33) and above, use flutter_local_notifications' Android-specific API:
+  final androidImplementation = flutterLocalNotificationsPlugin
+      .resolvePlatformSpecificImplementation<
+          AndroidFlutterLocalNotificationsPlugin>();
+
+  if (androidImplementation != null) {
+    await androidImplementation.requestNotificationsPermission();
+  }
+}
 
     final notificationAppLaunchDetails =
         await flutterLocalNotificationsPlugin.getNotificationAppLaunchDetails();
@@ -454,8 +458,7 @@ class HomeController extends GetxController {
           payload:
               '{"raagId": "${getRandomId()}", "raagName": "${getRandomName()}"}',
           androidScheduleMode: AndroidScheduleMode.exactAllowWhileIdle,
-          uiLocalNotificationDateInterpretation:
-              UILocalNotificationDateInterpretation.absoluteTime);
+         );
     }
 
     // await flutterLocalNotificationsPlugin.zonedSchedule(

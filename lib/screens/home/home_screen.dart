@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:persistent_bottom_nav_bar_v2/persistent-tab-view.dart';
+import 'package:persistent_bottom_nav_bar/persistent_tab_view.dart';
 import 'package:provider/provider.dart';
 import 'package:shabadguru/screens/home/home_controller.dart';
 import 'package:shabadguru/screens/home/widgets/featured_item.dart';
@@ -30,7 +30,7 @@ class HomeScreen extends StatelessWidget {
         controller.themeProvider = Provider.of<DarkThemeProvider>(context);
         return UpgradeAlert(
           upgrader: Upgrader(
-            dialogStyle: UpgradeDialogStyle.cupertino,
+            // dialogStyle: UpgradeDialogStyle.cupertino,
             durationUntilAlertAgain: const Duration(days: 1),
           ),
           child: Scaffold(
