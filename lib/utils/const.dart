@@ -1,3 +1,4 @@
+// Sample lyrics constants for testing and development purposes
 const normalLyric = """[ti:If I Didn't Love You]
 [ar:Jason Aldean/Carrie Underwood]
 [al:If I Didn't Love You]
@@ -88,6 +89,7 @@ const normalLyric = """[ti:If I Didn't Love You]
 [03:09.07]If I didn't love you
 [03:11.67]If I didn't love you""";
 
+// Sample translated lyrics constants for testing and development purposes
 const transLyric = """[ti:If I Didn't Love You]
 [ar:Jason Aldean/Carrie Underwood]
 [al:If I Didn't Love You]

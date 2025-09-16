@@ -15,6 +15,7 @@ import 'package:shabadguru/utils/dark_mode/app_state_notifier.dart';
 import 'package:shabadguru/utils/font.dart';
 import 'package:shabadguru/utils/global.dart';
 
+// Widget for music player controls (play/pause, skip, shuffle, seek bar)
 class PlayerControls extends StatefulWidget {
   const PlayerControls(
       {super.key,
@@ -23,79 +24,87 @@ class PlayerControls extends StatefulWidget {
       required this.listOfShabads,
       required this.shabadData});
 
-  final String title;
-  final String subTitle;
-  final List<ShabadData> listOfShabads;
-  final ShabadData shabadData;
+  final String title; // Shabad title
+  final String subTitle; // Song subtitle
+  final List<ShabadData> listOfShabads; // Playlist
+  final ShabadData shabadData; // Current shabad data
 
   @override
   State<PlayerControls> createState() => _PlayerControlsState();
 }
 
 class _PlayerControlsState extends State<PlayerControls> {
+  // Initialize global playing variables
   @override
   void initState() {
     super.initState();
-    playingTitle = widget.title;
-    playingSubtitle = widget.subTitle;
-    playingShabadData = widget.shabadData;
-    playingListOfShabad = widget.listOfShabads;
+    playingTitle = widget.title; // Set global playing title
+    playingSubtitle = widget.subTitle; // Set global playing subtitle
+    playingShabadData = widget.shabadData; // Set global playing shabad data
+    playingListOfShabad = widget.listOfShabads; // Set global playing list
   }
 
+  // Build the player controls UI
   @override
   Widget build(BuildContext context) {
-    final themeProvider = Provider.of<DarkThemeProvider>(context);
-    final screenWidth = MediaQuery.of(context).size.width;
+    final themeProvider = Provider.of<DarkThemeProvider>(context); // Get theme provider
+    final screenWidth = MediaQuery.of(context).size.width; // Get screen width
     return GetBuilder<MusicPlayerController>(
       builder: (controller) {
         return Column(
           children: [
+            // Seek bar section
             SizedBox(
-              width: screenWidth,
-              child: const MusicPlayerSeekBar(),
+              width: screenWidth, // Full screen width
+              child: const MusicPlayerSeekBar(), // Display seek bar
             ),
+            // Time display section
             StreamBuilder<MediaState>(
-              stream: mediaStateStream,
+              stream: mediaStateStream, // Listen to media state changes
               builder: (context, snapshot) {
-                Duration? progressDuration;
-                Duration? totalDuration;
-                final mediaState = snapshot.data;
+                Duration? progressDuration; // Current playback position
+                Duration? totalDuration; // Total audio duration
+                final mediaState = snapshot.data; // Get current media state
 
+                // Extract duration information from media state
                 if (mediaState?.mediaItem?.duration != null) {
                   if (mediaState?.position != null) {
-                    progressDuration = mediaState?.position;
-                    totalDuration = mediaState?.mediaItem?.duration!;
+                    progressDuration = mediaState?.position; // Current position
+                    totalDuration = mediaState?.mediaItem?.duration!; // Total duration
                   }
                 }
 
+                // Ensure progress doesn't exceed total duration
                 if (progressDuration != null && totalDuration != null) {
                   if (progressDuration.inMilliseconds >
                       totalDuration.inMilliseconds) {
-                    progressDuration = totalDuration;
+                    progressDuration = totalDuration; // Cap progress at total duration
                   }
                 }
                 return Padding(
-                  padding: const EdgeInsets.only(left: 30, right: 30,top: 30),
+                  padding: const EdgeInsets.only(left: 30, right: 30,top: 30), // Time display padding
                   child: Row(
-                    mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                    mainAxisAlignment: MainAxisAlignment.spaceBetween, // Space between current and total time
                     children: [
+                      // Current time display
                       Text(
-                        _formatDuration(progressDuration),
+                        _formatDuration(progressDuration), // Format current time
                         style: TextStyle(
                           fontSize: 15,
                           color: themeProvider.darkTheme
-                              ? Colors.white
-                              : Colors.black,
+                              ? Colors.white // White for dark theme
+                              : Colors.black, // Black for light theme
                           fontFamily: poppinsRegular,
                         ),
                       ),
+                      // Total time display
                       Text(
-                        _formatDuration(totalDuration),
+                        _formatDuration(totalDuration), // Format total time
                         style: TextStyle(
                           fontSize: 15,
                           color: themeProvider.darkTheme
-                              ? Colors.white
-                              : Colors.black,
+                              ? Colors.white // White for dark theme
+                              : Colors.black, // Black for light theme
                           fontFamily: poppinsRegular,
                         ),
                       ),
@@ -104,35 +113,39 @@ class _PlayerControlsState extends State<PlayerControls> {
                 );
               },
             ),
+            // Control buttons section
             Padding(
-              padding: const EdgeInsets.only(left: 30, right: 30, top: 10),
+              padding: const EdgeInsets.only(left: 30, right: 30, top: 10), // Control buttons padding
               child: Column(
                 children: [
                   Row(
-                    mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                    mainAxisAlignment: MainAxisAlignment.spaceBetween, // Space between control buttons
                     children: [
+                      // Restart button
                       IconButton(
                         onPressed: () {
-                          Duration duration = const Duration(seconds: 0);
-                          audioHandler!.seek(duration);
+                          Duration duration = const Duration(seconds: 0); // Seek to beginning
+                          audioHandler!.seek(duration); // Seek to start
                         },
                         icon: SvgPicture.asset(
-                          refreshSvg,
-                          color: themeProvider.darkTheme ? Colors.white : null,
+                          refreshSvg, // Restart icon
+                          color: themeProvider.darkTheme ? Colors.white : null, // Icon color based on theme
                         ),
                       ),
+                      // Previous track button
                       StreamBuilder<MediaState>(
-                        stream: mediaStateStream,
+                        stream: mediaStateStream, // Listen to media state
                         builder: (context, snapshot) {
                           return IconButton(
                             onPressed: () {
-                              if (widget.listOfShabads.length > 1) {
+                              if (widget.listOfShabads.length > 1) { // Check if multiple tracks available
                                 int playingIndex = widget.listOfShabads
                                     .indexWhere((element) =>
-                                        element == widget.shabadData);
+                                        element == widget.shabadData); // Find current track index
                                 if (playingIndex <
                                         widget.listOfShabads.length &&
-                                    playingIndex > 0) {
+                                    playingIndex > 0) { // Check if not first track
+                                  // Stop current audio
                                   audioHandler!.pause();
                                   audioHandler!.stop();
                                   audioHandler = null;
@@ -140,8 +153,9 @@ class _PlayerControlsState extends State<PlayerControls> {
                                   playingNormalLyrics = '';
                                   playingEnglishLyrics = '';
                                   playingTranslationLyrics = '';
-                                  controller.sheetHeight = 0.1;
+                                  controller.sheetHeight = 0.1; // Collapse sheet
                                   if (shuffleOn) {
+                                    // Play random previous track
                                     if (getRandomNumberFromList() > 0) {
                                       controller.shabadData =
                                           widget.listOfShabads[
@@ -152,6 +166,7 @@ class _PlayerControlsState extends State<PlayerControls> {
                                       controller.onInit();
                                     }
                                   } else {
+                                    // Play previous track in sequence
                                     int indexOfPlayingShabad = widget
                                         .listOfShabads
                                         .indexWhere((element) =>
@@ -170,38 +185,39 @@ class _PlayerControlsState extends State<PlayerControls> {
                               }
                             },
                             icon: SvgPicture.asset(
-                              rewindSvg,
+                              rewindSvg, // Previous track icon
                               width: 22,
                               height: 22,
                               color:
-                                  themeProvider.darkTheme ? Colors.white : null,
+                                  themeProvider.darkTheme ? Colors.white : null, // Icon color based on theme
                             ),
                           );
                         },
                       ),
+                      // Play/Pause button
                       StreamBuilder<bool>(
                         stream: audioHandler!.playbackState
-                            .map((state) => state.playing)
-                            .distinct(),
+                            .map((state) => state.playing) // Get playing state
+                            .distinct(), // Only emit when state changes
                         builder: (context, snapshot) {
-                          final playing = snapshot.data ?? false;
-                          controller.playing = playing;
+                          final playing = snapshot.data ?? false; // Get current playing state
+                          controller.playing = playing; // Update controller state
                           return GestureDetector(
                             onTap: () {
                               if (playing) {
-                                audioHandler!.pause();
+                                audioHandler!.pause(); // Pause if playing
                               } else {
-                                audioHandler!.play();
+                                audioHandler!.play(); // Play if paused
                               }
-                              sendBroadcast('actionMusicPlaying');
+                              sendBroadcast('actionMusicPlaying'); // Broadcast state change
                             },
                             child: CircleAvatar(
-                              radius: 25,
-                              backgroundColor: const Color(0XFF444444),
+                              radius: 25, // Button radius
+                              backgroundColor: const Color(0XFF444444), // Button background
                               child: Icon(
-                                  playing ? Icons.pause : Icons.play_arrow,
-                                  color: Colors.white,
-                                  size: 30),
+                                  playing ? Icons.pause : Icons.play_arrow, // Pause or play icon
+                                  color: Colors.white, // White icon
+                                  size: 30), // Icon size
                             ),
                           );
                         },
@@ -266,28 +282,29 @@ class _PlayerControlsState extends State<PlayerControls> {
                           );
                         },
                       ),
+                      // Shuffle button
                       GestureDetector(
                         onTap: () {
-                          shuffleOn = !shuffleOn;
-                          controller.update();
+                          shuffleOn = !shuffleOn; // Toggle shuffle mode
+                          controller.update(); // Update UI
                         },
                         child: Container(
-                          height: 50,
-                          width: 50,
+                          height: 50, // Button height
+                          width: 50, // Button width
                           decoration: BoxDecoration(
-                            shape: BoxShape.circle,
+                            shape: BoxShape.circle, // Circular button
                             color: shuffleOn
-                                ? secondPrimaryColor
-                                : Colors.transparent,
+                                ? secondPrimaryColor // Gold when active
+                                : Colors.transparent, // Transparent when inactive
                           ),
-                          padding: const EdgeInsets.all(15),
+                          padding: const EdgeInsets.all(15), // Button padding
                           child: SvgPicture.asset(
-                            shuffleSvg,
+                            shuffleSvg, // Shuffle icon
                             color: shuffleOn
-                                ? Colors.white
+                                ? Colors.white // White when active
                                 : themeProvider.darkTheme
-                                    ? Colors.white
-                                    : Colors.black,
+                                    ? Colors.white // White for dark theme when inactive
+                                    : Colors.black, // Black for light theme when inactive
                           ),
                         ),
                       ),
@@ -305,26 +322,28 @@ class _PlayerControlsState extends State<PlayerControls> {
     );
   }
 
-  //Formate the duration to show on player
+  // Format duration to display on player (MM:SS or HH:MM:SS format)
   String _formatDuration(Duration? duration) {
     if (duration != null) {
-      String twoDigits(int n) => n.toString().padLeft(2, '0');
-      String twoDigitsBack(int n) => n.toString().padLeft(2, '0');
+      String twoDigits(int n) => n.toString().padLeft(2, '0'); // Add leading zero for single digits
+      String twoDigitsBack(int n) => n.toString().padLeft(2, '0'); // Add leading zero for single digits
       if (duration.inSeconds < 3600) {
+        // Format for less than 1 hour (MM:SS)
         final String twoDigitMinutes =
-            twoDigits(duration.inMinutes.remainder(60));
+            twoDigits(duration.inMinutes.remainder(60)); // Minutes with leading zero
         final String twoDigitSeconds =
-            twoDigitsBack(duration.inSeconds.remainder(60));
-        return "$twoDigitMinutes:$twoDigitSeconds";
+            twoDigitsBack(duration.inSeconds.remainder(60)); // Seconds with leading zero
+        return "$twoDigitMinutes:$twoDigitSeconds"; // MM:SS format
       } else {
-        final String twoDigitHours = twoDigits(duration.inHours.remainder(60));
+        // Format for 1 hour or more (HH:MM:SS)
+        final String twoDigitHours = twoDigits(duration.inHours.remainder(60)); // Hours with leading zero
         final String twoDigitMinutes =
-            twoDigitsBack(duration.inMinutes.remainder(60));
+            twoDigitsBack(duration.inMinutes.remainder(60)); // Minutes with leading zero
         final String twoDigitSeconds =
-            twoDigitsBack(duration.inSeconds.remainder(60));
-        return "$twoDigitHours:$twoDigitMinutes:$twoDigitSeconds";
+            twoDigitsBack(duration.inSeconds.remainder(60)); // Seconds with leading zero
+        return "$twoDigitHours:$twoDigitMinutes:$twoDigitSeconds"; // HH:MM:SS format
       }
     }
-    return "00:00";
+    return "00:00"; // Default format when duration is null
   }
 }

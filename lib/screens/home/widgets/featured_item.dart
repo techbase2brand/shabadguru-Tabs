@@ -1,4 +1,6 @@
 // ignore_for_file: deprecated_member_use
+
+// Widget for displaying featured content items on home screen
 import 'package:provider/provider.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
@@ -6,12 +8,13 @@ import 'package:shabadguru/screens/home/home_controller.dart';
 import 'package:shabadguru/utils/dark_mode/app_state_notifier.dart';
 import 'package:shabadguru/utils/font.dart';
 
+// Widget for displaying individual featured items with alternating colors
 class FeaturedItem extends StatelessWidget {
   const FeaturedItem(
       {super.key, required this.index, required this.featuredModel});
 
-  final int index;
-  final FeaturedModel featuredModel;
+  final int index; // Index for alternating colors
+  final FeaturedModel featuredModel; // Featured content data
 
   @override
   Widget build(BuildContext context) {

@@ -1,5 +1,6 @@
 // ignore_for_file: deprecated_member_use, depend_on_referenced_packages, avoid_print
 
+// Controller for managing home screen data, notifications, and user preferences
 import 'dart:convert';
 import 'dart:io';
 import 'dart:math';
@@ -23,31 +24,34 @@ import 'package:shared_preferences/shared_preferences.dart';
 import 'package:timezone/data/latest_all.dart' as tz;
 import 'package:timezone/timezone.dart' as tz;
 
+// Local notifications plugin instance
 final FlutterLocalNotificationsPlugin flutterLocalNotificationsPlugin =
     FlutterLocalNotificationsPlugin();
 
+// Controller for managing home screen state, data loading, and notifications
 class HomeController extends GetxController {
-  HomeController({required this.buildContext});
-  late DarkThemeProvider themeProvider;
-  List<FeaturedModel> featuredList = [];
-  ApiRepository apiRepository = ApiRepository();
+  HomeController({required this.buildContext}); // Constructor with build context
+  late DarkThemeProvider themeProvider; // Theme provider for UI theming
+  List<FeaturedModel> featuredList = []; // List of featured content
+  ApiRepository apiRepository = ApiRepository(); // API service for data fetching
 
-  PopularRaagsModel? popularRaagsModel;
-  List<ShabadData> recentData = [];
+  PopularRaagsModel? popularRaagsModel; // Popular raags data model
+  List<ShabadData> recentData = []; // Recently played shabads list
 
-  PopularBannisModel? popularBannisModel;
+  PopularBannisModel? popularBannisModel; // Popular banis data model
 
-  final String homePageData = 'home_page_data';
-  final String banisData = 'banis_data';
+  final String homePageData = 'home_page_data'; // Shared preferences key for home data
+  final String banisData = 'banis_data'; // Shared preferences key for banis data
 
-  List<RaagData> popularRaagsList = [];
+  List<RaagData> popularRaagsList = []; // List of popular raags
 
-  RxBool raagsSelected = true.obs;
-  RxBool preRaagsSelected = false.obs;
-  RxBool postRaagsSelected = false.obs;
+  // Tab selection states
+  RxBool raagsSelected = true.obs; // Raags tab selected state
+  RxBool preRaagsSelected = false.obs; // Pre-raags tab selected state
+  RxBool postRaagsSelected = false.obs; // Post-raags tab selected state
 
-  final GlobalKey<ScaffoldState> keyScaffold = GlobalKey();
-  final GlobalKey<ScaffoldState> keyScaffoldBanis = GlobalKey();
+  final GlobalKey<ScaffoldState> keyScaffold = GlobalKey(); // Scaffold key for drawer
+  final GlobalKey<ScaffoldState> keyScaffoldBanis = GlobalKey(); // Scaffold key for banis drawer
   final GlobalKey<ScaffoldState> keyScaffoldRags = GlobalKey();
   FirebaseMessaging messaging = FirebaseMessaging.instance;
 

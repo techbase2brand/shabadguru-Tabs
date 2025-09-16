@@ -6,76 +6,82 @@ import 'package:shabadguru/utils/font.dart';
 import 'package:shabadguru/utils/global.dart';
 import 'dart:math' as math;
 
+// Widget for displaying individual Raag item in the list
 class RaagItem extends StatelessWidget {
   const RaagItem({super.key, required this.raagData});
 
-  final RaagData? raagData;
+  final RaagData? raagData; // Raag data model
 
+  // Build the Raag item widget UI
   @override
   Widget build(BuildContext context) {
-    final themeProvider = Provider.of<DarkThemeProvider>(context);
+    final themeProvider = Provider.of<DarkThemeProvider>(context); // Get theme provider
     return Container(
-      margin: const EdgeInsets.only(left: 10, right: 10, bottom: 10),
+      margin: const EdgeInsets.only(left: 10, right: 10, bottom: 10), // Container margins
       child: Card(
         color:
-            themeProvider.darkTheme ? Colors.blueGrey.shade900 : Colors.white,
-        elevation: 0.4,
+            themeProvider.darkTheme ? Colors.blueGrey.shade900 : Colors.white, // Card background color
+        elevation: 0.4, // Card shadow elevation
         shape: RoundedRectangleBorder(
-          borderRadius: BorderRadius.circular(12),
+          borderRadius: BorderRadius.circular(12), // Rounded corners
         ),
         child: Container(
-          width: widthOfScreen,
-          height: 70,
+          width: widthOfScreen, // Full screen width
+          height: 70, // Fixed height
           decoration: BoxDecoration(
-            borderRadius: BorderRadius.circular(12),
+            borderRadius: BorderRadius.circular(12), // Rounded corners
           ),
           child: Row(
             children: [
               const SizedBox(
-                width: 10,
+                width: 10, // Left spacing
               ),
+              // Play button container
               Container(
                 width: 35,
                 height: 35,
                 decoration: BoxDecoration(
-                  color: themeProvider.darkTheme ? Colors.black : Colors.white,
-                  shape: BoxShape.circle,
+                  color: themeProvider.darkTheme ? Colors.black : Colors.white, // Button background
+                  shape: BoxShape.circle, // Circular shape
                   border: Border.all(
                       width: 1.5,
                       color: themeProvider.darkTheme
-                          ? Colors.white
-                          : Colors.grey.shade400),
+                          ? Colors.white // White border for dark theme
+                          : Colors.grey.shade400), // Grey border for light theme
                 ),
                 child: Center(
                   child: Icon(
-                    Icons.play_arrow,
+                    Icons.play_arrow, // Play arrow icon
                     color: themeProvider.darkTheme
-                        ? Colors.white
-                        : Colors.grey.shade400,
+                        ? Colors.white // White icon for dark theme
+                        : Colors.grey.shade400, // Grey icon for light theme
                   ),
                 ),
               ),
               const SizedBox(
-                width: 10,
+                width: 10, // Spacing between play button and colored icon
               ),
+              // Colored icon card with Raag initial
               Card(
-                elevation: 2,
+                elevation: 2, // Card shadow
                 shape: RoundedRectangleBorder(
-                  borderRadius: BorderRadius.circular(10),
+                  borderRadius: BorderRadius.circular(10), // Rounded corners
                 ),
                 child: Container(
                   width: 50,
                   height: 50,
                   decoration: BoxDecoration(
                     color:
-                        Color((math.Random().nextDouble() * 0xFFFFFF).toInt())
+                        Color((math.Random().nextDouble() * 0xFFFFFF).toInt()) // Random color generation
                             .withOpacity(1.0),
-                    borderRadius: BorderRadius.circular(10),
+                    borderRadius: BorderRadius.circular(10), // Rounded corners
                   ),
                   child: Center(
                     child: Builder(builder: (context) {
+                      // Get short name for Raag initial
                       String name =
                           getShortNameOfRaag(raagData!.name.toString());
+                      // Custom logic for specific Raag names (commented out)
                       //   if (raagData!.name.toString().contains("Japji Sahib")) {
                       //   name = 'J';
                       // } else if (raagData!.name.toString().contains("Aasa Di Vaar")) {
@@ -95,9 +101,9 @@ class RaagItem extends StatelessWidget {
                       //     name = raagData!.name.toString().contains(" ")? raagData!.name.toString().split(" ")[1][0]:raagData!.name[0] ?? '';
                       //   }
                       return Text(
-                        name,
+                        name, // Display Raag initial
                         style: TextStyle(
-                          color: Colors.white,
+                          color: Colors.white, // White text on colored background
                           fontFamily: poppinsExtraBold,
                           fontSize: 22,
                           fontWeight: FontWeight.w400,
@@ -108,22 +114,23 @@ class RaagItem extends StatelessWidget {
                 ),
               ),
               const SizedBox(
-                width: 10,
+                width: 10, // Spacing between icon and text
               ),
+              // Raag name text section
               Expanded(
                 child: Column(
                   mainAxisSize: MainAxisSize.min,
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
                     Text(
-                      raagData!.name ?? '',
-                      maxLines: 2,
-                      overflow: TextOverflow.ellipsis,
+                      raagData!.name ?? '', // Raag name
+                      maxLines: 2, // Maximum 2 lines
+                      overflow: TextOverflow.ellipsis, // Ellipsis for overflow
                       style: TextStyle(
                           fontFamily: poppinsRegular,
                           color: themeProvider.darkTheme
-                              ? Colors.white
-                              : Colors.black,
+                              ? Colors.white // White text for dark theme
+                              : Colors.black, // Black text for light theme
                           fontSize: 16,
                           fontWeight: FontWeight.w600),
                     ),
@@ -131,7 +138,7 @@ class RaagItem extends StatelessWidget {
                 ),
               ),
               const SizedBox(
-                width: 10,
+                width: 10, // Right spacing
               ),
             ],
           ),

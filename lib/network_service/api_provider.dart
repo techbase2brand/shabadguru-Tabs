@@ -1,3 +1,4 @@
+// API provider for handling all network requests and data fetching
 import 'dart:async';
 import 'dart:convert';
 
@@ -10,81 +11,93 @@ import 'package:shabadguru/network_service/models/punjabi_lyrics_model.dart';
 import 'package:shabadguru/network_service/models/shabad_raag_model.dart';
 import 'package:shabadguru/network_service/models/the_kirtanis_model.dart';
 
+// Provider class for making HTTP requests to ShabadGuru API endpoints
 class ApiProvider {
-  var logger = Logger();
+  var logger = Logger(); // Logger for debugging and error tracking
 
+  // Fetch popular Raags data from API
   Future<PopularRaagsModel> getPopularRaags() async {
     try {
-      logger.i("URL:- ${ApiUrl.popularRaagsUrl}");
+      logger.i("URL:- ${ApiUrl.popularRaagsUrl}"); // Log the API URL
 
+      // Make HTTP GET request to popular Raags endpoint
       final response = await http.get(Uri.parse(ApiUrl.popularRaagsUrl),
           headers: {
-            'Content-Type': 'application/json'
-          }).timeout(const Duration(seconds: 50));
-      logger.i("Popular raags data ${response.body}");
+            'Content-Type': 'application/json' // Set content type header
+          }).timeout(const Duration(seconds: 50)); // Set 50 second timeout
+      logger.i("Popular raags data ${response.body}"); // Log response body
+      
+      // Check if request was successful
       if (response.statusCode == 200 || response.statusCode == 201) {
-        final data = json.decode(response.body);
-
-        return PopularRaagsModel.fromJson(data);
+        final data = json.decode(response.body); // Parse JSON response
+        return PopularRaagsModel.fromJson(data); // Convert to model
       } else {
-        return PopularRaagsModel.withError(response.body.toString());
+        return PopularRaagsModel.withError(response.body.toString()); // Return error model
       }
     } on TimeoutException catch (_) {
-      logger.e("Time out exception in popular raags");
-      return PopularRaagsModel.withError("Timeout exception");
+      logger.e("Time out exception in popular raags"); // Log timeout error
+      return PopularRaagsModel.withError("Timeout exception"); // Return timeout error
     } catch (error, stacktrace) {
       logger.e(
-          "Exception occured in popular raags: $error stackTrace: $stacktrace");
-      return PopularRaagsModel.withError("Data not found / Connection issue");
+          "Exception occured in popular raags: $error stackTrace: $stacktrace"); // Log general error
+      return PopularRaagsModel.withError("Data not found / Connection issue"); // Return connection error
     }
   }
 
+  // Fetch popular Banis data from API
   Future<PopularBannisModel> getBannisRaags() async {
     try {
-      logger.i("URL:- ${ApiUrl.popularBannisUrl}");
+      logger.i("URL:- ${ApiUrl.popularBannisUrl}"); // Log the API URL
+      
+      // Make HTTP GET request to popular Banis endpoint
       final response = await http.get(Uri.parse(ApiUrl.popularBannisUrl),
           headers: {
-            'Content-Type': 'application/json'
-          }).timeout(const Duration(seconds: 50));
-      logger.i("Bannis Raags data ${response.body}");
+            'Content-Type': 'application/json' // Set content type header
+          }).timeout(const Duration(seconds: 50)); // Set 50 second timeout
+      logger.i("Bannis Raags data ${response.body}"); // Log response body
+      
+      // Check if request was successful
       if (response.statusCode == 200 || response.statusCode == 201) {
-        final data = json.decode(response.body);
-
-        return PopularBannisModel.fromJson(data);
+        final data = json.decode(response.body); // Parse JSON response
+        return PopularBannisModel.fromJson(data); // Convert to model
       } else {
-        return PopularBannisModel.withError(response.body.toString());
+        return PopularBannisModel.withError(response.body.toString()); // Return error model
       }
     } on TimeoutException catch (_) {
-      logger.e("Time out exception in bannis raags");
-      return PopularBannisModel.withError("Timeout exception");
+      logger.e("Time out exception in bannis raags"); // Log timeout error
+      return PopularBannisModel.withError("Timeout exception"); // Return timeout error
     } catch (error, stacktrace) {
       logger.e(
-          "Exception occured in bannis raags: $error stackTrace: $stacktrace");
-      return PopularBannisModel.withError("Data not found / Connection issue");
+          "Exception occured in bannis raags: $error stackTrace: $stacktrace"); // Log general error
+      return PopularBannisModel.withError("Data not found / Connection issue"); // Return connection error
     }
   }
 
+  // Fetch specific Shabad data by category ID and Shabad ID
   Future<ShabadRaagModel> getShabad(String categoryId, String id) async {
     try {
-      logger.i("URL:- ${ApiUrl.shabadUrl}$categoryId/$id");
+      logger.i("URL:- ${ApiUrl.shabadUrl}$categoryId/$id"); // Log the API URL with parameters
+      
+      // Make HTTP GET request to specific Shabad endpoint
       final response = await http
           .get(Uri.parse('${ApiUrl.shabadUrl}$categoryId/$id'), headers: {
-        'Content-Type': 'application/json'
-      }).timeout(const Duration(seconds: 50));
-      logger.i("Shabad data ${response.body}");
+        'Content-Type': 'application/json' // Set content type header
+      }).timeout(const Duration(seconds: 50)); // Set 50 second timeout
+      logger.i("Shabad data ${response.body}"); // Log response body
+      
+      // Check if request was successful
       if (response.statusCode == 200 || response.statusCode == 201) {
-        final data = json.decode(response.body);
-
-        return ShabadRaagModel.fromJson(data);
+        final data = json.decode(response.body); // Parse JSON response
+        return ShabadRaagModel.fromJson(data); // Convert to model
       } else {
-        return ShabadRaagModel.withError(response.body.toString());
+        return ShabadRaagModel.withError(response.body.toString()); // Return error model
       }
     } on TimeoutException catch (_) {
-      logger.e("Time out exception in shabad");
-      return ShabadRaagModel.withError("Timeout exception");
+      logger.e("Time out exception in shabad"); // Log timeout error
+      return ShabadRaagModel.withError("Timeout exception"); // Return timeout error
     } catch (error, stacktrace) {
-      logger.e("Exception occured in shabad: $error stackTrace: $stacktrace");
-      return ShabadRaagModel.withError("Data not found / Connection issue");
+      logger.e("Exception occured in shabad: $error stackTrace: $stacktrace"); // Log general error
+      return ShabadRaagModel.withError("Data not found / Connection issue"); // Return connection error
     }
   }
 

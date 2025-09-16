@@ -1,16 +1,19 @@
+// Model class for popular Raags API response
 class PopularRaagsModel {
-  dynamic status;
-  dynamic message;
-  List<RaagData>? data;
-  List<RaagData>? preRaags;
-  List<RaagData>? postRaags;
+  dynamic status; // API response status
+  dynamic message; // API response message
+  List<RaagData>? data; // Main Raags data list
+  List<RaagData>? preRaags; // Pre-Raags data list
+  List<RaagData>? postRaags; // Post-Raags data list
 
-  String? error;
+  String? error; // Error message for failed requests
 
+  // Constructor for error responses
   PopularRaagsModel.withError(String errorMessage) {
     error = errorMessage;
   }
 
+  // Default constructor
   PopularRaagsModel({this.status, this.message, this.data});
 
   PopularRaagsModel.fromJson(Map<String, dynamic> json) {

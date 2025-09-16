@@ -1,5 +1,6 @@
 // ignore_for_file: use_build_context_synchronously
 
+// Controller for managing user library, playlists, and favorites
 import 'dart:convert';
 
 import 'package:flutter/material.dart';
@@ -15,30 +16,33 @@ import 'package:shabadguru/utils/font.dart';
 import 'package:shabadguru/utils/routes.dart';
 import 'package:shabadguru/utils/shared_pref.dart';
 
+// Controller for managing user's personal library, playlists, and favorites
 class LibraryController extends GetxController {
-  List<MyPlaylistModel> selectedPlaylistList = [];
+  List<MyPlaylistModel> selectedPlaylistList = []; // Selected playlists list
 
-  List<MyPlaylistModel>? myPlaylist;
-  TextEditingController playlistNameController = TextEditingController();
-  HomeController homeController = Get.find<HomeController>();
+  List<MyPlaylistModel>? myPlaylist; // User's playlists
+  TextEditingController playlistNameController = TextEditingController(); // Playlist name input
+  HomeController homeController = Get.find<HomeController>(); // Home controller reference
 
-  List<RaagData> playlistRaagslist = [];
-  ShabadRaagModel? shabadRaagModel;
+  List<RaagData> playlistRaagslist = []; // Raags for playlist
+  ShabadRaagModel? shabadRaagModel; // Shabad raag model
 
-  List<ShabadData> selectedShabadList = [];
-  bool isAddMoreShabad = false;
+  List<ShabadData> selectedShabadList = []; // Selected shabads for playlist
+  bool isAddMoreShabad = false; // Flag for adding more shabads
 
-  List<ShabadData> shabadListOfLibrary = [];
+  List<ShabadData> shabadListOfLibrary = []; // Shabads in library
 
-  List<ShabadData> myFavoriteList = [];
+  List<ShabadData> myFavoriteList = []; // User's favorite shabads
 
-  RxBool isSearchEnable = false.obs;
-  RxBool isRaagSearchEnable = false.obs;
-  RxBool isShabadSearchEnable = false.obs;
+  // Search functionality states
+  RxBool isSearchEnable = false.obs; // General search enabled
+  RxBool isRaagSearchEnable = false.obs; // Raag search enabled
+  RxBool isShabadSearchEnable = false.obs; // Shabad search enabled
 
-  String searchValue = '';
-  String raagSearchValue = '';
-  String shabadSearchValue = '';
+  // Search values
+  String searchValue = ''; // General search value
+  String raagSearchValue = ''; // Raag search value
+  String shabadSearchValue = ''; // Shabad search value
 
   @override
   onInit() {

@@ -1,3 +1,4 @@
+// Side navigation drawer widget with app logo and menu options
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'package:flutter_svg/svg.dart';
@@ -11,6 +12,7 @@ import 'package:shabadguru/utils/global.dart';
 import 'package:shabadguru/utils/routes.dart';
 import 'package:url_launcher/url_launcher_string.dart';
 
+// Side navigation drawer with app branding and navigation options
 class SideDrawer extends StatelessWidget {
   const SideDrawer({
     super.key,

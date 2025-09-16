@@ -1,3 +1,4 @@
+// Screen for displaying Shabads from home categories
 import 'package:flutter/material.dart';
 import 'package:flutter_staggered_animations/flutter_staggered_animations.dart';
 import 'package:get/get_state_manager/get_state_manager.dart';
@@ -9,6 +10,7 @@ import 'package:shabadguru/utils/dark_mode/app_state_notifier.dart';
 import 'package:shabadguru/utils/global.dart';
 import 'package:shabadguru/utils/routes.dart';
 
+// Screen for displaying list of Shabads from home categories with animations
 class ShabadScreen extends StatelessWidget {
   const ShabadScreen(
       {super.key,
@@ -16,89 +18,96 @@ class ShabadScreen extends StatelessWidget {
       required this.id,
       required this.title});
 
-  final String categoryId;
-  final String id;
-  final String title;
+  final String categoryId; // Category identifier for the Shabad
+  final String id; // Unique identifier for the Shabad
+  final String title; // Title of the Shabad category
 
+  // Build the Shabad screen UI
   @override
   Widget build(BuildContext context) {
-    final themeProvider = Provider.of<DarkThemeProvider>(context);
-    final screenWidth = MediaQuery.of(context).size.width;
+    final themeProvider = Provider.of<DarkThemeProvider>(context); // Get theme provider
+    final screenWidth = MediaQuery.of(context).size.width; // Get screen width for responsive design
 
+    // Calculate app bar height based on screen size
     double appBarHeight;
     if (screenWidth > 600) {
-      // Example breakpoint for tablets
+      // Fixed height for tablets
       appBarHeight = 99;
     } else {
+      // Responsive height for phones
       appBarHeight = widthOfScreen * 0.15;
     }
     return GetBuilder<ShabadController>(
-      init: ShabadController(categoryId: categoryId, id: id, title: title),
+      init: ShabadController(categoryId: categoryId, id: id, title: title), // Initialize controller
       builder: (controller) {
         return Scaffold(
           backgroundColor: themeProvider.darkTheme
-              ? Colors.black
-              : const Color.fromARGB(255, 239, 242, 248),
+              ? Colors.black // Dark theme background
+              : const Color.fromARGB(255, 239, 242, 248), // Light theme background
           appBar: AppBar(
-            centerTitle: true,
-            toolbarHeight: appBarHeight,
+            centerTitle: true, // Center the title
+            toolbarHeight: appBarHeight, // Dynamic toolbar height
             backgroundColor:
-                themeProvider.darkTheme ? Colors.black : darkBlueColor,
+                themeProvider.darkTheme ? Colors.black : darkBlueColor, // App bar background
             title: Text(
-              title,
-              style: const TextStyle(color: Colors.white),
+              title, // Display category title
+              style: const TextStyle(color: Colors.white), // White title text
             ),
             leading: GestureDetector(
               onTap: () {
-                Navigator.of(context).pop();
+                Navigator.of(context).pop(); // Navigate back
               },
               child: const Icon(
-                Icons.arrow_back_ios_new_rounded,
-                color: Colors.white,
+                Icons.arrow_back_ios_new_rounded, // Back arrow icon
+                color: Colors.white, // White icon color
               ),
             ),
           ),
           body: Column(
             children: [
+              // Show loading indicator while data is loading
               if (controller.shabadRaagModel == null)
                 Expanded(
                   child: Center(
                     child: CircularProgressIndicator(
                       color: themeProvider.darkTheme
-                          ? Colors.white
-                          : darkBlueColor,
+                          ? Colors.white // White loading indicator for dark theme
+                          : darkBlueColor, // Blue loading indicator for light theme
                     ),
                   ),
                 )
+              // Show Shabad list when data is loaded
               else if (controller.shabadRaagModel!.data != null)
                 Expanded(
-                  child: AnimationLimiter(
+                  child: AnimationLimiter( // Limit animations for performance
                     child: ListView.builder(
-                      shrinkWrap: true,
-                      physics: const BouncingScrollPhysics(),
-                      itemCount: controller.shabadRaagModel!.data!.length,
-                      padding: const EdgeInsets.only(top: 30, bottom: 60),
+                      shrinkWrap: true, // Shrink to fit content
+                      physics: const BouncingScrollPhysics(), // Bouncing scroll effect
+                      itemCount: controller.shabadRaagModel!.data!.length, // Number of Shabads
+                      padding: const EdgeInsets.only(top: 30, bottom: 60), // List padding
                       itemBuilder: (context, index) {
                         return AnimationConfiguration.staggeredList(
                           position: index,
-                          duration: const Duration(milliseconds: 1000),
+                          duration: const Duration(milliseconds: 1000), // Animation duration
                           child: SlideAnimation(
-                            verticalOffset: 50.0,
+                            verticalOffset: 50.0, // Slide from bottom
                             duration: const Duration(milliseconds: 1000),
                             child: FadeInAnimation(
                               child: GestureDetector(
                                 onTap: () {
+                                  // Navigate to music player page
                                   goToMusicPlayerPage(
                                       context,
-                                      controller.shabadRaagModel!.data![index],
-                                      title,
-                                      controller.shabadRaagModel!.data!);
+                                      controller.shabadRaagModel!.data![index], // Selected Shabad
+                                      title, // Category title
+                                      controller.shabadRaagModel!.data!); // All Shabads for playlist
                                 },
                                 child: ShabadItem(
                                   shabadData:
-                                      controller.shabadRaagModel!.data![index],
-                                  title: title,
+                                      controller.shabadRaagModel!.data![index], // Shabad data
+                                  title: title, // Category title
                                   onMenuTaped: () {
+                                    // Show menu options for Shabad
                                     controller.showMenuOptions(
                                         context,
                                         controller

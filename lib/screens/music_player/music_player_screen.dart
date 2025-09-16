@@ -18,6 +18,7 @@ import 'package:shabadguru/utils/font.dart';
 import 'package:shabadguru/utils/global.dart';
 import 'dart:io' show Platform;
 
+// Main music player screen with lyrics display and controls
 class MusicPlayerScreen extends StatelessWidget {
   MusicPlayerScreen({
     super.key,
@@ -26,35 +27,36 @@ class MusicPlayerScreen extends StatelessWidget {
     required this.listOfShabads,
   });
 
-  ShabadData shabadData;
-  final String title;
-  final List<ShabadData> listOfShabads;
+  ShabadData shabadData; // Current playing shabad data
+  final String title; // Shabad title
+  final List<ShabadData> listOfShabads; // List of all shabads in playlist
 
+  // Build the music player screen UI
   @override
   Widget build(BuildContext context) {
-    final themeProvider = Provider.of<DarkThemeProvider>(context);
-    final screenWidth = MediaQuery.of(context).size.width;
+    final themeProvider = Provider.of<DarkThemeProvider>(context); // Get theme provider
+    final screenWidth = MediaQuery.of(context).size.width; // Get screen width for responsive design
     return GetBuilder<MusicPlayerController>(
       init: MusicPlayerController(
           shabadData: shabadData,
           title: title,
           context: context,
-          listOfShabads: listOfShabads),
+          listOfShabads: listOfShabads), // Initialize music player controller
       builder: (controller) {
-        musicPlayerController = controller;
+        musicPlayerController = controller; // Set global controller reference
         return Scaffold(
           appBar: AppBar(
             backgroundColor:
-                themeProvider.darkTheme ? Colors.black : darkBlueColor,
-            toolbarHeight: 0,
+                themeProvider.darkTheme ? Colors.black : darkBlueColor, // App bar background
+            toolbarHeight: 0, // Hide app bar
           ),
           backgroundColor:
-              themeProvider.darkTheme ? Colors.black : Colors.white,
+              themeProvider.darkTheme ? Colors.black : Colors.white, // Screen background
           body: controller.playerLoading
               ? Center(
                   child: CircularProgressIndicator(
                     color:
-                        themeProvider.darkTheme ? Colors.white : darkBlueColor,
+                        themeProvider.darkTheme ? Colors.white : darkBlueColor, // Loading indicator color
                   ),
                 )
               : Column(
@@ -64,46 +66,49 @@ class MusicPlayerScreen extends StatelessWidget {
                         children: [
                           Column(
                             children: [
+                              // Top header container with back button and title
                               Container(
-                                height: 72,
-                                width: screenWidth,
+                                height: 72, // Fixed header height
+                                width: screenWidth, // Full screen width
                                 color: themeProvider.darkTheme
-                                    ? Colors.black
-                                    : const Color(0XFFFFF8EA),
+                                    ? Colors.black // Dark theme background
+                                    : const Color(0XFFFFF8EA), // Light theme background
                                 child: Row(
                                   children: [
+                                    // Back button section
                                     Expanded(
-                                      flex: screenWidth > 600 ? 1 : 2,
+                                      flex: screenWidth > 600 ? 1 : 2, // Responsive flex for tablets/phones
                                       child: GestureDetector(
                                         onTap: () {
-                                          Navigator.of(context).pop();
+                                          Navigator.of(context).pop(); // Navigate back
                                         },
                                         child: Center(
                                           child: Icon(
-                                            Icons.arrow_back_ios,
+                                            Icons.arrow_back_ios, // Back arrow icon
                                             color: themeProvider.darkTheme
-                                                ? Colors.white
-                                                : Colors.black,
-                                            size: 24,
+                                                ? Colors.white // White for dark theme
+                                                : Colors.black, // Black for light theme
+                                            size: 24, // Icon size
                                           ),
                                         ),
                                       ),
                                     ),
+                                    // Title section
                                     Expanded(
-                                      flex: screenWidth > 600 ? 8 : 6,
+                                      flex: screenWidth > 600 ? 8 : 6, // Responsive flex for tablets/phones
                                       child: Column(
                                         mainAxisAlignment:
-                                            MainAxisAlignment.center,
+                                            MainAxisAlignment.center, // Center vertically
                                         children: [
                                           Text(
-                                            controller.title,
+                                            controller.title, // Display shabad title
                                             style: TextStyle(
                                               fontFamily: poppinsBold,
                                               fontWeight: FontWeight.w500,
                                               fontSize: 24,
                                               color: themeProvider.darkTheme
-                                                  ? Colors.white
-                                                  : const Color(0XFF130726),
+                                                  ? Colors.white // White for dark theme
+                                                  : const Color(0XFF130726), // Dark blue for light theme
                                             ),
                                           ),
                                           // const SizedBox(
@@ -360,20 +365,21 @@ class MusicPlayerScreen extends StatelessWidget {
                                   ],
                                 ),
                               ),
+                              // Lyrics display section
                               if (controller.lyricsLoading)
                                 const Expanded(
                                   child: Center(
                                     child: CircularProgressIndicator(
-                                      color: darkBlueColor,
+                                      color: darkBlueColor, // Loading indicator color
                                     ),
                                   ),
                                 )
                               else
                                 const Expanded(
-                                  child: LyricsWidget(),
+                                  child: LyricsWidget(), // Display lyrics widget
                                 ),
                               const SizedBox(
-                                height: 15,
+                                height: 15, // Spacing after lyrics
                               ),
                             ],
                           ),
@@ -520,29 +526,31 @@ class MusicPlayerScreen extends StatelessWidget {
                           //     },
                           //   ),
                           // )
+                          // Draggable sheet for "Up Next" playlist
                           DraggableScrollableSheet(
-                            initialChildSize: controller.sheetHeight,
-                            minChildSize: controller.sheetHeight,
-                            snap: true,
-                            maxChildSize: controller.sheetHeight,
-                            expand: true,
-                            controller: controller.dragController,
+                            initialChildSize: controller.sheetHeight, // Initial sheet height
+                            minChildSize: controller.sheetHeight, // Minimum sheet height
+                            snap: true, // Snap to positions
+                            maxChildSize: controller.sheetHeight, // Maximum sheet height
+                            expand: true, // Expand to fill available space
+                            controller: controller.dragController, // Drag controller
                             builder: (BuildContext context,
                                 ScrollController scrollController) {
                               return Container(
                                 color: themeProvider.darkTheme
-                                    ? Colors.black
-                                    : Colors.white,
+                                    ? Colors.black // Dark theme background
+                                    : Colors.white, // Light theme background
                                 child: Column(
                                   children: [
+                                    // Top spacing based on device type
                                     SizedBox(
                                       height:
                                           MediaQuery.of(context).size.width >
                                                   600
                                               ? Platform.isIOS
-                                                  ? 40
-                                                  : 28
-                                              : 17,
+                                                  ? 40 // iPad spacing
+                                                  : 28 // Android tablet spacing
+                                              : 17, // Phone spacing
                                     ),
                                     Column(
                                       children: [
@@ -677,16 +685,17 @@ class MusicPlayerScreen extends StatelessWidget {
                       ),
                     ),
                      const SizedBox(
-                      height: 15,
+                      height: 15, // Spacing before player controls
                     ),
+                    // Player controls section with play/pause, skip, and seek bar
                     PlayerControls(
-                      subTitle: controller.shabadData.song ?? '',
-                      title: controller.title,
-                      listOfShabads: controller.listOfShabads,
-                      shabadData: controller.shabadData,
+                      subTitle: controller.shabadData.song ?? '', // Song subtitle
+                      title: controller.title, // Shabad title
+                      listOfShabads: controller.listOfShabads, // Playlist
+                      shabadData: controller.shabadData, // Current shabad data
                     ),
                     const SizedBox(
-                      height: 15,
+                      height: 15, // Bottom spacing
                     ),
                   ],
                 ),

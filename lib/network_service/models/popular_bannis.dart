@@ -1,16 +1,20 @@
+// Model class for popular Banis API response
 import 'package:shabadguru/network_service/models/popular_raags_model.dart';
 
+// Model class for popular Banis API response
 class PopularBannisModel {
-  dynamic status;
-  dynamic message;
-  List<RaagData>? data;
+  dynamic status; // API response status
+  dynamic message; // API response message
+  List<RaagData>? data; // List of Bani data
 
-  String? error;
+  String? error; // Error message for failed requests
 
+  // Constructor for error responses
   PopularBannisModel.withError(String errorMessage) {
     error = errorMessage;
   }
 
+  // Default constructor
   PopularBannisModel({this.status, this.message, this.data});
 
   PopularBannisModel.fromJson(Map<String, dynamic> json) {

@@ -1,3 +1,4 @@
+// Controller for managing contact us form functionality
 import 'dart:convert';
 
 import 'package:flutter/material.dart';
@@ -6,34 +7,40 @@ import 'package:get/get.dart';
 import 'package:shabadguru/network_service/api.dart';
 import 'package:shabadguru/utils/colors.dart';
 
+// Controller class for managing contact us form state and API calls
 class ContactUsController extends GetxController {
-  TextEditingController firstNameController = TextEditingController();
-  TextEditingController lastNameController = TextEditingController();
-  TextEditingController emailController = TextEditingController();
-  TextEditingController messageController = TextEditingController();
+  // Text controllers for form fields
+  TextEditingController firstNameController = TextEditingController(); // First name input
+  TextEditingController lastNameController = TextEditingController(); // Last name input
+  TextEditingController emailController = TextEditingController(); // Email input
+  TextEditingController messageController = TextEditingController(); // Message input
 
-  GlobalKey<FormState> formKey = GlobalKey<FormState>();
-  final GlobalKey<ScaffoldState> keyScaffold = GlobalKey();
+  GlobalKey<FormState> formKey = GlobalKey<FormState>(); // Form validation key
+  final GlobalKey<ScaffoldState> keyScaffold = GlobalKey(); // Scaffold key for drawer
 
-  bool showLoading = false;
-  ApiRepository apiRepository = ApiRepository();
+  bool showLoading = false; // Loading state indicator
+  ApiRepository apiRepository = ApiRepository(); // API service for contact us
 
+  // Send contact message to server
   sendMessage() async {
-    if (formKey.currentState!.validate()) {
-      showLoading = true;
-      update();
+    if (formKey.currentState!.validate()) { // Validate form before sending
+      showLoading = true; // Show loading indicator
+      update(); // Update UI
+      // Prepare JSON body for API call
       final body = jsonEncode({
-        'firstname': firstNameController.text,
-        'lastname': lastNameController.text,
-        'email': emailController.text,
-        'subject': messageController.text,
+        'firstname': firstNameController.text, // First name
+        'lastname': lastNameController.text, // Last name
+        'email': emailController.text, // Email address
+        'subject': messageController.text, // Message content
       });
-      await apiRepository.contactUs(body);
+      await apiRepository.contactUs(body); // Send message via API
+      // Clear all form fields after successful submission
       firstNameController.clear();
       lastNameController.clear();
       emailController.clear();
       messageController.clear();
-      showLoading = false;
+      showLoading = false; // Hide loading indicator
+      // Show success message
       Fluttertoast.showToast(
         msg: "Your message is sent sucessfully",
         toastLength: Toast.LENGTH_LONG,
@@ -43,13 +50,15 @@ class ContactUsController extends GetxController {
         textColor: Colors.white,
         fontSize: 16.0,
       );
-      update();
+      update(); // Update UI
     }
   }
 
+  // Clean up resources when controller is disposed
   @override
   void dispose() {
     super.dispose();
+    // Dispose all text controllers to prevent memory leaks
     firstNameController.dispose();
     lastNameController.dispose();
     emailController.dispose();

@@ -1,21 +1,25 @@
+// Global utility functions and variables for the ShabadGuru app
 import 'dart:math';
 
 import 'package:shabadguru/audio_service/audio_service.dart';
 
-double widthOfScreen = 0.0;
-double heightOfScreen = 0.0;
+// Global screen dimensions
+double widthOfScreen = 0.0; // Screen width for responsive design
+double heightOfScreen = 0.0; // Screen height for responsive design
 
+// Get random number from current playing Shabad list for shuffle functionality
 int getRandomNumberFromList() {
-  var rng = Random();
-  return rng.nextInt(playingListOfShabad!.length);
+  var rng = Random(); // Random number generator
+  return rng.nextInt(playingListOfShabad!.length); // Return random index within list bounds
 }
 
+// Get short abbreviation for Raag titles to display in UI icons
 String getShortNameOfRaag(String raagTitle) {
   switch (raagTitle) {
     case 'Japji Sahib':
-      return 'JS';
+      return 'JS'; // Japji Sahib abbreviation
     case 'Sodar Rehras':
-      return 'SR';
+      return 'SR'; // Sodar Rehras abbreviation
 
     case 'Kirtan Sohila':
       return 'KS';
@@ -192,6 +196,6 @@ String getShortNameOfRaag(String raagTitle) {
       return 'SO';
 
     default:
-      return 'JP';
+      return 'JP'; // Default abbreviation for unknown Raags
   }
 }

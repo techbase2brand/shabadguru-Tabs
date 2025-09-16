@@ -1,5 +1,6 @@
 // ignore_for_file: deprecated_member_use
 
+// Contact us screen for user support and social media links
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:get/get.dart';
@@ -14,39 +15,43 @@ import 'package:shabadguru/utils/global.dart';
 import 'package:shabadguru/utils/image_app_bar.dart';
 import 'package:url_launcher/url_launcher_string.dart';
 
+// Screen for displaying contact information and social media links
 class ContactUsScreen extends StatelessWidget {
   const ContactUsScreen({super.key});
 
+  // Build the contact us screen UI
   @override
   Widget build(BuildContext context) {
-    final themeProvider = Provider.of<DarkThemeProvider>(context);
-    final screenWidth = MediaQuery.of(context).size.width;
+    final themeProvider = Provider.of<DarkThemeProvider>(context); // Get theme provider
+    final screenWidth = MediaQuery.of(context).size.width; // Get screen width for responsive design
     return GetBuilder<ContactUsController>(
-      init: ContactUsController(),
+      init: ContactUsController(), // Initialize contact us controller
       builder: (controller) {
         return Scaffold(
-          key: controller.keyScaffold,
-          drawer: const SideDrawer(),
+          key: controller.keyScaffold, // Scaffold key for drawer control
+          drawer: const SideDrawer(), // Side navigation drawer
           backgroundColor: themeProvider.darkTheme
-              ? Colors.black
-              : const Color.fromARGB(255, 239, 242, 248),
+              ? Colors.black // Dark theme background
+              : const Color.fromARGB(255, 239, 242, 248), // Light theme background
           body: Column(
             children: [
+              // App bar with drawer functionality
               ImageAppBar(
                 onDrwaerTap: () {
-                  controller.keyScaffold.currentState!.openDrawer();
+                  controller.keyScaffold.currentState!.openDrawer(); // Open drawer on tap
                 },
-                showDrawer: true,
-                showBack: false,
+                showDrawer: true, // Show drawer button
+                showBack: false, // Hide back button
               ),
               Expanded(
-                child: SingleChildScrollView(
-                  physics: const BouncingScrollPhysics(),
+                child: SingleChildScrollView( // Scrollable content
+                  physics: const BouncingScrollPhysics(), // Bouncing scroll effect
                   child: Column(
                     children: [
                       const SizedBox(
-                        height: 50,
+                        height: 50, // Top spacing
                       ),
+                      // Main title text
                       Text(
                         'Get In Touch With Us!',
                         style: TextStyle(
@@ -54,27 +59,28 @@ class ContactUsScreen extends StatelessWidget {
                           fontWeight: FontWeight.w500,
                           fontSize: 26,
                           color: themeProvider.darkTheme
-                              ? Colors.white
-                              : Colors.black,
+                              ? Colors.white // White text for dark theme
+                              : Colors.black, // Black text for light theme
                         ),
                       ),
                       const SizedBox(
-                        height: 10,
+                        height: 10, // Spacing after title
                       ),
+                      // Subtitle text
                       Text(
-                        "We’re here to assist you, How can we be of help?",
+                        "We're here to assist you, How can we be of help?",
                         textAlign: TextAlign.center,
                         style: TextStyle(
                           fontFamily: poppinsRegular,
                           fontWeight: FontWeight.w400,
                           fontSize: 16,
                           color: themeProvider.darkTheme
-                              ? Colors.white
-                              : Colors.black,
+                              ? Colors.white // White text for dark theme
+                              : Colors.black, // Black text for light theme
                         ),
                       ),
                       const SizedBox(
-                        height: 30,
+                        height: 30, // Spacing before form
                       ),
                       // Padding(
                       //   padding: const EdgeInsets.symmetric(horizontal: 20),
@@ -432,70 +438,74 @@ class ContactUsScreen extends StatelessWidget {
                       //     ),
                       //   ),
                       // )
+                      // Contact form with responsive padding
                       Padding(
                         padding: EdgeInsets.symmetric(
-                            horizontal: screenWidth > 800 ? 100 : 20),
+                            horizontal: screenWidth > 800 ? 100 : 20), // Responsive horizontal padding
                         child: Form(
-                          key: controller.formKey,
+                          key: controller.formKey, // Form validation key
                           child: LayoutBuilder(
                             builder: (context, constraints) {
                               if (constraints.maxWidth > 800) {
-                                // Adjust the width threshold as needed
+                                // Desktop/tablet layout
                                 return Column(
                                   children: [
+                                    // First name and last name row for desktop
                                     Row(
                                       children: [
                                         Expanded(
                                           child: TextFormField(
                                             controller:
-                                                controller.firstNameController,
+                                                controller.firstNameController, // First name controller
                                             style: TextStyle(
                                                 fontFamily: poppinsRegular,
                                                 color: themeProvider.darkTheme
-                                                    ? Colors.white
-                                                    : Colors.black),
+                                                    ? Colors.white // White text for dark theme
+                                                    : Colors.black), // Black text for light theme
                                             cursorColor: themeProvider.darkTheme
-                                                ? Colors.white
-                                                : const Color(0XFF24163A),
+                                                ? Colors.white // White cursor for dark theme
+                                                : const Color(0XFF24163A), // Dark cursor for light theme
+                                            // First name validation
                                             validator: (value) {
                                               if (value!.isEmpty) {
-                                                return 'Please enter first name';
+                                                return 'Please enter first name'; // Empty field error
                                               }
                                               if (value.length < 2) {
-                                                return 'Please enter valid first name';
+                                                return 'Please enter valid first name'; // Too short error
                                               }
-                                              return null;
+                                              return null; // Valid input
                                             },
+                                            // First name input decoration
                                             decoration: InputDecoration(
                                               label: Text(
                                                 'First name',
                                                 style: TextStyle(
                                                   fontFamily: poppinsRegular,
                                                   color: themeProvider.darkTheme
-                                                      ? Colors.white
-                                                      : Colors.black,
+                                                      ? Colors.white // White label for dark theme
+                                                      : Colors.black, // Black label for light theme
                                                 ),
                                               ),
                                               floatingLabelStyle: TextStyle(
-                                                color: const Color(0XFF24163A),
+                                                color: const Color(0XFF24163A), // Floating label color
                                                 fontFamily: poppinsRegular,
                                               ),
                                               focusedBorder:
                                                   UnderlineInputBorder(
                                                 borderSide: BorderSide(
                                                   color: themeProvider.darkTheme
-                                                      ? Colors.white
-                                                      : const Color(0XFF24163A),
+                                                      ? Colors.white // White border for dark theme
+                                                      : const Color(0XFF24163A), // Dark border for light theme
                                                 ),
                                               ),
                                             ),
                                           ),
                                         ),
-                                        const SizedBox(width: 100),
+                                        const SizedBox(width: 100), // Spacing between first and last name
                                         Expanded(
                                           child: TextFormField(
                                             controller:
-                                                controller.lastNameController,
+                                                controller.lastNameController, // Last name controller
                                             style: TextStyle(
                                                 fontFamily: poppinsRegular,
                                                 color: themeProvider.darkTheme
@@ -540,13 +550,14 @@ class ContactUsScreen extends StatelessWidget {
                                         ),
                                       ],
                                     ),
-                                    const SizedBox(height: 30),
+                                    const SizedBox(height: 30), // Spacing after name fields
+                                    // Email field row
                                     Row(
                                       children: [
                                         Expanded(
                                           child: TextFormField(
                                             controller:
-                                                controller.emailController,
+                                                controller.emailController, // Email controller
                                             style: TextStyle(
                                               fontFamily: poppinsRegular,
                                               color: themeProvider.darkTheme
@@ -556,17 +567,19 @@ class ContactUsScreen extends StatelessWidget {
                                             cursorColor: themeProvider.darkTheme
                                                 ? Colors.white
                                                 : const Color(0XFF24163A),
+                                            // Email validation
                                             validator: (value) {
                                               if (value!.isEmpty) {
-                                                return 'Please enter email';
+                                                return 'Please enter email'; // Empty email error
                                               }
+                                              // Email format validation using regex
                                               final bool emailValid = RegExp(
                                                       r"^[a-zA-Z0-9.a-zA-Z0-9.!#$%&'*+-/=?^_{|}~]+@[a-zA-Z0-9]+\.[a-zA-Z]+")
                                                   .hasMatch(value);
                                               if (!emailValid) {
-                                                return 'Please enter valid email';
+                                                return 'Please enter valid email'; // Invalid email format error
                                               }
-                                              return null;
+                                              return null; // Valid email
                                             },
                                             decoration: InputDecoration(
                                               label: Text(
@@ -593,25 +606,26 @@ class ContactUsScreen extends StatelessWidget {
                                             ),
                                           ),
                                         ),
-                                        const SizedBox(width: 100),
+                                        const SizedBox(width: 100), // Spacing between email and message
                                         Expanded(
                                           child: TextFormField(
                                             controller:
-                                                controller.messageController,
+                                                controller.messageController, // Message controller
                                             style: TextStyle(
                                               fontFamily: poppinsRegular,
                                               color: themeProvider.darkTheme
-                                                  ? Colors.white
-                                                  : Colors.black,
+                                                  ? Colors.white // White text for dark theme
+                                                  : Colors.black, // Black text for light theme
                                             ),
                                             cursorColor: themeProvider.darkTheme
-                                                ? Colors.white
-                                                : const Color(0XFF24163A),
+                                                ? Colors.white // White cursor for dark theme
+                                                : const Color(0XFF24163A), // Dark cursor for light theme
+                                            // Message validation
                                             validator: (value) {
                                               if (value!.isEmpty) {
-                                                return 'Please enter message';
+                                                return 'Please enter message'; // Empty message error
                                               }
-                                              return null;
+                                              return null; // Valid message
                                             },
                                             decoration: InputDecoration(
                                               label: Text(
@@ -640,13 +654,14 @@ class ContactUsScreen extends StatelessWidget {
                                         ),
                                       ],
                                     ),
-                                    const SizedBox(height: 60),
+                                    const SizedBox(height: 60), // Spacing before submit button
+                                    // Show loading indicator or submit button
                                     if (controller.showLoading)
                                       Center(
                                         child: CircularProgressIndicator(
                                           color: themeProvider.darkTheme
-                                              ? Colors.white
-                                              : darkBlueColor,
+                                              ? Colors.white // White loading indicator for dark theme
+                                              : darkBlueColor, // Blue loading indicator for light theme
                                         ),
                                       )
                                     else
@@ -655,12 +670,12 @@ class ContactUsScreen extends StatelessWidget {
                                             MainAxisAlignment.center,
                                         children: [
                                           SizedBox(
-                                            width: 400.00,
+                                            width: 400.00, // Fixed width for desktop
                                             child: ElevatedButton(
                                               onPressed: () {
                                                 FocusScope.of(context)
-                                                    .unfocus();
-                                                controller.sendMessage();
+                                                    .unfocus(); // Hide keyboard
+                                                controller.sendMessage(); // Send message
                                               },
                                               style: ButtonStyle(
                                                 backgroundColor:

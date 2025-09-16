@@ -1,3 +1,4 @@
+// Widget for displaying individual library playlist items
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'package:get/get.dart';
@@ -8,12 +9,13 @@ import 'dart:math' as math;
 
 import 'package:shabadguru/utils/font.dart';
 
+// Widget for displaying individual playlist items in library
 class LibraryItem extends StatelessWidget {
   const LibraryItem(
       {super.key, required this.onMenuTaped, required this.myPlaylistModel});
 
-  final Function onMenuTaped;
-  final MyPlaylistModel myPlaylistModel;
+  final Function onMenuTaped; // Menu tap callback function
+  final MyPlaylistModel myPlaylistModel; // Playlist data model
 
   @override
   Widget build(BuildContext context) {

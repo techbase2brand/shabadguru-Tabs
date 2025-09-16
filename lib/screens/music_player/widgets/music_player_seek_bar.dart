@@ -8,6 +8,7 @@ import 'package:shabadguru/utils/colors.dart';
 import 'package:shabadguru/utils/dark_mode/app_state_notifier.dart';
 import 'package:shabadguru/utils/global.dart';
 
+// Widget for displaying audio progress bar with seek functionality
 class MusicPlayerSeekBar extends StatefulWidget {
   const MusicPlayerSeekBar({super.key});
 
@@ -16,58 +17,61 @@ class MusicPlayerSeekBar extends StatefulWidget {
 }
 
 class _MusicPlayerSeekBarState extends State<MusicPlayerSeekBar> {
+  // Build the seek bar widget
   @override
   Widget build(BuildContext context) {
-    final themeProvider = Provider.of<DarkThemeProvider>(context);
-     final screenWidth = MediaQuery.of(context).size.width;
+    final themeProvider = Provider.of<DarkThemeProvider>(context); // Get theme provider
+     final screenWidth = MediaQuery.of(context).size.width; // Get screen width
     return GetBuilder<MusicPlayerController>(builder: (controller) {
       return SizedBox(
-        width: screenWidth,
+        width: screenWidth, // Full screen width
         child: StreamBuilder<MediaState>(
-            stream: mediaStateStream,
+            stream: mediaStateStream, // Listen to media state changes
             builder: (context, snapshot) {
-              Duration? progressDuration;
-              Duration? totalDuration;
-              final mediaState = snapshot.data;
+              Duration? progressDuration; // Current playback position
+              Duration? totalDuration; // Total audio duration
+              final mediaState = snapshot.data; // Get current media state
 
+              // Extract duration information from media state
               if (mediaState?.mediaItem?.duration != null) {
                 if (mediaState?.position != null) {
-                  progressDuration = mediaState?.position;
-                  totalDuration = mediaState?.mediaItem?.duration!;
+                  progressDuration = mediaState?.position; // Current position
+                  totalDuration = mediaState?.mediaItem?.duration!; // Total duration
                 }
               }
 
+              // Ensure progress doesn't exceed total duration
               if (progressDuration != null && totalDuration != null) {
                 if (progressDuration.inMilliseconds > totalDuration.inMilliseconds) {
-                  progressDuration = totalDuration;
+                  progressDuration = totalDuration; // Cap progress at total duration
                 }
               }
 
               if (!snapshot.hasError) {
                 return Container(
                   padding: const EdgeInsets.only(
-                      left: 30, right: 30, top: 15, bottom: 15),
+                      left: 30, right: 30, top: 15, bottom: 15), // Container padding
                   child: ProgressBar(
-                    thumbColor: secondPrimaryColor,
-                    bufferedBarColor: Colors.transparent,
+                    thumbColor: secondPrimaryColor, // Thumb color
+                    bufferedBarColor: Colors.transparent, // Transparent buffered bar
                     progressBarColor: themeProvider.darkTheme
-                        ? secondPrimaryColor
-                        : darkBlueColor,
-                    baseBarColor: Colors.grey,
-                    timeLabelLocation: TimeLabelLocation.none,
-                    barHeight: 4,
-                    thumbRadius: 8.0,
-                    progress: progressDuration ?? Duration.zero,
-                    total: totalDuration ?? Duration.zero,
-                    onDragStart: (_) {},
-                    onDragEnd: () {},
+                        ? secondPrimaryColor // Gold for dark theme
+                        : darkBlueColor, // Blue for light theme
+                    baseBarColor: Colors.grey, // Base bar color
+                    timeLabelLocation: TimeLabelLocation.none, // Hide time labels
+                    barHeight: 4, // Progress bar height
+                    thumbRadius: 8.0, // Thumb radius
+                    progress: progressDuration ?? Duration.zero, // Current progress
+                    total: totalDuration ?? Duration.zero, // Total duration
+                    onDragStart: (_) {}, // Drag start callback
+                    onDragEnd: () {}, // Drag end callback
                     onSeek: (duration) {
-                      audioHandler!.seek(duration);
+                      audioHandler!.seek(duration); // Seek to position
                     },
                   ),
                 );
               } else {
-                return const IgnorePointer();
+                return const IgnorePointer(); // Hide if error
               }
             }),
       );

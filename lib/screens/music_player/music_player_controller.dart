@@ -22,124 +22,136 @@ import 'package:shabadguru/utils/routes.dart';
 import 'package:shabadguru/utils/shared_pref.dart';
 import 'dart:convert';
 
+// Controller for managing music player functionality and state
 class MusicPlayerController extends GetxController {
   MusicPlayerController(
       {required this.shabadData,
       required this.title,
       required this.context,
       required this.listOfShabads});
-  int playProgress = 0;
+  
+  int playProgress = 0; // Current playback progress in milliseconds
 
-  List<ShabadData> listOfShabads;
+  List<ShabadData> listOfShabads; // List of all shabads in current playlist
 
+  // Lyrics UI configuration with inline gap
   var lyricUI = UINetease(
-    inlineGap: 5,
+    inlineGap: 5, // Gap between lyrics lines
   );
-  bool playing = false;
-  bool playerLoading = true;
-  bool lyricsLoading = true;
+  bool playing = false; // Current playing state
+  bool playerLoading = true; // Player initialization loading state
+  bool lyricsLoading = true; // Lyrics loading state
 
-  LyricsReaderModel? lyricModel;
-  String title;
+  LyricsReaderModel? lyricModel; // Model for lyrics display
+  String title; // Current shabad title
 
-  List<MediaItem> mediaItems = [];
+  List<MediaItem> mediaItems = []; // Media items for audio service
 
-  RxBool isEnglishLyricsSelected = true.obs;
+  // Lyrics language selection states
+  RxBool isEnglishLyricsSelected = true.obs; // English lyrics toggle
+  RxBool isSpanishLyricsSelected = false.obs; // Spanish lyrics toggle
+  RxBool isHindiLyricsSelected = false.obs; // Hindi lyrics toggle
 
-  RxBool isSpanishLyricsSelected = false.obs;
-  RxBool isHindiLyricsSelected = false.obs;
+  ApiRepository apiRepository = ApiRepository(); // API service for lyrics
 
-  ApiRepository apiRepository = ApiRepository();
+  ShabadData shabadData; // Current playing shabad data
 
-  ShabadData shabadData;
+  // Lyrics text in different languages
+  String normalLyrics = ''; // Punjabi/Gurmukhi lyrics
+  String englishLyrics = ''; // English translation lyrics
+  String translationLyrics = ''; // English translation lyrics
 
-  String normalLyrics = '';
-  String englishLyrics = '';
-  String translationLyrics = '';
+  String spanishLyrics = ''; // Spanish translation lyrics
+  String hindiLyrics = ''; // Hindi translation lyrics
 
-  String spanishLyrics = '';
-  String hindiLyrics = '';
+  CustomPopupMenuController? controller = CustomPopupMenuController(); // Popup menu controller
+  ScrollController scrollController = ScrollController(); // Scroll controller for lyrics
 
-  CustomPopupMenuController? controller = CustomPopupMenuController();
-  ScrollController scrollController = ScrollController();
-
-  StreamSubscription<MediaState>? subscription;
+  StreamSubscription<MediaState>? subscription; // Media state subscription
 
   DraggableScrollableController dragController =
-      DraggableScrollableController();
+      DraggableScrollableController(); // Draggable sheet controller
 
-  double sheetHeight = 0.1;
+  double sheetHeight = 0.1; // Height of draggable sheet (0.1 = collapsed, 1.0 = expanded)
 
-  BuildContext? draggableSheetContext;
-  BuildContext? context;
-  Duration? duration;
+  BuildContext? draggableSheetContext; // Context for draggable sheet
+  BuildContext? context; // Main context
+  Duration? duration; // Current audio duration
 
-  double fontSizeOfLyricsMain = 25.0;
-  double fontSizeOfLyricsExit = 20.0;
-  double fontSizeOfLyricsMid = 20.0;
+  // Font sizes for different lyrics languages
+  double fontSizeOfLyricsMain = 25.0; // Main lyrics font size
+  double fontSizeOfLyricsExit = 20.0; // Exit lyrics font size
+  double fontSizeOfLyricsMid = 20.0; // Mid lyrics font size
 
-  double fontSizeOfLyricsSpanish = 20.0;
-  double fontSizeOfLyricsHindi = 20.0;
+  double fontSizeOfLyricsSpanish = 20.0; // Spanish lyrics font size
+  double fontSizeOfLyricsHindi = 20.0; // Hindi lyrics font size
 
+  // Initialize controller and set up music player
   @override
   void onInit() {
     super.onInit();
-    isMusicPlayerPageOpen = true;
-    getPunjabiLyrics();
-    initPlayer();
-    saveRecentShabad();
+    isMusicPlayerPageOpen = true; // Mark music player page as open
+    getPunjabiLyrics(); // Load lyrics for current shabad
+    initPlayer(); // Initialize audio player
+    saveRecentShabad(); // Save current shabad to recent list
   }
 
+  // Show bottom sheet menu with options for shabad (favorite, playlist)
   Future<void> showMenuOptions(
     context,
     ShabadData shabadData,
   ) async {
-    final myFavoriteListShabad = await SharedPref.getMyFavoriteList();
-    bool isFindShabad = false;
+    final myFavoriteListShabad = await SharedPref.getMyFavoriteList(); // Get favorite list
+    bool isFindShabad = false; // Check if shabad is already in favorites
+    // Check if current shabad is already in favorites
     for (var i = 0; i < myFavoriteListShabad.length; i++) {
       if (myFavoriteListShabad[i].audio == shabadData.audio) {
-        isFindShabad = true;
+        isFindShabad = true; // Found in favorites
         break;
       }
     }
+    // Show modal bottom sheet with menu options
     showModalBottomSheet(
       context: context,
-      isScrollControlled: false,
+      isScrollControlled: false, // Not scroll controlled
       constraints: const BoxConstraints(
-        maxWidth: double.infinity,
+        maxWidth: double.infinity, // Full width
       ),
-      useRootNavigator: false,
+      useRootNavigator: false, // Use current navigator
       builder: (context) {
         return Container(
-          height: 260,
-          color: secondPrimaryColor.withOpacity(0),
-          padding: const EdgeInsets.symmetric(vertical: 15, horizontal: 20),
+          height: 260, // Fixed height
+          color: secondPrimaryColor.withOpacity(0), // Transparent background
+          padding: const EdgeInsets.symmetric(vertical: 15, horizontal: 20), // Container padding
           child: Column(
             children: [
+              // Add/Remove from favorites option
               GestureDetector(
                 onTap: () async {
-                  bool isFind = false;
-                  shabadData.title = title;
-                  final myFavoriteList = await SharedPref.getMyFavoriteList();
+                  bool isFind = false; // Track if shabad is found in favorites
+                  shabadData.title = title; // Set shabad title
+                  final myFavoriteList = await SharedPref.getMyFavoriteList(); // Get current favorites
                   if (myFavoriteList.isNotEmpty) {
+                    // Check if shabad is already in favorites
                     for (var i = 0; i < myFavoriteList.length; i++) {
                       if (myFavoriteList[i].audio == shabadData.audio) {
-                        isFind = true;
-                        myFavoriteList.removeAt(i);
+                        isFind = true; // Found in favorites
+                        myFavoriteList.removeAt(i); // Remove from favorites
                         break;
                       }
                     }
                     if (!isFind) {
-                      myFavoriteList.add(shabadData);
+                      myFavoriteList.add(shabadData); // Add to favorites
                     }
                   } else {
-                    myFavoriteList.add(shabadData);
+                    myFavoriteList.add(shabadData); // Add to empty favorites list
                   }
-                  await SharedPref.saveMyFavoriteList(myFavoriteList);
+                  await SharedPref.saveMyFavoriteList(myFavoriteList); // Save updated favorites
+                  // Show success message
                   Fluttertoast.showToast(
                     msg: isFind
-                        ? 'Shabad removed from your favorite'
-                        : "Shabad added to your favorite",
+                        ? 'Shabad removed from your favorite' // Removal message
+                        : "Shabad added to your favorite", // Addition message
                     toastLength: Toast.LENGTH_LONG,
                     gravity: ToastGravity.BOTTOM,
                     timeInSecForIosWeb: 5,
@@ -147,25 +159,25 @@ class MusicPlayerController extends GetxController {
                     textColor: Colors.white,
                     fontSize: 16.0,
                   );
-                  Navigator.of(context).pop();
+                  Navigator.of(context).pop(); // Close bottom sheet
                 },
                 child: Container(
-                  padding: const EdgeInsets.symmetric(vertical: 15),
-                  color: secondPrimaryColor.withOpacity(0),
+                  padding: const EdgeInsets.symmetric(vertical: 15), // Vertical padding
+                  color: secondPrimaryColor.withOpacity(0), // Transparent background
                   child: Row(
                     children: [
                       Icon(
-                        isFindShabad ? Icons.favorite : Icons.favorite_border,
-                        color: secondPrimaryColor,
-                        size: 18,
+                        isFindShabad ? Icons.favorite : Icons.favorite_border, // Heart icon based on favorite status
+                        color: secondPrimaryColor, // Icon color
+                        size: 18, // Icon size
                       ),
                       const SizedBox(
-                        width: 10,
+                        width: 10, // Spacing between icon and text
                       ),
                       Text(
                         isFindShabad
-                            ? 'Remove from favorite'
-                            : 'Add to favorite',
+                            ? 'Remove from favorite' // Remove text if already favorite
+                            : 'Add to favorite', // Add text if not favorite
                         style: TextStyle(
                             color: Colors.black,
                             fontFamily: poppinsBold,
@@ -177,28 +189,29 @@ class MusicPlayerController extends GetxController {
                 ),
               ),
               Divider(
-                color: Colors.grey.withOpacity(0.2),
+                color: Colors.grey.withOpacity(0.2), // Divider line
               ),
+              // Add to playlist option
               GestureDetector(
                 onTap: () {
-                  Navigator.of(context).pop();
-                  goToLibraryPage(context, true, shabadData);
+                  Navigator.of(context).pop(); // Close bottom sheet
+                  goToLibraryPage(context, true, shabadData); // Navigate to library page
                 },
                 child: Container(
-                  padding: const EdgeInsets.symmetric(vertical: 15),
-                  color: secondPrimaryColor.withOpacity(0),
+                  padding: const EdgeInsets.symmetric(vertical: 15), // Vertical padding
+                  color: secondPrimaryColor.withOpacity(0), // Transparent background
                   child: Row(
                     children: [
                       const Icon(
-                        Icons.play_circle_outline_sharp,
-                        color: secondPrimaryColor,
-                        size: 18,
+                        Icons.play_circle_outline_sharp, // Playlist icon
+                        color: secondPrimaryColor, // Icon color
+                        size: 18, // Icon size
                       ),
                       const SizedBox(
-                        width: 10,
+                        width: 10, // Spacing between icon and text
                       ),
                       Text(
-                        'Add to playlist',
+                        'Add to playlist', // Playlist option text
                         style: TextStyle(
                             color: Colors.black,
                             fontFamily: poppinsBold,
@@ -210,32 +223,33 @@ class MusicPlayerController extends GetxController {
                 ),
               ),
               Divider(
-                color: Colors.grey.withOpacity(0.2),
+                color: Colors.grey.withOpacity(0.2), // Divider line
               ),
               const SizedBox(
-                height: 15,
+                height: 15, // Spacing before cancel button
               ),
+              // Cancel button row
               Row(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
                   ElevatedButton(
                     style: ButtonStyle(
                         backgroundColor:
-                            MaterialStateProperty.all(darkBlueColor)),
+                            MaterialStateProperty.all(darkBlueColor)), // Button background
                     onPressed: () {
-                      Navigator.of(context).pop();
+                      Navigator.of(context).pop(); // Close bottom sheet
                     },
                     child: const Center(
                       child: Text(
-                        'Cancel',
-                        style: TextStyle(color: Colors.white),
+                        'Cancel', // Cancel button text
+                        style: TextStyle(color: Colors.white), // White text
                       ),
                     ),
                   ),
                 ],
               ),
               const SizedBox(
-                height: 15,
+                height: 15, // Bottom spacing
               ),
             ],
           ),
@@ -244,72 +258,79 @@ class MusicPlayerController extends GetxController {
     );
   }
 
+  // Save current shabad to recent played list
   Future<void> saveRecentShabad() async {
-    final List<ShabadData> savedDownloadList = await SharedPref.getList();
-    bool alreadyContains = false;
+    final List<ShabadData> savedDownloadList = await SharedPref.getList(); // Get recent list
+    bool alreadyContains = false; // Track if shabad already exists
     if (savedDownloadList.isNotEmpty) {
+      // Check if current shabad is already in recent list
       for (var i = 0; i < savedDownloadList.length; i++) {
         if (savedDownloadList[i].audio.toString().trim() ==
             shabadData.audio.toString().trim()) {
-          alreadyContains = true;
+          alreadyContains = true; // Found in recent list
           break;
         } else {
-          alreadyContains = false;
+          alreadyContains = false; // Not found
         }
       }
     }
     if (!alreadyContains) {
-      shabadData.title = title;
-      savedDownloadList.insert(0, shabadData);
+      shabadData.title = title; // Set shabad title
+      savedDownloadList.insert(0, shabadData); // Add to beginning of list
     }
-    SharedPref.saveList(savedDownloadList);
-    final controller = Get.put(HomeController(buildContext: context));
-    controller.getRecentData();
+    SharedPref.saveList(savedDownloadList); // Save updated recent list
+    final controller = Get.put(HomeController(buildContext: context)); // Get home controller
+    controller.getRecentData(); // Refresh recent data in home screen
   }
 
+  // Load lyrics for current shabad in multiple languages
   Future<void> getPunjabiLyrics() async {
     try {
-      final fontSize = await SharedPref.getFontSizePref();
+      final fontSize = await SharedPref.getFontSizePref(); // Get saved font size preference
+      // Set font sizes based on user preference
       if (fontSize == '1x') {
-        fontSizeOfLyricsMain = 25.0;
-        fontSizeOfLyricsExit = 20.0;
-        fontSizeOfLyricsMid = 20.0;
-        fontSizeOfLyricsSpanish = 20.0;
-        fontSizeOfLyricsHindi = 20.0;
+        fontSizeOfLyricsMain = 25.0; // Main lyrics font size
+        fontSizeOfLyricsExit = 20.0; // Exit lyrics font size
+        fontSizeOfLyricsMid = 20.0; // Mid lyrics font size
+        fontSizeOfLyricsSpanish = 20.0; // Spanish lyrics font size
+        fontSizeOfLyricsHindi = 20.0; // Hindi lyrics font size
       } else if (fontSize == '2x') {
-        fontSizeOfLyricsMain = 26.0;
-        fontSizeOfLyricsExit = 21.0;
-        fontSizeOfLyricsMid = 21.0;
-        fontSizeOfLyricsSpanish = 21.0;
-        fontSizeOfLyricsHindi = 21.0;
+        fontSizeOfLyricsMain = 26.0; // Increased main lyrics font size
+        fontSizeOfLyricsExit = 21.0; // Increased exit lyrics font size
+        fontSizeOfLyricsMid = 21.0; // Increased mid lyrics font size
+        fontSizeOfLyricsSpanish = 21.0; // Increased Spanish lyrics font size
+        fontSizeOfLyricsHindi = 21.0; // Increased Hindi lyrics font size
       } else if (fontSize == '3x') {
-        fontSizeOfLyricsMain = 27.0;
-        fontSizeOfLyricsExit = 22.0;
-        fontSizeOfLyricsMid = 22.0;
-        fontSizeOfLyricsSpanish = 22.0;
-        fontSizeOfLyricsHindi = 22.0;
+        fontSizeOfLyricsMain = 27.0; // Larger main lyrics font size
+        fontSizeOfLyricsExit = 22.0; // Larger exit lyrics font size
+        fontSizeOfLyricsMid = 22.0; // Larger mid lyrics font size
+        fontSizeOfLyricsSpanish = 22.0; // Larger Spanish lyrics font size
+        fontSizeOfLyricsHindi = 22.0; // Larger Hindi lyrics font size
       } else {
-        fontSizeOfLyricsMain = 28.0;
-        fontSizeOfLyricsExit = 23.0;
-        fontSizeOfLyricsMid = 23.0;
-        fontSizeOfLyricsSpanish = 23.0;
-        fontSizeOfLyricsHindi = 23.0;
+        fontSizeOfLyricsMain = 28.0; // Largest main lyrics font size
+        fontSizeOfLyricsExit = 23.0; // Largest exit lyrics font size
+        fontSizeOfLyricsMid = 23.0; // Largest mid lyrics font size
+        fontSizeOfLyricsSpanish = 23.0; // Largest Spanish lyrics font size
+        fontSizeOfLyricsHindi = 23.0; // Largest Hindi lyrics font size
       }
-      update();
+      update(); // Update UI with new font sizes
 
+      // Load lyrics if not already loaded
       if (playingLyricModel == null) {
-        normalLyrics = '';
+        normalLyrics = ''; // Reset normal lyrics
+        // Fetch Punjabi lyrics from API
         apiRepository
             .getPunjabiLyrics(shabadData.jsonData ?? '')
             .then((punjabiLyricsModel) {
           if (punjabiLyricsModel.error == null) {
             if (punjabiLyricsModel.lyrics != null) {
               if (punjabiLyricsModel.lyrics!.isNotEmpty) {
+                // Process each lyric line with timestamp
                 for (var i = 0; i < punjabiLyricsModel.lyrics!.length; i++) {
                   String lyrics =
                       '[${printDuration(Duration(milliseconds: punjabiLyricsModel.lyrics![i].time))}] ${punjabiLyricsModel.lyrics![i].line}';
 
-                  normalLyrics = '$normalLyrics\n$lyrics';
+                  normalLyrics = '$normalLyrics\n$lyrics'; // Append to normal lyrics
                 }
               }
             }
@@ -453,39 +474,43 @@ class MusicPlayerController extends GetxController {
     }
   }
 
+  // Format single digit numbers with leading zero
   String twoDigits(int n) {
-    if (n >= 10) return "$n";
-    return "0$n";
+    if (n >= 10) return "$n"; // Return as is if double digit
+    return "0$n"; // Add leading zero for single digit
   }
 
+  // Format duration to MM:SS.00 or HH:MM:SS.00 format
   String printDuration(Duration duration) {
-    String twoDigitMinutes = twoDigits(duration.inMinutes.remainder(60));
-    String twoDigitSeconds = twoDigits(duration.inSeconds.remainder(60));
+    String twoDigitMinutes = twoDigits(duration.inMinutes.remainder(60)); // Minutes with leading zero
+    String twoDigitSeconds = twoDigits(duration.inSeconds.remainder(60)); // Seconds with leading zero
     if (duration.inHours > 0) {
-      String twoDigitHours = twoDigits(duration.inMinutes.remainder(300));
-      return "$twoDigitHours:$twoDigitSeconds.00";
+      String twoDigitHours = twoDigits(duration.inMinutes.remainder(300)); // Hours with leading zero
+      return "$twoDigitHours:$twoDigitSeconds.00"; // HH:SS.00 format
     } else {
-      return "$twoDigitMinutes:$twoDigitSeconds.00";
+      return "$twoDigitMinutes:$twoDigitSeconds.00"; // MM:SS.00 format
     }
   }
 
+  // Initialize audio player and set up media items
   Future<void> initPlayer() async {
-    bool addItems = false;
+    bool addItems = false; // Track if items need to be added
 
     if (audioHandler == null) {
-      addItems = true;
-      final player = AudioPlayer();
-      duration = await player.setUrl(shabadData.audio ?? '');
-      mediaItems = [];
+      addItems = true; // Mark that items need to be added
+      final player = AudioPlayer(); // Create audio player instance
+      duration = await player.setUrl(shabadData.audio ?? ''); // Get audio duration
+      mediaItems = []; // Initialize media items list
+      // Add current shabad as first media item
       mediaItems.add(
         MediaItem(
-          id: shabadData.audio ?? '',
-          album: shabadData.albumart ?? '',
-          title: title,
-          artist: shabadData.song ?? '',
-          duration: duration ?? const Duration(milliseconds: 100000),
+          id: shabadData.audio ?? '', // Audio URL as ID
+          album: shabadData.albumart ?? '', // Album art URL
+          title: title, // Shabad title
+          artist: shabadData.song ?? '', // Song name as artist
+          duration: duration ?? const Duration(milliseconds: 100000), // Audio duration
           // duration: null,
-          artUri: Uri.parse(''),
+          artUri: Uri.parse(''), // Empty art URI
         ),
       );
 
@@ -606,6 +631,7 @@ class MusicPlayerController extends GetxController {
     sendBroadcast('actionMusicPlaying');
   }
 
+  // Correct Hindi lyrics encoding issues
   String correctHindiLyrics(String input) {
     // Assuming the input string contains improperly rendered Unicode
     List<int> bytes =
@@ -613,11 +639,12 @@ class MusicPlayerController extends GetxController {
     return utf8.decode(bytes); // Decode it to proper UTF-8 string
   }
 
+  // Change lyrics language selection and rebuild lyrics model
   void changeLyrics(bool englishLyricsSelected, bool spanishLyricsSelected,
       bool hindiLyricSelected) {
-    isEnglishLyricsSelected.value = englishLyricsSelected;
-    isSpanishLyricsSelected.value = spanishLyricsSelected;
-    isHindiLyricsSelected.value = hindiLyricSelected;
+    isEnglishLyricsSelected.value = englishLyricsSelected; // Set English lyrics selection
+    isSpanishLyricsSelected.value = spanishLyricsSelected; // Set Spanish lyrics selection
+    isHindiLyricsSelected.value = hindiLyricSelected; // Set Hindi lyrics selection
 
     if (normalLyrics.isNotEmpty) {
       LyricsModelBuilder modelBuilder =
@@ -691,21 +718,23 @@ class MusicPlayerController extends GetxController {
     update();
   }
 
+  // Toggle draggable sheet height between collapsed and expanded
   void changeSheetHeight() {
     if (sheetHeight == 0.1) {
-      sheetHeight = 1.0;
+      sheetHeight = 1.0; // Expand sheet to full height
     } else {
-      sheetHeight = 0.1;
+      sheetHeight = 0.1; // Collapse sheet to minimal height
     }
-    update();
+    update(); // Update UI
   }
 
+  // Clean up resources when controller is disposed
   @override
   void onClose() {
     super.onClose();
-    isMusicPlayerPageOpen = false;
+    isMusicPlayerPageOpen = false; // Mark music player page as closed
     if (subscription != null) {
-      subscription!.cancel();
+      subscription!.cancel(); // Cancel media state subscription
     }
   }
 }

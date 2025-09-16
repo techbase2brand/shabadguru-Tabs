@@ -1,13 +1,15 @@
+// Model class for Punjabi lyrics API response
 class PunjabiLyricsModel {
-  List<Lyrics>? lyrics;
+  List<Lyrics>? lyrics; // List of lyrics with timing
 
+  String? error; // Error message for failed requests
 
-  String? error;
-
+  // Constructor for error responses
   PunjabiLyricsModel.withError(String errorMessage) {
     error = errorMessage;
   }
 
+  // Default constructor
   PunjabiLyricsModel({this.lyrics});
 
   PunjabiLyricsModel.fromJson(Map<String, dynamic> json) {
@@ -28,9 +30,10 @@ class PunjabiLyricsModel {
   }
 }
 
+// Model class for individual lyrics line with timing
 class Lyrics {
-  dynamic line;
-  dynamic time;
+  dynamic line; // Lyrics text line
+  dynamic time; // Timing for the lyrics line
 
   Lyrics({this.line, this.time});
 

@@ -1,11 +1,13 @@
+// Model class for user's custom playlists
 import 'dart:convert';
 
 import 'package:shabadguru/network_service/models/shabad_raag_model.dart';
 
+// Model class for managing user's custom playlists
 class MyPlaylistModel {
-  String? playlistName;
-  List<ShabadData>? shabadList;
-  bool isSelected = false;
+  String? playlistName; // Name of the playlist
+  List<ShabadData>? shabadList; // List of Shabads in the playlist
+  bool isSelected = false; // Selection state for UI
   MyPlaylistModel({required this.shabadList, required this.playlistName});
 
   MyPlaylistModel.fromJson(Map<String, dynamic> json) {

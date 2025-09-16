@@ -1,3 +1,4 @@
+// Widget for displaying recently played shabad items
 import 'dart:math';
 
 import 'package:flutter/material.dart';
@@ -7,6 +8,7 @@ import 'package:shabadguru/utils/dark_mode/app_state_notifier.dart';
 import 'package:shabadguru/utils/font.dart';
 import 'package:shabadguru/utils/global.dart';
 
+// Widget for displaying individual recently played shabad items
 class RecentItem extends StatelessWidget {
   const RecentItem({
     super.key,
@@ -15,9 +17,9 @@ class RecentItem extends StatelessWidget {
     required this.shabadData,
   });
 
-  final int index;
-  final List<ShabadData> recentListShabad;
-  final ShabadData shabadData;
+  final int index; // Item index
+  final List<ShabadData> recentListShabad; // List of recent shabads
+  final ShabadData shabadData; // Current shabad data
 
   @override
   Widget build(BuildContext context) {

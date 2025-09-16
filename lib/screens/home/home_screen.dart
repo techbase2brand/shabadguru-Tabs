@@ -1,3 +1,4 @@
+// Home screen with featured content, popular raags, and recent plays
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:persistent_bottom_nav_bar/persistent_tab_view.dart';
@@ -16,29 +17,30 @@ import 'package:flutter_staggered_animations/flutter_staggered_animations.dart';
 import 'package:shabadguru/utils/routes.dart';
 import 'package:upgrader/upgrader.dart';
 
+// Main home screen with featured content and navigation
 class HomeScreen extends StatelessWidget {
   const HomeScreen(this.tabController, {super.key});
 
-  final PersistentTabController tabController;
+  final PersistentTabController tabController; // Tab controller for navigation
 
+  // Build the home screen UI
   @override
   Widget build(BuildContext context) {
-    final screenWidth = MediaQuery.of(context).size.width;
+    final screenWidth = MediaQuery.of(context).size.width; // Get screen width for responsive design
     return GetBuilder<HomeController>(
-      init: HomeController(buildContext: context),
+      init: HomeController(buildContext: context), // Initialize home controller
       builder: (controller) {
-        controller.themeProvider = Provider.of<DarkThemeProvider>(context);
-        return UpgradeAlert(
+        controller.themeProvider = Provider.of<DarkThemeProvider>(context); // Get theme provider
+        return UpgradeAlert( // App upgrade alert wrapper
           upgrader: Upgrader(
-            // dialogStyle: UpgradeDialogStyle.cupertino,
-            durationUntilAlertAgain: const Duration(days: 1),
+            durationUntilAlertAgain: const Duration(days: 1), // Show alert once per day
           ),
           child: Scaffold(
-            key: controller.keyScaffold,
-            drawer: const SideDrawer(),
+            key: controller.keyScaffold, // Scaffold key for drawer control
+            drawer: const SideDrawer(), // Side navigation drawer
             backgroundColor: controller.themeProvider.darkTheme
-                ? Colors.black
-                : const Color.fromARGB(255, 239, 242, 248),
+                ? Colors.black // Dark theme background
+                : const Color.fromARGB(255, 239, 242, 248), // Light theme background
             body: Column(
               children: [
                 ImageAppBar(

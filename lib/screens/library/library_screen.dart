@@ -1,5 +1,6 @@
 // ignore_for_file: use_build_context_synchronously
 
+// Library screen for managing user playlists and favorites
 import 'package:flutter/material.dart';
 import 'package:flutter_staggered_animations/flutter_staggered_animations.dart';
 import 'package:fluttertoast/fluttertoast.dart';
@@ -16,12 +17,13 @@ import 'package:shabadguru/utils/global.dart';
 import 'package:shabadguru/utils/routes.dart';
 import 'package:shabadguru/utils/shared_pref.dart';
 
+// Screen for displaying user's personal library with playlists and favorites
 class LibraryScreen extends StatelessWidget {
   const LibraryScreen(
       {super.key, required this.isSelectedPlaylist, required this.shabadData});
 
-  final bool isSelectedPlaylist;
-  final ShabadData? shabadData;
+  final bool isSelectedPlaylist; // Flag for playlist selection mode
+  final ShabadData? shabadData; // Shabad data for playlist addition
 
   @override
   Widget build(BuildContext context) {

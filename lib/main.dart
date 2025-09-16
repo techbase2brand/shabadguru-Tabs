@@ -1,5 +1,6 @@
 // ignore_for_file: avoid_print, deprecated_member_use
 
+// Main entry point for ShabadGuru app - manages Firebase setup and theme management
 import 'package:firebase_core/firebase_core.dart';
 import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:flutter/material.dart';
@@ -46,25 +47,29 @@ Hide the line in audio player initialization cache manager == null
 
 FLoating action button remove padding in persistance-tab-view.widget.dart in persistance tab bar line number 445
 */
+// App startup function - initializes Firebase and system settings
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  await Firebase.initializeApp();
+  await Firebase.initializeApp(); // Setup Firebase for notifications
   SystemChrome.setSystemUIOverlayStyle(
     SystemUiOverlayStyle(
-      statusBarIconBrightness: Brightness.light,
+      statusBarIconBrightness: Brightness.light, // Make status bar icons light
     ),
   );
 
+  // Check if app was opened from notification
   RemoteMessage? initialMessage =
       await FirebaseMessaging.instance.getInitialMessage();
   remoteMessageGlobal = initialMessage;
-  runApp(const MyApp());
+  runApp(const MyApp()); // Start the app
 }
 
+// Manages notifications when app is in background
 backgroundHandler(NotificationResponse details) {
-  // Put handling code here.
+  // Put notification management code here.
 }
 
+// Main app widget - manages theme and navigation
 class MyApp extends StatefulWidget {
   const MyApp({super.key});
 
@@ -72,48 +77,50 @@ class MyApp extends StatefulWidget {
   State<MyApp> createState() => _MyAppState();
 }
 
+// App state class - manages theme changes and system brightness
 class _MyAppState extends State<MyApp>
     with WidgetsBindingObserver
     implements DarkModeChangeListener {
-  ThemeData? darkThemeData;
-
-  bool? systemDarkMode;
-
-  late DarkThemeProvider themeChangeProvider;
+  ThemeData? darkThemeData; // Dark theme styling
+  bool? systemDarkMode; // Track if system is in dark mode
+  late DarkThemeProvider themeChangeProvider; // Theme state manager
 
   _MyAppState() {
-    themeChangeProvider = DarkThemeProvider(this);
+    themeChangeProvider = DarkThemeProvider(this); // Initialize theme provider
   }
 
   @override
   void initState() {
     super.initState();
-    WidgetsBinding.instance.addObserver(this);
-    getCurrentAppTheme();
+    WidgetsBinding.instance.addObserver(this); // Listen to system changes
+    getCurrentAppTheme(); // Load saved theme
   }
 
   @override
   void dispose() {
-    WidgetsBinding.instance.removeObserver(this);
+    WidgetsBinding.instance.removeObserver(this); // Clean up observer
     super.dispose();
   }
 
+  // Called when system brightness changes (day/night mode)
   @override
   void didChangePlatformBrightness() {
     setState(() {
       final systemBrightness =
           WidgetsBinding.instance.window.platformBrightness;
       if ("Brightness.light" == systemBrightness.toString()) {
-        themeChangeProvider.darkTheme = false;
+        themeChangeProvider.darkTheme = false; // Light mode
       } else {
-        themeChangeProvider.darkTheme = true;
+        themeChangeProvider.darkTheme = true; // Dark mode
       }
       super.didChangePlatformBrightness();
     });
   }
 
+  // Load theme settings from device storage
   Future<void> getCurrentAppTheme() async {
     try {
+      // Get user's saved theme preference
       themeChangeProvider.darkTheme =
           await themeChangeProvider.darkThemePreference.getTheme();
       systemDarkMode =
@@ -123,6 +130,7 @@ class _MyAppState extends State<MyApp>
         if (!systemDarkMode!) {
           darkThemeData = ThemeData.dark();
           if (themeChangeProvider.darkTheme == false) {
+            // Check current system brightness
             final systemBrightness =
                 WidgetsBinding.instance.window.platformBrightness;
             if ("Brightness.light" == systemBrightness.toString()) {
@@ -132,9 +140,10 @@ class _MyAppState extends State<MyApp>
             }
           }
         } else {
-          darkThemeData = null;
+          darkThemeData = null; // Use system theme
         }
       } else {
+        // No preference saved, use system brightness
         final systemBrightness =
             WidgetsBinding.instance.window.platformBrightness;
         if ("Brightness.light" == systemBrightness.toString()) {
@@ -148,10 +157,11 @@ class _MyAppState extends State<MyApp>
     }
   }
 
+  // Build the main app widget with theme provider
   @override
   Widget build(BuildContext context) {
     return ChangeNotifierProvider(create: (_) {
-      return themeChangeProvider;
+      return themeChangeProvider; // Provide theme to all child widgets
     }, child: Consumer<DarkThemeProvider>(
         builder: (BuildContext context, value, Widget? child) {
       return GetMaterialApp(
@@ -160,17 +170,18 @@ class _MyAppState extends State<MyApp>
           primarySwatch: Colors.blue,
         ),
         themeMode: ThemeMode.light,
-        home: const SplashScreen(),
+        home: const SplashScreen(), // Start with splash screen
       );
     }));
   }
 
+  // Called when user changes theme manually
   @override
   void onChanged(bool value) {
     if (value == true) {
-      darkThemeData = null;
+      darkThemeData = null; // Use system dark theme
     } else {
-      darkThemeData = ThemeData.dark();
+      darkThemeData = ThemeData.dark(); // Use custom dark theme
     }
   }
 }

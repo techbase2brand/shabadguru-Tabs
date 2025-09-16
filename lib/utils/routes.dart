@@ -1,3 +1,4 @@
+// Navigation route functions for the ShabadGuru app
 import 'package:flutter/material.dart';
 import 'package:persistent_bottom_nav_bar/persistent_tab_view.dart';
 import 'package:shabadguru/audio_service/audio_service.dart';
@@ -17,51 +18,57 @@ import 'package:shabadguru/screens/shabad_home/shabad_screen.dart';
 import 'package:shabadguru/screens/shabad_raags/shabad_screen_raags.dart';
 import 'package:shabadguru/screens/the_kirtanis/the_kirtanis_screen.dart';
 
+// Navigate to music player page with audio state management
 goToMusicPlayerPage(context, ShabadData shabadData, String title,
     List<ShabadData> listOfShabads) {
   if (audioHandler != null) {
     if (playingShabadData != null) {
       if (playingShabadData != shabadData) {
-        playingLyricModel = null;
-        playingTitle = title;
-        playingSubtitle = shabadData.song ?? '';
-        playingListOfShabad = listOfShabads;
-        playingShabadData = shabadData;
-        audioHandler!.pause();
-        audioHandler!.stop();
-        audioHandler = null;
+        // Different Shabad selected - reset audio state
+        playingLyricModel = null; // Clear lyrics model
+        playingTitle = title; // Set new title
+        playingSubtitle = shabadData.song ?? ''; // Set new subtitle
+        playingListOfShabad = listOfShabads; // Set new playlist
+        playingShabadData = shabadData; // Set new Shabad data
+        audioHandler!.pause(); // Pause current audio
+        audioHandler!.stop(); // Stop current audio
+        audioHandler = null; // Clear audio handler
       } else {
-        playingTitle = title;
-        playingSubtitle = shabadData.song ?? '';
-        playingListOfShabad = listOfShabads;
-        playingShabadData = shabadData;
+        // Same Shabad selected - update state without stopping audio
+        playingTitle = title; // Update title
+        playingSubtitle = shabadData.song ?? ''; // Update subtitle
+        playingListOfShabad = listOfShabads; // Update playlist
+        playingShabadData = shabadData; // Update Shabad data
       }
     } else {
-      playingTitle = title;
-      playingSubtitle = shabadData.song ?? '';
-      playingListOfShabad = listOfShabads;
-      playingShabadData = shabadData;
+      // No audio currently playing - set new state
+      playingTitle = title; // Set title
+      playingSubtitle = shabadData.song ?? ''; // Set subtitle
+      playingListOfShabad = listOfShabads; // Set playlist
+      playingShabadData = shabadData; // Set Shabad data
     }
   }
-PersistentNavBarNavigator.pushNewScreen(
+  // Navigate to music player screen
+  PersistentNavBarNavigator.pushNewScreen(
     context,
     screen: MusicPlayerScreen(
-      shabadData: shabadData,
-      title: title,
-      listOfShabads: listOfShabads,
+      shabadData: shabadData, // Pass Shabad data
+      title: title, // Pass title
+      listOfShabads: listOfShabads, // Pass playlist
     ),
-    withNavBar: false,
-    pageTransitionAnimation: PageTransitionAnimation.cupertino,
+    withNavBar: false, // Hide bottom navigation bar
+    pageTransitionAnimation: PageTransitionAnimation.cupertino, // iOS-style transition
     // routeSettings: const RouteSettings(name: 'music_player_page'),
   );
 }
 
+// Navigate to The Kirtanis page
 goToTheKirtanisPage(context) {
   PersistentNavBarNavigator.pushNewScreen(
     context,
-    screen: const TheKirtanisScreen(),
-    withNavBar: true,
-    pageTransitionAnimation: PageTransitionAnimation.cupertino,
+    screen: const TheKirtanisScreen(), // The Kirtanis screen
+    withNavBar: true, // Show bottom navigation bar
+    pageTransitionAnimation: PageTransitionAnimation.cupertino, // iOS-style transition
     // routeSettings: const RouteSettings(name: 'the_kirtanis_page'),
   );
 }

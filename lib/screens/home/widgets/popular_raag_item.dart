@@ -1,3 +1,4 @@
+// Widget for displaying popular raag items in home screen
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:shabadguru/network_service/models/popular_raags_model.dart';
@@ -6,10 +7,11 @@ import 'package:shabadguru/utils/font.dart';
 import 'package:shabadguru/utils/global.dart';
 import 'dart:math' as math;
 
+// Widget for displaying individual popular raag items with colored icon
 class PopularRaagItem extends StatelessWidget {
   const PopularRaagItem({super.key, required this.raagData});
 
-  final RaagData raagData;
+  final RaagData raagData; // Raag data model
 
   @override
   Widget build(BuildContext context) {

@@ -1,56 +1,63 @@
+// Shabad Raag model for API response data structure
 // ignore_for_file: prefer_null_aware_operators
 
 import 'dart:convert';
 
+// Model class for Shabad Raag API response
 class ShabadRaagModel {
-  dynamic status;
-  dynamic message;
-  List<ShabadData>? data;
+  dynamic status; // API response status
+  dynamic message; // API response message
+  List<ShabadData>? data; // List of Shabad data
 
-  String? error;
+  String? error; // Error message for failed requests
 
+  // Constructor for error responses
   ShabadRaagModel.withError(String errorMessage) {
     error = errorMessage;
   }
 
+  // Default constructor
   ShabadRaagModel({this.status, this.message, this.data});
 
+  // Create model from JSON response
   ShabadRaagModel.fromJson(Map<String, dynamic> json) {
-    status = json['status'];
-    message = json['message'];
+    status = json['status']; // Get status from JSON
+    message = json['message']; // Get message from JSON
     if (json['data'] != null) {
-      data = <ShabadData>[];
+      data = <ShabadData>[]; // Initialize data list
       json['data'].forEach((v) {
-        data!.add(ShabadData.fromJson(v));
+        data!.add(ShabadData.fromJson(v)); // Add each Shabad data item
       });
     }
   }
 
+  // Convert model to JSON
   Map<String, dynamic> toJson() {
     final Map<String, dynamic> data = <String, dynamic>{};
-    data['status'] = status;
-    data['message'] = message;
+    data['status'] = status; // Add status to JSON
+    data['message'] = message; // Add message to JSON
     if (this.data != null) {
-      data['data'] = this.data!.map((v) => v.toJson()).toList();
+      data['data'] = this.data!.map((v) => v.toJson()).toList(); // Convert data list to JSON
     }
     return data;
   }
 }
 
+// Model class for individual Shabad data
 class ShabadData {
-  dynamic title;
-  dynamic albumart;
-  dynamic author;
-  dynamic song;
-  dynamic jsonData;
-  dynamic audio;
-  dynamic fileNameOnS3;
-  List<EnglishTransLyrics>? englishTransLyrics;
-  List<EnglishTransLyrics>? englishLyrics;
-  List<EnglishTransLyrics>? spanishLyrics;
-  List<EnglishTransLyrics>? hindiLyrics;
+  dynamic title; // Shabad title
+  dynamic albumart; // Album art image URL
+  dynamic author; // Author/composer of the Shabad
+  dynamic song; // Song name
+  dynamic jsonData; // JSON data for lyrics
+  dynamic audio; // Audio file URL
+  dynamic fileNameOnS3; // File name on S3 storage
+  List<EnglishTransLyrics>? englishTransLyrics; // English translation lyrics
+  List<EnglishTransLyrics>? englishLyrics; // English lyrics
+  List<EnglishTransLyrics>? spanishLyrics; // Spanish translation lyrics
+  List<EnglishTransLyrics>? hindiLyrics; // Hindi translation lyrics
 
-  bool isSelectedForPlaylist = false;
+  bool isSelectedForPlaylist = false; // Flag for playlist selection
 
   ShabadData(
       {this.title,

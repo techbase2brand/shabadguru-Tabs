@@ -1,10 +1,11 @@
+// Model class for The Kirtanis data
 class TheKirtanisModel {
-  dynamic id;
-  dynamic url;
-  dynamic alt;
-  dynamic createdAt;
-  dynamic updatedAt;
-  dynamic sortOrder;
+  dynamic id; // Kirtani ID
+  dynamic url; // Image URL
+  dynamic alt; // Alt text for image
+  dynamic createdAt; // Creation timestamp
+  dynamic updatedAt; // Last update timestamp
+  dynamic sortOrder; // Sort order for display
 
   TheKirtanisModel(
       {this.id,
