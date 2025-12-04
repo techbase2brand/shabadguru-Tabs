@@ -1,0 +1,3397 @@
+{
+  "status": 200,
+  "message": "",
+  "data": [
+    {
+      "albumart": "",
+      "author": "",
+      "title": "ANAND SAHIB",
+      "song": "ANAND SAHIB",
+      "json": "https://shabad-guru.org/uploads/data/Nitnem/ANAND SAHIB.json",
+      "audio": "https://shabadguru.s3.us-west-1.amazonaws.com/gurbani/lrc n- Project/Nitnem/mp3/song/ANAND SAHIB.mp3",
+      "punjabi": 1,
+      "english": 1,
+      "english_trans": 1,
+      "spanish": 1,
+      "hindi": null,
+      "file_name_on_s3": "ANAND SAHIB Pb",
+      "english_lyrics": [
+        {
+          "line": "The Khalsa belongs to God, and victory belongs to God.",
+          "time": 0
+        },
+        {
+          "line": "Raamkalee, Third Mehl, Anand ~ The Song Of Bliss:",
+          "time": 6040
+        },
+        {
+          "line": "One Universal Creator God. By The Grace Of The True Guru:",
+          "time": 8079
+        },
+        {
+          "line": "I am in ecstasy, O my mother, for I have found my True Guru.",
+          "time": 11038
+        },
+        {
+          "line": "I have found the True Guru, with intuitive ease, and my mind vibrates with the music of bliss.",
+          "time": 14086
+        },
+        {
+          "line": "The jewelled melodies and their related celestial harmonies have come to sing the Word of the Shabad.",
+          "time": 18028
+        },
+        {
+          "line": "The Lord dwells within the minds of those who sing the Shabad.",
+          "time": 21074
+        },
+        {
+          "line": "Says Nanak, I am in ecstasy, for I have found my True Guru. ||1||",
+          "time": 25030
+        },
+        {
+          "line": "O my mind, remain always with the Lord.",
+          "time": 28083
+        },
+        {
+          "line": "Remain always with the Lord, O my mind, and all sufferings will be forgotten.",
+          "time": 31083
+        },
+        {
+          "line": "He will accept You as His own, and all your affairs will be perfectly arranged.",
+          "time": 35039
+        },
+        {
+          "line": "Our Lord and Master is all-powerful to do all things, so why forget Him from your mind?",
+          "time": 38075
+        },
+        {
+          "line": "Says Nanak, O my mind, remain always with the Lord. ||2||",
+          "time": 42037
+        },
+        {
+          "line": "O my True Lord and Master, what is there which is not in Your celestial home?",
+          "time": 45067
+        },
+        {
+          "line": "Everything is in Your home; they receive, unto whom You give.",
+          "time": 48063
+        },
+        {
+          "line": "Constantly singing Your Praises and Glories, Your Name is enshrined in the mind.",
+          "time": 51065
+        },
+        {
+          "line": "The divine melody of the Shabad vibrates for those, within whose minds the Naam abides.",
+          "time": 55009
+        },
+        {
+          "line": "Says Nanak, O my True Lord and Master, what is there which is not in Your home? ||3||",
+          "time": 58070
+        },
+        {
+          "line": "The True Name is my only support.",
+          "time": 62004
+        },
+        {
+          "line": "The True Name is my only support; it satisfies all hunger.",
+          "time": 63082
+        },
+        {
+          "line": "It has brought peace and tranquility to my mind; it has fulfilled all my desires.",
+          "time": 67047
+        },
+        {
+          "line": "I am forever a sacrifice to the Guru, who possesses such glorious greatness.",
+          "time": 70096
+        },
+        {
+          "line": "Says Nanak, listen, O Saints; enshrine love for the Shabad.",
+          "time": 74030
+        },
+        {
+          "line": "The True Name is my only support. ||4||",
+          "time": 78001
+        },
+        {
+          "line": "The Panch Shabad, the five primal sounds, vibrate in that blessed house.",
+          "time": 80015
+        },
+        {
+          "line": "In that blessed house, the Shabad vibrates; He infuses His almighty power into it.",
+          "time": 82032
+        },
+        {
+          "line": "Through You, we subdue the five demons of desire, and slay Death, the torturer.",
+          "time": 86001
+        },
+        {
+          "line": "Those who have such pre-ordained destiny are attached to the Lord's Name.",
+          "time": 89060
+        },
+        {
+          "line": "Says Nanak, they are at peace, and the unstruck sound current vibrates within their homes. ||5||",
+          "time": 93006
+        },
+        {
+          "line": "Without the true love of devotion, the body is without honor.",
+          "time": 96029
+        },
+        {
+          "line": "The body is dishonored without devotional love; what can the poor wretches do?",
+          "time": 98018
+        },
+        {
+          "line": "No one except You is all-powerful; please bestow Your Mercy, O Lord of all nature.",
+          "time": 101042
+        },
+        {
+          "line": "There is no place of rest, other than the Name; attached to the Shabad, we are embellished with beauty.",
+          "time": 105009
+        },
+        {
+          "line": "Says Nanak, without devotional love, what can the poor wretches do? ||6||",
+          "time": 108030
+        },
+        {
+          "line": "Bliss, bliss – everyone talks of bliss; bliss is known only through the Guru.",
+          "time": 111084
+        },
+        {
+          "line": "Eternal bliss is known only through the Guru, when the Beloved Lord grants His Grace.",
+          "time": 114098
+        },
+        {
+          "line": "Granting His Grace, He cuts away our sins; He blesses us with the healing ointment of spiritual wisdom.",
+          "time": 118088
+        },
+        {
+          "line": "Those who eradicate attachment from within themselves, are adorned with the Shabad, the Word of the True Lord.",
+          "time": 122008
+        },
+        {
+          "line": "Says Nanak, this alone is bliss – bliss which is known through the Guru. ||7||",
+          "time": 125085
+        },
+        {
+          "line": "O Baba, he alone receives it, unto whom You give it.",
+          "time": 129041
+        },
+        {
+          "line": "He alone receives it, unto whom You give it; what can the other poor wretched beings do?",
+          "time": 132043
+        },
+        {
+          "line": "Some are deluded by doubt, wandering in the ten directions; some are adorned with attachment to the Naam.",
+          "time": 136003
+        },
+        {
+          "line": "By Guru's Grace, the mind becomes immaculate and pure, for those who follow God's Will.",
+          "time": 139097
+        },
+        {
+          "line": "Says Nanak, he alone receives it, unto whom You give it, O Beloved Lord. ||8||",
+          "time": 143085
+        },
+        {
+          "line": "Come, Beloved Saints, let us speak the Unspoken Speech of the Lord.",
+          "time": 147068
+        },
+        {
+          "line": "How can we speak the Unspoken Speech of the Lord? Through which door will we find Him?",
+          "time": 150053
+        },
+        {
+          "line": "Surrender body, mind, wealth, and everything to the Guru; obey the Order of His Will, and you will find Him.",
+          "time": 154001
+        },
+        {
+          "line": "Obey the Hukam of the Guru's Command, and sing the True Word of His Bani.",
+          "time": 157025
+        },
+        {
+          "line": "Says Nanak, listen, O Saints, and speak the Unspoken Speech of the Lord. ||9||",
+          "time": 160054
+        },
+        {
+          "line": "O fickle mind, through cleverness, no one has found the Lord.",
+          "time": 163091
+        },
+        {
+          "line": "Through cleverness, no one has found Him; listen, O my mind.",
+          "time": 166058
+        },
+        {
+          "line": "This Maya is so fascinating; because of it, people wander in doubt.",
+          "time": 169016
+        },
+        {
+          "line": "This fascinating Maya was created by the One who has administered this potion.",
+          "time": 172040
+        },
+        {
+          "line": "I am a sacrifice to the One who has made emotional attachment sweet.",
+          "time": 175039
+        },
+        {
+          "line": "Says Nanak, O fickle mind, no one has found Him through cleverness. ||10||",
+          "time": 179022
+        },
+        {
+          "line": "O beloved mind, contemplate the True Lord forever.",
+          "time": 182021
+        },
+        {
+          "line": "This family which you see shall not go along with you.",
+          "time": 184096
+        },
+        {
+          "line": "They shall not go along with you, so why do you focus your attention on them?",
+          "time": 188007
+        },
+        {
+          "line": "Don't do anything that you will regret in the end.",
+          "time": 191063
+        },
+        {
+          "line": "Listen to the Teachings of the True Guru – these shall go along with you.",
+          "time": 194057
+        },
+        {
+          "line": "Says Nanak, O beloved mind, contemplate the True Lord forever. ||11||",
+          "time": 198035
+        },
+        {
+          "line": "O inaccessible and unfathomable Lord, Your limits cannot be found.",
+          "time": 201020
+        },
+        {
+          "line": "No one has found Your limits; only You Yourself know.",
+          "time": 203094
+        },
+        {
+          "line": "All living beings and creatures are Your play; how can anyone describe You?",
+          "time": 207025
+        },
+        {
+          "line": "You speak, and You gaze upon all; You created the Universe.",
+          "time": 210095
+        },
+        {
+          "line": "Says Nanak, You are forever inaccessible; Your limits cannot be found. ||12||",
+          "time": 213063
+        },
+        {
+          "line": "The angelic beings and the silent sages search for the Ambrosial Nectar; this Amrit is obtained from the Guru.",
+          "time": 217072
+        },
+        {
+          "line": "This Amrit is obtained, when the Guru grants His Grace; He enshrines the True Lord within the mind.",
+          "time": 221012
+        },
+        {
+          "line": "All living beings and creatures were created by You; only some come to see the Guru, and seek His blessing.",
+          "time": 224050
+        },
+        {
+          "line": "Their greed, avarice and egotism are dispelled, and the True Guru seems sweet.",
+          "time": 227041
+        },
+        {
+          "line": "Says Nanak, those with whom the Lord is pleased, obtain the Amrit, through the Guru. ||13||",
+          "time": 230080
+        },
+        {
+          "line": "The lifestyle of the devotees is unique and distinct.",
+          "time": 234028
+        },
+        {
+          "line": "The devotees' lifestyle is unique and distinct; they follow the most difficult path.",
+          "time": 236013
+        },
+        {
+          "line": "They renounce greed, avarice, egotism and desire; they do not talk too much.",
+          "time": 239027
+        },
+        {
+          "line": "The path they take is sharper than a two-edged sword, and finer than a hair.",
+          "time": 242060
+        },
+        {
+          "line": "By Guru's Grace, they shed their selfishness and conceit; their hopes are merged in the Lord.",
+          "time": 245094
+        },
+        {
+          "line": "Says Nanak, the lifestyle of the devotees, in each and every age, is unique and distinct. ||14||",
+          "time": 248093
+        },
+        {
+          "line": "As You make me walk, so do I walk, O my Lord and Master; what else do I know of Your Glorious Virtues?",
+          "time": 252031
+        },
+        {
+          "line": "As You cause them to walk, they walk – You have placed them on the Path.",
+          "time": 256012
+        },
+        {
+          "line": "In Your Mercy, You attach them to the Naam; they meditate forever on the Lord, Har, Har.",
+          "time": 259064
+        },
+        {
+          "line": "Those whom You cause to listen to Your sermon, find peace in the Gurdwara, the Guru's Gate.",
+          "time": 262096
+        },
+        {
+          "line": "Says Nanak, O my True Lord and Master, You make us walk according to Your Will. ||15||",
+          "time": 266075
+        },
+        {
+          "line": "This song of praise is the Shabad, the most beautiful Word of God.",
+          "time": 269087
+        },
+        {
+          "line": "This beauteous Shabad is the everlasting song of praise, spoken by the True Guru.",
+          "time": 272017
+        },
+        {
+          "line": "This is enshrined in the minds of those who are so pre-destined by the Lord.",
+          "time": 275044
+        },
+        {
+          "line": "Some wander around, babbling on and on, but none obtain Him by babbling.",
+          "time": 278054
+        },
+        {
+          "line": "Says Nanak, the Shabad, this song of praise, has been spoken by the True Guru. ||16||",
+          "time": 281076
+        },
+        {
+          "line": "Those humble beings who meditate on the Lord become pure.",
+          "time": 284065
+        },
+        {
+          "line": "Meditating on the Lord, they become pure; as Gurmukh, they meditate on Him.",
+          "time": 287060
+        },
+        {
+          "line": "They are pure, along with their mothers, fathers, family and friends; all their companions are pure as well.",
+          "time": 290041
+        },
+        {
+          "line": "Pure are those who speak, and pure are those who listen; those who enshrine it within their minds are pure.",
+          "time": 294046
+        },
+        {
+          "line": "Says Nanak, pure and holy are those who, as Gurmukh, meditate on the Lord, Har, Har. ||17||",
+          "time": 297088
+        },
+        {
+          "line": "By religious rituals, intuitive poise is not found; without intuitive poise, skepticism does not depart.",
+          "time": 301058
+        },
+        {
+          "line": "Skepticism does not depart by contrived actions; everybody is tired of performing these rituals.",
+          "time": 304069
+        },
+        {
+          "line": "The soul is polluted by skepticism; how can it be cleansed?",
+          "time": 307099
+        },
+        {
+          "line": "Wash your mind by attaching it to the Shabad, and keep your consciousness focused on the Lord.",
+          "time": 311006
+        },
+        {
+          "line": "Says Nanak, by Guru's Grace, intuitive poise is produced, and this skepticism is dispelled. ||18||",
+          "time": 314040
+        },
+        {
+          "line": "Inwardly polluted, and outwardly pure.",
+          "time": 318004
+        },
+        {
+          "line": "Those who are outwardly pure and yet polluted within, lose their lives in the gamble.",
+          "time": 320009
+        },
+        {
+          "line": "They contract this terrible disease of desire, and in their minds, they forget about dying.",
+          "time": 323061
+        },
+        {
+          "line": "In the Vedas, the ultimate objective is the Naam, the Name of the Lord; but they do not hear this, and they wander around like demons.",
+          "time": 326080
+        },
+        {
+          "line": "Says Nanak, those who forsake Truth and cling to falsehood, lose their lives in the gamble. ||19||",
+          "time": 330085
+        },
+        {
+          "line": "Inwardly pure, and outwardly pure.",
+          "time": 334098
+        },
+        {
+          "line": "Those who are outwardly pure and also pure within, through the Guru, perform good deeds.",
+          "time": 337026
+        },
+        {
+          "line": "Not even an iota of falsehood touches them; their hopes are absorbed in the Truth.",
+          "time": 341013
+        },
+        {
+          "line": "Those who earn the jewel of this human life, are the most excellent of merchants.",
+          "time": 343086
+        },
+        {
+          "line": "Says Nanak, those whose minds are pure, abide with the Guru forever. ||20||",
+          "time": 347014
+        },
+        {
+          "line": "If a Sikh turns to the Guru with sincere faith, as sunmukh,",
+          "time": 350004
+        },
+        {
+          "line": "if he truly turns toward the Guru, his soul remains with the Guru.",
+          "time": 352099
+        },
+        {
+          "line": "He meditates within his heart on the Guru's sacred feet, and absorbs Him deep within his soul.",
+          "time": 355075
+        },
+        {
+          "line": "Renouncing ego and selfishness, he always stays on the Guru's side; he knows none except the Guru.",
+          "time": 359024
+        },
+        {
+          "line": "Says Nanak, listen O Saints: such a Sikh becomes sunmukh, truly turned toward the Guru. ||21||",
+          "time": 362065
+        },
+        {
+          "line": "One who turns away from the Guru, becoming baymukh — without the True Guru, he shall not find liberation.",
+          "time": 365083
+        },
+        {
+          "line": "He shall not find liberation anywhere else; go, ask the wise ones.",
+          "time": 369021
+        },
+        {
+          "line": "He wanders through countless incarnations; without the True Guru, liberation is not attained.",
+          "time": 372064
+        },
+        {
+          "line": "Liberation comes only by attaching to the True Guru's feet, hearing the Word of the Shabad.",
+          "time": 375082
+        },
+        {
+          "line": "Says Nanak, reflect and see: without the True Guru, liberation is not found. ||22||",
+          "time": 379000
+        },
+        {
+          "line": "Come, O beloved Sikhs of the True Guru, sing the True Word of His Bani.",
+          "time": 382026
+        },
+        {
+          "line": "Sing the Guru's Bani — the supreme Bani above all others.",
+          "time": 385075
+        },
+        {
+          "line": "Those who receive His Grace have this Bani enshrined in their hearts.",
+          "time": 388095
+        },
+        {
+          "line": "Drink this Ambrosial Nectar, remain forever in the Lord's Love, and meditate on the Sustainer of the world.",
+          "time": 392010
+        },
+        {
+          "line": "Says Nanak, forever sing this True Bani. ||23||",
+          "time": 395043
+        },
+        {
+          "line": "Without the True Guru, all other songs are false.",
+          "time": 398065
+        },
+        {
+          "line": "Without the True Guru, the songs are false; all other words are false.",
+          "time": 401009
+        },
+        {
+          "line": "False are the speakers, false are the listeners, false are those who recite such words.",
+          "time": 403073
+        },
+        {
+          "line": "They may chant 'Har, Har' endlessly, but they understand nothing of what they say.",
+          "time": 406087
+        },
+        {
+          "line": "Their consciousness is seized by Maya; their speech is only empty sound.",
+          "time": 409095
+        },
+        {
+          "line": "Says Nanak, without the True Guru, all other Bani is false. ||24||",
+          "time": 412083
+        },
+        {
+          "line": "The Word of the Guru's Shabad is a jewel, studded with diamonds.",
+          "time": 415082
+        },
+        {
+          "line": "The mind which attaches to this jewel becomes absorbed in the Shabad.",
+          "time": 418091
+        },
+        {
+          "line": "One who joins his mind to the Shabad develops loving devotion to the True Lord.",
+          "time": 421070
+        },
+        {
+          "line": "He Himself is the diamond; He Himself is the jewel; to whom He grants understanding, knows its worth.",
+          "time": 424039
+        },
+        {
+          "line": "Says Nanak, the Shabad is the jewel, studded with diamonds. ||25||",
+          "time": 427038
+        },
+        {
+          "line": "He Himself created Shiva and Shakti; He Himself enforces His Command.",
+          "time": 430019
+        },
+        {
+          "line": "Through His Command, He watches over all; only rare Gurmukhs come to understand Him.",
+          "time": 433064
+        },
+        {
+          "line": "They break their bonds and find liberation; they enshrine the Shabad within their minds.",
+          "time": 436004
+        },
+        {
+          "line": "Those whom the Lord makes Gurmukh attach their consciousness lovingly to the One.",
+          "time": 439052
+        },
+        {
+          "line": "Says Nanak, He Himself is the Creator; He Himself reveals the Hukam. ||26||",
+          "time": 442083
+        },
+        {
+          "line": "The Simritees and Shaastras speak of virtue and sin, but they do not know the true essence.",
+          "time": 446007
+        },
+        {
+          "line": "Without the Guru, no one knows the essence; without the Guru, nothing essential is known.",
+          "time": 449047
+        },
+        {
+          "line": "The world is asleep in the three qualities, lost in doubt, passing its life-night in slumber.",
+          "time": 453019
+        },
+        {
+          "line": "Those awakened by the Guru's Grace—within whose hearts the Lord abides—speak the Ambrosial Word of Bani.",
+          "time": 456036
+        },
+        {
+          "line": "Says Nanak, only they find the true essence, who day and night remain lovingly absorbed in the Lord, passing their life-night awake. ||27||",
+          "time": 461045
+        },
+        {
+          "line": "He nourished us in the mother's womb; why forget Him from your mind?",
+          "time": 466022
+        },
+        {
+          "line": "Why forget from your mind such a Great Giver, who gave sustenance even in the fire of the womb?",
+          "time": 469082
+        },
+        {
+          "line": "Nothing can harm the one whom the Lord inspires to embrace His Love.",
+          "time": 473046
+        },
+        {
+          "line": "He Himself is the Love; He Himself unites the soul — the Gurmukh remembers Him always.",
+          "time": 476070
+        },
+        {
+          "line": "Says Nanak, why forget such a Great Giver from the mind? ||28||",
+          "time": 479039
+        },
+        {
+          "line": "As is the fire within the womb, so is the fire of Maya outside.",
+          "time": 482065
+        },
+        {
+          "line": "The fire of Maya is the same everywhere; the Creator has staged this play.",
+          "time": 485045
+        },
+        {
+          "line": "By His Will, a child is born, and the family becomes joyous.",
+          "time": 488075
+        },
+        {
+          "line": "But love for the Lord is forgotten; desire arises, and Maya begins her script.",
+          "time": 491063
+        },
+        {
+          "line": "This Maya makes one forget the Lord, giving rise to attachment and the love of duality.",
+          "time": 494078
+        },
+        {
+          "line": "Says Nanak, by Guru's Grace, those who keep their love attached to the Lord, find Him in the midst of Maya. ||29||",
+          "time": 498012
+        },
+        {
+          "line": "The Lord Himself is priceless; His worth cannot be determined.",
+          "time": 503005
+        },
+        {
+          "line": "His worth cannot be determined, though people cry out trying to estimate it.",
+          "time": 506009
+        },
+        {
+          "line": "If you meet such a True Guru, offer your head; your ego and selfishness will be erased.",
+          "time": 508062
+        },
+        {
+          "line": "Your soul belongs to Him; remain united with Him, and the Lord will dwell in your mind.",
+          "time": 512036
+        },
+        {
+          "line": "The Lord Himself is priceless; blessed are those, O Nanak, who obtain the Lord. ||30||",
+          "time": 515030
+        },
+        {
+          "line": "The Lord is my capital; my mind is the merchant.",
+          "time": 519021
+        },
+        {
+          "line": "The Lord is my capital, and my mind is the merchant; through the True Guru, I know my capital.",
+          "time": 521071
+        },
+        {
+          "line": "Meditate continually on the Lord, Har, Har, O my soul, and you shall collect your profits daily.",
+          "time": 524085
+        },
+        {
+          "line": "This wealth is obtained by those who are pleasing to the Lord's Will.",
+          "time": 527064
+        },
+        {
+          "line": "Says Nanak, the Lord is my capital, and my mind is the merchant. ||31||",
+          "time": 530060
+        },
+        {
+          "line": "O my tongue, you are engrossed in other tastes, but your thirsty desire is not quenched.",
+          "time": 533048
+        },
+        {
+          "line": "Your thirst shall not be quenched by any means, until you attain the subtle essence of the Lord.",
+          "time": 536089
+        },
+        {
+          "line": "If you do obtain the subtle essence of the Lord, and drink in this essence of the Lord, you shall not be troubled by desire again.",
+          "time": 539099
+        },
+        {
+          "line": "This subtle essence of the Lord is obtained by good karma, when one comes to meet with the True Guru.",
+          "time": 544025
+        },
+        {
+          "line": "Says Nanak, all other tastes and essences are forgotten, when the Lord comes to dwell within the mind. ||32||",
+          "time": 547000
+        },
+        {
+          "line": "O my body, the Lord infused His Light into you, and then you came into the world.",
+          "time": 550099
+        },
+        {
+          "line": "The Lord infused His Light into you, and then you came into the world.",
+          "time": 555011
+        },
+        {
+          "line": "The Lord Himself is your mother, and He Himself is your father; He created the created beings, and revealed the world to them.",
+          "time": 558028
+        },
+        {
+          "line": "By Guru's Grace, some understand, and then it's a show; it seems like just a show.",
+          "time": 561076
+        },
+        {
+          "line": "Says Nanak, He laid the foundation of the Universe, and infused His Light, and then you came into the world. ||33||",
+          "time": 565053
+        },
+        {
+          "line": "My mind has become joyful, hearing of God's coming.",
+          "time": 569061
+        },
+        {
+          "line": "Sing the songs of joy to welcome the Lord, O my companions; my household has become the Lord's Mansion.",
+          "time": 572031
+        },
+        {
+          "line": "Sing continually the songs of joy to welcome the Lord, O my companions, and sorrow and suffering will not afflict you.",
+          "time": 574049
+        },
+        {
+          "line": "Blessed is that day, when I am attached to the Guru's feet and meditate on my Husband Lord.",
+          "time": 577057
+        },
+        {
+          "line": "I have come to know the unstruck sound current and the Word of the Guru's Shabad; I enjoy the sublime essence of the Lord, the Lord's Name.",
+          "time": 580027
+        },
+        {
+          "line": "Says Nanak, God Himself has met me; He is the Doer, the Cause of causes. ||34||",
+          "time": 583081
+        },
+        {
+          "line": "O my body, why have you come into this world? What actions have you committed?",
+          "time": 586072
+        },
+        {
+          "line": "And what actions have you committed, O my body, since you came into this world?",
+          "time": 590076
+        },
+        {
+          "line": "The Lord who formed your form – you have not enshrined that Lord in your mind.",
+          "time": 593064
+        },
+        {
+          "line": "By Guru's Grace, the Lord abides within the mind, and one's pre-ordained destiny is fulfilled.",
+          "time": 596089
+        },
+        {
+          "line": "Says Nanak, this body is adorned and honored, when one's consciousness is focused on the True Guru. ||35||",
+          "time": 599089
+        },
+        {
+          "line": "O my eyes, the Lord has infused His Light into you; do not look upon any other than the Lord.",
+          "time": 603030
+        },
+        {
+          "line": "Do not look upon any other than the Lord; the Lord alone is worthy of beholding.",
+          "time": 607066
+        },
+        {
+          "line": "This whole world which you see is the image of the Lord; only the image of the Lord is seen.",
+          "time": 611004
+        },
+        {
+          "line": "By Guru's Grace, I understand, and I see only the One Lord; there is no one except the Lord.",
+          "time": 614092
+        },
+        {
+          "line": "Says Nanak, these eyes were blind; but meeting the True Guru, they became all-seeing. ||36||",
+          "time": 619067
+        },
+        {
+          "line": "O my ears, you were created only to hear the Truth.",
+          "time": 623027
+        },
+        {
+          "line": "To hear the Truth, you were created and attached to the body; listen to the True Bani.",
+          "time": 626043
+        },
+        {
+          "line": "Hearing it, the mind and body are rejuvenated, and the tongue is absorbed in Ambrosial Nectar.",
+          "time": 629071
+        },
+        {
+          "line": "The True Lord is unseen and wondrous; His state cannot be described.",
+          "time": 633012
+        },
+        {
+          "line": "Says Nanak, listen to the Ambrosial Naam and become holy; you were created only to hear the Truth. ||37||",
+          "time": 635098
+        },
+        {
+          "line": "The Lord placed the soul to the cave of the body, and blew the breath of life into the musical instrument of the body.",
+          "time": 640067
+        },
+        {
+          "line": "He blew the breath of life into the musical instrument of the body, and revealed the nine doors; but He kept the Tenth Door hidden.",
+          "time": 643071
+        },
+        {
+          "line": "Through the Gurdwara, the Guru's Gate, some are blessed with loving faith, and the Tenth Door is revealed to them.",
+          "time": 648019
+        },
+        {
+          "line": "There are many images of the Lord, and the nine treasures of the Naam; His limits cannot be found.",
+          "time": 651030
+        },
+        {
+          "line": "Says Nanak, the Lord placed the soul to the cave of the body, and blew the breath of life into the musical instrument of the body. ||38||",
+          "time": 655006
+        },
+        {
+          "line": "Sing this true song of praise in the true home of your soul.",
+          "time": 659036
+        },
+        {
+          "line": "Sing the song of praise in your true home; meditate there on the True Lord forever.",
+          "time": 662038
+        },
+        {
+          "line": "They alone meditate on You, O True Lord, who are pleasing to Your Will; as Gurmukh, they understand.",
+          "time": 665049
+        },
+        {
+          "line": "This Truth is the Lord and Master of all; whoever is blessed, obtains it.",
+          "time": 668066
+        },
+        {
+          "line": "Says Nanak, sing the true song of praise in the true home of your soul. ||39||",
+          "time": 671099
+        },
+        {
+          "line": "Listen to the song of bliss, O most fortunate ones; all your longings shall be fulfilled.",
+          "time": 675013
+        },
+        {
+          "line": "I have obtained the Supreme Lord God, and all sorrows have been forgotten.",
+          "time": 680098
+        },
+        {
+          "line": "Pain, illness and suffering have departed, listening to the True Bani.",
+          "time": 686080
+        },
+        {
+          "line": "The Saints and their friends are in ecstasy, knowing the Perfect Guru.",
+          "time": 692056
+        },
+        {
+          "line": "Pure are the listeners, and pure are the speakers; the True Guru is all-pervading and permeating.",
+          "time": 698019
+        },
+        {
+          "line": "Prays Nanak, touching the Guru's Feet, the unstruck sound current of the celestial bugles vibrates and resounds. ||40||1||",
+          "time": 703070
+        }
+      ],
+      "english_trans_lyrics": [
+        {
+          "line": "waheguruji ka khalsa waheguruji ki fateh.",
+          "time": 0
+        },
+        {
+          "line": "Raamkalee mehlaa 3 Anand",
+          "time": 6040
+        },
+        {
+          "line": "Ik-oNkaar satgur parsaad.",
+          "time": 8079
+        },
+        {
+          "line": "anand bha-i-aa mayree maa-ay satguroo mai paa-i-aa.",
+          "time": 11038
+        },
+        {
+          "line": "satgur ta paa-i-aa sahj saytee man vajee-aa vaaDhaa-ee-aa.",
+          "time": 14086
+        },
+        {
+          "line": "raag ratan parvaar paree-aa sabad gaavan aa-ee-aa.",
+          "time": 18028
+        },
+        {
+          "line": "sabdo ta gaavhu haree kayraa man jinee vasaa-i-aa.",
+          "time": 21074
+        },
+        {
+          "line": "kahai naanak anand ho-aa satguroo mai paa-i-aa. ||1||",
+          "time": 25030
+        },
+        {
+          "line": "ay man mayri-aa too sadaa rahu har naalay.",
+          "time": 28083
+        },
+        {
+          "line": "har naal rahu too man mayray dookh sabh visaarnaa.",
+          "time": 31083
+        },
+        {
+          "line": "angeekaar oh karay tayraa kaaraj sabh savaarnaa.",
+          "time": 35039
+        },
+        {
+          "line": "sabhnaa galaa samrath su-aamee so ki-o manhu visaaray.",
+          "time": 38075
+        },
+        {
+          "line": "kahai naanak man mayray sadaa rahu har naalay. ||2||",
+          "time": 42037
+        },
+        {
+          "line": "saachay saahibaa ki-aa naahee ghar tayrai.",
+          "time": 45067
+        },
+        {
+          "line": "ghar ta tayrai sabh kichh hai jis deh so paav-ay.",
+          "time": 48063
+        },
+        {
+          "line": "sadaa sifat salaah tayree naam man vasaava-ay.",
+          "time": 51065
+        },
+        {
+          "line": "naam jin kai man vasi-aa vaajay sabad ghanayray.",
+          "time": 55009
+        },
+        {
+          "line": "kahai naanak sachay saahib ki-aa naahee ghar tayrai. ||3||",
+          "time": 58070
+        },
+        {
+          "line": "saachaa naam mayraa aaDhaaro.",
+          "time": 62004
+        },
+        {
+          "line": "saach naam aDhaar mayraa jin bhukhaa sabh gavaa-ee-aa.",
+          "time": 63082
+        },
+        {
+          "line": "kar saaNt sukh man aa-ay vasi-aa jin ichhaa sabh pujaa-ee-aa.",
+          "time": 67047
+        },
+        {
+          "line": "sadaa kurbaan keetaa guroo vitahu jis dee-aa ayhi vadi-aa-ee-aa.",
+          "time": 70096
+        },
+        {
+          "line": "kahai naanak sunhu santahu sabad Dharahu pi-aaro.",
+          "time": 74030
+        },
+        {
+          "line": "saachaa naam mayraa aaDhaaro. ||4||",
+          "time": 78001
+        },
+        {
+          "line": "Vaajay panch sabad tit ghar sabhaagai.",
+          "time": 80015
+        },
+        {
+          "line": "Ghar sabhaagai sabad vaajay kalaa jit ghar Dhaaree-aa.",
+          "time": 82032
+        },
+        {
+          "line": "Panch doot tuDh vas keetay kaal kantak maari-aa.",
+          "time": 86001
+        },
+        {
+          "line": "Dhur karam paa-i-aa tuDh jin ka-o se naam har kai laagay.",
+          "time": 89060
+        },
+        {
+          "line": "Kahai naanak tah sukh ho-aa tit ghar anhad vaajay. ||5||",
+          "time": 93006
+        },
+        {
+          "line": "Saachee livai bin dayh nimaanee.",
+          "time": 96029
+        },
+        {
+          "line": "Dayh nimaanee livai baajhahu ki-aa karay vaychaaree-aa.",
+          "time": 98018
+        },
+        {
+          "line": "TuDh baajh samrath ko-ay naahee kirpaa kar banvaaree-aa.",
+          "time": 101042
+        },
+        {
+          "line": "Ays na-o hor thaa-o naahee sabad laag savaaree-aa.",
+          "time": 105009
+        },
+        {
+          "line": "Kahai naanak livai baajhahu ki-aa karay vaychaaree-aa. ||6||",
+          "time": 108030
+        },
+        {
+          "line": "Aanand aanand sabh ko kahai aanand guroo tay jaani-aa.",
+          "time": 111084
+        },
+        {
+          "line": "Jaani-aa aanand sadaa gur tay kirpaa karay pi-aari-aa.",
+          "time": 114098
+        },
+        {
+          "line": "Kar kirpaa kilvikh katay gi-aan anjan saari-aa.",
+          "time": 118088
+        },
+        {
+          "line": "Andrahu jin kaa moh tutaa tin kaa sabad sachai savaari-aa.",
+          "time": 122008
+        },
+        {
+          "line": "Kahai naanak ayhu anand hai aanand gur tay jaani-aa. ||7||",
+          "time": 125085
+        },
+        {
+          "line": "Baabaa jis too deh so-ee jan paavai.",
+          "time": 129041
+        },
+        {
+          "line": "Paavai ta so jan deh jis no hor ki-aa karahi vaychaari-aa.",
+          "time": 132043
+        },
+        {
+          "line": "Ik bharam bhoolay fireh dah dis ik naam laag savaari-aa.",
+          "time": 136003
+        },
+        {
+          "line": "Gur parsaadee man bha-i-aa nirmal jinaa bhaanaa bhaav-ay.",
+          "time": 139097
+        },
+        {
+          "line": "Kahai naanak jis deh pi-aaray so-ee jan paav-ay. ||8||",
+          "time": 143085
+        },
+        {
+          "line": "Aavhu sant pi-aariho akath kee karah kahaanee.",
+          "time": 147068
+        },
+        {
+          "line": "Karah kahaanee akath kayree kit du-aarai paa-ee-ai.",
+          "time": 150053
+        },
+        {
+          "line": "Tan man Dhan sabh sa-up gur ka-o hukam mani-ai paa-ee-ai.",
+          "time": 154001
+        },
+        {
+          "line": "Hukam mannihu guroo kayraa gaavhu sachee banee.",
+          "time": 157025
+        },
+        {
+          "line": "Kahai naanak sunhu santahu kathihu akath kahaanee. ||9||",
+          "time": 160054
+        },
+        {
+          "line": "Ay man chanchlaa chaturaa-ee kinai na paa-i-aa.",
+          "time": 163091
+        },
+        {
+          "line": "Chaturaa-ee na paa-i-aa kinai too sun man mayri-aa.",
+          "time": 166058
+        },
+        {
+          "line": "Aayh maa-i-aa mohnee jin ayt bharam bhulaa-i-aa.",
+          "time": 169016
+        },
+        {
+          "line": "Maa-i-aa ta mohnee tinai keetee jin thag-ulee paa-ee-aa.",
+          "time": 172040
+        },
+        {
+          "line": "Kurbaan keetaa tisai vitahu jin moh meethaa laa-i-aa.",
+          "time": 175039
+        },
+        {
+          "line": "Kahai naanak man chanchal chaturaa-ee kinai na paa-i-aa. ||10||",
+          "time": 179022
+        },
+        {
+          "line": "ay man pi-aari-aa too sadaa sach samaalay.",
+          "time": 182021
+        },
+        {
+          "line": "ayhu kutamb too je daykh-daa chalai naahee tayrai naalay.",
+          "time": 184096
+        },
+        {
+          "line": "saath tayrai chalai naahee tis naal ki-o chit laa-ee-ai.",
+          "time": 188007
+        },
+        {
+          "line": "aisaa kamm moolay na keechai jit ant pachhotaa-ee-ai.",
+          "time": 191063
+        },
+        {
+          "line": "satguroo kaa updays sun too hovai tayrai naalay.",
+          "time": 194057
+        },
+        {
+          "line": "kahai naanak man pi-aaray too sadaa sach samaalay. ||11||",
+          "time": 198035
+        },
+        {
+          "line": "agam agocharaa tayraa ant na paa-i-aa.",
+          "time": 201020
+        },
+        {
+          "line": "anto na paa-i-aa kinai tayraa aapnaa aap too jaanhay.",
+          "time": 203094
+        },
+        {
+          "line": "jee-a jant sabh khayl tayraa ki-aa ko aakh vakhaana-ay.",
+          "time": 207025
+        },
+        {
+          "line": "aakhahi ta vaykheh sabh toohai jin jagat upaa-i-aa.",
+          "time": 210095
+        },
+        {
+          "line": "kahai naanak too sadaa agamm hai tayraa ant na paa-i-aa. ||12||",
+          "time": 213063
+        },
+        {
+          "line": "sur nar mun jan amrit khojday so amrit gur tay paa-i-aa.",
+          "time": 217072
+        },
+        {
+          "line": "paa-i-aa amrit gur kirpaa keenee sachaa man vasaa-i-aa.",
+          "time": 221012
+        },
+        {
+          "line": "jee-a jant sabh tuDh upaa-ay ik vaykh parsan aa-i-aa.",
+          "time": 224050
+        },
+        {
+          "line": "lab lobh ahaNkaar chookaa satguroo bhalaa bhaa-i-aa.",
+          "time": 227041
+        },
+        {
+          "line": "kahai naanak jis no aap tuthaa tin amrit gur tay paa-i-aa. ||13||",
+          "time": 230080
+        },
+        {
+          "line": "bhagtaa kee chaal niraalee.",
+          "time": 234028
+        },
+        {
+          "line": "chaalaa niraalee bhagtaah kayree bikham maarag chalnaa.",
+          "time": 236013
+        },
+        {
+          "line": "lab lobh ahaNkaar taj tarisnaa bahut naahee bolnaa.",
+          "time": 239027
+        },
+        {
+          "line": "khanni-ahu tikhee vaalahu nikee ayt maarag jaanaa.",
+          "time": 242060
+        },
+        {
+          "line": "gur parsaadee jinee aap taji-aa har vaasnaa samaanee.",
+          "time": 245094
+        },
+        {
+          "line": "kahai naanak chaal bhagtaa jugahu jug niraalee. ||14||",
+          "time": 248093
+        },
+        {
+          "line": "ji-o too chalaa-ihi tiv chalah su-aamee hor ki-aa jaanaa gun tayray.",
+          "time": 252031
+        },
+        {
+          "line": "jiv too chalaa-ihi tivai chalah jinaa maarag paavhay.",
+          "time": 256012
+        },
+        {
+          "line": "kar kirpaa jin naam laa-ihi se har har sadaa Dhi-aavhay.",
+          "time": 259064
+        },
+        {
+          "line": "jis no kathaa sunaa-ihi aapnee se gurdu-aarai sukh paavhay.",
+          "time": 262096
+        },
+        {
+          "line": "kahai naanak sachay saahib ji-o bhaavai tivai chalaavahay. ||15||",
+          "time": 266075
+        },
+        {
+          "line": "ayhu sohilaa sabad suhaavaa.",
+          "time": 269087
+        },
+        {
+          "line": "sabdo suhaavaa sadaa sohilaa satguroo sunaa-i-aa.",
+          "time": 272017
+        },
+        {
+          "line": "ayhu tin kai man vasi-aa jin Dharahu likhi-aa aa-i-aa.",
+          "time": 275044
+        },
+        {
+          "line": "ik fireh ghanayray karahi galaa galee kinai na paa-i-aa.",
+          "time": 278054
+        },
+        {
+          "line": "kahai naanak sabad sohilaa satguroo sunaa-i-aa. ||16||",
+          "time": 281076
+        },
+        {
+          "line": "pavit ho-ay say janaa jinee har Dhi-aa-i-aa.",
+          "time": 284065
+        },
+        {
+          "line": "har Dhi-aa-i-aa pavit ho-ay gurmukh jinee Dhi-aa-i-aa.",
+          "time": 287060
+        },
+        {
+          "line": "pavit maataa pitaa kutamb sahit si-o pavit sangat sabaa-ee-aa.",
+          "time": 290041
+        },
+        {
+          "line": "kahday pavit sunday pavit say pavit jinee man vasaa-i-aa.",
+          "time": 294046
+        },
+        {
+          "line": "kahai naanak say pavit jinee gurmukh har har Dhi-aa-i-aa. ||17||",
+          "time": 297088
+        },
+        {
+          "line": "karmee sahj na oopjai vin sahjai sahsaa na jaa-ay.",
+          "time": 301058
+        },
+        {
+          "line": "nah jaa-ay sahsaa kitai sanjam rahay karam kamaa-ay.",
+          "time": 304069
+        },
+        {
+          "line": "sahsai jee-o maleen hai kit sanjam Dhotaa jaa-ay.",
+          "time": 307099
+        },
+        {
+          "line": "man Dhovahu sabad laagahu har si-o rahhu chit laa-ay.",
+          "time": 311006
+        },
+        {
+          "line": "kahai naanak gur parsaadee sahj upjai ih sahsaa iv jaa-ay. ||18||",
+          "time": 314040
+        },
+        {
+          "line": "jee-ahu mailay baahrahu nirmal.",
+          "time": 318004
+        },
+        {
+          "line": "baahrahu nirmal jee-ahu ta mailay tinee janam joo-ai haari-aa.",
+          "time": 320009
+        },
+        {
+          "line": "ayh tisnaa vadaa rog lagaa maran manhu visaari-aa.",
+          "time": 323061
+        },
+        {
+          "line": "vaydaa meh naam utam so suneh naahee fireh ji-o baytaali-aa.",
+          "time": 326080
+        },
+        {
+          "line": "kahai naanak jin sach taji-aa koorhay laagay tinee janam joo-ai haari-aa. ||19||",
+          "time": 330085
+        },
+        {
+          "line": "jee-ahu nirmal baahrahu nirmal.",
+          "time": 334098
+        },
+        {
+          "line": "baahrahu ta nirmal jee-ahu nirmal satgur tay karnee kamaanee.",
+          "time": 337026
+        },
+        {
+          "line": "koorh kee so-ay pahuchai naahee mansaa sach samaanee.",
+          "time": 341013
+        },
+        {
+          "line": "janam ratan jinee khati-aa bhalay say vanjaaray.",
+          "time": 343086
+        },
+        {
+          "line": "kahai naanak jin man nirmal sadaa raheh gur naalay. ||20||",
+          "time": 347014
+        },
+        {
+          "line": "jay ko sikh guroo saytee sanmukh hovai.",
+          "time": 350004
+        },
+        {
+          "line": "hovai ta sanmukh sikh ko-ee jee-ahu rahai gur naalay.",
+          "time": 352099
+        },
+        {
+          "line": "gur kay charan hirdai Dhi-aa-ay antar aatmai samaalay.",
+          "time": 355075
+        },
+        {
+          "line": "aap chhad sadaa rahai parnai gur bin avar na jaanai ko-ay.",
+          "time": 359024
+        },
+        {
+          "line": "kahai naanak sunhu santahu so sikh sanmukh ho-ay. ||21||",
+          "time": 362065
+        },
+        {
+          "line": "jay ko gur tay vaimukh hovai bin satgur mukat na paavai.",
+          "time": 365083
+        },
+        {
+          "line": "paavai mukat na hor thai ko-ee puchhahu bibaykee-aa jaa-ay.",
+          "time": 369021
+        },
+        {
+          "line": "anayk joonee bharam aavai vin satgur mukat na paa-ay.",
+          "time": 372064
+        },
+        {
+          "line": "fir mukat paa-ay laag charnee satguroo sabad sunaa-ay.",
+          "time": 375082
+        },
+        {
+          "line": "kahai naanak veechaar daykhhu vin satgur mukat na paa-ay. ||22||",
+          "time": 379000
+        },
+        {
+          "line": "aavhu sikh satguroo kay pi-aariho gaavhu sachee banee.",
+          "time": 382026
+        },
+        {
+          "line": "banee ta gaavhu guroo kayree baanee-aa sir banee.",
+          "time": 385075
+        },
+        {
+          "line": "jin ka-o nadar karam hovai hirdai tinaa samaanee.",
+          "time": 388095
+        },
+        {
+          "line": "peevhu amrit sadaa rahhu har rang japihu saarigpaanee.",
+          "time": 392010
+        },
+        {
+          "line": "kahai naanak sadaa gaavhu ayh sachee banee. ||23||",
+          "time": 395043
+        },
+        {
+          "line": "satguroo binaa hor kachee hai banee.",
+          "time": 398065
+        },
+        {
+          "line": "banee ta kachee satguroo baajhahu hor kachee banee.",
+          "time": 401009
+        },
+        {
+          "line": "kahday kachay sunday kachay kacheeN aakh vakhaanee.",
+          "time": 403073
+        },
+        {
+          "line": "har har nit karahi rasnaa kahi-aa kachhoo na jaanee.",
+          "time": 406087
+        },
+        {
+          "line": "chit jin kaa hir la-i-aa maa-i-aa bolan pa-ay ravaanee.",
+          "time": 409095
+        },
+        {
+          "line": "kahai naanak satguroo baajhahu hor kachee banee. ||24||",
+          "time": 412083
+        },
+        {
+          "line": "gur kaa sabad ratann hai heeray jit jarhaa-o.",
+          "time": 415082
+        },
+        {
+          "line": "sabad ratan jit man laagaa ayhu ho-aa samaa-o.",
+          "time": 418091
+        },
+        {
+          "line": "sabad saytee man mili-aa sachai laa-i-aa bhaa-o.",
+          "time": 421070
+        },
+        {
+          "line": "aapay heeraa ratan aapay jis no day-ay bujhaa-ay.",
+          "time": 424039
+        },
+        {
+          "line": "kahai naanak sabad ratan hai heeraa jit jarhaa-o. ||25||",
+          "time": 427038
+        },
+        {
+          "line": "siv sakat aap upaa-ay kai kartaa aapay hukam vartaa-ay.",
+          "time": 430019
+        },
+        {
+          "line": "hukam vartaa-ay aap vaykhai gurmukh kisai bujhaa-ay.",
+          "time": 433064
+        },
+        {
+          "line": "torhay banDhan hovai mukat sabad man vasaa-ay.",
+          "time": 436004
+        },
+        {
+          "line": "gurmukh jis no aap karay so hovai aykas si-o liv laa-ay.",
+          "time": 439052
+        },
+        {
+          "line": "kahai naanak aap kartaa aapay hukam bujhaa-ay. ||26||",
+          "time": 442083
+        },
+        {
+          "line": "simrit saastar punn paap beechaarday tatai saar na jaanee.",
+          "time": 446007
+        },
+        {
+          "line": "tatai saar na jaanee guroo baajhahu tatai saar na jaanee.",
+          "time": 449047
+        },
+        {
+          "line": "tihee gunee sansaar bharam sutaa suti-aa rain vihaanee.",
+          "time": 453019
+        },
+        {
+          "line": "gur kirpaa tay say jan jaagay jinaa har man vasi-aa boleh amrit banee.",
+          "time": 456036
+        },
+        {
+          "line": "kahai naanak so tat paa-ay jis no an-din har liv laagai jaagat rain vihaanee. ||27||",
+          "time": 461045
+        },
+        {
+          "line": "maataa kay udar meh partipaal karay so ki-o manhu visaaree-ai.",
+          "time": 466022
+        },
+        {
+          "line": "manhu ki-o visaaree-ai ayvad daataa je agan meh aahaar pahuchaava-ay.",
+          "time": 469082
+        },
+        {
+          "line": "os no kihu pohi na sakee jis na-o aapnee liv laav-ay.",
+          "time": 473046
+        },
+        {
+          "line": "aapnee liv aapay laa-ay gurmukh sadaa samaalee-ai.",
+          "time": 476070
+        },
+        {
+          "line": "kahai naanak ayvad daataa so ki-o manhu visaaree-ai. ||28||",
+          "time": 479039
+        },
+        {
+          "line": "jaisee agan udar meh taisee baahar maa-i-aa.",
+          "time": 482065
+        },
+        {
+          "line": "maa-i-aa agan sabh iko jayhee kartai khayl rachaa-i-aa.",
+          "time": 485045
+        },
+        {
+          "line": "jaa tis bhaanaa taa jammi-aa parvaar bhalaa bhaa-i-aa.",
+          "time": 488075
+        },
+        {
+          "line": "liv chhurhkee lagee tarisnaa maa-i-aa amar vartaa-i-aa.",
+          "time": 491063
+        },
+        {
+          "line": "ayh maa-i-aa jit har visrai moh upjai bhaa-o doojaa laa-i-aa.",
+          "time": 494078
+        },
+        {
+          "line": "kahai naanak gur parsaadee jinaa liv laagee tinee vichay maa-i-aa paa-i-aa. ||29||",
+          "time": 498012
+        },
+        {
+          "line": "har aap amulak hai mul na paa-i-aa jaa-ay.",
+          "time": 503005
+        },
+        {
+          "line": "mul na paa-i-aa jaa-ay kisai vitahu rahay lok villaa-ay.",
+          "time": 506009
+        },
+        {
+          "line": "aisaa satgur jay milai tis no sir sa-upee-ai vichahu aap jaa-ay.",
+          "time": 508062
+        },
+        {
+          "line": "jis daa jee-o tis mil rahai har vasai man aa-ay.",
+          "time": 512036
+        },
+        {
+          "line": "har aap amulak hai bhaag tinaa kay naankaa jin har palai paa-ay. ||30||",
+          "time": 515030
+        },
+        {
+          "line": "har raas mayree man vanjaaraa.",
+          "time": 519021
+        },
+        {
+          "line": "har raas mayree man vanjaaraa satgur tay raas jaanee.",
+          "time": 521071
+        },
+        {
+          "line": "har har nit japihu jee-ahu laahaa khatihu dihaarhee.",
+          "time": 524085
+        },
+        {
+          "line": "ayhu Dhan tinaa mili-aa jin har aapay bhaanaa.",
+          "time": 527064
+        },
+        {
+          "line": "kahai naanak har raas mayree man ho-aa vanjaaraa. ||31||",
+          "time": 530060
+        },
+        {
+          "line": "ay rasnaa too an ras raach rahee tayree pi-aas na jaa-ay.",
+          "time": 533048
+        },
+        {
+          "line": "pi-aas na jaa-ay horat kitai jichar har ras palai na paa-ay.",
+          "time": 536089
+        },
+        {
+          "line": "har ras paa-ay palai pee-ai har ras bahurh na tarisnaa laagai aa-ay.",
+          "time": 539099
+        },
+        {
+          "line": "ayhu har ras karmee paa-ee-ai satgur milai jis aa-ay.",
+          "time": 544025
+        },
+        {
+          "line": "kahai naanak hor an ras sabh veesray jaa har vasai man aa-ay. ||32||",
+          "time": 547000
+        },
+        {
+          "line": "ay sareeraa mayri-aa har tum meh jot rakhee taa too jag meh aa-i-aa.",
+          "time": 550099
+        },
+        {
+          "line": "har jot rakhee tuDh vich taa too jag meh aa-i-aa.",
+          "time": 555011
+        },
+        {
+          "line": "har aapay maataa aapay pitaa jin jee-o upaa-ay jagat dikhaa-i-aa.",
+          "time": 558028
+        },
+        {
+          "line": "gur parsaadee bujhi-aa taa chalat ho-aa chalat nadree aa-i-aa.",
+          "time": 561076
+        },
+        {
+          "line": "kahai naanak sarisat kaa mool rachi-aa jot raakhee taa too jag meh aa-i-aa. ||33||",
+          "time": 565053
+        },
+        {
+          "line": "man chaa-o bha-i-aa parabh aagam suni-aa.",
+          "time": 569061
+        },
+        {
+          "line": "har mangal gaa-o sakhee garihu mandar bani-aa.",
+          "time": 572031
+        },
+        {
+          "line": "har gaa-o mangal nit sakhee-ay sog dookh na vi-aapa-ay.",
+          "time": 574049
+        },
+        {
+          "line": "gur charan laagay din sabhaagay aapnaa pir jaap-ay.",
+          "time": 577057
+        },
+        {
+          "line": "anhat banee gur sabad jaanee har naam har ras bhogo.",
+          "time": 580027
+        },
+        {
+          "line": "kahai naanak parabh aap mili-aa karan kaaran jogo. ||34||",
+          "time": 583081
+        },
+        {
+          "line": "ay sareeraa mayri-aa is jag meh aa-ay kai ki-aa tuDh karam kamaa-i-aa.",
+          "time": 586072
+        },
+        {
+          "line": "ke karam kamaa-i-aa tuDh sareeraa jaa too jag meh aa-i-aa.",
+          "time": 590076
+        },
+        {
+          "line": "jin har tayraa rachan rachi-aa so har man na vasaa-i-aa.",
+          "time": 593064
+        },
+        {
+          "line": "gur parsaadee har man vasi-aa poorab likhi-aa paa-i-aa.",
+          "time": 596089
+        },
+        {
+          "line": "kahai naanak ayhu sareer parvaan ho-aa jin satgur si-o chit laa-i-aa. ||35||",
+          "time": 599089
+        },
+        {
+          "line": "ay naytarahu mayriho har tum meh jot Dharee har bin avar na daykhhu ko-ee.",
+          "time": 603030
+        },
+        {
+          "line": "har bin avar na daykhhu ko-ee nadree har nihaali-aa.",
+          "time": 607066
+        },
+        {
+          "line": "ayhu vis sansaar tum daykh-day ayhu har kaa roop hai har roop nadree aa-i-aa.",
+          "time": 611004
+        },
+        {
+          "line": "gur parsaadee bujhi-aa jaa vaykhaa har ik hai har bin avar na ko-ee.",
+          "time": 614092
+        },
+        {
+          "line": "kahai naanak ayhi naytar anDh say satgur mili-ai dib darisat ho-ee. ||36||",
+          "time": 619067
+        },
+        {
+          "line": "ay sarvanhu mayriho saachai sunnai no pathaa-ay.",
+          "time": 623027
+        },
+        {
+          "line": "saachai sunnai no pathaa-ay sareer laa-ay sunhu sat banee.",
+          "time": 626043
+        },
+        {
+          "line": "jit sunee man tan hari-aa ho-aa rasnaa ras samaanee.",
+          "time": 629071
+        },
+        {
+          "line": "sach alakh vidaanee taa kee gat kahee na jaa-ay.",
+          "time": 633012
+        },
+        {
+          "line": "kahai naanak amrit naam sunhu pavitar hovhu saachai sunnai no pathaa-ay. ||37||",
+          "time": 635098
+        },
+        {
+          "line": "har jee-o gufaa andar rakh kai vaajaa pavan vajaa-i-aa.",
+          "time": 640067
+        },
+        {
+          "line": "vajaa-i-aa vaajaa pa-un na-o du-aaray pargat kee-ay dasvaa gupat rakhaa-i-aa.",
+          "time": 643071
+        },
+        {
+          "line": "gurdu-aarai laa-ay bhaavnee iknaa dasvaa du-aar dikhaa-i-aa.",
+          "time": 648019
+        },
+        {
+          "line": "tah anayk roop naa-o nav niDh tis daa ant na jaa-ee paa-i-aa.",
+          "time": 651030
+        },
+        {
+          "line": "kahai naanak har pi-aarai jee-o gufaa andar rakh kai vaajaa pavan vajaa-i-aa. ||38||",
+          "time": 655006
+        },
+        {
+          "line": "ayhu saachaa sohilaa saachai ghar gaavhu.",
+          "time": 659036
+        },
+        {
+          "line": "gaavhu ta sohilaa ghar saachai jithai sadaa sach Dhi-aavhay.",
+          "time": 662038
+        },
+        {
+          "line": "sacho Dhi-aavahi jaa tuDh bhaaveh gurmukh jinaa bujhaavhay.",
+          "time": 665049
+        },
+        {
+          "line": "ih sach sabhnaa kaa khasam hai jis bakhsay so jan paavhay.",
+          "time": 668066
+        },
+        {
+          "line": "kahai naanak sach sohilaa sachai ghar gaavhay. ||39||",
+          "time": 671099
+        },
+        {
+          "line": "anad sunhu vadbhaageeho sagal manorath pooray.",
+          "time": 675013
+        },
+        {
+          "line": "paarbarahm parabh paa-i-aa utray sagal visooray.",
+          "time": 680098
+        },
+        {
+          "line": "dookh rog santaap utray sunee sachee banee.",
+          "time": 686080
+        },
+        {
+          "line": "sant saajan bha-ay sarsay pooray gur tay jaanee.",
+          "time": 692056
+        },
+        {
+          "line": "suntay puneet kahtay pavit satgur rahi-aa bharpooray. binvant naanak gur charan laagay vaajay anhad tooray. ||40||1||",
+          "time": 698019
+        }
+      ],
+      "spanish_lyrics": [
+        {
+          "line": "El Khalsa pertenece a Dios, y la victoria pertenece a Dios.",
+          "time": 24
+        },
+        {
+          "line": "Raamkalee, Tercer Mehl, Anand ~ La Canción del Éxtasis:",
+          "time": 6040
+        },
+        {
+          "line": "Un Dios Creador Universal. Por la Gracia del Verdadero Gurú:",
+          "time": 8079
+        },
+        {
+          "line": "Estoy en éxtasis, oh madre mía, porque he encontrado a mi Verdadero Gurú.",
+          "time": 11038
+        },
+        {
+          "line": "He encontrado al Verdadero Gurú, con facilidad intuitiva, y mi mente vibra con la música del éxtasis.",
+          "time": 14086
+        },
+        {
+          "line": "Las melodías enjoyadas y sus armonías celestiales asociadas han venido a cantar la Palabra del Shabad.",
+          "time": 18028
+        },
+        {
+          "line": "El Señor habita en las mentes de quienes cantan el Shabad.",
+          "time": 21074
+        },
+        {
+          "line": "Dice Nanak, estoy en éxtasis, porque he encontrado a mi Verdadero Gurú. ||1||",
+          "time": 25030
+        },
+        {
+          "line": "Oh mente mía, permanece siempre con el Señor.",
+          "time": 28083
+        },
+        {
+          "line": "Permanece siempre con el Señor, oh mente mía, y todos los sufrimientos serán olvidados.",
+          "time": 31083
+        },
+        {
+          "line": "Él te aceptará como Suyo, y todos tus asuntos estarán perfectamente ordenados.",
+          "time": 35039
+        },
+        {
+          "line": "Nuestro Señor y Maestro es todopoderoso para hacer todas las cosas, ¿así que por qué olvidarlo en tu mente?",
+          "time": 38075
+        },
+        {
+          "line": "Dice Nanak, oh mente mía, permanece siempre con el Señor. ||2||",
+          "time": 42037
+        },
+        {
+          "line": "Oh mi Verdadero Señor y Maestro, ¿qué hay que no esté en Tu hogar celestial?",
+          "time": 45067
+        },
+        {
+          "line": "Todo está en Tu hogar; reciben, aquellos a quienes Tú das.",
+          "time": 48063
+        },
+        {
+          "line": "Cantando constantemente Tus Alabanzas y Glorias, Tu Nombre queda entronizado en la mente.",
+          "time": 51065
+        },
+        {
+          "line": "La melodía divina del Shabad vibra para aquellos en cuyas mentes habita el Naam.",
+          "time": 55009
+        },
+        {
+          "line": "Dice Nanak, oh mi Verdadero Señor y Maestro, ¿qué hay que no esté en Tu hogar? ||3||",
+          "time": 58070
+        },
+        {
+          "line": "El Verdadero Nombre es mi único apoyo.",
+          "time": 62004
+        },
+        {
+          "line": "El Verdadero Nombre es mi único apoyo; satisface todo hambre.",
+          "time": 63082
+        },
+        {
+          "line": "Ha traído paz y tranquilidad a mi mente; ha cumplido todos mis deseos.",
+          "time": 67047
+        },
+        {
+          "line": "Soy para siempre un sacrificio al Gurú, que posee una grandeza tan gloriosa.",
+          "time": 70096
+        },
+        {
+          "line": "Dice Nanak, escuchad, oh Santos; entronizad amor por el Shabad.",
+          "time": 74030
+        },
+        {
+          "line": "El Verdadero Nombre es mi único apoyo. ||4||",
+          "time": 78001
+        },
+        {
+          "line": "El Panch Shabad, los cinco sonidos primordiales, vibran en esa casa bendita.",
+          "time": 80015
+        },
+        {
+          "line": "En esa casa bendita, el Shabad vibra; Él infunde Su poder todopoderoso en ella.",
+          "time": 82032
+        },
+        {
+          "line": "A través de Ti, sometemos a los cinco demonios del deseo y matamos a la Muerte, el torturador.",
+          "time": 86001
+        },
+        {
+          "line": "Aquellos que tienen tal destino preordenado están apegados al Nombre del Señor.",
+          "time": 89060
+        },
+        {
+          "line": "Dice Nanak, están en paz, y el sonido no golpeado vibra en sus hogares. ||5||",
+          "time": 93006
+        },
+        {
+          "line": "Sin el verdadero amor devocional, el cuerpo está sin honor.",
+          "time": 96029
+        },
+        {
+          "line": "El cuerpo está deshonrado sin amor devocional; ¿qué pueden hacer los pobres desgraciados?",
+          "time": 98018
+        },
+        {
+          "line": "Nadie excepto Tú es todopoderoso; concede Tu Misericordia, oh Señor de toda la naturaleza.",
+          "time": 101042
+        },
+        {
+          "line": "No hay lugar de descanso aparte del Nombre; apegados al Shabad, estamos embellecidos con hermosura.",
+          "time": 105009
+        },
+        {
+          "line": "Dice Nanak, sin amor devocional, ¿qué pueden hacer los pobres desgraciados? ||6||",
+          "time": 108030
+        },
+        {
+          "line": "Éxtasis, éxtasis – todos hablan de éxtasis; el éxtasis se conoce solo a través del Gurú.",
+          "time": 111084
+        },
+        {
+          "line": "El éxtasis eterno se conoce solo a través del Gurú, cuando el Amado Señor concede Su Gracia.",
+          "time": 114098
+        },
+        {
+          "line": "Concediendo Su Gracia, Él corta nuestros pecados; nos bendice con el ungüento curativo de la sabiduría espiritual.",
+          "time": 118088
+        },
+        {
+          "line": "Aquellos que erradican el apego de su interior, son adornados con el Shabad, la Palabra del Verdadero Señor.",
+          "time": 122008
+        },
+        {
+          "line": "Dice Nanak, solo esto es éxtasis – el éxtasis que se conoce a través del Gurú. ||7||",
+          "time": 125085
+        },
+        {
+          "line": "Oh Baba, solo lo recibe aquel a quien Tú se lo das.",
+          "time": 129041
+        },
+        {
+          "line": "Solo lo recibe aquel a quien Tú se lo das; ¿qué pueden hacer los otros pobres desgraciados?",
+          "time": 132043
+        },
+        {
+          "line": "Algunos están engañados por la duda, vagando en las diez direcciones; algunos están adornados con el apego al Naam.",
+          "time": 136003
+        },
+        {
+          "line": "Por la Gracia del Gurú, la mente se vuelve inmaculada y pura, para aquellos que siguen la Voluntad de Dios.",
+          "time": 139097
+        },
+        {
+          "line": "Dice Nanak, solo lo recibe aquel a quien Tú se lo das, oh Amado Señor. ||8||",
+          "time": 143085
+        },
+        {
+          "line": "Venid, Santos Amados, hablemos la Palabra No Hablada del Señor.",
+          "time": 147068
+        },
+        {
+          "line": "¿Cómo podemos hablar la Palabra No Hablada del Señor? ¿Por qué puerta lo encontraremos?",
+          "time": 150053
+        },
+        {
+          "line": "Entrega cuerpo, mente, riqueza y todo al Gurú; obedece la Orden de Su Voluntad, y lo encontrarás.",
+          "time": 154001
+        },
+        {
+          "line": "Obedece el Hukam del Mandato del Gurú, y canta la Verdadera Palabra de Su Bani.",
+          "time": 157025
+        },
+        {
+          "line": "Dice Nanak, escuchad, oh Santos, y hablad la Palabra No Hablada del Señor. ||9||",
+          "time": 160054
+        },
+        {
+          "line": "Oh mente inconstante, mediante la astucia, nadie ha encontrado al Señor.",
+          "time": 163091
+        },
+        {
+          "line": "Mediante la astucia, nadie lo ha encontrado; escucha, oh mente mía.",
+          "time": 166058
+        },
+        {
+          "line": "Esta Maya es tan fascinante; por ella, la gente vaga en la duda.",
+          "time": 169016
+        },
+        {
+          "line": "Esta fascinante Maya fue creada por Aquel que ha administrado esta poción.",
+          "time": 172040
+        },
+        {
+          "line": "Soy un sacrificio para Aquel que ha hecho dulce el apego emocional.",
+          "time": 175039
+        },
+        {
+          "line": "Dice Nanak, oh mente inconstante, nadie lo ha encontrado mediante la astucia. ||10|| Oh mente amada, contempla al Verdadero Señor para siempre.",
+          "time": 179022
+        },
+        {
+          "line": "Oh mente amada, contempla al Verdadero Señor para siempre.",
+          "time": 182021
+        },
+        {
+          "line": "Esta familia que ves no irá contigo.",
+          "time": 184096
+        },
+        {
+          "line": "No irán contigo, ¿entonces por qué fijas tu atención en ellos?",
+          "time": 188007
+        },
+        {
+          "line": "No hagas nada de lo que te arrepentirás al final.",
+          "time": 191063
+        },
+        {
+          "line": "Escucha las Enseñanzas del Verdadero Gurú – estas sí irán contigo.",
+          "time": 194057
+        },
+        {
+          "line": "Dice Nanak, oh mente amada, contempla al Verdadero Señor para siempre. ||11||",
+          "time": 198035
+        },
+        {
+          "line": "Oh Señor inaccesible e insondable, Tus límites no pueden ser hallados.",
+          "time": 201020
+        },
+        {
+          "line": "Nadie ha encontrado Tus límites; solo Tú mismo los conoces.",
+          "time": 203094
+        },
+        {
+          "line": "Todos los seres y criaturas son Tu juego; ¿cómo puede alguien describirte?",
+          "time": 207025
+        },
+        {
+          "line": "Hablas, y contemplas todo; Tú creaste el Universo.",
+          "time": 210095
+        },
+        {
+          "line": "Dice Nanak, eres para siempre inaccesible; Tus límites no pueden ser hallados. ||12||",
+          "time": 213063
+        },
+        {
+          "line": "Los seres angélicos y los sabios silenciosos buscan el Néctar Amrit; este Amrit se obtiene del Gurú.",
+          "time": 217072
+        },
+        {
+          "line": "Este Amrit se obtiene cuando el Gurú concede Su Gracia; Él entroniza al Verdadero Señor dentro de la mente.",
+          "time": 221012
+        },
+        {
+          "line": "Todos los seres y criaturas fueron creados por Ti; solo algunos vienen a ver al Gurú y buscan Su bendición.",
+          "time": 224050
+        },
+        {
+          "line": "Su codicia, avaricia y egoísmo se disipan, y el Verdadero Gurú parece dulce.",
+          "time": 227041
+        },
+        {
+          "line": "Dice Nanak, aquellos con quienes el Señor está complacido, obtienen el Amrit, a través del Gurú. ||13||",
+          "time": 230080
+        },
+        {
+          "line": "El estilo de vida de los devotos es único y distinto.",
+          "time": 234028
+        },
+        {
+          "line": "El estilo de vida de los devotos es único y distinto; siguen el camino más difícil.",
+          "time": 236013
+        },
+        {
+          "line": "Renuncian a la codicia, avaricia, egoísmo y deseo; no hablan demasiado.",
+          "time": 239027
+        },
+        {
+          "line": "El camino que toman es más afilado que una espada de dos filos y más fino que un cabello.",
+          "time": 242060
+        },
+        {
+          "line": "Por la Gracia del Gurú, abandonan su egoísmo y orgullo; sus esperanzas se fusionan en el Señor.",
+          "time": 245094
+        },
+        {
+          "line": "Dice Nanak, el estilo de vida de los devotos, en cada era, es único y distinto. ||14||",
+          "time": 248093
+        },
+        {
+          "line": "Como Tú me haces caminar, así camino, oh Señor y Maestro mío; ¿qué más conozco de Tus Gloriosas Virtudes?",
+          "time": 252031
+        },
+        {
+          "line": "Como Tú los haces caminar, ellos caminan – Tú los has puesto en el Sendero.",
+          "time": 256012
+        },
+        {
+          "line": "En Tu Misericordia, Tú los unes al Naam; meditan para siempre en el Señor, Har, Har.",
+          "time": 259064
+        },
+        {
+          "line": "Aquellos a quienes Tú haces escuchar Tu sermón encuentran paz en el Gurdwara, la Puerta del Gurú.",
+          "time": 262096
+        },
+        {
+          "line": "Dice Nanak, oh mi Verdadero Señor y Maestro, Tú nos haces caminar según Tu Voluntad. ||15||",
+          "time": 266075
+        },
+        {
+          "line": "Esta canción de alabanza es el Shabad, la Palabra más bella de Dios.",
+          "time": 269087
+        },
+        {
+          "line": "Este hermoso Shabad es la canción eterna de alabanza, pronunciada por el Verdadero Gurú.",
+          "time": 272017
+        },
+        {
+          "line": "Esto está entronizado en las mentes de aquellos que están así predestinados por el Señor.",
+          "time": 275044
+        },
+        {
+          "line": "Algunos vagan, balbuceando sin cesar, pero nadie lo obtiene por balbucear.",
+          "time": 278054
+        },
+        {
+          "line": "Dice Nanak, el Shabad, esta canción de alabanza, ha sido pronunciado por el Verdadero Gurú. ||16||",
+          "time": 281076
+        },
+        {
+          "line": "Aquellos seres humildes que meditan en el Señor se vuelven puros.",
+          "time": 284065
+        },
+        {
+          "line": "Meditando en el Señor, se vuelven puros; como Gurmukhs, meditan en Él.",
+          "time": 287060
+        },
+        {
+          "line": "Son puros, junto con sus madres, padres, familia y amigos; todos sus compañeros también son puros.",
+          "time": 290041
+        },
+        {
+          "line": "Puros son quienes hablan, y puros son quienes escuchan; quienes lo entronizan en sus mentes son puros.",
+          "time": 294046
+        },
+        {
+          "line": "Dice Nanak, puros y sagrados son aquellos que, como Gurmukhs, meditan en el Señor, Har, Har. ||17||",
+          "time": 297088
+        },
+        {
+          "line": "Mediante rituales religiosos, no se encuentra el equilibrio intuitivo; sin equilibrio intuitivo, la duda no se va.",
+          "time": 301058
+        },
+        {
+          "line": "La duda no desaparece con acciones artificiales; todos están cansados de realizar estos rituales.",
+          "time": 304069
+        },
+        {
+          "line": "El alma está contaminada por la duda; ¿cómo puede ser limpiada?",
+          "time": 307099
+        },
+        {
+          "line": "Lava tu mente apegándola al Shabad, y mantén tu conciencia enfocada en el Señor.",
+          "time": 311006
+        },
+        {
+          "line": "Dice Nanak, por la Gracia del Gurú, se produce el equilibrio intuitivo y esta duda es disipada. ||18||",
+          "time": 314040
+        },
+        {
+          "line": "Internamente contaminado, y externamente puro.",
+          "time": 318004
+        },
+        {
+          "line": "Aquellos que son externamente puros y sin embargo están contaminados por dentro, pierden sus vidas en el juego.",
+          "time": 320009
+        },
+        {
+          "line": "Contraen esta terrible enfermedad del deseo, y en sus mentes, olvidan la muerte.",
+          "time": 323061
+        },
+        {
+          "line": "En los Vedas, el objetivo final es el Naam, el Nombre del Señor; pero ellos no oyen esto, y vagan como demonios.",
+          "time": 326080
+        },
+        {
+          "line": "Dice Nanak, quienes abandonan la Verdad y se aferran a la falsedad, pierden sus vidas en el juego. ||19||",
+          "time": 330085
+        },
+        {
+          "line": "Internamente puros, y externamente puros.",
+          "time": 334098
+        },
+        {
+          "line": "Aquellos que son externamente puros y también puros por dentro, a través del Gurú, realizan buenas acciones.",
+          "time": 337026
+        },
+        {
+          "line": "Ni una mota de falsedad los toca; sus esperanzas están absorbidas en la Verdad.",
+          "time": 341013
+        },
+        {
+          "line": "Aquellos que ganan la joya de esta vida humana, son los más excelentes comerciantes.",
+          "time": 343086
+        },
+        {
+          "line": "Dice Nanak, aquellos cuyas mentes son puras, moran con el Gurú para siempre. ||20||",
+          "time": 347014
+        },
+        {
+          "line": "Si un Sikh se vuelve hacia el Gurú con fe sincera, como sunmukh,",
+          "time": 350004
+        },
+        {
+          "line": "si verdaderamente se vuelve hacia el Gurú, su alma permanece con el Gurú.",
+          "time": 352099
+        },
+        {
+          "line": "Medita en su corazón en los sagrados pies del Gurú, y Lo absorbe profundamente en su alma.",
+          "time": 355075
+        },
+        {
+          "line": "Renunciando al ego y al egoísmo, siempre permanece del lado del Gurú; no conoce a nadie excepto al Gurú.",
+          "time": 359024
+        },
+        {
+          "line": "Dice Nanak, escuchad oh Santos: tal Sikh se vuelve sunmukh, verdaderamente orientado hacia el Gurú. ||21||",
+          "time": 362065
+        },
+        {
+          "line": "Aquel que se aleja del Gurú, volviéndose baymukh — sin el Verdadero Gurú, no encontrará liberación.",
+          "time": 365083
+        },
+        {
+          "line": "No encontrará liberación en ningún otro lugar; ve, pregunta a los sabios.",
+          "time": 369021
+        },
+        {
+          "line": "Vaga a través de incontables encarnaciones; sin el Verdadero Gurú, la liberación no se obtiene.",
+          "time": 372064
+        },
+        {
+          "line": "La liberación viene solo al apegarse a los pies del Verdadero Gurú, escuchando la Palabra del Shabad.",
+          "time": 375082
+        },
+        {
+          "line": "Dice Nanak, reflexiona y verás: sin el Verdadero Gurú, no se encuentra la liberación. ||22||",
+          "time": 379000
+        },
+        {
+          "line": "Venid, oh amados Sikhs del Verdadero Gurú, cantad la Verdadera Palabra de Su Bani.",
+          "time": 382026
+        },
+        {
+          "line": "Cantad la Bani del Gurú — la Bani suprema sobre todas las demás.",
+          "time": 385075
+        },
+        {
+          "line": "Aquellos que reciben Su Gracia tienen esta Bani entronizada en sus corazones.",
+          "time": 388095
+        },
+        {
+          "line": "Bebed este Néctar Amrit, permaneced para siempre en el Amor del Señor, y meditad en el Sustentador del mundo.",
+          "time": 392010
+        },
+        {
+          "line": "Dice Nanak, cantad para siempre esta Verdadera Bani. ||23||",
+          "time": 395043
+        },
+        {
+          "line": "Sin el Verdadero Gurú, todas las otras canciones son falsas.",
+          "time": 398065
+        },
+        {
+          "line": "Sin el Verdadero Gurú, las canciones son falsas; todas las demás palabras son falsas.",
+          "time": 401009
+        },
+        {
+          "line": "Falsos son los que hablan, falsos los que escuchan, falsos los que recitan tales palabras.",
+          "time": 403073
+        },
+        {
+          "line": "Pueden cantar 'Har, Har' sin fin, pero no entienden nada de lo que dicen.",
+          "time": 406087
+        },
+        {
+          "line": "Su conciencia está atrapada por Maya; su habla es solo sonido vacío.",
+          "time": 409095
+        },
+        {
+          "line": "Dice Nanak, sin el Verdadero Gurú, toda otra Bani es falsa. ||24||",
+          "time": 412083
+        },
+        {
+          "line": "La Palabra del Shabad del Gurú es una joya, incrustada de diamantes.",
+          "time": 415082
+        },
+        {
+          "line": "La mente que se apega a esta joya queda absorbida en el Shabad.",
+          "time": 418091
+        },
+        {
+          "line": "Quien une su mente al Shabad desarrolla devoción amorosa hacia el Verdadero Señor.",
+          "time": 421070
+        },
+        {
+          "line": "Él mismo es el diamante; Él mismo es la joya; a quien Él concede comprensión, conoce su valor.",
+          "time": 424039
+        },
+        {
+          "line": "Dice Nanak, el Shabad es la joya, incrustada de diamantes. ||25||",
+          "time": 427038
+        },
+        {
+          "line": "Él mismo creó a Shiva y Shakti; Él mismo hace cumplir Su Mandato.",
+          "time": 430019
+        },
+        {
+          "line": "A través de Su Mandato, Él vigila todo; solo raros Gurmukhs llegan a comprenderlo.",
+          "time": 433064
+        },
+        {
+          "line": "Rompen sus ataduras y encuentran liberación; entronizan el Shabad en sus mentes.",
+          "time": 436004
+        },
+        {
+          "line": "Aquellos a quienes el Señor hace Gurmukh unen su conciencia amorosamente al Uno.",
+          "time": 439052
+        },
+        {
+          "line": "Dice Nanak, Él mismo es el Creador; Él mismo revela el Hukam. ||26||",
+          "time": 442083
+        },
+        {
+          "line": "Las Simritees y los Shaastras hablan de virtud y pecado, pero no conocen la verdadera esencia.",
+          "time": 446007
+        },
+        {
+          "line": "Sin el Gurú, nadie conoce la esencia; sin el Gurú, nada esencial se conoce.",
+          "time": 449047
+        },
+        {
+          "line": "El mundo está dormido en las tres cualidades, perdido en la duda, pasando la noche de su vida en el sueño.",
+          "time": 453019
+        },
+        {
+          "line": "Aquellos despertados por la Gracia del Gurú—en cuyos corazones habita el Señor—pronuncian la Palabra Ambrosial de la Bani.",
+          "time": 456036
+        },
+        {
+          "line": "Dice Nanak, solo ellos encuentran la verdadera esencia, quienes día y noche permanecen amorosamente absorbidos en el Señor, pasando su noche de vida despiertos. ||27||",
+          "time": 461045
+        },
+        {
+          "line": "Él nos alimentó en el vientre materno; ¿por qué olvidarlo en tu mente?",
+          "time": 466022
+        },
+        {
+          "line": "¿Por qué olvidar en tu mente a tal Gran Dador, que dio sustento incluso en el fuego del vientre?",
+          "time": 469082
+        },
+        {
+          "line": "Nada puede dañar a aquel a quien el Señor inspira a abrazar Su Amor.",
+          "time": 473046
+        },
+        {
+          "line": "Él mismo es el Amor; Él mismo une el alma — el Gurmukh lo recuerda siempre.",
+          "time": 476070
+        },
+        {
+          "line": "Dice Nanak, ¿por qué olvidar de la mente a tal Gran Giver? ||28||",
+          "time": 479039
+        },
+        {
+          "line": "Así como es el fuego dentro del vientre, así es el fuego de Maya afuera.",
+          "time": 482065
+        },
+        {
+          "line": "El fuego de Maya es el mismo en todas partes; el Creador ha dispuesto esta obra.",
+          "time": 485045
+        },
+        {
+          "line": "Por Su Voluntad, nace un niño, y la familia se llena de alegría.",
+          "time": 488075
+        },
+        {
+          "line": "Pero el amor por el Señor se olvida; surge el deseo, y Maya comienza su guion.",
+          "time": 491063
+        },
+        {
+          "line": "Esta Maya hace que uno olvide al Señor, dando lugar al apego y al amor de la dualidad.",
+          "time": 494078
+        },
+        {
+          "line": "Dice Nanak, por la Gracia del Gurú, aquellos que mantienen su amor unido al Señor, lo encuentran en medio de Maya. ||29||",
+          "time": 498012
+        },
+        {
+          "line": "El Señor mismo no tiene precio; su valor no puede ser determinado.",
+          "time": 503005
+        },
+        {
+          "line": "Su valor no puede ser determinado, aunque la gente clame intentando estimarlo.",
+          "time": 506009
+        },
+        {
+          "line": "Si encuentras a tal Verdadero Gurú, ofrece tu cabeza; tu ego y egoísmo serán borrados.",
+          "time": 508062
+        },
+        {
+          "line": "Tu alma le pertenece a Él; permanece unido a Él, y el Señor habitará en tu mente.",
+          "time": 512036
+        },
+        {
+          "line": "El Señor mismo no tiene precio; benditos son aquellos, oh Nanak, que obtienen al Señor. ||30||",
+          "time": 515030
+        },
+        {
+          "line": "El Señor es mi capital; mi mente es el comerciante.",
+          "time": 519021
+        },
+        {
+          "line": "El Señor es mi capital, y mi mente es el comerciante; a través del Verdadero Gurú, conozco mi capital.",
+          "time": 521071
+        },
+        {
+          "line": "Medita continuamente en el Señor, Har, Har, oh alma mía, y recolectarás tus ganancias diariamente.",
+          "time": 524085
+        },
+        {
+          "line": "Esta riqueza es obtenida por aquellos que son agradables a la Voluntad del Señor.",
+          "time": 527064
+        },
+        {
+          "line": "Dice Nanak, el Señor es mi capital, y mi mente es el comerciante. ||31||",
+          "time": 530060
+        },
+        {
+          "line": "Oh lengua mía, estás absorta en otros sabores, pero tu sed de deseo no se apaga.",
+          "time": 533048
+        },
+        {
+          "line": "Tu sed no será saciada de ninguna manera, hasta que obtengas la esencia sutil del Señor.",
+          "time": 536089
+        },
+        {
+          "line": "Si obtienes la esencia sutil del Señor, y bebes de esta esencia, no serás perturbado por el deseo nuevamente.",
+          "time": 539099
+        },
+        {
+          "line": "Esta esencia sutil del Señor se obtiene por buen karma, cuando uno llega a encontrarse con el Verdadero Gurú.",
+          "time": 544025
+        },
+        {
+          "line": "Dice Nanak, todos los demás sabores y esencias son olvidados, cuando el Señor viene a habitar en la mente. ||32||",
+          "time": 547000
+        },
+        {
+          "line": "Oh cuerpo mío, el Señor infundió Su Luz en ti, y entonces viniste al mundo.",
+          "time": 550099
+        },
+        {
+          "line": "El Señor infundió Su Luz en ti, y entonces viniste al mundo.",
+          "time": 555011
+        },
+        {
+          "line": "El Señor mismo es tu madre, y Él mismo es tu padre; Él creó los seres creados, y les reveló el mundo.",
+          "time": 558028
+        },
+        {
+          "line": "Por la Gracia del Gurú, algunos entienden, y entonces es un espectáculo; parece solo un espectáculo.",
+          "time": 561076
+        },
+        {
+          "line": "Dice Nanak, Él colocó los cimientos del Universo, e infundió Su Luz, y entonces viniste al mundo. ||33||",
+          "time": 565053
+        },
+        {
+          "line": "Mi mente se ha llenado de alegría al escuchar la llegada de Dios.",
+          "time": 569061
+        },
+        {
+          "line": "Cantad las canciones de alegría para dar la bienvenida al Señor, oh mis compañeros; mi hogar se ha convertido en la Mansión del Señor.",
+          "time": 572031
+        },
+        {
+          "line": "Cantad continuamente las canciones de alegría para dar la bienvenida al Señor, oh mis compañeros, y el dolor y el sufrimiento no os afligirán.",
+          "time": 574049
+        },
+        {
+          "line": "Bendito es ese día, cuando me apego a los pies del Gurú y medito en mi Señor Esposo.",
+          "time": 577057
+        },
+        {
+          "line": "He llegado a conocer el sonido no golpeado y la Palabra del Shabad del Gurú; disfruto de la esencia sublime del Señor, el Nombre del Señor.",
+          "time": 580027
+        },
+        {
+          "line": "Dice Nanak, Dios mismo se ha encontrado conmigo; Él es el Hacedor, la Causa de las causas. ||34||",
+          "time": 583081
+        },
+        {
+          "line": "Oh cuerpo mío, ¿por qué has venido a este mundo? ¿Qué acciones has cometido?",
+          "time": 586072
+        },
+        {
+          "line": "¿Y qué acciones has cometido, oh cuerpo mío, desde que viniste a este mundo?",
+          "time": 590076
+        },
+        {
+          "line": "El Señor que formó tu forma – no has entronizado a ese Señor en tu mente.",
+          "time": 593064
+        },
+        {
+          "line": "Por la Gracia del Gurú, el Señor habita en la mente, y el destino preordenado de uno se cumple.",
+          "time": 596089
+        },
+        {
+          "line": "Dice Nanak, este cuerpo es adornado y honrado, cuando la conciencia de uno se enfoca en el Verdadero Gurú. ||35||",
+          "time": 599089
+        },
+        {
+          "line": "Oh ojos míos, el Señor ha infundido Su Luz en vosotros; no miréis a nadie más que al Señor.",
+          "time": 603030
+        },
+        {
+          "line": "No miréis a nadie más que al Señor; solo el Señor es digno de contemplación.",
+          "time": 607066
+        },
+        {
+          "line": "Todo este mundo que ves es la imagen del Señor; solo la imagen del Señor se ve.",
+          "time": 611004
+        },
+        {
+          "line": "Por la Gracia del Gurú, entiendo, y veo solo al Único Señor; no hay nadie excepto al Señor.",
+          "time": 614092
+        },
+        {
+          "line": "Dice Nanak, estos ojos estaban ciegos; pero al encontrar al Verdadero Gurú, se volvieron videntes. ||36||",
+          "time": 619067
+        },
+        {
+          "line": "Oh oídos míos, fuisteis creados solo para escuchar la Verdad.",
+          "time": 623027
+        },
+        {
+          "line": "Para escuchar la Verdad, fuisteis creados y unidos al cuerpo; escuchad la Verdadera Bani.",
+          "time": 626043
+        },
+        {
+          "line": "Al escucharla, la mente y el cuerpo rejuvenecen, y la lengua se absorbe en el Néctar Amrit.",
+          "time": 629071
+        },
+        {
+          "line": "El Verdadero Señor es invisible y maravilloso; Su estado no puede ser descrito.",
+          "time": 633012
+        },
+        {
+          "line": "Dice Nanak, escuchad el Naam Amrit y volveos sagrados; fuisteis creados solo para escuchar la Verdad. ||37||",
+          "time": 635098
+        },
+        {
+          "line": "El Señor colocó el alma en la cueva del cuerpo, y sopló el aliento de vida en el instrumento musical del cuerpo.",
+          "time": 640067
+        },
+        {
+          "line": "Él sopló el aliento de vida en el instrumento musical del cuerpo y reveló las nueve puertas; pero mantuvo oculta la Décima Puerta.",
+          "time": 643071
+        },
+        {
+          "line": "A través del Gurdwara, la Puerta del Gurú, algunos son bendecidos con fe amorosa, y la Décima Puerta se les revela.",
+          "time": 648019
+        },
+        {
+          "line": "Hay muchas imágenes del Señor, y los nueve tesoros del Naam; Sus límites no pueden ser hallados.",
+          "time": 651030
+        },
+        {
+          "line": "Dice Nanak, el Señor colocó el alma en la cueva del cuerpo, y sopló el aliento de vida en el instrumento musical del cuerpo. ||38||",
+          "time": 655006
+        },
+        {
+          "line": "Cantad esta verdadera canción de alabanza en el verdadero hogar de vuestra alma.",
+          "time": 659036
+        },
+        {
+          "line": "Cantad la canción de alabanza en vuestro verdadero hogar; meditad allí en el Verdadero Señor para siempre.",
+          "time": 662038
+        },
+        {
+          "line": "Solo meditan en Ti, oh Verdadero Señor, quienes son agradables a Tu Voluntad; como Gurmukhs, comprenden.",
+          "time": 665049
+        },
+        {
+          "line": "Esta Verdad es el Señor y Maestro de todos; quien es bendecido, la obtiene.",
+          "time": 668066
+        },
+        {
+          "line": "Dice Nanak, cantad la verdadera canción de alabanza en el verdadero hogar de vuestra alma. ||39||",
+          "time": 671099
+        },
+        {
+          "line": "Escuchad la canción del éxtasis, oh los más afortunados; todos vuestros anhelos serán cumplidos.",
+          "time": 675013
+        },
+        {
+          "line": "He obtenido al Señor Dios Supremo, y todas las penas han sido olvidadas.",
+          "time": 680098
+        },
+        {
+          "line": "El dolor, la enfermedad y el sufrimiento se han ido, escuchando la Verdadera Bani.",
+          "time": 686080
+        },
+        {
+          "line": "Los Santos y sus amigos están en éxtasis, conociendo al Gurú Perfecto.",
+          "time": 692056
+        },
+        {
+          "line": "Puros son los oyentes, y puros los hablantes; el Verdadero Gurú lo impregna y penetra todo.",
+          "time": 698019
+        },
+        {
+          "line": "Ora Nanak, tocando los Pies del Gurú, el sonido no golpeado de las trompetas celestiales vibra y resuena. ||40||1||",
+          "time": 703070
+        }
+      ],
+      "hindi_lyrics": [
+        {
+          "line": "वाहेगुरु जी का खालसा वाहेगुरु जी की फतेह॥",
+          "time": 0
+        },
+        {
+          "line": "रामकली महला ३ आनंद",
+          "time": 6040
+        },
+        {
+          "line": "ੴ सतिगुर प्रसादि ॥",
+          "time": 8079
+        },
+        {
+          "line": "आनंद भइआ मेरी मायै सतिगुरू मै पाया ॥",
+          "time": 11038
+        },
+        {
+          "line": "सतिगुरु त पाया सहज सेती मनि वजीआ वाधाईआ ॥",
+          "time": 14086
+        },
+        {
+          "line": "राग रतन परवार परीआ सबद गावण आईआ ॥",
+          "time": 18028
+        },
+        {
+          "line": "सबदो त गावहु हरी केरा मनि जिनी बसाइआ ॥",
+          "time": 21074
+        },
+        {
+          "line": "कहै नानकु आनंद होआ सतिगुरू मै पाया ॥१॥",
+          "time": 25030
+        },
+        {
+          "line": "ए मन मेरिआ तू सदा रहु हरि नाले ॥",
+          "time": 28083
+        },
+        {
+          "line": "हरि नालि रहु तू मन मेरे दूख सभि विसारणा ॥",
+          "time": 31083
+        },
+        {
+          "line": "अंगीकारु ओहु करे तेरा कारज सभि सवारणा ॥",
+          "time": 35039
+        },
+        {
+          "line": "सभना गला समर्थु सुामी सो किउ मनहु विसारे ॥",
+          "time": 38075
+        },
+        {
+          "line": "कहै नानकु मन मेरे सदा रहु हरि नाले ॥२॥",
+          "time": 42037
+        },
+        {
+          "line": "साचे साहिबा किआ नाही घरि तेरै ॥",
+          "time": 45067
+        },
+        {
+          "line": "घरि त तेरै सभु किछु है जिसु देहि सु पावे ॥",
+          "time": 48063
+        },
+        {
+          "line": "सदा सिफति सलाह तेरी नामु मनि वसावे ॥",
+          "time": 51065
+        },
+        {
+          "line": "नामु जिन कै मनि वसिआ वाजे सबद घनेरे ॥",
+          "time": 55009
+        },
+        {
+          "line": "कहै नानकु सचे साहिब किआ नाही घरि तेरै ॥३॥",
+          "time": 58070
+        },
+        {
+          "line": "साचा नामु मेरा आधारो ॥",
+          "time": 62004
+        },
+        {
+          "line": "साचु नामु अधारु मेरा जिनि भुखा सभि गवाईआ ॥",
+          "time": 63082
+        },
+        {
+          "line": "करि सांति सुख मनि आइ वसिआ जिनि इच्छा सभि पुजाईआ ॥",
+          "time": 67047
+        },
+        {
+          "line": "सदा कुरबाणु कीता गुरु विटहु जिस दीआ एहि वडिआईआ ॥",
+          "time": 70096
+        },
+        {
+          "line": "कहै नानकु सुनहु संतहु सबदि धरहु पिआरो ॥",
+          "time": 74030
+        },
+        {
+          "line": "साचा नामु मेरा आधारो ॥४॥",
+          "time": 78001
+        },
+        {
+          "line": "वाजे पंच सबद तितु घरि सभागै ॥",
+          "time": 80015
+        },
+        {
+          "line": "घरि सभागै सबद वाजे कला जितु घरि धारिआ ॥",
+          "time": 82032
+        },
+        {
+          "line": "पंच दूत तुधु वसि कीते कालु कंटकु मारिआ ॥",
+          "time": 86001
+        },
+        {
+          "line": "धुरि करमि पाइआ तुधु जिन कउ सि नामि हरि कै लागे ॥",
+          "time": 89060
+        },
+        {
+          "line": "कहै नानकु तह सुखु होआ तितु घरि अनहद वाजे ॥५॥",
+          "time": 93006
+        },
+        {
+          "line": "साची लिवै बिनु देह निमाणी ॥",
+          "time": 96029
+        },
+        {
+          "line": "देह निमाणी लिवै बाज्हहु किआ करे वेचारिआ ॥",
+          "time": 98018
+        },
+        {
+          "line": "तुधु बाज्हु समर्थ कोइ नाही क्रिपा करि बनवारिआ ॥",
+          "time": 101042
+        },
+        {
+          "line": "एस नउ होरु थाउ नाही सबदि लागि सवारिआ ॥",
+          "time": 105009
+        },
+        {
+          "line": "कहै नानकु लिवै बाज्हहु किआ करे वेचारिआ ॥६॥",
+          "time": 108030
+        },
+        {
+          "line": "आनंदु आनंदु सभु को कहै आनंदु गुरु ते जाणिआ ॥",
+          "time": 111084
+        },
+        {
+          "line": "जाणिआ आनंदु सदा गुर ते क्रिपा करे पिआरिआ ॥",
+          "time": 114098
+        },
+        {
+          "line": "करि किरपा किलविख कटे गिआन अंजनु सारिआ ॥",
+          "time": 118088
+        },
+        {
+          "line": "अंदरहु जिन का मोहु तुटा तिन का सबदु सचै सवारिआ ॥",
+          "time": 122008
+        },
+        {
+          "line": "कहै नानकु एहु आनंदु है आनंदु गुरु ते जाणिआ ॥७॥",
+          "time": 125085
+        },
+        {
+          "line": "बाबा जिसु तू देहि सोई जनु पावै ॥",
+          "time": 129041
+        },
+        {
+          "line": "पावै त सो जनु देहि जिस नो होरि किआ करहि वेचारिआ ॥",
+          "time": 132043
+        },
+        {
+          "line": "इकि भरमि भूले फिरहि दह दिसि इकि नामि लागि सवारिआ ॥",
+          "time": 136003
+        },
+        {
+          "line": "गुर परसादी मनु होआ निर्मलु जना भाणा भावए ॥",
+          "time": 139097
+        },
+        {
+          "line": "कहै नानकु जिसु देहि पिआरे सोई जनु पावए ॥८॥",
+          "time": 143085
+        },
+        {
+          "line": "आवहु संत पिआरिहो अकथ की करह कहाणी ॥",
+          "time": 147068
+        },
+        {
+          "line": "करह कहाणी अकथ केरी कितु दुआरै पाईऐ ॥",
+          "time": 150053
+        },
+        {
+          "line": "तनु मनु धनु सभु सउपि गुर कउ हुकमि मन्निऐ पाईऐ ॥",
+          "time": 154001
+        },
+        {
+          "line": "हुकमु मननिहु गुरु केरा गावहु सची बाणी ॥",
+          "time": 157025
+        },
+        {
+          "line": "कहै नानकु सुनहु संतहु कथिहु अकथ कहाणी ॥९॥",
+          "time": 160054
+        },
+        {
+          "line": "ए मन चंचला चतुराई किनै न पाइआ ॥",
+          "time": 163091
+        },
+        {
+          "line": "चतुराई न पाइआ किनै तू सुणि मन मेरिआ ॥",
+          "time": 166058
+        },
+        {
+          "line": "एह माईआ मोहणी जिनि एतु भरमि भुलाइआ ॥",
+          "time": 169016
+        },
+        {
+          "line": "माईआ त मोहणी तिनै कीती जिनि ठगउली पाईआ ॥",
+          "time": 172040
+        },
+        {
+          "line": "कुरबाणु कीता तिसै विटहु जिनि मोहु मीठा लाइआ ॥",
+          "time": 175039
+        },
+        {
+          "line": "कहै नानकु मन चंचल चतुराई किनै न पाइआ ॥१०॥",
+          "time": 179022
+        },
+        {
+          "line": "ए मन पिआरिया तू सदा सचु समाले ॥",
+          "time": 182021
+        },
+        {
+          "line": "एहु कुटंबु तू जि देखदा चलै नाही तेरै नाले ॥",
+          "time": 184096
+        },
+        {
+          "line": "साथि तेरै चलै नाही तिसु नालि किउ चितु लाईऐ ॥",
+          "time": 188007
+        },
+        {
+          "line": "ऐसा कमु मूले न कीचै जितु अंति पछोताईऐ ॥",
+          "time": 191063
+        },
+        {
+          "line": "सतिगुरू का उपदेसु सुणि तू होवै तेरै नाले ॥",
+          "time": 194057
+        },
+        {
+          "line": "कहै नानकु मन पिआरे तू सदा सचु समाले ॥११॥",
+          "time": 198035
+        },
+        {
+          "line": "अगम एगोचरा तेरा अंतु न पाइआ ॥",
+          "time": 201020
+        },
+        {
+          "line": "अंतो न पाइआ किनै तेरा आपणा आपु तू जाणहे ॥",
+          "time": 203094
+        },
+        {
+          "line": "जीअ जन्त सभि खेलु तेरा किआ को आखि वखाणए ॥",
+          "time": 207025
+        },
+        {
+          "line": "आखहि त वेखहि सभु तूहै जिन्हि जगतु उपाइआ ॥",
+          "time": 210095
+        },
+        {
+          "line": "कहै नानकु तू सदा अगमु है तेरा अंतु न पाइआ ॥१२॥",
+          "time": 213063
+        },
+        {
+          "line": "सुर नर मुनि जन अम्रितु खोजदे सु अम्रितु गुर ते पाइआ ॥",
+          "time": 217072
+        },
+        {
+          "line": "पाइआ अम्रितु गुरि कृपा कीनी सचा मनि वसाइआ ॥",
+          "time": 221012
+        },
+        {
+          "line": "जीअ जन्त सभि तुधु उपाए इकि वेखि परसणि आइआ ॥",
+          "time": 224050
+        },
+        {
+          "line": "लबु लोभु अहंकारु चूका सतिगुरू भला भाइआ ॥",
+          "time": 227041
+        },
+        {
+          "line": "कहै नानकु जिस नो आपि तुठा तिनि अम्रितु गुर ते पाइआ ॥१३॥",
+          "time": 230080
+        },
+        {
+          "line": "भगता की चाल निराली ॥",
+          "time": 234028
+        },
+        {
+          "line": "चाला निराली भगताह केरी बिखम मारगि चलणा ॥",
+          "time": 236013
+        },
+        {
+          "line": "लबु लोभु अहंकारु तजि तृषना बहुतु नाही बोलणा ॥",
+          "time": 239027
+        },
+        {
+          "line": "खणिअहु तिखी वालहु निकी एतु मारगि जाना ॥",
+          "time": 242060
+        },
+        {
+          "line": "गुर परसादी जिनी आपु तजिआ हरि वासना समाणी ॥",
+          "time": 245094
+        },
+        {
+          "line": "कहै नानकु चाल भगता जुगहु जुगु निराली ॥१४॥",
+          "time": 248093
+        },
+        {
+          "line": "जिउ तू चलाइहि तिव चलह सुामी होरु किआ जाणाऽ गुण तेरॆ ॥",
+          "time": 252031
+        },
+        {
+          "line": "जिव तू चलाइहि तिवै चलह जिन्हा मारगि पावहे ॥",
+          "time": 256012
+        },
+        {
+          "line": "करि कृपा जिन नामि लाइहि सि हरि हरि सदा धिआवहे ॥",
+          "time": 259064
+        },
+        {
+          "line": "जिस नो कथा सुणाइहि आपणी सि गुरदुआरै सुखु पावहे ॥",
+          "time": 262096
+        },
+        {
+          "line": "कहै नानकु सचे साहिब जिउ भावै तिवै चलावहे ॥१५॥",
+          "time": 266075
+        },
+        {
+          "line": "एहु सोहिला सबदु सुहावा ॥",
+          "time": 269087
+        },
+        {
+          "line": "सबदो सुहावा सदा सोहिला सतिगुरू सुणाइआ ॥",
+          "time": 272017
+        },
+        {
+          "line": "एहु तिन कै मन्नि वसिआ जिन धुरहु लिखिआ आइआ ॥",
+          "time": 275044
+        },
+        {
+          "line": "इकि फिरहि घनेरे करहि गला गली किनै न पाइआ ॥",
+          "time": 278054
+        },
+        {
+          "line": "कहै नानकु सबदु सोहिला सतिगुरू सुणाइआ ॥१६॥",
+          "time": 281076
+        },
+        {
+          "line": "पवितु होए से जना जिनी हरि धिआइआ ॥",
+          "time": 284065
+        },
+        {
+          "line": "हरि धिआइआ पवितु होए गुरमुखि जिनी धिआइआ ॥",
+          "time": 287060
+        },
+        {
+          "line": "पवितु माता पिता कुटंब सहित सिउ पवितु संगति सबाइआ ॥",
+          "time": 290041
+        },
+        {
+          "line": "कहदे पवितु सुणदे पवितु से पवितु जिनी मन्नि वसाइआ ॥",
+          "time": 294046
+        },
+        {
+          "line": "कहै नानकु से पवितु जिनी गुरमुखि हरि हरि धिआइआ ॥१७॥",
+          "time": 297088
+        },
+        {
+          "line": "कर्मी सहजु न ऊपजै विणु सहजै सहसा न जाइ ॥",
+          "time": 301058
+        },
+        {
+          "line": "नह जाइ सहसा कितै संजमि रहे करम कमाइए ॥",
+          "time": 304069
+        },
+        {
+          "line": "सहसै जिउ मलीणु है कितु संजमि धोता जाइ ॥",
+          "time": 307099
+        },
+        {
+          "line": "मन्नु धोवहु सबदि लागहु हरि सिउ रहहु चितु लाइ ॥",
+          "time": 311006
+        },
+        {
+          "line": "कहै नानकु गुर परसादी सहजु उपजै इहु सहसा इव जाइ ॥१८॥",
+          "time": 314040
+        },
+        {
+          "line": "जीअहु मैले बाहरहु निर्मल ॥",
+          "time": 318004
+        },
+        {
+          "line": "बाहरहु निर्मल जीअहु त मैले तिनी जनमु जूऐ हारिआ ॥",
+          "time": 320009
+        },
+        {
+          "line": "एह तिसना वड्डा रोगु लगा मरणु मन्हु विसारिआ ॥",
+          "time": 323061
+        },
+        {
+          "line": "वेदां महि नामु उतमु सो सुणहि नाही फिरहि जिउ बितालिआ ॥",
+          "time": 326080
+        },
+        {
+          "line": "कहै नानकु जिन सचु तजिआ कूड़े लागे तिनी जनमु जूऐ हारिआ ॥१९॥",
+          "time": 330085
+        },
+        {
+          "line": "जीअहु निर्मल बाहरहु निर्मल ॥",
+          "time": 334098
+        },
+        {
+          "line": "बाहरहु त निर्मल जीअहु निर्मल सतिगुर ते करणी कमाणी ॥",
+          "time": 337026
+        },
+        {
+          "line": "कूड़ की सोइ पहुचै नाही मनसा सचि समाणी ॥",
+          "time": 341013
+        },
+        {
+          "line": "जनमु रतनु जिनी खटिआ भले से वणजारे ॥",
+          "time": 343086
+        },
+        {
+          "line": "कहै नानकु जिन मन्नु निर्मलु सदा रहहि गुर नाले ॥२०॥",
+          "time": 347014
+        },
+        {
+          "line": "जे को सिखु गुरु सेती सनमुखु होवै ॥",
+          "time": 350004
+        },
+        {
+          "line": "होवै त सनमुखु सिखु कोई जीअहु रहै गुर नाले ॥",
+          "time": 352099
+        },
+        {
+          "line": "गुर के चरण हिरदै धिआए अंतर आतमै समाले ॥",
+          "time": 355075
+        },
+        {
+          "line": "आपु छडि सदा रहै परणै गुर बिनु अवरु न जाणै कोई ॥",
+          "time": 359024
+        },
+        {
+          "line": "कहै नानकु सुनहु संतहु सो सिखु सनमुखु होए ॥२१॥",
+          "time": 362065
+        },
+        {
+          "line": "जे को गुर ते वेमुखु होवै बिनु सतिगुर मुकति न पावै ॥",
+          "time": 365083
+        },
+        {
+          "line": "पावै मुकति न होर थै कोई पुछहु बिबेकीआ जाए ॥",
+          "time": 369021
+        },
+        {
+          "line": "अनेक जूनि भरमि आवै विनु सतिगुर मुकति न पाए ॥",
+          "time": 372064
+        },
+        {
+          "line": "फिरि मुकति पाए लागि चरणी सतिगुरू सबदु सुनाए ॥",
+          "time": 375082
+        },
+        {
+          "line": "कहै नानकु वीचारि देखहु विनु सतिगुर मुकति न पाए ॥२२॥",
+          "time": 379000
+        },
+        {
+          "line": "आवहु सिख सतिगुरू के पिआरिहो गावहु सची बाणी ॥",
+          "time": 382026
+        },
+        {
+          "line": "बाणी त गावहु गुरु केरी बाणीआ सिरि बाणी ॥",
+          "time": 385075
+        },
+        {
+          "line": "जिन कउ नदरि करमु होवै हिरदै तिना समाणी ॥",
+          "time": 388095
+        },
+        {
+          "line": "पीवहु अम्रितु सदा रहहु हरि रंगि जपिहु सारिगपाणी ॥",
+          "time": 392010
+        },
+        {
+          "line": "कहै नानकु सदा गावहु एह सची बाणी ॥२३॥",
+          "time": 395043
+        },
+        {
+          "line": "सतिगुरू बिना होर कची है बाणी ॥",
+          "time": 398065
+        },
+        {
+          "line": "बाणी त कची सतिगुरू बाज्हहु होर कची बाणी ॥",
+          "time": 401009
+        },
+        {
+          "line": "कहदे कचे सु‍णदे कचे कची आखि वखाणी ॥",
+          "time": 403073
+        },
+        {
+          "line": "हरि हरि नित करहि रसना कहिआ कछू न जाणी ॥",
+          "time": 406087
+        },
+        {
+          "line": "चितु जिन का हिरि लइआ माईआ बोलनि पए रवाणी ॥",
+          "time": 409095
+        },
+        {
+          "line": "कहै नानकु सतिगुरू बाज्हहु होर कची बाणी ॥२४॥",
+          "time": 412083
+        },
+        {
+          "line": "गुर का सबदु रतन्नु है हीरे जितु जड़ाउ ॥",
+          "time": 415082
+        },
+        {
+          "line": "सबदु रतनु जितु मन्नु लागा एहि होआ समाउ ॥",
+          "time": 418091
+        },
+        {
+          "line": "सबद सेती मनु मिलिआ सचै लाइआ भावु ॥",
+          "time": 421070
+        },
+        {
+          "line": "आपे हीरा रतनु आपे जिस नो देइ बुझाइ ॥",
+          "time": 424039
+        },
+        {
+          "line": "कहै नानकु सबदु रतनु है हीरा जितु जड़ाउ ॥२५॥",
+          "time": 427038
+        },
+        {
+          "line": "सिव सकति आपि उपाइ कै करता आपे हुकमु वरताए ॥",
+          "time": 430019
+        },
+        {
+          "line": "हुकमु वरताए आपि वेखै गुरमुखि किसै बुझाए ॥",
+          "time": 433064
+        },
+        {
+          "line": "तोड़े बंधन होवै मुकतु सबदु मन्नि वसाए ॥",
+          "time": 436004
+        },
+        {
+          "line": "गुरमुखि जिस नो आपि करे सु होवै एकस सिउ लिव लाए ॥",
+          "time": 439052
+        },
+        {
+          "line": "कहै नानकु आपि करता आपे हुकमु बुझाए ॥२६॥",
+          "time": 442083
+        },
+        {
+          "line": "सिम्रिति सासत्‍र पुण्न पाप बीचारदे तत्तै सार न जाणि ॥",
+          "time": 446007
+        },
+        {
+          "line": "तत्तै सार न जाणि गुरु बाज्हहु तत्तै सार न जाणि ॥",
+          "time": 449047
+        },
+        {
+          "line": "तिही गुणी संसारु भ्रमि सुता सुतिआ रैणि विहाणी ॥",
+          "time": 453019
+        },
+        {
+          "line": "गुर किरपा ते से जन जागे जिना हरि मनि वसिआ बोलहि अम्रित बाणी ॥",
+          "time": 456036
+        },
+        {
+          "line": "कहै नानकु सो ततु पाए जिस नो अनदिनु हरि लिव लागै जागत रैणि विहाणी ॥२७॥",
+          "time": 461045
+        },
+        {
+          "line": "माता के उदर महि प्रतिपाल करे सो किउ मनहु विसारीऐ ॥",
+          "time": 466022
+        },
+        {
+          "line": "मनहु किउ विसारीऐ एवडु दाता जि अगनि महि आहारु पहुचावए ॥",
+          "time": 469082
+        },
+        {
+          "line": "ओस नो किहु पोहि न सकी जिस नव अपनी लिव लावए ॥",
+          "time": 473046
+        },
+        {
+          "line": "आपणी लिव आपे लाए गुरमुखि सदा समालीऐ ॥",
+          "time": 476070
+        },
+        {
+          "line": "कहै नानकु एवडु दाता सो किउ मनहु विसारीऐ ॥२८॥",
+          "time": 479039
+        },
+        {
+          "line": "जैसी अगनि उदर महि तैसी बाहरि माईआ ॥",
+          "time": 482065
+        },
+        {
+          "line": "माईआ अगनि सभ इको जेही करतै खेलु रचाइआ ॥",
+          "time": 485045
+        },
+        {
+          "line": "जा तिसु भाणा ता जमिआ परवारि भला भाइआ ॥",
+          "time": 488075
+        },
+        {
+          "line": "लिव छुड़की लगी तृसना माईआ अमरु वरताइआ ॥",
+          "time": 491063
+        },
+        {
+          "line": "एह माईआ जितु हरि विसरै मोहु उपजै भावु दूजा लाइआ ॥",
+          "time": 494078
+        },
+        {
+          "line": "कहै नानकु गुर परसादी जिना लिव लागी तिनी विचे माईआ पाइआ ॥२९॥",
+          "time": 498012
+        },
+        {
+          "line": "हरि आपि अमुलकु है मुलि न पाइआ जाइ ॥",
+          "time": 503005
+        },
+        {
+          "line": "मुलि न पाइआ जाइ किसै विटहु रहे लोक विललाइ ॥",
+          "time": 506009
+        },
+        {
+          "line": "ऐसा सतिगुरु जे मिलै तिस नो सिरु सउपीऐ विचहु आपु जाइ ॥",
+          "time": 508062
+        },
+        {
+          "line": "जिस दा जीउ तिसु मिलि रहै हरि वसै मनि आइ ॥",
+          "time": 512036
+        },
+        {
+          "line": "हरि आपि अमुलकु है भाग तिना के नानका जिन हरि पलै पाइ ॥३०॥",
+          "time": 515030
+        },
+        {
+          "line": "हरि रासि मेरी मनु वणजारा ॥",
+          "time": 519021
+        },
+        {
+          "line": "हरि रासि मेरी मनु वणजारा सतिगुर ते रासि जाणी ॥",
+          "time": 521071
+        },
+        {
+          "line": "हरि हरि नित जपिहु जीअहु लाहा खटिहु दिहाड़ी ॥",
+          "time": 524085
+        },
+        {
+          "line": "एहु धनु तिना मिलिआ जिन हरि आपे भाणा ॥",
+          "time": 527064
+        },
+        {
+          "line": "कहै नानकु हरि रासि मेरी मनु होआ वणजारा ॥३१॥",
+          "time": 530060
+        },
+        {
+          "line": "ए रसना तू अन रसि राचि रही तेरी पिआस न जाइ ॥",
+          "time": 533048
+        },
+        {
+          "line": "पिआस न जाइ होरतु कितै जिचरु हरि रसु पलै न पाइ ॥",
+          "time": 536089
+        },
+        {
+          "line": "हरि रसु पाइ पलै पीऐ हरि रसु बहुड़ि न तृषना लागै आइ ॥",
+          "time": 539099
+        },
+        {
+          "line": "एहु हरि रसु करमी पाईऐ सतिगुरु मिलै जिसु आइ ॥",
+          "time": 544025
+        },
+        {
+          "line": "कहै नानकु होरि अन रस सभि वीसरै जा हरि वसै मनि आइ ॥३२॥",
+          "time": 547000
+        },
+        {
+          "line": "ए सरीरा मेरिआ हरि तुम महि जोति रखी ता तू जग महि आइआ ॥",
+          "time": 550099
+        },
+        {
+          "line": "हरि जोति रखी तुधु विचि ता तू जग महि आइआ ॥",
+          "time": 555011
+        },
+        {
+          "line": "हरि आपे माता आपे पिता जिनि जीउ उपाइ जगतु दिखाइआ ॥",
+          "time": 558028
+        },
+        {
+          "line": "गुर परसादी बुझिआ ता चलतु होआ चलतु नदरी आइआ ॥",
+          "time": 561076
+        },
+        {
+          "line": "कहै नानकु स्रिसटि का मूलु रचिआ जोति राखी ता तू जग महि आइआ ॥३३॥",
+          "time": 565053
+        },
+        {
+          "line": "मनि चाउ भइआ प्रभ आगमु सुणिआ ॥",
+          "time": 569061
+        },
+        {
+          "line": "हरि मंगलु గाउ सखी ग्रिहु मंदरु बनिआ ॥",
+          "time": 572031
+        },
+        {
+          "line": "हरि गाउ मंगलु नित सखीए सोगु दूखु न विआपए ॥",
+          "time": 574049
+        },
+        {
+          "line": "गुर चरण लागे दिन सभागे आपणा पिरु जापए ॥",
+          "time": 577057
+        },
+        {
+          "line": "अनहत बाणी गुर सबदि जाणी हरि नामु हरि रसु भोगो ॥",
+          "time": 580027
+        },
+        {
+          "line": "कहै नानकु प्रभु आपि मिलिआ करण कारण जोगो ॥३४॥",
+          "time": 583081
+        },
+        {
+          "line": "ए सरीरा मेरिआ इसु जग महि आइ कै किआ तुधु करम कमाइआ ॥",
+          "time": 586072
+        },
+        {
+          "line": "कि करम कमाइआ तुधु सरीरा जा तू जग महि आइआ ॥",
+          "time": 590076
+        },
+        {
+          "line": "जिनि हरि तेरा रचनु रचिआ सो हरि मनि न वसाइआ ॥",
+          "time": 593064
+        },
+        {
+          "line": "गुर परसादी हरि मन्नि वसिआ पूरबि लिखिआ पाइआ ॥",
+          "time": 596089
+        },
+        {
+          "line": "कहै नानकु एहु सरीरु परवाणु होआ जिनि सतिगुर सिउ चितु लाइआ ॥३५॥",
+          "time": 599089
+        },
+        {
+          "line": "ए नेत्रहु मेरिहो हरि तुम महि जोत धर‍ी हरि बिनु अवरु न देखहु कोई ॥",
+          "time": 603030
+        },
+        {
+          "line": "हरि बिनु अवरु न देखहु कोई नदरी हरि निहालिया ॥",
+          "time": 607066
+        },
+        {
+          "line": "एहु विसु संसारु तुम देखदे एहु हरि का रूपु है हरि रूपु नदरी आइआ ॥",
+          "time": 611004
+        },
+        {
+          "line": "गुर परसादी बुझिआ जा वेखा हरि इकु है हरि बिनु अवरु न कोई ॥",
+          "time": 614092
+        },
+        {
+          "line": "कहै नानकु एहि नेत्र अंध से सतिगुरि मिलिऐ दिब द्रिष्टि होई ॥३६॥",
+          "time": 619067
+        },
+        {
+          "line": "ए स्रवणहु मेरिहो साचै सुनणै नो पठाए ॥",
+          "time": 623027
+        },
+        {
+          "line": "साचै सुनणै नो पठाए सरीरि लाए सुनहु सत बाणी ॥",
+          "time": 626043
+        },
+        {
+          "line": "जितु सुनी मनु तनु हरिआ होआ रसना रसि समाणी ॥",
+          "time": 629071
+        },
+        {
+          "line": "सचु अलख विडाणी ता की गति कही न जाए ॥",
+          "time": 633012
+        },
+        {
+          "line": "कहै नानकु अम्रित नामु सुनहु पवित्र होवहु साचै सुनणै नो पठाए ॥३७॥",
+          "time": 635098
+        },
+        {
+          "line": "हरि जीउ गुफा अंदरि रखि कै वाजा पवणु वजाइआ  ॥",
+          "time": 640067
+        },
+        {
+          "line": "वजाइआ वाजा पौण नौ दुआरे परगटु कीए दसवा गुपतु रखाइआ ॥",
+          "time": 643071
+        },
+        {
+          "line": "गुरदुआरै लाइ भावनी इकना दसवा दुआरु दिखाइआ ॥",
+          "time": 648019
+        },
+        {
+          "line": "तह अनेक रूप नाव नव निधि तिस का अंतु न जाई पाइआ ॥",
+          "time": 651030
+        },
+        {
+          "line": "कहै नानकु हरि पिआरै जीउ गुफा अंदरि रखि कै वाजा पवणु वजाइआ ॥३८॥",
+          "time": 655006
+        },
+        {
+          "line": "एहु साचा सोहिला साचै घरि गावहु ॥",
+          "time": 659036
+        },
+        {
+          "line": "गावहु त सोहिला घरि साचै जिथै सदा सचु धिआवहे ॥",
+          "time": 662038
+        },
+        {
+          "line": "सचो धिआवहि जा तुधु भावहि गुरमुखि जिना बुझावहे ॥",
+          "time": 665049
+        },
+        {
+          "line": "इहु सचु सभना का खसमु है जिसु बखसे सो जनु पावहे ॥",
+          "time": 668066
+        },
+        {
+          "line": "कहै नानकु सचु सोहिला साचै घरि गावहे ॥३९॥",
+          "time": 671099
+        },
+        {
+          "line": "अनदु सुनहु वडभागीहो सगल मनोरथ पूरे ॥",
+          "time": 675013
+        },
+        {
+          "line": "पारब्रहमु प्रभु पाइआ उत्रे सगल विसूरे ॥",
+          "time": 680098
+        },
+        {
+          "line": "दूख रोग संताप उत्रे सुनी सची बाणी ॥",
+          "time": 686080
+        },
+        {
+          "line": "संत साजन भए सरसे पूरे गुर ते जाणी ॥",
+          "time": 692056
+        },
+        {
+          "line": "सुंनते पुनीत कहते पवितु सतिगुरु रहिआ भरपूरे ॥ बिनवंति नानकु गुर चरण लागे वाजे अनहद तूरे ॥४०॥१॥३५॥",
+          "time": 698019
+        }
+      ]
+    }
+  ],
+  "info": "testings"
+}

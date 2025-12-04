@@ -6,7 +6,6 @@ import 'package:shabadguru/audio_service/audio_service.dart';
 import 'package:shabadguru/screens/music_player/music_player_controller.dart';
 import 'package:shabadguru/utils/colors.dart';
 import 'package:shabadguru/utils/dark_mode/app_state_notifier.dart';
-import 'package:shabadguru/utils/global.dart';
 
 // Widget for displaying audio progress bar with seek functionality
 class MusicPlayerSeekBar extends StatefulWidget {

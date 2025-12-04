@@ -1,6 +1,5 @@
 // Side navigation drawer widget with app logo and menu options
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:get/get.dart';
 import 'package:provider/provider.dart';
@@ -100,6 +99,38 @@ class SideDrawer extends StatelessWidget {
                 ),
               ),
             ),
+            // GestureDetector(
+            //   onTap: () {
+            //     Navigator.of(context).pop(); // Close drawer first
+            //     goToNitnemPage(context); // Then navigate to Nitnem
+            //   },
+            //   child: Container(
+            //     margin: const EdgeInsets.symmetric(horizontal: 20),
+            //     decoration:
+            //         BoxDecoration(borderRadius: BorderRadius.circular(5)),
+            //     padding: const EdgeInsets.all(10.0),
+            //     child: Row(
+            //       children: [
+            //         const Icon(
+            //           Icons.book_outlined,
+            //           color: Colors.white,
+            //           size: 22,
+            //         ),
+            //         const SizedBox(
+            //           width: 10,
+            //         ),
+            //         Text(
+            //           'Nitnem',
+            //           style: TextStyle(
+            //             color: Colors.white,
+            //             fontWeight: FontWeight.w600,
+            //             fontFamily: poppinsBold,
+            //           ),
+            //         )
+            //       ],
+            //     ),
+            //   ),
+            // ),
             const SizedBox(
               height: 5,
             ),

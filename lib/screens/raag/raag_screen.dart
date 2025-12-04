@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:flutter_staggered_animations/flutter_staggered_animations.dart';
 import 'package:get/get.dart';
 import 'package:provider/provider.dart';
@@ -10,10 +11,46 @@ import 'package:shabadguru/utils/dark_mode/app_state_notifier.dart';
 import 'package:shabadguru/utils/font.dart';
 import 'package:shabadguru/utils/global.dart';
 import 'package:shabadguru/utils/routes.dart';
+import 'package:shabadguru/network_service/models/shabad_raag_model.dart';
+import 'dart:convert';
+import 'dart:math';
 
 // Screen for displaying all Raags with category filtering (Pre Raags, Raags, Post Raags)
 class RaagScreen extends StatelessWidget {
   const RaagScreen({super.key});
+
+  // Helper function to map Nitnem name to JSON file name
+  String _getNitnemFileName(String name) {
+    // Normalize name: trim whitespace and convert to uppercase
+    String normalizedName = name.trim().toUpperCase();
+    
+    // Map API names to local JSON file names
+    switch (normalizedName) {
+      case 'JAAP SAHIB':
+        return 'shabad3.json';
+      case 'JAPJI SAHIB':
+        return 'shabad1.json';
+      case 'CHAUPAI SAHIB':
+        return 'shabad2.json';
+      case 'ANAND SAHIB':
+        return 'shabad4.json';
+      case 'SHABAD HAZARE':
+        return 'shabad5.json';
+      case 'TAU PRASAD SAVAIYE':
+      case 'TAV PRASAD SAVAIYE': // Handle both spellings
+        return 'shabad6.json';
+      // Add more mappings as needed
+      default:
+        // Try to match partial names
+        if (normalizedName.contains('HAZARE')) {
+          return 'shabad5.json';
+        }
+        if (normalizedName.contains('PRASAD') && normalizedName.contains('SAVAIYE')) {
+          return 'shabad6.json';
+        }
+        return '$name.json'; // Fallback to name.json
+    }
+  }
 
   // Build the Raags screen UI
   @override
@@ -160,6 +197,38 @@ class RaagScreen extends StatelessWidget {
                       ),
                     ),
                   ),
+                  // Nitnem filter button
+                  Obx(
+                    () => GestureDetector(
+                      onTap: () {
+                        controller.updateNitnem(); // Update to show Nitnem
+                      },
+                      child: Container(
+                        padding: const EdgeInsets.symmetric(
+                            horizontal: 10, vertical: 5), // Button padding
+                        margin: const EdgeInsets.only(left: 10), // Left margin
+                        decoration: BoxDecoration(
+                            color: controller.nitnemSelected.value
+                                ? const Color(0XFFB57F12) // Gold when selected
+                                : Colors.white, // White when not selected
+                            border: Border.all(
+                              color: const Color(
+                                0XFFB57F12, // Gold border
+                              ),
+                            ),
+                            borderRadius: BorderRadius.circular(5)), // Rounded corners
+                        child: Text(
+                          'Nitnem', // Button text
+                          style: TextStyle(
+                            fontFamily: poppinsRegular,
+                            color: controller.nitnemSelected.value
+                                ? Colors.white // White text when selected
+                                : const Color(0XFFB57F12), // Gold text when not selected
+                          ),
+                        ),
+                      ),
+                    ),
+                  ),
                 ],
               ),
               const SizedBox(
@@ -271,9 +340,150 @@ class RaagScreen extends StatelessWidget {
                                 : controller.preRaagsSelected.value
                                     ? controller
                                         .popularRaagsModel!.preRaags!.length // Pre Raags count
-                                    : controller
-                                        .popularRaagsModel!.postRaags!.length, // Post Raags count
+                                    : controller.nitnemSelected.value
+                                        ? (controller.nitnemModel?.data?.length ?? 0) // Nitnem count
+                                        : controller
+                                            .popularRaagsModel!.postRaags!.length, // Post Raags count
                             (int i) {
+                              // Handle Nitnem separately
+                              if (controller.nitnemSelected.value && controller.nitnemModel?.data != null) {
+                                var nitnemData = controller.nitnemModel!.data![i];
+                                return AnimationConfiguration.staggeredGrid(
+                                  columnCount: 2,
+                                  position: i,
+                                  duration: const Duration(milliseconds: 1500),
+                                  child: SlideAnimation(
+                                    verticalOffset: 50.0,
+                                    duration: const Duration(milliseconds: 1500),
+                                    child: FadeInAnimation(
+                                      child: GestureDetector(
+                                        onTap: () async {
+                                          // Load Nitnem data from local JSON file (like Banis)
+                                          try {
+                                            // Map Nitnem name to file name
+                                            String fileName = _getNitnemFileName(nitnemData.name?.toString() ?? '');
+                                            final String response = await rootBundle
+                                                .loadString('assets/nitnem_data/$fileName');
+                                            final data = await json.decode(response);
+                                            final shabadRaagModel = ShabadRaagModel.fromJson(data);
+                                            
+                                            if (shabadRaagModel.data != null && shabadRaagModel.data!.isNotEmpty) {
+                                              // Use ShabadData from JSON file (has all lyrics arrays)
+                                              final shabadData = shabadRaagModel.data![0];
+                                              final listOfShabads = [shabadData];
+                                              goToMusicPlayerPage(
+                                                context,
+                                                shabadData,
+                                                nitnemData.name?.toString() ?? 'Nitnem',
+                                                listOfShabads,
+                                              );
+                                            } else {
+                                              // Fallback: Create ShabadData manually if JSON not found
+                                              final shabadData = ShabadData(
+                                                title: nitnemData.name?.toString() ?? 'Nitnem',
+                                                song: nitnemData.name?.toString() ?? 'Nitnem',
+                                                author: 'Nitnem',
+                                                audio: nitnemData.file?.toString() ?? '',
+                                                jsonData: nitnemData.lyricsFile?.toString() ?? '',
+                                                albumart: '',
+                                              );
+                                              final listOfShabads = [shabadData];
+                                              goToMusicPlayerPage(
+                                                context,
+                                                shabadData,
+                                                nitnemData.name?.toString() ?? 'Nitnem',
+                                                listOfShabads,
+                                              );
+                                            }
+                                          } catch (e) {
+                                            // Fallback: Create ShabadData manually if JSON file not found
+                                            final shabadData = ShabadData(
+                                              title: nitnemData.name?.toString() ?? 'Nitnem',
+                                              song: nitnemData.name?.toString() ?? 'Nitnem',
+                                              author: 'Nitnem',
+                                              audio: nitnemData.file?.toString() ?? '',
+                                              jsonData: nitnemData.lyricsFile?.toString() ?? '',
+                                              albumart: '',
+                                            );
+                                            final listOfShabads = [shabadData];
+                                            goToMusicPlayerPage(
+                                              context,
+                                              shabadData,
+                                              nitnemData.name?.toString() ?? 'Nitnem',
+                                              listOfShabads,
+                                            );
+                                          }
+                                        },
+                                        child: Container(
+                                          margin: const EdgeInsets.only(left: 10, right: 10, bottom: 10),
+                                          child: Card(
+                                            elevation: 0.4,
+                                            color: themeProvider.darkTheme
+                                                ? Colors.blueGrey.shade900
+                                                : Colors.white,
+                                            shape: RoundedRectangleBorder(
+                                              borderRadius: BorderRadius.circular(12),
+                                            ),
+                                            child: Container(
+                                              width: widthOfScreen,
+                                              height: 70,
+                                              decoration: BoxDecoration(
+                                                borderRadius: BorderRadius.circular(12),
+                                              ),
+                                              child: Row(
+                                                children: [
+                                                  const SizedBox(width: 10),
+                                                  Container(
+                                                    width: 35,
+                                                    height: 35,
+                                                    decoration: BoxDecoration(
+                                                      color: themeProvider.darkTheme ? Colors.black : Colors.white,
+                                                      shape: BoxShape.circle,
+                                                      border: Border.all(
+                                                        width: 1.5,
+                                                        color: themeProvider.darkTheme ? Colors.white : Colors.grey.shade400,
+                                                      ),
+                                                    ),
+                                                    child: Center(
+                                                      child: Icon(
+                                                        Icons.play_arrow,
+                                                        color: themeProvider.darkTheme ? Colors.white : Colors.grey.shade400,
+                                                      ),
+                                                    ),
+                                                  ),
+                                                  const SizedBox(width: 10),
+                                                  Expanded(
+                                                    child: Column(
+                                                      mainAxisSize: MainAxisSize.min,
+                                                      crossAxisAlignment: CrossAxisAlignment.start,
+                                                      mainAxisAlignment: MainAxisAlignment.center,
+                                                      children: [
+                                                        Text(
+                                                          nitnemData.name ?? '',
+                                                          maxLines: 2,
+                                                          overflow: TextOverflow.ellipsis,
+                                                          style: TextStyle(
+                                                            fontFamily: poppinsRegular,
+                                                            color: themeProvider.darkTheme ? Colors.white : Colors.black,
+                                                            fontSize: 16,
+                                                            fontWeight: FontWeight.w600,
+                                                          ),
+                                                        ),
+                                                      ],
+                                                    ),
+                                                  ),
+                                                  const SizedBox(width: 10),
+                                                ],
+                                              ),
+                                            ),
+                                          ),
+                                        ),
+                                      ),
+                                    ),
+                                  ),
+                                );
+                              }
+
                               // Get raag data based on selected category
                               var raagData = controller.raagsSelected.value
                                   ? controller.popularRaagsModel!.data![i] // Raags data
@@ -321,10 +531,177 @@ class RaagScreen extends StatelessWidget {
                                 : controller.preRaagsSelected.value
                                     ? controller
                                         .popularRaagsModel!.preRaags!.length // Pre Raags count
-                                    : controller
-                                        .popularRaagsModel!.postRaags!.length, // Post Raags count
+                                    : controller.nitnemSelected.value
+                                        ? (controller.nitnemModel?.data?.length ?? 0) // Nitnem count
+                                        : controller
+                                            .popularRaagsModel!.postRaags!.length, // Post Raags count
                             padding: const EdgeInsets.only(top: 0, bottom: 60), // List padding
                             itemBuilder: (context, index) {
+                              // Handle Nitnem separately in ListView
+                                  if (controller.nitnemSelected.value && controller.nitnemModel?.data != null) {
+                                    var nitnemData = controller.nitnemModel!.data![index];
+                                    return AnimationConfiguration.staggeredList(
+                                      position: index,
+                                      duration: const Duration(milliseconds: 1000),
+                                      child: SlideAnimation(
+                                        verticalOffset: 50.0,
+                                        duration: const Duration(milliseconds: 1000),
+                                        child: FadeInAnimation(
+                                          child: GestureDetector(
+                                            onTap: () async {
+                                              // Load Nitnem data from local JSON file (like Banis)
+                                              try {
+                                                // Map Nitnem name to file name
+                                                String fileName = _getNitnemFileName(nitnemData.name?.toString() ?? '');
+                                                final String response = await rootBundle
+                                                    .loadString('assets/nitnem_data/$fileName');
+                                                final data = await json.decode(response);
+                                                final shabadRaagModel = ShabadRaagModel.fromJson(data);
+                                                
+                                                if (shabadRaagModel.data != null && shabadRaagModel.data!.isNotEmpty) {
+                                                  // Use ShabadData from JSON file (has all lyrics arrays)
+                                                  final shabadData = shabadRaagModel.data![0];
+                                                  final listOfShabads = [shabadData];
+                                                  goToMusicPlayerPage(
+                                                    context,
+                                                    shabadData,
+                                                    nitnemData.name?.toString() ?? 'Nitnem',
+                                                    listOfShabads,
+                                                  );
+                                                } else {
+                                                  // Fallback: Create ShabadData manually if JSON not found
+                                                  final shabadData = ShabadData(
+                                                    title: nitnemData.name?.toString() ?? 'Nitnem',
+                                                    song: nitnemData.name?.toString() ?? 'Nitnem',
+                                                    author: 'Nitnem',
+                                                    audio: nitnemData.file?.toString() ?? '',
+                                                    jsonData: nitnemData.lyricsFile?.toString() ?? '',
+                                                    albumart: '',
+                                                  );
+                                                  final listOfShabads = [shabadData];
+                                                  goToMusicPlayerPage(
+                                                    context,
+                                                    shabadData,
+                                                    nitnemData.name?.toString() ?? 'Nitnem',
+                                                    listOfShabads,
+                                                  );
+                                                }
+                                              } catch (e) {
+                                                // Fallback: Create ShabadData manually if JSON file not found
+                                                final shabadData = ShabadData(
+                                                  title: nitnemData.name?.toString() ?? 'Nitnem',
+                                                  song: nitnemData.name?.toString() ?? 'Nitnem',
+                                                  author: 'Nitnem',
+                                                  audio: nitnemData.file?.toString() ?? '',
+                                                  jsonData: nitnemData.lyricsFile?.toString() ?? '',
+                                                  albumart: '',
+                                                );
+                                                final listOfShabads = [shabadData];
+                                                goToMusicPlayerPage(
+                                                  context,
+                                                  shabadData,
+                                                  nitnemData.name?.toString() ?? 'Nitnem',
+                                                  listOfShabads,
+                                                );
+                                              }
+                                            },
+                                        child: Container(
+                                          margin: const EdgeInsets.only(left: 10, right: 10, bottom: 10),
+                                          child: Card(
+                                            elevation: 0.4,
+                                            color: themeProvider.darkTheme
+                                                ? Colors.blueGrey.shade900
+                                                : Colors.white,
+                                            shape: RoundedRectangleBorder(
+                                              borderRadius: BorderRadius.circular(12),
+                                            ),
+                                            child: Container(
+                                              width: widthOfScreen,
+                                              height: 70,
+                                              decoration: BoxDecoration(
+                                                borderRadius: BorderRadius.circular(12),
+                                              ),
+                                              child: Row(
+                                                children: [
+                                                  const SizedBox(width: 10),
+                                                  Container(
+                                                    width: 35,
+                                                    height: 35,
+                                                    decoration: BoxDecoration(
+                                                      color: themeProvider.darkTheme ? Colors.black : Colors.white,
+                                                      shape: BoxShape.circle,
+                                                      border: Border.all(
+                                                        width: 1.5,
+                                                        color: themeProvider.darkTheme ? Colors.white : Colors.grey.shade400,
+                                                      ),
+                                                    ),
+                                                    child: Center(
+                                                      child: Icon(
+                                                        Icons.play_arrow,
+                                                        color: themeProvider.darkTheme ? Colors.white : Colors.grey.shade400,
+                                                      ),
+                                                    ),
+                                                  ),
+                                                  const SizedBox(width: 10),
+                                                  // Colored avatar with initials (ListView Nitnem)
+                                                  Card(
+                                                    elevation: 2,
+                                                    shape: RoundedRectangleBorder(
+                                                      borderRadius: BorderRadius.circular(10),
+                                                    ),
+                                                    child: Container(
+                                                      width: 50,
+                                                      height: 50,
+                                                      decoration: BoxDecoration(
+                                                        color: Color((Random().nextDouble() * 0xFFFFFF).toInt()).withOpacity(1.0),
+                                                        borderRadius: BorderRadius.circular(10),
+                                                      ),
+                                                      child: Center(
+                                                        child: Text(
+                                                          getShortNameOfRaag(nitnemData.name.toString()),
+                                                          style: TextStyle(
+                                                            color: Colors.white,
+                                                            fontFamily: poppinsExtraBold,
+                                                            fontSize: 22,
+                                                            fontWeight: FontWeight.w400,
+                                                          ),
+                                                        ),
+                                                      ),
+                                                    ),
+                                                  ),
+                                                  const SizedBox(width: 10),
+                                                  Expanded(
+                                                    child: Column(
+                                                      mainAxisSize: MainAxisSize.min,
+                                                      crossAxisAlignment: CrossAxisAlignment.start,
+                                                      mainAxisAlignment: MainAxisAlignment.center,
+                                                      children: [
+                                                        Text(
+                                                          nitnemData.name ?? '',
+                                                          maxLines: 2,
+                                                          overflow: TextOverflow.ellipsis,
+                                                          style: TextStyle(
+                                                            fontFamily: poppinsRegular,
+                                                            color: themeProvider.darkTheme ? Colors.white : Colors.black,
+                                                            fontSize: 16,
+                                                            fontWeight: FontWeight.w600,
+                                                          ),
+                                                        ),
+                                                      ],
+                                                    ),
+                                                  ),
+                                                  const SizedBox(width: 10),
+                                                ],
+                                              ),
+                                            ),
+                                          ),
+                                        ),
+                                      ),
+                                    ),
+                                  ),
+                                );
+                              }
+
                               // Get raag data based on selected category
                               var raagData = controller.raagsSelected.value
                                   ? controller.popularRaagsModel!.data![index] // Raags data

@@ -118,7 +118,7 @@ class SettingsScreen extends StatelessWidget {
                                   Obx(
                                     () => Switch(
                                       value: controller.isNotificationOn.value, // Current notification state
-                                      activeColor: secondPrimaryColor, // Gold color when active
+                                      activeThumbColor: secondPrimaryColor, // Gold color when active
                                       onChanged: (val) async {
                                         controller.isNotificationOn.value =
                                             !controller.isNotificationOn.value; // Toggle state
@@ -193,7 +193,7 @@ class SettingsScreen extends StatelessWidget {
                                   Obx(
                                     () => Switch(
                                       value: controller.isDakrModeOn.value, // Current dark mode state
-                                      activeColor: secondPrimaryColor, // Gold color when active
+                                      activeThumbColor: secondPrimaryColor, // Gold color when active
                                       onChanged: (val) {
                                         controller.isDakrModeOn.value =
                                             !controller.isDakrModeOn.value; // Toggle state

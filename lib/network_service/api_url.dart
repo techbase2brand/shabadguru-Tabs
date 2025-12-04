@@ -8,4 +8,5 @@ class ApiUrl {
   static const emailSubscribeUrl = "https://shabad-guru.org/api/subscriber"; // Email subscription endpoint
   static const uploadPushNotificationToken = "https://shabad-guru.org/api/pushnotification"; // Push notification token upload endpoint
   static const updatePermission = "https://shabad-guru.org/api/pushnotification/permission"; // Notification permission update endpoint
+  static const nitnemUrl = "https://shabad-guru.org/api/nitnem-sahib"; // Nitnem list endpoint
 }

@@ -1,0 +1,205 @@
+{
+  "status": 200,
+  "message": "",
+  "data": [
+    {
+      "albumart": "",
+      "author": "",
+      "title": "JAAP SAHIB",
+      "song": "JAAP SAHIB",
+      "json": "https://shabad-guru.org/uploads/data/Nitnem/JAAP SAHIB.json",
+      "audio": "https://shabadguru.s3.us-west-1.amazonaws.com/gurbani/lrc n- Project/Nitnem/mp3/song/JAAP SAHIB.mp3",
+      "punjabi": 1,
+      "english": 1,
+      "english_trans": 1,
+      "spanish": 1,
+      "hindi": null,
+      "file_name_on_s3": "JAAP SAHIB Pb",
+      "english_lyrics": [
+        {
+          "line": "The Khalsa belongs to God, and victory belongs to God.",
+          "time": 24
+        },
+        {
+          "line": "The Lord is One and He can be attained through the grace of the True Guru.",
+          "time": 30
+        },
+        {
+          "line": "Name of the Bani: Japu Sahib",
+          "time": 7008
+        },
+        {
+          "line": "The sacred utterance of The Tenth Sovereign:",
+          "time": 7081
+        },
+        {
+          "line": "CHHAPAI STANZA. BY THY GRACE",
+          "time": 10060
+        },
+        {
+          "line": "He who is without mark or sign, He who is without caste or line.",
+          "time": 13038
+        },
+        {
+          "line": "He who is without colour or form, and without any distinctive norm.",
+          "time": 17003
+        },
+        {
+          "line": "He who is without limit and motion, All effulgence, non-descript Ocean.",
+          "time": 20050
+        },
+        {
+          "line": "The Lord of millions of Indras and kings, the Master of all worlds and beings.",
+          "time": 24008
+        },
+        {
+          "line": "Each twig of the foliage proclaims: \"Not this Thou art.\"",
+          "time": 27004
+        },
+        {
+          "line": "All Thy Names cannot be told. One doth impart Thy Action-Name with benign heart.1.",
+          "time": 31025
+        }
+      ],
+      "english_trans_lyrics": [
+        {
+          "line": "Waheguru ji ka Khalsa, Waheguru ji ki fateh.",
+          "time": 24
+        },
+        {
+          "line": "Ik onkar satgur parsad.",
+          "time": 3000
+        },
+        {
+          "line": "JAAP",
+          "time": 7008
+        },
+        {
+          "line": "siri mukh vak paatshahi 10",
+          "time": 7081
+        },
+        {
+          "line": "chaupayee chhund. tav parsad.",
+          "time": 10060
+        },
+        {
+          "line": "chakar chehun ar burn, jaat ar paat nehun jeh",
+          "time": 13038
+        },
+        {
+          "line": "roop rung ar raikh, bhaikh kohoo keh na skut keh",
+          "time": 17003
+        },
+        {
+          "line": "achul mooret anbho parkas ametoje kehjai",
+          "time": 20050
+        },
+        {
+          "line": "koti eindar eindran saho sahan gnejai",
+          "time": 24008
+        },
+        {
+          "line": "tirbhavn maheep sur nar asur naiti naiti bun tirun keht",
+          "time": 27004
+        },
+        {
+          "line": "tav sarb nam kathai kavan karm nam barnt sumati. (1)",
+          "time": 31025
+        }
+      ],
+      "spanish_lyrics": [
+        {
+          "line": "El Khalsa pertenece a Dios, y la victoria pertenece a Dios.",
+          "time": 30
+        },
+        {
+          "line": "El Señor es Uno y se puede alcanzar a través de la gracia del Verdadero Gurú.",
+          "time": 7008
+        },
+        {
+          "line": "Nombre del Bani: Jaap Sahib",
+          "time": 7081
+        },
+        {
+          "line": "La sagrada declaración del Décimo Soberano:",
+          "time": 10060
+        },
+        {
+          "line": "ESTROFA CHHAPAI. POR TU GRACIA",
+          "time": 13038
+        },
+        {
+          "line": "Aquel que está sin marca ni señal, Aquel que está sin casta ni linaje.",
+          "time": 17003
+        },
+        {
+          "line": "Aquel que está sin color ni forma, y sin ninguna norma distintiva.",
+          "time": 20050
+        },
+        {
+          "line": "Aquel que es sin límite ni movimiento, Toda resplandor, Océano indescriptible.",
+          "time": 24008
+        },
+        {
+          "line": "El Señor de millones de Indras y reyes, el Maestro de todos los mundos y seres.",
+          "time": 27004
+        },
+        {
+          "line": "Cada ramita del follaje proclama: \"No esto eres Tú.\"",
+          "time": 31025
+        },
+        {
+          "line": "No pueden ser contados todos Tus Nombres. Uno imparte Tu Nombre de Acción con corazón benigno.1.",
+          "time": 34064
+        }
+      ],
+      "hindi_lyrics": [
+        {
+          "line": "वाहेगुरु जी का खालसा वाहेगुरु जी की फतेह॥",
+          "time": 24
+        },
+        {
+          "line": "ੴ ਸਤਿਗੁਰ ਪ੍ਰਸਾਦਿ ॥",
+          "time": 3000
+        },
+        {
+          "line": "ਜਾਪੁ ॥",
+          "time": 7008
+        },
+        {
+          "line": "ਸ੍ਰੀ ਮੁਖਵਾਕ ਪਾਤਸਾਹੀ ੧੦ ॥",
+          "time": 7081
+        },
+        {
+          "line": "ਛਪੈ ਛੰਦ ॥ ਤ੍ਵਪ੍ਰਸਾਦਿ ॥",
+          "time": 10060
+        },
+        {
+          "line": "ਚਕ੍ਰ ਚਿਹਨ ਅਰੁ ਬਰਨ ਜਾਤਿ ਅਰੁ ਪਾਤਿ ਨਹਿਨ ਜਿਹ ॥",
+          "time": 13038
+        },
+        {
+          "line": "ਰੂਪ ਰੰਗ ਅਰੁ ਰੇਖ ਭੇਖ ਕੋਊ ਕਹਿ ਨ ਸਕਤਿ ਕਿਹ ॥",
+          "time": 17003
+        },
+        {
+          "line": "ਅਚਲ ਮੂਰਤਿ ਅਨਭਉ ਪ੍ਰਕਾਸ਼ ਅਮਿਤੋਜ ਕਹਿਜੈ ॥",
+          "time": 20050
+        },
+        {
+          "line": "ਕੋਟਿ ਇੰਦ੍ਰ ਇੰਦ੍ਰਾਣਿ ਸਾਹੁ ਸਾਹਾਣਿ ਗਣਿਜੈ ॥",
+          "time": 24008
+        },
+        {
+          "line": "ਤ੍ਰਿਭਵਣ ਮਹੀਪ ਸੁਰ ਨਰ ਅਸੁਰ ਨੇਤਿ ਨੇਤਿ ਬਨ ਤ੍ਰਿਣ ਕਹਤ ॥",
+          "time": 27004
+        },
+        {
+          "line": "ਤ੍ਵ ਸਰਬ ਨਾਮ ਕਥੈ ਕਵਨ ਕਰਮ ਨਾਮ ਬਰੰਤੁ ਸੁਮਤਿ ॥੧॥",
+          "time": 31025
+        }
+      ]
+    }
+  ],
+  "info": "testings"
+}

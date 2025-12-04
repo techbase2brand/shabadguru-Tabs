@@ -162,7 +162,7 @@ class SelectPlaylistScreen extends StatelessWidget {
                       child: ElevatedButton(
                         style: ButtonStyle(
                             backgroundColor:
-                                MaterialStateProperty.all(darkBlueColor)), // Button background
+                                WidgetStateProperty.all(darkBlueColor)), // Button background
                         onPressed: () async {
                           if (controller.selectedPlaylistList.isEmpty) {
                             // Show error message if no playlist selected

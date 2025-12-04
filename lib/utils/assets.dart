@@ -13,6 +13,7 @@ String contactsUsSvg = 'assets/images/contact_us.svg'; // Contact us tab icon
 String appBarLogo = 'assets/images/app_bar_logo.png'; // App bar logo
 String theKirtanisSvg = 'assets/images/the_kirtanis.svg'; // The Kirtanis section icon
 String translatorSvg = 'assets/images/translator.svg'; // Translator feature icon
+String nitnemSvg = 'assets/images/nitnem.svg'; // Nitnem section icon
 
 // Music player control icons
 String forwardSvg = 'assets/images/forward.svg'; // Forward/next track icon

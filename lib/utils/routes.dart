@@ -17,9 +17,11 @@ import 'package:shabadguru/screens/shabad_banis/shabad_screen_banis.dart';
 import 'package:shabadguru/screens/shabad_home/shabad_screen.dart';
 import 'package:shabadguru/screens/shabad_raags/shabad_screen_raags.dart';
 import 'package:shabadguru/screens/the_kirtanis/the_kirtanis_screen.dart';
+import 'package:shabadguru/screens/nitnem/nitnem_screen.dart';
+import 'package:shabadguru/screens/nitnem/nitnem_shabad_screen.dart';
 
 // Navigate to music player page with audio state management
-goToMusicPlayerPage(context, ShabadData shabadData, String title,
+void goToMusicPlayerPage(context, ShabadData shabadData, String title,
     List<ShabadData> listOfShabads) {
   if (audioHandler != null) {
     if (playingShabadData != null) {
@@ -63,7 +65,7 @@ goToMusicPlayerPage(context, ShabadData shabadData, String title,
 }
 
 // Navigate to The Kirtanis page
-goToTheKirtanisPage(context) {
+void goToTheKirtanisPage(context) {
   PersistentNavBarNavigator.pushNewScreen(
     context,
     screen: const TheKirtanisScreen(), // The Kirtanis screen
@@ -73,7 +75,7 @@ goToTheKirtanisPage(context) {
   );
 }
 
-goToShabadHomePage(context, String categoryId, String id, String title) {
+void goToShabadHomePage(context, String categoryId, String id, String title) {
  PersistentNavBarNavigator.pushNewScreen(
     context,
     screen: ShabadScreen(
@@ -87,7 +89,7 @@ goToShabadHomePage(context, String categoryId, String id, String title) {
   );
 }
 
-goToShabadBanisPage(context, String categoryId, String id, String title) {
+void goToShabadBanisPage(context, String categoryId, String id, String title) {
   PersistentNavBarNavigator.pushNewScreen(
     context,
     screen: ShabadScreenBanis(
@@ -101,7 +103,7 @@ goToShabadBanisPage(context, String categoryId, String id, String title) {
   );
 }
 
-goToShabadRaagPage(context, String categoryId, String id, String title) {
+void goToShabadRaagPage(context, String categoryId, String id, String title) {
 PersistentNavBarNavigator.pushNewScreen(
     context,
     screen: ShabadScreenRaags(
@@ -218,4 +220,31 @@ Future<dynamic> goToEmailSubscribeScreen(context) async {
     // routeSettings: const RouteSettings(name: 'email_subscribe'),
   );
   return result;
+}
+
+// Navigate to Nitnem page
+Future<dynamic> goToNitnemPage(context) async {
+  final result = await PersistentNavBarNavigator.pushNewScreen(
+    context,
+    screen: const NitnemScreen(),
+    withNavBar: true,
+    pageTransitionAnimation: PageTransitionAnimation.cupertino,
+    // routeSettings: const RouteSettings(name: 'nitnem'),
+  );
+  return result;
+}
+
+// Navigate to Nitnem Shabad page with audio and lyrics URLs
+void goToNitnemShabadPage(context, String audioUrl, String lyricsUrl, String title) {
+  PersistentNavBarNavigator.pushNewScreen(
+    context,
+    screen: NitnemShabadScreen(
+      audioUrl: audioUrl,
+      lyricsUrl: lyricsUrl,
+      title: title,
+    ),
+    withNavBar: true,
+    pageTransitionAnimation: PageTransitionAnimation.cupertino,
+    // routeSettings: const RouteSettings(name: 'nitnem_shabad'),
+  );
 }

@@ -1,0 +1,1645 @@
+{
+  "status": 200,
+  "message": "",
+  "data": [
+    {
+      "albumart": "",
+      "author": "",
+      "title": "SHABAD HAZARE",
+      "song": "SHABAD HAZARE",
+      "json": "https://shabad-guru.org/uploads/data/Nitnem/SHABAD HAZARE.json",
+      "audio": "https://shabadguru.s3.us-west-1.amazonaws.com/gurbani/lrc n- Project/Nitnem/mp3/song/SHABAD HAZARE.mp3",
+      "punjabi": 1,
+      "english": 1,
+      "english_trans": 1,
+      "spanish": 1,
+      "hindi": null,
+      "file_name_on_s3": "SHABAD HAZARE Pb",
+      "english_lyrics": [
+        {
+          "line": "The Khalsa belongs to God, and victory belongs to God.",
+          "time": 0
+        },
+        {
+          "line": "Maajh, Fifth Mehl, Chau-Padhay, First House:",
+          "time": 5088
+        },
+        {
+          "line": "My mind longs for the Blessed Vision of the Guru's Darshan. It cries out like the thirsty song-bird.",
+          "time": 10002
+        },
+        {
+          "line": "My thirst is not quenched, and I can find no peace, without the Blessed Vision of the Beloved Saint. ||1||",
+          "time": 14059
+        },
+        {
+          "line": "I am a sacrifice, my soul is a sacrifice, to the Blessed Vision of the Beloved Saint Guru. ||1||Pause||",
+          "time": 18019
+        },
+        {
+          "line": "Your Face is so Beautiful, and the Sound of Your Words imparts intuitive wisdom.",
+          "time": 23049
+        },
+        {
+          "line": "It is so long since this rainbird has had even a glimpse of water.",
+          "time": 26084
+        },
+        {
+          "line": "Blessed is that land where You dwell, O my Friend and Intimate Divine Guru. ||2||",
+          "time": 29033
+        },
+        {
+          "line": "I am a sacrifice, I am forever a sacrifice, to my Friend and Intimate Divine Guru. ||1||Pause||",
+          "time": 33064
+        },
+        {
+          "line": "When I could not be with You for just one moment, the Dark Age of Kali Yuga dawned for me.",
+          "time": 38040
+        },
+        {
+          "line": "When will I meet You, O my Beloved Lord?",
+          "time": 41038
+        },
+        {
+          "line": "I cannot endure the night, and sleep does not come, without the Sight of the Beloved Guru's Court. ||3||",
+          "time": 43073
+        },
+        {
+          "line": "I am a sacrifice, my soul is a sacrifice, to that True Court of the Beloved Guru. ||1||Pause||",
+          "time": 48064
+        },
+        {
+          "line": "By good fortune, I have met the Saint Guru. I have found the Immortal Lord within the home of my own self.",
+          "time": 53031
+        },
+        {
+          "line": "I will now serve You forever, and I shall never be separated from You, even for an instant. Servant Nanak is Your slave, O Beloved Master. ||4||",
+          "time": 57057
+        },
+        {
+          "line": "I am a sacrifice, my soul is a sacrifice; servant Nanak is Your slave, Lord. ||Pause||1||8||",
+          "time": 63014
+        },
+        {
+          "line": "Dhanaasaree, First Mehl, First House, Chau-Padhay:",
+          "time": 67022
+        },
+        {
+          "line": "One Universal Creator God. Truth Is The Name. Creative Being Personified. No Fear. No Hatred. Image Of The Undying. Beyond Birth. Self-Existent. By Guru's Grace:",
+          "time": 71025
+        },
+        {
+          "line": "My soul is afraid; to whom should I complain?",
+          "time": 80068
+        },
+        {
+          "line": "I serve Him, who makes me forget my pains; He is the Giver, forever and ever. ||1||",
+          "time": 84028
+        },
+        {
+          "line": "My Lord and Master is forever new; He is the Giver, forever and ever. ||1||Pause||",
+          "time": 88003
+        },
+        {
+          "line": "Night and day, I serve my Lord and Master; He shall save me in the end.",
+          "time": 92036
+        },
+        {
+          "line": "Hearing and listening, O my dear sister, I have crossed over. ||2||",
+          "time": 95046
+        },
+        {
+          "line": "O Merciful Lord, Your Name carries me across. I am forever a sacrifice to You. ||1||Pause||",
+          "time": 99005
+        },
+        {
+          "line": "In all the world, there is only the One True Lord; there is no other at all.",
+          "time": 102072
+        },
+        {
+          "line": "He alone serves the Lord, upon whom the Lord casts His Glance of Grace. ||3||",
+          "time": 106043
+        },
+        {
+          "line": "Without You, O Beloved, how could I even live?",
+          "time": 110004
+        },
+        {
+          "line": "Bless me with such greatness, that I may remain attached to Your Name.",
+          "time": 112079
+        },
+        {
+          "line": "There is no other, O Beloved, to whom I can go and speak. ||1||Pause||",
+          "time": 115097
+        },
+        {
+          "line": "I serve my Lord and Master; I ask for no other.",
+          "time": 119071
+        },
+        {
+          "line": "Nanak is His slave; moment by moment, bit by bit, he is a sacrifice to Him. ||4||",
+          "time": 123028
+        },
+        {
+          "line": "O Lord Master, I am a sacrifice to Your Name, moment by moment, bit by bit. ||1||Pause||4||1||",
+          "time": 126053
+        },
+        {
+          "line": "Tilang, First Mehl, Third House:",
+          "time": 130092
+        },
+        {
+          "line": "One Universal Creator God. By The Grace Of The True Guru:",
+          "time": 133050
+        },
+        {
+          "line": "This body fabric is conditioned by Maya, O beloved; this cloth is dyed in greed.",
+          "time": 136033
+        },
+        {
+          "line": "My Husband Lord is not pleased by these clothes, O Beloved; how can the soul-bride go to His bed? ||1||",
+          "time": 140007
+        },
+        {
+          "line": "I am a sacrifice, O Dear Merciful Lord; I am a sacrifice to You.",
+          "time": 144008
+        },
+        {
+          "line": "I am a sacrifice to those who take to Your Name.",
+          "time": 147072
+        },
+        {
+          "line": "Unto those who take to Your Name, I am forever a sacrifice. ||1||Pause||",
+          "time": 151027
+        },
+        {
+          "line": "If the body becomes the dyer's vat, O Beloved, and the Name is placed within it as the dye,",
+          "time": 156007
+        },
+        {
+          "line": "and if the Dyer who dyes this cloth is the Lord Master – O, such a color has never been seen before! ||2||",
+          "time": 159077
+        },
+        {
+          "line": "Those whose shawls are so dyed, O Beloved, their Husband Lord is always with them.",
+          "time": 163068
+        },
+        {
+          "line": "Bless me with the dust of those humble beings, O Dear Lord. Says Nanak, this is my prayer. ||3||",
+          "time": 167038
+        },
+        {
+          "line": "He Himself creates, and He Himself imbues us. He Himself bestows His Glance of Grace.",
+          "time": 171086
+        },
+        {
+          "line": "O Nanak, if the soul-bride becomes pleasing to her Husband Lord, He Himself enjoys her. ||4||1||3||",
+          "time": 175023
+        },
+        {
+          "line": "Tilang, First Mehl:",
+          "time": 178078
+        },
+        {
+          "line": "O foolish and ignorant soul-bride, why are you so proud?",
+          "time": 180099
+        },
+        {
+          "line": "Within the home of your own self, why do you not enjoy the Love of your Lord?",
+          "time": 183059
+        },
+        {
+          "line": "Your Husband Lord is so very near, O foolish bride; why do you search for Him outside?",
+          "time": 185096
+        },
+        {
+          "line": "Apply the Fear of God as the mascara to adorn your eyes, and make the Love of the Lord your ornament.",
+          "time": 189051
+        },
+        {
+          "line": "Then, you shall be known as a devoted and committed soul-bride, when you enshrine love for your Husband Lord. ||1||",
+          "time": 193006
+        },
+        {
+          "line": "What can the silly young bride do, if she is not pleasing to her Husband Lord?",
+          "time": 196076
+        },
+        {
+          "line": "She may plead and implore so many times, but still, such a bride shall not obtain the Mansion of the Lord's Presence.",
+          "time": 200013
+        },
+        {
+          "line": "Without the karma of good deeds, nothing is obtained, although she may run around frantically.",
+          "time": 204002
+        },
+        {
+          "line": "She is intoxicated with greed, pride and egotism, and engrossed in Maya.",
+          "time": 207063
+        },
+        {
+          "line": "She cannot obtain her Husband Lord in these ways; the young bride is so foolish! ||2||",
+          "time": 211024
+        },
+        {
+          "line": "Go and ask the happy, pure soul-brides, how did they obtain their Husband Lord?",
+          "time": 215002
+        },
+        {
+          "line": "Whatever the Lord does, accept that as good; do away with your own cleverness and self-will.",
+          "time": 218090
+        },
+        {
+          "line": "By His Love, true wealth is obtained; link your consciousness to His lotus feet.",
+          "time": 222081
+        },
+        {
+          "line": "As your Husband Lord directs, so you must act; surrender your body and mind to Him, and apply this perfume to yourself.",
+          "time": 226062
+        },
+        {
+          "line": "So speaks the happy soul-bride, O sister; in this way, the Husband Lord is obtained. ||3||",
+          "time": 230035
+        },
+        {
+          "line": "Give up your selfhood, and so obtain your Husband Lord; what other clever tricks are of any use?",
+          "time": 234087
+        },
+        {
+          "line": "When the Husband Lord looks upon the soul-bride with His Gracious Glance, that day is historic – the bride obtains the nine treasures.",
+          "time": 238057
+        },
+        {
+          "line": "She who is loved by her Husband Lord, is the true soul-bride; O Nanak, she is the queen of all.",
+          "time": 242034
+        },
+        {
+          "line": "Thus she is imbued with His Love, intoxicated with delight; day and night, she is absorbed in His Love.",
+          "time": 246037
+        },
+        {
+          "line": "She is beautiful, glorious and brilliant; she is known as truly wise. ||4||2||4||",
+          "time": 250033
+        },
+        {
+          "line": "Soohee, First Mehl:",
+          "time": 253080
+        },
+        {
+          "line": "What scale, what weights, and what assayer shall I call for You, Lord?",
+          "time": 255093
+        },
+        {
+          "line": "From what guru should I receive instruction? By whom should I have Your value appraised? ||1||",
+          "time": 259074
+        },
+        {
+          "line": "O my Dear Beloved Lord, Your limits are not known.",
+          "time": 263034
+        },
+        {
+          "line": "You pervade the water, the land, and the sky; You Yourself are All-pervading. ||1||Pause||",
+          "time": 266046
+        },
+        {
+          "line": "Mind is the scale, consciousness the weights, and the performance of Your service is the appraiser.",
+          "time": 271007
+        },
+        {
+          "line": "Deep within my heart, I weigh my Husband Lord; in this way I focus my consciousness. ||2||",
+          "time": 274093
+        },
+        {
+          "line": "You Yourself are the balance, the weights and the scale; You Yourself are the weigher.",
+          "time": 278024
+        },
+        {
+          "line": "You Yourself see, and You Yourself understand; You Yourself are the trader. ||3||",
+          "time": 282012
+        },
+        {
+          "line": "The blind, low class wandering soul, comes for a moment, and departs in an instant.",
+          "time": 285081
+        },
+        {
+          "line": "In its company, Nanak dwells; how can the fool attain the Lord? ||4||2||9||",
+          "time": 289072
+        },
+        {
+          "line": "One Universal Creator God. Truth Is The Name. Creative Being Personified. No Fear. No Hatred. Image Of The Undying. Beyond Birth. Self-Existent. By Guru's Grace:",
+          "time": 293032
+        },
+        {
+          "line": "Raag Bilaaval, First Mehl, Chau-Padhay, First House:",
+          "time": 304075
+        },
+        {
+          "line": "You are the Emperor, and I call You a chief – how does this add to Your greatness?",
+          "time": 308083
+        },
+        {
+          "line": "As You permit me, I praise You, O Lord and Master; I am ignorant, and I cannot chant Your Praises. ||1||",
+          "time": 312026
+        },
+        {
+          "line": "Please bless me with such understanding, that I may sing Your Glorious Praises.",
+          "time": 315095
+        },
+        {
+          "line": "May I dwell in Truth, according to Your Will. ||1||Pause||",
+          "time": 318030
+        },
+        {
+          "line": "Whatever has happened, has all come from You. You are All-knowing.",
+          "time": 321015
+        },
+        {
+          "line": "Your limits cannot be known, O my Lord and Master; I am blind – what wisdom do I have? ||2||",
+          "time": 323095
+        },
+        {
+          "line": "What should I say? While talking, I talk of seeing, but I cannot describe the indescribable.",
+          "time": 328093
+        },
+        {
+          "line": "As it pleases Your Will, I speak; it is just the tiniest bit of Your greatness. ||3||",
+          "time": 332044
+        },
+        {
+          "line": "Among so many dogs, I am an outcast; I bark for my body's belly.",
+          "time": 336030
+        },
+        {
+          "line": "Without devotional worship, O Nanak, even so, still, my Master's Name does not leave me. ||4||1||",
+          "time": 339089
+        },
+        {
+          "line": "Bilaawal, First Mehl:",
+          "time": 343068
+        },
+        {
+          "line": "My mind is the temple, and my body is the simple cloth of the humble seeker; deep within my heart, I bathe at the sacred shrine.",
+          "time": 345094
+        },
+        {
+          "line": "The One Word of the Shabad abides within my mind; I shall not come to be born again. ||1||",
+          "time": 349022
+        },
+        {
+          "line": "My mind is pierced through by the Merciful Lord, O my mother!",
+          "time": 353005
+        },
+        {
+          "line": "Who can know the pain of another?",
+          "time": 358013
+        },
+        {
+          "line": "I think of none other than the Lord. ||1||Pause||",
+          "time": 359056
+        },
+        {
+          "line": "O Lord, inaccessible, unfathomable, invisible and infinite: please, take care of me!",
+          "time": 360032
+        },
+        {
+          "line": "In the water, on the land and in the sky, You are totally pervading. Your Light is in each and every heart. ||2||",
+          "time": 363009
+        },
+        {
+          "line": "All teachings, instructions and understandings are Yours; the mansions and sanctuaries are Yours as well.",
+          "time": 366049
+        },
+        {
+          "line": "Without You, I know no other, O my Lord and Master; I continually sing Your Glorious Praises. ||3||",
+          "time": 370080
+        },
+        {
+          "line": "All beings and creatures seek the Protection of Your Sanctuary; all thought of their care rests with You.",
+          "time": 376061
+        },
+        {
+          "line": "That which pleases Your Will is good; this alone is Nanak's prayer. ||4||2||",
+          "time": 381060
+        }
+      ],
+      "english_trans_lyrics": [
+        {
+          "line": "Waheguru ji ka Khalsa, Waheguru ji ki fateh.",
+          "time": 0
+        },
+        {
+          "line": "maajh mehlaa 5 cha-upday ghar 1.",
+          "time": 5088
+        },
+        {
+          "line": "mayraa man lochai gur darsan taa-ee. bilap karay chaatrik kee ni-aa-ee.",
+          "time": 10002
+        },
+        {
+          "line": "tarikhaa na utrai saaNt na aavai bin darsan sant pi-aaray jee-o. ||1||",
+          "time": 14059
+        },
+        {
+          "line": "ha-o gholee jee-o ghol ghumaa-ee gur darsan sant pi-aaray jee-o. ||1|| rahaa-o.",
+          "time": 18019
+        },
+        {
+          "line": "tayraa mukh suhaavaa jee-o sahj Dhun banee.",
+          "time": 23049
+        },
+        {
+          "line": "chir ho-aa daykhay saaringpaanee.",
+          "time": 26084
+        },
+        {
+          "line": "Dhan so days jahaa tooN vasi-aa mayray sajan meet muraaray jee-o. ||2||",
+          "time": 29033
+        },
+        {
+          "line": "ha-o gholee ha-o ghol ghumaa-ee gur sajan meet muraaray jee-o. ||1|| rahaa-o.",
+          "time": 33064
+        },
+        {
+          "line": "ik gharhee na miltay taa kalijug hotaa.",
+          "time": 38040
+        },
+        {
+          "line": "hun kad milee-ai pari-a tuDh bhagvantaa.",
+          "time": 41038
+        },
+        {
+          "line": "mohi rain na vihaavai need na aavai bin daykhay gur darbaaray jee-o. ||3||",
+          "time": 43073
+        },
+        {
+          "line": "ha-o gholee jee-o ghol ghumaa-ee tis sachay gur darbaaray jee-o. ||1|| rahaa-o.",
+          "time": 48064
+        },
+        {
+          "line": "bhaag ho-aa gur sant milaa-i-aa. parabh abhinaasee ghar meh paa-i-aa.",
+          "time": 53031
+        },
+        {
+          "line": "sayv karee pal chasaa na vichhurhaa jan naanak daas tumaaray jee-o. ||4||",
+          "time": 57057
+        },
+        {
+          "line": "ha-o gholee jee-o ghol ghumaa-ee jan naanak daas tumaaray jee-o. rahaa-o. ||1||8||",
+          "time": 63014
+        },
+        {
+          "line": "Dhanaasree mehlaa 1 ghar 1 cha-upday",
+          "time": 67022
+        },
+        {
+          "line": "ik-oNkaar sat naam kartaa purakh nirbha-o nirvair akaal moorat ajoonee saibhaN gur parsaad.",
+          "time": 71025
+        },
+        {
+          "line": "jee-o darat hai aapnaa kai si-o karee pukaar.",
+          "time": 80068
+        },
+        {
+          "line": "dookh visaaran sayvi-aa sadaa sadaa daataar. ||1||",
+          "time": 84028
+        },
+        {
+          "line": "saahib mayraa neet navaa sadaa sadaa daataar. ||1|| rahaa-o.",
+          "time": 88003
+        },
+        {
+          "line": "an-din saahib sayvee-ai ant chhadaa-ay so-ay.",
+          "time": 92036
+        },
+        {
+          "line": "sun sun mayree kaamnee paar utaaraa ho-ay. ||2||",
+          "time": 95046
+        },
+        {
+          "line": "da-i-aal tayrai naam taraa. sad kurbaanai jaa-o. ||1|| rahaa-o.",
+          "time": 99005
+        },
+        {
+          "line": "sarbaN saachaa ayk hai doojaa naahee ko-ay.",
+          "time": 102072
+        },
+        {
+          "line": "taa kee sayvaa so karay jaa ka-o nadar karay. ||3||",
+          "time": 106043
+        },
+        {
+          "line": "tuDh baajh pi-aaray kayv rahaa.",
+          "time": 110004
+        },
+        {
+          "line": "saa vadi-aa-ee deh jit naam tayray laag rahaaN.",
+          "time": 112079
+        },
+        {
+          "line": "doojaa naahee ko-ay jis aagai pi-aaray jaa-ay kahaa. ||1|| rahaa-o.",
+          "time": 115097
+        },
+        {
+          "line": "sayvee saahib aapnaa avar na jaachaN-o ko-ay.",
+          "time": 119071
+        },
+        {
+          "line": "naanak taa kaa daas hai bind bind chukh chukh ho-ay. ||4||",
+          "time": 123028
+        },
+        {
+          "line": "saahib tayray naam vitahu bind bind chukh chukh ho-ay. ||1|| rahaa-o. ||4||1||",
+          "time": 126053
+        },
+        {
+          "line": "tilang mehlaa 1 ghar 3",
+          "time": 130092
+        },
+        {
+          "line": "ik-oNkaar satgur parsaad.",
+          "time": 133050
+        },
+        {
+          "line": "ih tan maa-i-aa paahi-aa pi-aaray leet-rhaa lab rangaa-ay.",
+          "time": 136033
+        },
+        {
+          "line": "mayrai kant na bhaavai cholrhaa pi-aaray ki-o Dhan sayjai jaa-ay. ||1||",
+          "time": 140007
+        },
+        {
+          "line": "haN-u kurbaanai jaa-o miharvaanaa haN-u kurbaanai jaa-o.",
+          "time": 144008
+        },
+        {
+          "line": "haN-u kurbaanai jaa-o tinaa kai lain jo tayraa naa-o.",
+          "time": 147072
+        },
+        {
+          "line": "lain jo tayraa naa-o tinaa kai haN-u sad kurbaanai jaa-o. ||1|| rahaa-o.",
+          "time": 151027
+        },
+        {
+          "line": "kaa-i-aa ranyan jay thee-ai pi-aaray paa-ee-ai naa-o majeeth.",
+          "time": 156007
+        },
+        {
+          "line": "ranyan vaalaa jay ranyai saahib aisaa rang na deeth. ||2||",
+          "time": 159077
+        },
+        {
+          "line": "jin kay cholay rat-rhay pi-aaray kant tinaa kai paas.",
+          "time": 163068
+        },
+        {
+          "line": "Dhoorh tinaa kee jay milai jee kaho naanak kee ardaas. ||3||",
+          "time": 167038
+        },
+        {
+          "line": "aapay saajay aapay rangay aapay nadar karay-i.",
+          "time": 171086
+        },
+        {
+          "line": "naanak kaaman kantai bhaavai aapay hee raavay-ay. ||4||1||3||",
+          "time": 175023
+        },
+        {
+          "line": "tilang mehlaa 1.",
+          "time": 178078
+        },
+        {
+          "line": "i-aanrhee-ay maanrhaa kaa-ay karayhi.",
+          "time": 180099
+        },
+        {
+          "line": "aapnarhai ghar har rango kee na maaneh.",
+          "time": 183059
+        },
+        {
+          "line": "saho nayrhai Dhan kammlee-ay baahar ki-aa dhoodhayhi.",
+          "time": 185096
+        },
+        {
+          "line": "bhai kee-aa deh salaa-ee-aa nainee bhaav kaa kar seegaaro.",
+          "time": 189051
+        },
+        {
+          "line": "taa sohagan jaanee-ai laagee jaa saho Dharay pi-aaro. ||1||",
+          "time": 193006
+        },
+        {
+          "line": "i-aanee baalee ki-aa karay jaa Dhan kant na bhaavai.",
+          "time": 196076
+        },
+        {
+          "line": "karan palaah karay bahutayray saa Dhan mahal na paavai.",
+          "time": 200013
+        },
+        {
+          "line": "vin karmaa kichh paa-ee-ai naahee jay bahutayraa Dhaavai.",
+          "time": 204002
+        },
+        {
+          "line": "lab lobh ahaNkaar kee maatee maa-i-aa maahi samaanee.",
+          "time": 207063
+        },
+        {
+          "line": "inee baatee saho paa-ee-ai naahee bha-ee kaaman i-aanee. ||2||",
+          "time": 211024
+        },
+        {
+          "line": "jaa-ay puchhahu sohaaganee vaahai kinee baatee saho paa-ee-ai.",
+          "time": 215002
+        },
+        {
+          "line": "jo kichh karay so bhalaa kar maanee-ai hikmat hukam chukhaa-ee-ai.",
+          "time": 218090
+        },
+        {
+          "line": "jaa kai paraym padaarath paa-ee-ai ta-o charnee chit laa-ee-ai.",
+          "time": 222081
+        },
+        {
+          "line": "saho kahai so keejai tan mano deejai aisaa parmal laa-ee-ai.",
+          "time": 226062
+        },
+        {
+          "line": "ayv kaheh sohaaganee bhainay inee baatee saho paa-ee-ai. ||3||",
+          "time": 230035
+        },
+        {
+          "line": "aap gavaa-ee-ai taa saho paa-ee-ai a-or kaisee chaturaa-ee.",
+          "time": 234087
+        },
+        {
+          "line": "saho nadar kar daykhai so din laykhai kaaman na-o niDh paa-ee.",
+          "time": 238057
+        },
+        {
+          "line": "aapnay kant pi-aaree saa sohagan naanak saa sabhraa-ee.",
+          "time": 242034
+        },
+        {
+          "line": "aisay rang raatee sahj kee maatee ahinis bhaa-ay samaanee.",
+          "time": 246037
+        },
+        {
+          "line": "sundar saa-ay saroop bichkhan kahee-ai saa si-aanee. ||4||2||4||",
+          "time": 250033
+        },
+        {
+          "line": "soohee mehlaa 1.",
+          "time": 253080
+        },
+        {
+          "line": "ka-un taraajee kavan tulaa tayraa kavan saraaf bulaavaa.",
+          "time": 255093
+        },
+        {
+          "line": "ka-un guroo kai peh deekhi-aa layvaa kai peh mul karaavaa. ||1||",
+          "time": 259074
+        },
+        {
+          "line": "mayray laal jee-o tayraa ant na jaanaa.",
+          "time": 263034
+        },
+        {
+          "line": "tooN jal thal mahee-al bharipur leenaa tooN aapay sarab samaanaa. ||1|| rahaa-o.",
+          "time": 266046
+        },
+        {
+          "line": "man taaraajee chit tulaa tayree sayv saraaf kamaavaa.",
+          "time": 271007
+        },
+        {
+          "line": "ghat hee bheetar so saho tolee in biDh chit rahaavaa. ||2||",
+          "time": 274093
+        },
+        {
+          "line": "aapay kandaa tol taraajee aapay tolanhaaraa.",
+          "time": 278024
+        },
+        {
+          "line": "aapay daykhai aapay boojhai aapay hai vanjaaraa. ||3||",
+          "time": 282012
+        },
+        {
+          "line": "anDhulaa neech jaat pardaysee khin aavai til jaavai.",
+          "time": 285081
+        },
+        {
+          "line": "taa kee sangat naanak rahdaa ki-o kar moorhaa paavai. ||4||2||9||",
+          "time": 289072
+        },
+        {
+          "line": "ik-oNkaar sat naam kartaa purakh nirbha-o nirvair akaal moorat ajoonee saibhaN gur parsaad.",
+          "time": 293032
+        },
+        {
+          "line": "raag bilaaval mehlaa 1 cha-upday ghar 1.",
+          "time": 304075
+        },
+        {
+          "line": "too sultaan kahaa ha-o mee-aa tayree kavan vadaa-ee.",
+          "time": 308083
+        },
+        {
+          "line": "jo too deh so kahaa su-aamee mai moorakh kahan na jaa-ee. ||1||",
+          "time": 312026
+        },
+        {
+          "line": "tayray gun gaavaa deh bujhaa-ee.",
+          "time": 315095
+        },
+        {
+          "line": "jaisay sach meh raha-o rajaa-ee. ||1|| rahaa-o.",
+          "time": 318030
+        },
+        {
+          "line": "jo kichh ho-aa sabh kichh tujh tay tayree sabh asnaa-ee.",
+          "time": 321015
+        },
+        {
+          "line": "tayraa ant na jaanaa mayray saahib mai anDhulay ki-aa chaturaa-ee. ||2||",
+          "time": 323095
+        },
+        {
+          "line": "ki-aa ha-o kathee kathay kath daykhaa mai akath na kathnaa jaa-ee.",
+          "time": 328093
+        },
+        {
+          "line": "jo tuDh bhaavai so-ee aakhaa til tayree vadi-aa-ee. ||3||",
+          "time": 332044
+        },
+        {
+          "line": "aytay kookar ha-o baygaanaa bha-ukaa is tan taa-ee.",
+          "time": 336030
+        },
+        {
+          "line": "bhagat heen naanak jay ho-igaa taa khasmai naa-o na jaa-ee. ||4||1||",
+          "time": 339089
+        },
+        {
+          "line": "bilaaval mehlaa 1.",
+          "time": 343068
+        },
+        {
+          "line": "man mandar tan vays kalandar ghat hee tirath naavaa.",
+          "time": 345094
+        },
+        {
+          "line": "ayk sabad mayrai paraan basat hai baahurh janam na aavaa. ||1||",
+          "time": 349022
+        },
+        {
+          "line": "man bayDhi-aa da-i-aal saytee mayree maa-ee.",
+          "time": 353005
+        },
+        {
+          "line": "ka-un jaanai peer paraa-ee.",
+          "time": 358013
+        },
+        {
+          "line": "ham naahee chint paraa-ee. ||1|| rahaa-o.",
+          "time": 359056
+        },
+        {
+          "line": "agam agochar alakh apaaraa chintaa karahu hamaaree.",
+          "time": 360032
+        },
+        {
+          "line": "jal thal mahee-al bharipur leenaa ghat ghat jot tumHaaree. ||2||",
+          "time": 363009
+        },
+        {
+          "line": "sikh mat sabh buDh tumHaaree mandir chhaavaa tayray.",
+          "time": 366049
+        },
+        {
+          "line": "tujh bin avar na jaanaa mayray saahibaa gun gaavaa nit tayray. ||3||",
+          "time": 370080
+        },
+        {
+          "line": "jee-a jant sabh saran tumHaaree sarab chint tuDh paasay.",
+          "time": 376061
+        },
+        {
+          "line": "jo tuDh bhaavai so-ee changa ik naanak kee ardaasay. ||4||2||",
+          "time": 381060
+        }
+      ],
+      "spanish_lyrics": [
+        {
+          "line": "El Khalsa pertenece a Dios, y la victoria pertenece a Dios.",
+          "time": 0
+        },
+        {
+          "line": "Maajh, Quinto Maestro, Chau-Padhay, Primera Casa:",
+          "time": 5088
+        },
+        {
+          "line": "Mi mente anhela la Bendita Visión del Darshan del Guru. Clama como el ave sedienta.",
+          "time": 10002
+        },
+        {
+          "line": "Mi sed no se sacia, y no puedo encontrar paz, sin la Bendita Visión del Amado Santo. ||1||",
+          "time": 14059
+        },
+        {
+          "line": "Soy un sacrificio, mi alma es un sacrificio, a la Bendita Visión del Amado Santo Guru. ||1||Pausa||",
+          "time": 18019
+        },
+        {
+          "line": "Tu Rostro es tan Hermoso, y el Sonido de Tus Palabras imparte sabiduría intuitiva.",
+          "time": 23049
+        },
+        {
+          "line": "Hace tanto que este ave de lluvia no ha tenido siquiera un destello de agua.",
+          "time": 26084
+        },
+        {
+          "line": "Bendita es la tierra donde Tú moras, oh mi Amigo e Íntimo Guru Divino. ||2||",
+          "time": 29033
+        },
+        {
+          "line": "Soy un sacrificio, soy por siempre un sacrificio, a mi Amigo e Íntimo Guru Divino. ||1||Pausa||",
+          "time": 33064
+        },
+        {
+          "line": "Cuando no pude estar Contigo ni un solo instante, la Oscura Era del Kali Yuga amaneció para mí.",
+          "time": 38040
+        },
+        {
+          "line": "¿Cuándo Te encontraré, oh mi Amado Señor?",
+          "time": 41038
+        },
+        {
+          "line": "No puedo soportar la noche, y el sueño no llega, sin la Visión de la Corte del Amado Guru. ||3||",
+          "time": 43073
+        },
+        {
+          "line": "Soy un sacrificio, mi alma es un sacrificio, a esa Verdadera Corte del Amado Guru. ||1||Pausa||",
+          "time": 48064
+        },
+        {
+          "line": "Por buena fortuna, he encontrado al Santo Guru. He hallado al Señor Inmortal dentro del hogar de mi propio ser.",
+          "time": 53031
+        },
+        {
+          "line": "Ahora Te serviré por siempre, y nunca seré separado de Ti, ni por un instante. El siervo Nanak es Tu esclavo, oh Amado Maestro. ||4||",
+          "time": 57057
+        },
+        {
+          "line": "Soy un sacrificio, mi alma es un sacrificio; el siervo Nanak es Tu esclavo, Señor. ||Pausa||1||8||",
+          "time": 63014
+        },
+        {
+          "line": "Dhanaasaree, Primer Maestro, Primera Casa, Chau-Padhay:",
+          "time": 67022
+        },
+        {
+          "line": "Un Dios Creador Universal. La Verdad Es El Nombre. Ser Creativo Personificado. Sin Miedo. Sin Odio. Imagen De Lo Inmortal. Más Allá Del Nacimiento. Autoexistente. Por la Gracia del Guru:",
+          "time": 71025
+        },
+        {
+          "line": "Mi alma tiene miedo; ¿a quién debería quejarme?",
+          "time": 80068
+        },
+        {
+          "line": "Sirvo a Aquel que me hace olvidar mis penas; Él es el Dador, por siempre y para siempre. ||1||",
+          "time": 84028
+        },
+        {
+          "line": "Mi Señor y Maestro es siempre nuevo; Él es el Dador, por siempre y para siempre. ||1||Pausa||",
+          "time": 88003
+        },
+        {
+          "line": "Día y noche sirvo a mi Señor y Maestro; Él me salvará al final.",
+          "time": 92036
+        },
+        {
+          "line": "Escuchando y oyendo, oh mi querida hermana, he cruzado. ||2||",
+          "time": 95046
+        },
+        {
+          "line": "Oh Señor Misericordioso, Tu Nombre me hace cruzar. Soy por siempre un sacrificio para Ti. ||1||Pausa||",
+          "time": 99005
+        },
+        {
+          "line": "En todo el mundo, sólo existe el Único Señor Verdadero; no hay ningún otro.",
+          "time": 102072
+        },
+        {
+          "line": "Sólo sirve al Señor aquel sobre quien el Señor posa Su Mirada de Gracia. ||3||",
+          "time": 106043
+        },
+        {
+          "line": "Sin Ti, oh Amado, ¿cómo podría siquiera vivir?",
+          "time": 110004
+        },
+        {
+          "line": "Bendíceme con tal grandeza, para que permanezca unido a Tu Nombre.",
+          "time": 112079
+        },
+        {
+          "line": "No hay otro, oh Amado, con quien pueda ir y hablar. ||1||Pausa||",
+          "time": 115097
+        },
+        {
+          "line": "Sirvo a mi Señor y Maestro; no pido a ningún otro.",
+          "time": 119071
+        },
+        {
+          "line": "Nanak es Su esclavo; instante por instante, poco a poco, él es un sacrificio para Él. ||4||",
+          "time": 123028
+        },
+        {
+          "line": "Oh Señor Maestro, soy un sacrificio a Tu Nombre, instante por instante, poco a poco. ||1||Pausa||4||1||",
+          "time": 126053
+        },
+        {
+          "line": "Tilang, Primer Maestro, Tercera Casa:",
+          "time": 130092
+        },
+        {
+          "line": "Un Dios Creador Universal. Por la Gracia del Verdadero Guru:",
+          "time": 133050
+        },
+        {
+          "line": "Esta tela del cuerpo está condicionada por Maya, oh amado; esta prenda está teñida de codicia.",
+          "time": 136033
+        },
+        {
+          "line": "A mi Esposo Señor no le agradan estas ropas, oh Amado; ¿cómo puede la novia-alma ir a Su lecho? ||1||",
+          "time": 140007
+        },
+        {
+          "line": "Soy un sacrificio, oh Amado Señor Misericordioso; soy un sacrificio para Ti.",
+          "time": 144008
+        },
+        {
+          "line": "Soy un sacrificio para aquellos que adoptan Tu Nombre.",
+          "time": 147072
+        },
+        {
+          "line": "Para aquellos que adoptan Tu Nombre, soy por siempre un sacrificio. ||1||Pausa||",
+          "time": 151027
+        },
+        {
+          "line": "Si el cuerpo se convierte en la tina del tintorero, oh Amado, y el Nombre se coloca dentro como el tinte,",
+          "time": 156007
+        },
+        {
+          "line": "y si el Tintorero que tiñe esta prenda es el Señor Maestro – ¡Oh, tal color nunca se ha visto antes! ||2||",
+          "time": 159077
+        },
+        {
+          "line": "Aquellos cuyos mantos están así teñidos, oh Amado, su Esposo Señor está siempre con ellos.",
+          "time": 163068
+        },
+        {
+          "line": "Concédeme el polvo de esos seres humildes, oh Amado Señor. Dice Nanak, esta es mi plegaria. ||3||",
+          "time": 167038
+        },
+        {
+          "line": "Él mismo crea, y Él mismo nos impregna. Él mismo concede Su Mirada de Gracia.",
+          "time": 171086
+        },
+        {
+          "line": "Oh Nanak, si la novia-alma resulta agradable a su Esposo Señor, Él mismo la disfruta. ||4||1||3||",
+          "time": 175023
+        },
+        {
+          "line": "Tilang, Primer Maestro:",
+          "time": 178078
+        },
+        {
+          "line": "Oh novia-alma necia e ignorante, ¿por qué eres tan orgullosa?",
+          "time": 180099
+        },
+        {
+          "line": "Dentro del hogar de tu propio ser, ¿por qué no disfrutas del Amor de tu Señor?",
+          "time": 183059
+        },
+        {
+          "line": "Tu Esposo Señor está tan cerca, oh novia necia; ¿por qué Lo buscas afuera?",
+          "time": 185096
+        },
+        {
+          "line": "Aplica el Temor de Dios como kohl para adornar tus ojos, y haz del Amor del Señor tu adorno.",
+          "time": 189051
+        },
+        {
+          "line": "Entonces serás conocida como una novia-alma devota y comprometida, cuando consagres amor por tu Esposo Señor. ||1||",
+          "time": 193006
+        },
+        {
+          "line": "¿Qué puede hacer la joven novia tonta, si no agrada a su Esposo Señor?",
+          "time": 196076
+        },
+        {
+          "line": "Puede rogar e implorar muchas veces, pero aun así, tal novia no obtendrá la Mansión de la Presencia del Señor.",
+          "time": 200013
+        },
+        {
+          "line": "Sin el karma de buenas acciones, nada se obtiene, aunque ella corra frenéticamente.",
+          "time": 204002
+        },
+        {
+          "line": "Está embriagada de codicia, orgullo y egoísmo, y absorta en Maya.",
+          "time": 207063
+        },
+        {
+          "line": "No puede obtener a su Esposo Señor de estas maneras; ¡la joven novia es tan necia! ||2||",
+          "time": 211024
+        },
+        {
+          "line": "Ve y pregunta a las felices y puras novias-alma, ¿cómo obtuvieron a su Esposo Señor?",
+          "time": 215002
+        },
+        {
+          "line": "Sea lo que haga el Señor, acéptalo como bueno; abandona tu propia astucia y voluntad propia.",
+          "time": 218090
+        },
+        {
+          "line": "Por Su Amor se obtiene la verdadera riqueza; une tu conciencia a Sus pies de loto.",
+          "time": 222081
+        },
+        {
+          "line": "Como tu Esposo Señor ordena, así debes actuar; entrégale tu cuerpo y mente, y aplícate este perfume.",
+          "time": 226062
+        },
+        {
+          "line": "Así habla la novia-alma feliz, oh hermana; de esta manera se obtiene al Esposo Señor. ||3||",
+          "time": 230035
+        },
+        {
+          "line": "Abandona tu individualidad, y así obtén a tu Esposo Señor; ¿de qué sirven otros trucos ingeniosos?",
+          "time": 234087
+        },
+        {
+          "line": "Cuando el Esposo Señor mira a la novia-alma con Su Graciosa Mirada, ese día es histórico – la novia obtiene los nueve tesoros.",
+          "time": 238057
+        },
+        {
+          "line": "Aquella que es amada por su Esposo Señor, es la verdadera novia-alma; oh Nanak, ella es la reina de todas.",
+          "time": 242034
+        },
+        {
+          "line": "Así está impregnada de Su Amor, embriagada de gozo; día y noche está absorta en Su Amor.",
+          "time": 246037
+        },
+        {
+          "line": "Es hermosa, gloriosa y brillante; es conocida como verdaderamente sabia. ||4||2||4||",
+          "time": 250033
+        },
+        {
+          "line": "Soohee, Primer Maestro:",
+          "time": 253080
+        },
+        {
+          "line": "¿Qué balanza, qué pesas, y qué ensayador debo llamar por Ti, Señor?",
+          "time": 255093
+        },
+        {
+          "line": "¿De qué guru debería recibir instrucción? ¿Por quién debería tener Tu valor tasado? ||1||",
+          "time": 259074
+        },
+        {
+          "line": "Oh mi Querido Amado Señor, Tus límites no se conocen.",
+          "time": 263034
+        },
+        {
+          "line": "Tú impregnas el agua, la tierra y el cielo; Tú mismo eres Todo-penetrante. ||1||Pausa||",
+          "time": 266046
+        },
+        {
+          "line": "La mente es la balanza, la conciencia las pesas, y la realización de Tu servicio es el tasador.",
+          "time": 271007
+        },
+        {
+          "line": "Muy dentro de mi corazón, peso a mi Esposo Señor; de esta manera enfoco mi conciencia. ||2||",
+          "time": 274093
+        },
+        {
+          "line": "Tú mismo eres la balanza, las pesas y la escala; Tú mismo eres el pesador.",
+          "time": 278024
+        },
+        {
+          "line": "Tú mismo ves, y Tú mismo comprendes; Tú mismo eres el comerciante. ||3||",
+          "time": 282012
+        },
+        {
+          "line": "El alma ciega y errante de baja clase viene por un momento y parte en un instante.",
+          "time": 285081
+        },
+        {
+          "line": "En su compañía, Nanak habita; ¿cómo puede el necio alcanzar al Señor? ||4||2||9||",
+          "time": 289072
+        },
+        {
+          "line": "Un Dios Creador Universal. La Verdad Es El Nombre. Ser Creativo Personificado. Sin Miedo. Sin Odio. Imagen De Lo Inmortal. Más Allá Del Nacimiento. Autoexistente. Por la Gracia del Guru:",
+          "time": 293032
+        },
+        {
+          "line": "Raag Bilaaval, Primer Maestro, Chau-Padhay, Primera Casa:",
+          "time": 304075
+        },
+        {
+          "line": "Tú eres el Emperador, y yo Te llamo un jefe – ¿cómo añade esto a Tu grandeza?",
+          "time": 308083
+        },
+        {
+          "line": "Como Tú me permites, Te alabo, oh Señor y Maestro; soy ignorante, y no puedo cantar Tus Alabanzas. ||1||",
+          "time": 312026
+        },
+        {
+          "line": "Por favor bendíceme con tal entendimiento, para poder cantar Tus Gloriosas Alabanzas.",
+          "time": 315095
+        },
+        {
+          "line": "Que pueda habitar en la Verdad, según Tu Voluntad. ||1||Pausa||",
+          "time": 318030
+        },
+        {
+          "line": "Todo lo que ha ocurrido, procede de Ti. Tú eres Omnisciente.",
+          "time": 321015
+        },
+        {
+          "line": "Tus límites no pueden conocerse, oh mi Señor y Maestro; soy ciego – ¿qué sabiduría tengo? ||2||",
+          "time": 323095
+        },
+        {
+          "line": "¿Qué debo decir? Al hablar, hablo de ver, pero no puedo describir lo indescriptible.",
+          "time": 328093
+        },
+        {
+          "line": "Según complace Tu Voluntad, hablo; es sólo la más mínima parte de Tu grandeza. ||3||",
+          "time": 332044
+        },
+        {
+          "line": "Entre tantos perros, soy un marginado; ladro por la barriga de mi cuerpo.",
+          "time": 336030
+        },
+        {
+          "line": "Sin adoración devocional, oh Nanak, aun así, el Nombre de mi Maestro no me abandona. ||4||1||",
+          "time": 339089
+        },
+        {
+          "line": "Bilaawal, Primer Maestro:",
+          "time": 343068
+        },
+        {
+          "line": "Mi mente es el templo, y mi cuerpo es la simple tela del humilde buscador; en lo profundo de mi corazón, me baño en el santuario sagrado.",
+          "time": 345094
+        },
+        {
+          "line": "La Única Palabra del Shabad mora en mi mente; no volveré a nacer. ||1||",
+          "time": 349022
+        },
+        {
+          "line": "Mi mente está atravesada por el Señor Misericordioso, ¡oh madre mía!",
+          "time": 353005
+        },
+        {
+          "line": "¿Quién puede conocer el dolor de otro?",
+          "time": 358013
+        },
+        {
+          "line": "No pienso en ningún otro que no sea el Señor. ||1||Pausa||",
+          "time": 359056
+        },
+        {
+          "line": "Oh Señor, inaccesible, insondable, invisible e infinito: ¡por favor, cuida de mí!",
+          "time": 360032
+        },
+        {
+          "line": "En el agua, en la tierra y en el cielo, Tú lo impregnas todo. Tu Luz está en cada corazón. ||2||",
+          "time": 363009
+        },
+        {
+          "line": "Todas las enseñanzas, instrucciones y comprensiones son Tuyas; los palacios y santuarios también son Tuyos.",
+          "time": 366049
+        },
+        {
+          "line": "Sin Ti no conozco a ningún otro, oh mi Señor y Maestro; continuamente canto Tus Gloriosas Alabanzas. ||3||",
+          "time": 370080
+        },
+        {
+          "line": "Todos los seres y criaturas buscan la Protección de Tu Santuario; todo pensamiento sobre su cuidado descansa en Ti.",
+          "time": 376061
+        },
+        {
+          "line": "Aquello que complace Tu Voluntad es bueno; esta sola es la plegaria de Nanak. ||4||2||",
+          "time": 381060
+        }
+      ],
+      "hindi_lyrics": [
+        {
+          "line": "वाहेगुरु जी का खालसा वाहेगुरु जी की फतेह॥",
+          "time": 0
+        },
+        {
+          "line": "माझ महला ५ चउपदे घरु १ ॥",
+          "time": 5088
+        },
+        {
+          "line": "मेरा मनु लोचै गुर दरसन ताई ॥ बिलप करे चात्रिक की निआई ॥",
+          "time": 10002
+        },
+        {
+          "line": "त्रिखा न उतरै सांति न आवै बिनु दरसन संत पिआरे जीउ ॥१॥",
+          "time": 14059
+        },
+        {
+          "line": "हउ घोली जीउ घोलि घुमाई गुर दरसन संत पिआरे जीउ ॥१॥ रहाउ ॥",
+          "time": 18019
+        },
+        {
+          "line": "तेरा मुखु सुहावा जीउ सहज धुनि बाणी ॥",
+          "time": 23049
+        },
+        {
+          "line": "चिरु होआ देखे सारिंगपाणी ॥",
+          "time": 26084
+        },
+        {
+          "line": "धंनु सु देसु जहा तूं वसिआ मेरे सजण मीत मुरारे जीउ ॥२॥",
+          "time": 29033
+        },
+        {
+          "line": "हउ घोली हउ घोलि घुमाई गुर सजण मीत मुरारे जीउ ॥१॥ रहाउ ॥",
+          "time": 33064
+        },
+        {
+          "line": "इक घड़ी न मिलते ता कलिजुगु होता ॥",
+          "time": 38040
+        },
+        {
+          "line": "हुणि कदि मिलीऐ प्रिअ तुधु भगवंता ॥",
+          "time": 41038
+        },
+        {
+          "line": "मोहि रैणि न विहावै नीद न आवै बिनु देखे गुर दरबारे जीउ ॥३॥",
+          "time": 43073
+        },
+        {
+          "line": "हउ घोली जीउ घोलि घुमाई तिसु सचे गुर दरबारे जीउ ॥१॥ रहाउ ॥",
+          "time": 48064
+        },
+        {
+          "line": "भागु होआ गुरि संतु मिलाइआ ॥ प्रभु अबिनासी घर महि पाइआ ॥",
+          "time": 53031
+        },
+        {
+          "line": "सेव करी पलु चसा न विछुड़ा जन नानक दास तुमारे जीउ ॥४॥",
+          "time": 57057
+        },
+        {
+          "line": "हउ घोली जीउ घोलि घुमाई जन नानक दास तुमारे जीउ ॥ रहाउ ॥१॥८॥",
+          "time": 63014
+        },
+        {
+          "line": "धनासरी महला १ घरु १ चउपदे",
+          "time": 67022
+        },
+        {
+          "line": "ੴ सति नामु करता पुरखु निरभउ निरवैरु अकाल मूरति अजूनी सैभं गुरप्रसादि ॥",
+          "time": 71025
+        },
+        {
+          "line": "जीउ डरतु है आपणा कै सिउ करी पुकार ॥",
+          "time": 80068
+        },
+        {
+          "line": "दूख विसारणु सेविआ सदा सदा दातारु ॥१॥",
+          "time": 84028
+        },
+        {
+          "line": "साहिबु मेरा नीत नवा सदा सदा दातारु ॥१॥ रहाउ ॥",
+          "time": 88003
+        },
+        {
+          "line": "अनदिनु साहिबु सेवीऐ अंति छडाए सोइ ॥",
+          "time": 92036
+        },
+        {
+          "line": "सुणि सुणि मेरी कामणी पारि उतारा होइ ॥२॥",
+          "time": 95046
+        },
+        {
+          "line": "दइआल तेरै नामि तरा ॥ सद कुरबाणै जाउ ॥१॥ रहाउ ॥",
+          "time": 99005
+        },
+        {
+          "line": "सरबं साचा एकु है दूजा नाही कोइ ॥",
+          "time": 102072
+        },
+        {
+          "line": "ता की सेवा सो करे जा कउ नदरि करे ॥३॥",
+          "time": 106043
+        },
+        {
+          "line": "तुधु बाझु पिआरे केव रहा ॥",
+          "time": 110004
+        },
+        {
+          "line": "सा वडिआई देहि जितु नामि तेरे लागि रहां ॥",
+          "time": 112079
+        },
+        {
+          "line": "दूजा नाही कोइ जिसु आगै पिआरे जाइ कहा ॥१॥ रहाउ ॥",
+          "time": 115097
+        },
+        {
+          "line": "सेवी साहिबु आपणा अवरु न जाचंउ कोइ ॥",
+          "time": 119071
+        },
+        {
+          "line": "नानकु ता का दासु है बिंद बिंद चुख चुख होइ ॥४॥",
+          "time": 123028
+        },
+        {
+          "line": "साहिब तेरे नाम विटहु बिंद बिंद चुख चुख होइ ॥१॥ रहाउ ॥४॥१॥",
+          "time": 126053
+        },
+        {
+          "line": "तिलंग महला १ घरु ३",
+          "time": 130092
+        },
+        {
+          "line": "ੴ सतिगुर प्रसादि ॥",
+          "time": 133050
+        },
+        {
+          "line": "इहु तनु माइआ पाहिआ पिआरे लीतड़ा लबि रंगाए ॥",
+          "time": 136033
+        },
+        {
+          "line": "मेरै कंत न भावै चोलड़ा पिआरे किउ धन सेजै जाए ॥१॥",
+          "time": 140007
+        },
+        {
+          "line": "हंउ कुरबानै जाउ मिहरवाना हंउ कुरबानै जाउ ॥",
+          "time": 144008
+        },
+        {
+          "line": "हंउ कुरबानै जाउ तिना कै लैनि जो तेरा नाउ ॥",
+          "time": 147072
+        },
+        {
+          "line": "लैनि जो तेरा नाउ तिना कै हंउ सद कुरबानै जाउ ॥१॥ रहाउ ॥",
+          "time": 151027
+        },
+        {
+          "line": "काइआ रँगणि जे थीऐ पिआरे पाईऐ नाउ मजीठ ॥",
+          "time": 156007
+        },
+        {
+          "line": "रँगण वाला जे रँगै साहिबु ऐसा रंगु न डीठ ॥२॥",
+          "time": 159077
+        },
+        {
+          "line": "जिन के चोले रतड़े पिआरे कंतु तिना कै पासि ॥",
+          "time": 163068
+        },
+        {
+          "line": "धूड़ि तिना की जे मिलै जी कहु नानक की अरदासि ॥३॥",
+          "time": 167038
+        },
+        {
+          "line": "आपे साजे आपे रंगे आपे नदरि करेइ ॥",
+          "time": 171086
+        },
+        {
+          "line": "नानक कामणि कंतै भावै आपे ही रावेइ ॥४॥१॥३॥",
+          "time": 175023
+        },
+        {
+          "line": "तिलंग मः १ ॥",
+          "time": 178078
+        },
+        {
+          "line": "इआनड़ीए मानड़ा काइ करेहि ॥",
+          "time": 180099
+        },
+        {
+          "line": "आपनड़े घरि हरि रंगो की न माणेहि ॥",
+          "time": 183059
+        },
+        {
+          "line": "सहु नेड़ै धन कमलीए बाहरु किआ ढूढेहि ॥",
+          "time": 185096
+        },
+        {
+          "line": "भै कीआ देहि सलाईआ नैणी भाव का करि सीगारो ॥",
+          "time": 189051
+        },
+        {
+          "line": "ता सोहागणि जाणीऐ लागी जा सहु धरे पिआरो ॥१॥",
+          "time": 193006
+        },
+        {
+          "line": "इआणी बाली किआ करे जा धन कंत न भावै ॥",
+          "time": 196076
+        },
+        {
+          "line": "करण पलाह करे बहुतेरे सा धन महलु न पावै ॥",
+          "time": 200013
+        },
+        {
+          "line": "विणु करमा किछु पाईऐ नाही जे बहुतेरा धावै ॥",
+          "time": 204002
+        },
+        {
+          "line": "लब लोभ अहंकार की माती माइआ माहि समाणी ॥",
+          "time": 207063
+        },
+        {
+          "line": "इनी बाती सहु पाईऐ नाही भई कामणि इआणी ॥२॥",
+          "time": 211024
+        },
+        {
+          "line": "जाइ पुछहु सोहागणी वाहै किनी बाती सहु पाईऐ ॥",
+          "time": 215002
+        },
+        {
+          "line": "जो किछु करे सो भला करि मानीऐ हिकमति हुकमु चुकाईऐ ॥",
+          "time": 218090
+        },
+        {
+          "line": "जा कै प्रेमि पदारथु पाईऐ तउ चरणी चितु लाईऐ ॥",
+          "time": 222081
+        },
+        {
+          "line": "सहु कहै सो कीजै तनु मनो दीजै ऐसा परमलु लाईऐ ॥",
+          "time": 226062
+        },
+        {
+          "line": "एव कहहि सोहागणी भैणे इनी बाती सहु पाईऐ ॥३॥",
+          "time": 230035
+        },
+        {
+          "line": "आपु गवाईऐ ता सहु पाईऐ अउरु कैसी चतुराई ॥",
+          "time": 234087
+        },
+        {
+          "line": "सहु नदरि करि देखै सो दिनु लेखै कामणि नउ निधि पाई ॥",
+          "time": 238057
+        },
+        {
+          "line": "आपणे कंत पिआरी सा सोहागणि नानक सा सभराई ॥",
+          "time": 242034
+        },
+        {
+          "line": "ऐसै रंगि राती सहज की माती अहिनिसि भाइ समाणी ॥",
+          "time": 246037
+        },
+        {
+          "line": "सुंदरि साइ सरूप बिचखणि कहीऐ सा सिआणी ॥४॥२॥४॥",
+          "time": 250033
+        },
+        {
+          "line": "सूही महला १ ॥",
+          "time": 253080
+        },
+        {
+          "line": "कउण तराजी कवणु तुला तेरा कवणु सराफु बुलावा ॥",
+          "time": 255093
+        },
+        {
+          "line": "कउणु गुरू कै पहि दीखिआ लेवा कै पहि मुलु करावा ॥१॥",
+          "time": 259074
+        },
+        {
+          "line": "मेरे लाल जीउ तेरा अंतु न जाणा ॥",
+          "time": 263034
+        },
+        {
+          "line": "तूं जलि थलि महीअलि भरिपुरि लीणा तूं आपे सरब समाणा ॥१॥ रहाउ ॥",
+          "time": 266046
+        },
+        {
+          "line": "मनु ताराजी चितु तुला तेरी सेव सराफु कमावा ॥",
+          "time": 271007
+        },
+        {
+          "line": "घट ही भीतरि सो सहु तोली इन बिधि चितु रहावा ॥२॥",
+          "time": 274093
+        },
+        {
+          "line": "आपे कंडा तोलु तराजी आपे तोलणहारा ॥",
+          "time": 278024
+        },
+        {
+          "line": "आपे देखै आपे बूझै आपे है वणजारा ॥३॥",
+          "time": 282012
+        },
+        {
+          "line": "अंधुला नीच जाति परदेसी खिनु आवै तिलु जावै ॥",
+          "time": 285081
+        },
+        {
+          "line": "ता की संगति नानकु रहदा किउ करि मूड़ा पावै ॥४॥२॥९॥",
+          "time": 289072
+        },
+        {
+          "line": "ੴ सति नामु करता पुरखु निरभउ निरवैरु अकाल मूर्ति अजूनी सैभं गुर प्रसादि ॥",
+          "time": 293032
+        },
+        {
+          "line": "रागु बिलावलु महला १ चउपदे घरु १ ॥",
+          "time": 304075
+        },
+        {
+          "line": "तू सुलतानु कहा हउ मीआ तेरी कवन वडाई ॥",
+          "time": 308083
+        },
+        {
+          "line": "जो तू देहि सु कहा सुामी मै मूर्ख कहणु न जाई ॥१॥",
+          "time": 312026
+        },
+        {
+          "line": "तेरे गुण गावा देहि बुਝाई ॥",
+          "time": 315095
+        },
+        {
+          "line": "जैसे सच महि रहउ रजाई ॥१॥ रहाउ ॥",
+          "time": 318030
+        },
+        {
+          "line": "जो किछु होआ सभु किछु तुझ ते तेरी सभ असनाई ॥",
+          "time": 321015
+        },
+        {
+          "line": "तेरा अंतु न जाणा मेरे साहिब मै अंधुले किआ चतुराई ॥२॥",
+          "time": 323095
+        },
+        {
+          "line": "किया हउ कथी कथा कथि देख़ा मै अकथु न कथना जाई ॥",
+          "time": 328093
+        },
+        {
+          "line": "जो तुधु भावै सोई आख़ा तिलु तेरी वडिआई ॥३॥",
+          "time": 332044
+        },
+        {
+          "line": "एते कूकर हउ बेगाना भउका इसु तन ताई ॥",
+          "time": 336030
+        },
+        {
+          "line": "भगति हीणु नानकु जे होइगा ता खसमै नाउ न जाई ॥४॥१॥",
+          "time": 339089
+        },
+        {
+          "line": "बिलावलु महला १ ॥",
+          "time": 343068
+        },
+        {
+          "line": "मनु मंदरु तनु वेस कलंदरु घट ही तीरथि नावा ॥",
+          "time": 345094
+        },
+        {
+          "line": "एकु सबदु मेरै प्रानि बसतु है बाहुड़ि जनमि न आवा ॥१॥",
+          "time": 349022
+        },
+        {
+          "line": "मनु बेधिआ दइआल सेती मेरी माई ॥",
+          "time": 353005
+        },
+        {
+          "line": "कउणु जाणै पीर पराई ॥",
+          "time": 358013
+        },
+        {
+          "line": "हम नाही चिंता पराई ॥१॥ रहाउ ॥",
+          "time": 359056
+        },
+        {
+          "line": "अगम अगोचर अलख अपारा चिंता करहु हमारी ॥",
+          "time": 360032
+        },
+        {
+          "line": "जलि थलि महीअलि भरिपुरि लीणा घटि घटि जोति तुम्हारी ॥२॥",
+          "time": 363009
+        },
+        {
+          "line": "सिख मति सभ बुधि तुम्हारी मंदर छावा तेरॆ ॥",
+          "time": 366049
+        },
+        {
+          "line": "तुझ बिनु अवरु न जाणॆ मेरे साहिबा गुण गावा नित तेरे ॥३॥",
+          "time": 370080
+        },
+        {
+          "line": "जीअ जंत सभि सरणि तुम्हारी सरब चिंत तुधु पासे ॥",
+          "time": 376061
+        },
+        {
+          "line": "जो तुधु भावै सोई चंगा इक नानक की अरदासे ॥४॥२॥",
+          "time": 381060
+        }
+      ]
+    }
+  ],
+  "info": "testings"
+}

@@ -62,7 +62,7 @@ class HomeScreen extends StatelessWidget {
                   )
                 else
                   Expanded(
-                    child: Container(
+                    child: SizedBox(
                       width: screenWidth,
                       child: SingleChildScrollView(
                         physics: const BouncingScrollPhysics(),
@@ -104,11 +104,13 @@ class HomeScreen extends StatelessWidget {
                                           child: GestureDetector(
                                             onTap: () {
                                               if (index == 0) {
-                                                tabController.jumpToTab(1);
+                                                tabController.jumpToTab(1); // All Raags
                                               } else if (index == 1) {
-                                                tabController.jumpToTab(2);
+                                                tabController.jumpToTab(2); // Popular Banis
                                               } else if (index == 2) {
-                                                goToTheKirtanisPage(context);
+                                                goToNitnemPage(context); // Nitnem
+                                              } else if (index == 3) {
+                                                goToTheKirtanisPage(context); // The Kirtanis
                                               }
                                             },
                                             child: FeaturedItem(

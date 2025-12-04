@@ -5,6 +5,7 @@ import 'package:shabadguru/network_service/models/popular_raags_model.dart';
 import 'package:shabadguru/network_service/models/punjabi_lyrics_model.dart';
 import 'package:shabadguru/network_service/models/shabad_raag_model.dart';
 import 'package:shabadguru/network_service/models/the_kirtanis_model.dart';
+import 'package:shabadguru/network_service/models/nitnem_model.dart';
 
 // Repository class that provides a clean interface to the API provider
 class ApiRepository {
@@ -53,5 +54,10 @@ class ApiRepository {
   // Update notification permission status
   Future<bool> updateNotificationStatus(body) {
     return _provider.updateNotificationStatus(body);
+  }
+
+  // Get Nitnem data
+  Future<NitnemModel> getNitnem() {
+    return _provider.getNitnem();
   }
 }

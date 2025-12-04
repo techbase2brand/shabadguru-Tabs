@@ -114,7 +114,7 @@ class MyFavoriteShabadController extends GetxController {
                       ElevatedButton(
                           style: ButtonStyle(
                               backgroundColor:
-                                  MaterialStateProperty.all(darkBlueColor)), // Button background
+                                  WidgetStateProperty.all(darkBlueColor)), // Button background
                           onPressed: () {
                             Navigator.of(context).pop(); // Close bottom sheet
                           },

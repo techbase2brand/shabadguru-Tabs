@@ -11,7 +11,7 @@ class ParserLrc extends LyricsParse {
   ///eg:[00:03.47] -> 00:03.47
   RegExp valuePattern = RegExp(r"\[(\d{2}:\d{2}.\d{2,3})\]");
 
-  ParserLrc(String lyric) : super(lyric);
+  ParserLrc(super.lyric);
 
   @override
   List<LyricsLineModel> parseLines({bool isMain = true, bool isMid = false, bool isSpanish = false, bool isHindi = false}) {

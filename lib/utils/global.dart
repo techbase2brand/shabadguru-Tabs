@@ -45,6 +45,25 @@ String getShortNameOfRaag(String raagTitle) {
     case 'Anand Sahib':
       return 'AS';
 
+    // Nitnem short names
+    case 'JAPJI SAHIB':
+      return 'JS';
+    
+    case 'JAAP SAHIB':
+      return 'JA';
+    
+    case 'TAU PRASAD SAVAIYE':
+      return 'TS';
+    
+    case 'CHAUPAI SAHIB':
+      return 'CS';
+    
+    case 'ANAND SAHIB':
+      return 'AS';
+    
+    case 'SHABAD HAZARE':
+      return 'SH';
+
     case 'Dhakni Onkar':
       return 'DO';
 

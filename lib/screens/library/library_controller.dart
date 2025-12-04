@@ -104,7 +104,7 @@ class LibraryController extends GetxController {
     }
   }
 
-  showNewPlaylistDialog(context, bool isRename,
+  Future<void> showNewPlaylistDialog(context, bool isRename,
       MyPlaylistModel? myPlaylistModel, int index, bool isSelectedPlaylist) {
     if (isRename) {
       playlistNameController.text = myPlaylistModel!.playlistName ?? '';
@@ -215,7 +215,7 @@ class LibraryController extends GetxController {
                           child: ElevatedButton(
                             style: ButtonStyle(
                                 backgroundColor:
-                                    MaterialStateProperty.all(darkBlueColor)),
+                                    WidgetStateProperty.all(darkBlueColor)),
                             onPressed: () async {
                               isAddMoreShabad = false;
                               if (playlistNameController.text.isNotEmpty) {
@@ -424,7 +424,7 @@ class LibraryController extends GetxController {
                     ElevatedButton(
                         style: ButtonStyle(
                             backgroundColor:
-                                MaterialStateProperty.all(darkBlueColor)),
+                                WidgetStateProperty.all(darkBlueColor)),
                         onPressed: () {
                           Navigator.of(context).pop();
                         },
@@ -620,7 +620,7 @@ class LibraryController extends GetxController {
                       ElevatedButton(
                         style: ButtonStyle(
                             backgroundColor:
-                                MaterialStateProperty.all(darkBlueColor)),
+                                WidgetStateProperty.all(darkBlueColor)),
                         onPressed: () {
                           Navigator.of(context).pop();
                         },

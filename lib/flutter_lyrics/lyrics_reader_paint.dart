@@ -34,7 +34,7 @@ class LyricsReaderPaint extends ChangeNotifier implements CustomPainter {
 
   var cachePlayingIndex = -1;
 
-  clearCache() {
+  void clearCache() {
     cachePlayingIndex = -1;
     highlightWidth = 0;
   }
@@ -91,7 +91,7 @@ class LyricsReaderPaint extends ChangeNotifier implements CustomPainter {
   //限制刷新频率
   int ts = DateTime.now().microsecond;
 
-  refresh() {
+  void refresh() {
     notifyListeners();
   }
 
@@ -184,34 +184,36 @@ class LyricsReaderPaint extends ChangeNotifier implements CustomPainter {
           canvas, mainTextPainter, nextOffsetY, isPlay ? element : null);
     }
 
-    if (element.hasMid) {
-      if (element.hasMain) {
-        otherLineHeight += lyricUI.getInlineSpace();
-      }
-      var extOffsetY = drawOffsetY + otherLineHeight;
-      otherLineHeight += drawText(canvas, midTextPainter, extOffsetY);
-    }
     if (element.hasExt) {
-      if (element.hasMid) {
+      if (element.hasMain) {
         otherLineHeight += lyricUI.getInlineSpace();
       }
       var extOffsetY = drawOffsetY + otherLineHeight;
       otherLineHeight += drawText(canvas, extTextPainter, extOffsetY);
     }
 
+    if (element.hasHindi) {
+      if (element.hasExt || element.hasMain) {
+        otherLineHeight += lyricUI.getInlineSpace();
+      }
+      var extOffsetY = drawOffsetY + otherLineHeight;
+      otherLineHeight += drawText(canvas, hindiTextPainter, extOffsetY);
+    }
+
     if (element.hasSpanish) {
-      if (element.hasExt) {
+      if (element.hasHindi || element.hasExt || element.hasMain) {
         otherLineHeight += lyricUI.getInlineSpace();
       }
       var extOffsetY = drawOffsetY + otherLineHeight;
       otherLineHeight += drawText(canvas, spanishTextPainter, extOffsetY);
     }
-    if (element.hasHindi) {
-      if (element.hasSpanish) {
+
+    if (element.hasMid) {
+      if (element.hasSpanish || element.hasHindi || element.hasExt || element.hasMain) {
         otherLineHeight += lyricUI.getInlineSpace();
       }
       var extOffsetY = drawOffsetY + otherLineHeight;
-      otherLineHeight += drawText(canvas, hindiTextPainter, extOffsetY);
+      otherLineHeight += drawText(canvas, midTextPainter, extOffsetY);
     }
 
     return otherLineHeight;

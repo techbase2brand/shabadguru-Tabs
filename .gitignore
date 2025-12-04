@@ -1,0 +1,43 @@
+# Flutter/Dart
+build/
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+pubspec.lock
+
+# Android
+android/.gradle/
+android/app/*.iml
+*.keystore
+*.jks
+*.apk
+*.aab
+
+# iOS
+ios/Pods/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Runner.xcworkspace/
+ios/build/
+*.xcuserstate
+*.xcuserdata
+*.ipa
+*.dSYM
+
+# VS Code
+.vscode/
+
+# IntelliJ / Android Studio
+*.iml
+*.idea/
+*.gradle/
+.gradle/
+local.properties
+
+# Others
+*.log
+*.lock
+*.tmp
+*.swp
+.DS_Store

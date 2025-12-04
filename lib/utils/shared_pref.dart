@@ -43,7 +43,7 @@ class SharedPref {
     await prefs.setStringList('myPlaylistData', encodedList); // Save to local storage
   }
 
-  static saveFontPref(String value) async {
+  static Future<void> saveFontPref(String value) async {
     final prefs = await SharedPreferences.getInstance();
     await prefs.setString('fontSizeValue', value);
   }

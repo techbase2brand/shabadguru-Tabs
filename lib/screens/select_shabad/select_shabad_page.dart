@@ -264,7 +264,7 @@ class SelectShabadPage extends StatelessWidget {
                 child: Center(
                   child: ElevatedButton(
                     style: ButtonStyle(
-                        backgroundColor: MaterialStateProperty.all(
+                        backgroundColor: WidgetStateProperty.all(
                             themeProvider.darkTheme
                                 ? Colors.white // White background for dark theme
                                 : darkBlueColor)), // Blue background for light theme

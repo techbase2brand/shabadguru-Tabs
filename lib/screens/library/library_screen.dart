@@ -245,7 +245,7 @@ class LibraryScreen extends StatelessWidget {
                       child: ElevatedButton(
                         style: ButtonStyle(
                             backgroundColor:
-                                MaterialStateProperty.all(darkBlueColor)),
+                                WidgetStateProperty.all(darkBlueColor)),
                         onPressed: () async {
                           if (controller.selectedPlaylistList.isEmpty) {
                             Fluttertoast.showToast(

@@ -10,6 +10,7 @@ import 'package:shabadguru/network_service/models/popular_raags_model.dart';
 import 'package:shabadguru/network_service/models/punjabi_lyrics_model.dart';
 import 'package:shabadguru/network_service/models/shabad_raag_model.dart';
 import 'package:shabadguru/network_service/models/the_kirtanis_model.dart';
+import 'package:shabadguru/network_service/models/nitnem_model.dart';
 
 // Provider class for making HTTP requests to ShabadGuru API endpoints
 class ApiProvider {
@@ -222,6 +223,35 @@ class ApiProvider {
     } catch (error, stacktrace) {
       logger.e("Exception occured in Kirtanis: $error stackTrace: $stacktrace");
       return [];
+    }
+  }
+
+  // Fetch Nitnem data from API
+  Future<NitnemModel> getNitnem() async {
+    try {
+      logger.i("URL:- ${ApiUrl.nitnemUrl}"); // Log the API URL
+
+      // Make HTTP GET request to Nitnem endpoint
+      final response = await http.get(Uri.parse(ApiUrl.nitnemUrl),
+          headers: {
+            'Content-Type': 'application/json' // Set content type header
+          }).timeout(const Duration(seconds: 50)); // Set 50 second timeout
+      logger.i("Nitnem data ${response.body}"); // Log response body
+      
+      // Check if request was successful
+      if (response.statusCode == 200 || response.statusCode == 201) {
+        final data = json.decode(response.body); // Parse JSON response
+        return NitnemModel.fromJson(data); // Convert to model
+      } else {
+        return NitnemModel.withError(response.body.toString()); // Return error model
+      }
+    } on TimeoutException catch (_) {
+      logger.e("Time out exception in Nitnem"); // Log timeout error
+      return NitnemModel.withError("Timeout exception"); // Return timeout error
+    } catch (error, stacktrace) {
+      logger.e(
+          "Exception occured in Nitnem: $error stackTrace: $stacktrace"); // Log general error
+      return NitnemModel.withError("Data not found / Connection issue"); // Return connection error
     }
   }
 }

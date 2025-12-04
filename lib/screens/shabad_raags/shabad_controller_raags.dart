@@ -190,7 +190,7 @@ class ShabadControllerRaags extends GetxController {
                   ElevatedButton(
                     style: ButtonStyle(
                         backgroundColor:
-                            MaterialStateProperty.all(darkBlueColor)), // Blue background
+                            WidgetStateProperty.all(darkBlueColor)), // Blue background
                     onPressed: () {
                       Navigator.of(context).pop(); // Close bottom sheet
                     },

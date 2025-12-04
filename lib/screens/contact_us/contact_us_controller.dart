@@ -22,7 +22,7 @@ class ContactUsController extends GetxController {
   ApiRepository apiRepository = ApiRepository(); // API service for contact us
 
   // Send contact message to server
-  sendMessage() async {
+  Future<void> sendMessage() async {
     if (formKey.currentState!.validate()) { // Validate form before sending
       showLoading = true; // Show loading indicator
       update(); // Update UI

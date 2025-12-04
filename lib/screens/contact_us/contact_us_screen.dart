@@ -11,7 +11,6 @@ import 'package:shabadguru/utils/assets.dart';
 import 'package:shabadguru/utils/colors.dart';
 import 'package:shabadguru/utils/dark_mode/app_state_notifier.dart';
 import 'package:shabadguru/utils/font.dart';
-import 'package:shabadguru/utils/global.dart';
 import 'package:shabadguru/utils/image_app_bar.dart';
 import 'package:url_launcher/url_launcher_string.dart';
 

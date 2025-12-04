@@ -1,0 +1,1813 @@
+{
+  "status": 200,
+  "message": "",
+  "data": [
+    {
+      "albumart": "",
+      "author": "",
+      "title": "CHAUPAI SAHIB",
+      "song": "CHAUPAI SAHIB",
+      "json": "https://shabad-guru.org/uploads/data/Nitnem/CHAUPAI SAHIB.json",
+      "audio": "https://shabadguru.s3.us-west-1.amazonaws.com/gurbani/lrc n- Project/Nitnem/mp3/song/CHAUPAI SAHIB.mp3",
+      "punjabi": 1,
+      "english": 1,
+      "english_trans": 1,
+      "spanish": 1,
+      "hindi": null,
+      "file_name_on_s3": "chaupai sahib Pb",
+      "english_trans_lyrics": [
+        {
+          "line": "Waheguru ji ka Khalsa, Waheguru ji ki fateh.",
+          "time": 24
+        },
+        {
+          "line": "Kabyo Bach Benti ॥",
+          "time": 9024
+        },
+        {
+          "line": "Chaupai ॥",
+          "time": 10027
+        },
+        {
+          "line": "hamri kro hath dai rachcha.",
+          "time": 11096
+        },
+        {
+          "line": "pooran hoeh chit ki ichcha.",
+          "time": 13077
+        },
+        {
+          "line": "tav charnan man rehai hamara.",
+          "time": 15065
+        },
+        {
+          "line": "apna jan kro pratipara. (377)",
+          "time": 17042
+        },
+        {
+          "line": "hamrai dushat sabhai tum ghao.",
+          "time": 19052
+        },
+        {
+          "line": "aapu hath dai mohi bachavho.",
+          "time": 22023
+        },
+        {
+          "line": "sukhi basai moro parivara.",
+          "time": 23085
+        },
+        {
+          "line": "sevak sikh sabhai kartara. (378)",
+          "time": 25077
+        },
+        {
+          "line": "mo rachcha nij kar dai kariyai.",
+          "time": 27099
+        },
+        {
+          "line": "sabh bairin kau aaj sanghariyai.",
+          "time": 30014
+        },
+        {
+          "line": "pooran hoeh hamari aasā.",
+          "time": 32009
+        },
+        {
+          "line": "tor bhajan ki rehai piasa. (379)",
+          "time": 34005
+        },
+        {
+          "line": "tumahi chhāḍi koyi avar na dhyau.",
+          "time": 36024
+        },
+        {
+          "line": "jo bar chahau so tum te paau.",
+          "time": 38030
+        },
+        {
+          "line": "sevak sikh hamare tariyahī.",
+          "time": 40048
+        },
+        {
+          "line": "chun chun stru hamare mariyahī. (380)",
+          "time": 42028
+        },
+        {
+          "line": "aap hath dai mujhai ubariyai.",
+          "time": 44045
+        },
+        {
+          "line": "maran kaal ka tras nivariyai.",
+          "time": 46062
+        },
+        {
+          "line": "hujo sada hamare pachha.",
+          "time": 48065
+        },
+        {
+          "line": "sri asidhuj ju kariyahu rachcha. (381)",
+          "time": 50060
+        },
+        {
+          "line": "rakh leh mohi rakhanhare.",
+          "time": 52077
+        },
+        {
+          "line": "sahib sant sahae piare.",
+          "time": 54088
+        },
+        {
+          "line": "deen bandhu dushtan ke hanta.",
+          "time": 57007
+        },
+        {
+          "line": "tum ho puri chaturdas kanta. (382)",
+          "time": 58098
+        },
+        {
+          "line": "kaal pae brahma bapu dhara.",
+          "time": 60096
+        },
+        {
+          "line": "kaal pae shiv ju avatara.",
+          "time": 63022
+        },
+        {
+          "line": "kaal pae kari bisan prakasha.",
+          "time": 65050
+        },
+        {
+          "line": "sakal kaal ka kiya tamasa. (383)",
+          "time": 67031
+        },
+        {
+          "line": "javan kaal jogi shiv kiyō.",
+          "time": 69002
+        },
+        {
+          "line": "ved raj brahma ju thiyo.",
+          "time": 71074
+        },
+        {
+          "line": "javan kaal sabh lok savaara.",
+          "time": 73097
+        },
+        {
+          "line": "namaskar hai tahi hamara. (384)",
+          "time": 75084
+        },
+        {
+          "line": "javan kaal sabh jagat banayo.",
+          "time": 77055
+        },
+        {
+          "line": "dev daint jachhan upjayo.",
+          "time": 80008
+        },
+        {
+          "line": "adi anti ekai avatara.",
+          "time": 82040
+        },
+        {
+          "line": "soi guru samjhiayahu hamara. (385)",
+          "time": 84012
+        },
+        {
+          "line": "namaskar tis hi ko hamari.",
+          "time": 86015
+        },
+        {
+          "line": "sakal praja jin aap savari.",
+          "time": 88044
+        },
+        {
+          "line": "sivkan ko sivgun sukh diyo.",
+          "time": 90064
+        },
+        {
+          "line": "strun ko pal mo badh kiyo. (386)",
+          "time": 92095
+        },
+        {
+          "line": "ghat ghat ke antar ki janat.",
+          "time": 94066
+        },
+        {
+          "line": "bhaley burey ki pir pachhanat.",
+          "time": 96080
+        },
+        {
+          "line": "chiti te kunchar asthula.",
+          "time": 98070
+        },
+        {
+          "line": "sabh par kirpa drishti kar phoola. (387)",
+          "time": 100082
+        },
+        {
+          "line": "santan dukh paaye te dukhi.",
+          "time": 102096
+        },
+        {
+          "line": "sukh paaye sadhan ke sukhi.",
+          "time": 104093
+        },
+        {
+          "line": "ek ek ki pir pachhanai.",
+          "time": 106091
+        },
+        {
+          "line": "ghat ghat ke pat pat ki janai. (388)",
+          "time": 108086
+        },
+        {
+          "line": "jub oodkrakh kra kartara",
+          "time": 110094
+        },
+        {
+          "line": "praja dharat tab deh apara",
+          "time": 112079
+        },
+        {
+          "line": "jub aakrakh kart ho kabhoon",
+          "time": 114082
+        },
+        {
+          "line": "tum mai milat deh dhar sabhhoon (389)",
+          "time": 116079
+        },
+        {
+          "line": "jaitai badan srishti sabh dharai",
+          "time": 118077
+        },
+        {
+          "line": "aap aapni boojh oocharai",
+          "time": 120081
+        },
+        {
+          "line": "tum sabh hi te rehat niralam",
+          "time": 122073
+        },
+        {
+          "line": "janat bed bhed aru aalam (390)",
+          "time": 124049
+        },
+        {
+          "line": "nirankar nirvikar nirlambh",
+          "time": 126068
+        },
+        {
+          "line": "aadi anil anaadi asambh",
+          "time": 129006
+        },
+        {
+          "line": "taa ka moorh oocharat bheda",
+          "time": 131018
+        },
+        {
+          "line": "jaa ko bhaav na paavat beda (391)",
+          "time": 132097
+        },
+        {
+          "line": "taa ko kari paahan anumaant",
+          "time": 134092
+        },
+        {
+          "line": "maha moorh kachh bhed na jaant",
+          "time": 137034
+        },
+        {
+          "line": "mahadeo ko kahat sadaa siv",
+          "time": 139037
+        },
+        {
+          "line": "nirankar ka cheenat nahi bhiv (392)",
+          "time": 141027
+        },
+        {
+          "line": "aap aapni budh hai jeti",
+          "time": 143046
+        },
+        {
+          "line": "baranat bhinn bhinn tumhi teti",
+          "time": 145039
+        },
+        {
+          "line": "tumra likha na jaaye pasaara",
+          "time": 147039
+        },
+        {
+          "line": "kih bidhi saaja pratham sansaara (393)",
+          "time": 149024
+        },
+        {
+          "line": "ekai roop anoop saroopa",
+          "time": 151048
+        },
+        {
+          "line": "rank bhayo raav kahi bhoopa",
+          "time": 153055
+        },
+        {
+          "line": "andaj jeraj setaj keeni",
+          "time": 155039
+        },
+        {
+          "line": "utbhuj khaani bahur rach deeni (394)",
+          "time": 157033
+        },
+        {
+          "line": "kahoon phool raaja hove baitha",
+          "time": 159018
+        },
+        {
+          "line": "kahoon simat bhayo sankar ikaitha",
+          "time": 161036
+        },
+        {
+          "line": "sagri srishti dikhaayi achambhav",
+          "time": 163045
+        },
+        {
+          "line": "aad jugaaad saroop suyambhav (395)",
+          "time": 165059
+        },
+        {
+          "line": "ab rachchhaa meri tum karo",
+          "time": 168048
+        },
+        {
+          "line": "sikh ubarai asikh sangharo",
+          "time": 170000
+        },
+        {
+          "line": "dusht jete uthavat utpaata",
+          "time": 171077
+        },
+        {
+          "line": "sakal malechh karo ran ghaata (396)",
+          "time": 173072
+        },
+        {
+          "line": "je asidhuj tav sarni pare",
+          "time": 175066
+        },
+        {
+          "line": "tin ke dusht dukhit hove mare",
+          "time": 177066
+        },
+        {
+          "line": "purakh jevan pag pare tihare",
+          "time": 179078
+        },
+        {
+          "line": "tin ke tum sankat sabh taare (397)",
+          "time": 181059
+        },
+        {
+          "line": "jo kal ko ek baar dhiyaaihai",
+          "time": 183048
+        },
+        {
+          "line": "taa ke kaal nikat nahi aaihai",
+          "time": 185056
+        },
+        {
+          "line": "rachchhaa hoi taahe sabh kaalaa",
+          "time": 187088
+        },
+        {
+          "line": "dusht arist tarain tatkaalaa (398)",
+          "time": 189088
+        },
+        {
+          "line": "kirpa drishti tan jaahi nihariho",
+          "time": 191087
+        },
+        {
+          "line": "taa ke taap tanak mahi hariho",
+          "time": 194012
+        },
+        {
+          "line": "ridh siddh ghar mo sabh hoi",
+          "time": 196046
+        },
+        {
+          "line": "dusht chhaah chvai sakai na koi (399)",
+          "time": 198034
+        },
+        {
+          "line": "ek baar jin tumai sumbhaara",
+          "time": 200042
+        },
+        {
+          "line": "kaal phaas te taahi ubaara",
+          "time": 202034
+        },
+        {
+          "line": "jin nar naam tiharo kahaa",
+          "time": 204046
+        },
+        {
+          "line": "daarid dusht dokh te rahaa (400)",
+          "time": 206038
+        },
+        {
+          "line": "kharag ket mai sarni tihari",
+          "time": 208043
+        },
+        {
+          "line": "aap haath dai leho ubaari",
+          "time": 210091
+        },
+        {
+          "line": "sarab thaur mo hohu sahaai",
+          "time": 212098
+        },
+        {
+          "line": "dusht dokh te leho bachaai (401)",
+          "time": 214091
+        },
+        {
+          "line": "kripaa kari ham par jagmaataa",
+          "time": 217041
+        },
+        {
+          "line": "granth karaa pooran subh raataa",
+          "time": 221026
+        },
+        {
+          "line": "kilbikh sakal deh ko hartaa",
+          "time": 221026
+        },
+        {
+          "line": "dusht dokhiyan ko chhai kartaa (26)",
+          "time": 221026
+        },
+        {
+          "line": "sri asidhuj jab bhae dayaalaa",
+          "time": 225008
+        },
+        {
+          "line": "pooran karaa granth tatkaalaa",
+          "time": 229033
+        },
+        {
+          "line": "man baanchhat phal paavai soee",
+          "time": 229033
+        },
+        {
+          "line": "dookh na tisai biaapat koee (27)",
+          "time": 229033
+        },
+        {
+          "line": "arhil",
+          "time": 233034
+        },
+        {
+          "line": "sunai gung jo yaahi su rasnaa paavaee",
+          "time": 234014
+        },
+        {
+          "line": "sunai moorh chit laae chaturtaa aavaee",
+          "time": 242094
+        },
+        {
+          "line": "dookh dard bhau nikat na tin nar ke rahai",
+          "time": 242094
+        },
+        {
+          "line": "ho jo yaaki ek baar chaupai ko kahai (28)",
+          "time": 242094
+        }
+      ],
+      "english_lyrics": [
+        {
+          "line": "The Khalsa belongs to God, and victory belongs to God.",
+          "time": 24
+        },
+        {
+          "line": "Speech of the poet.",
+          "time": 9024
+        },
+        {
+          "line": "Chaupai",
+          "time": 10027
+        },
+        {
+          "line": "Protect me O Lord! with Thine own Hands",
+          "time": 11096
+        },
+        {
+          "line": "all the desires of my heart be fulfilled.",
+          "time": 13077
+        },
+        {
+          "line": "Let my mind rest under Thy Feet",
+          "time": 15065
+        },
+        {
+          "line": "Sustain me, considering me Thine own.377.",
+          "time": 17042
+        },
+        {
+          "line": "Destroy, O Lord! all my enemies and",
+          "time": 19052
+        },
+        {
+          "line": "protect me with Thine won Hands.",
+          "time": 22023
+        },
+        {
+          "line": "May my family live in comfort",
+          "time": 23085
+        },
+        {
+          "line": "and ease alongwith all my servants and disciples.378.",
+          "time": 25077
+        },
+        {
+          "line": "Protect me O Lord! with Thine own Hands",
+          "time": 27099
+        },
+        {
+          "line": "and destroy this day all my enemies",
+          "time": 30014
+        },
+        {
+          "line": "May all the aspirations be fulfilled",
+          "time": 32009
+        },
+        {
+          "line": "Let my thirst for Name remain afresh.379.",
+          "time": 34005
+        },
+        {
+          "line": "I may remember none else except Thee",
+          "time": 36024
+        },
+        {
+          "line": "And obtain all the required boons from Thee",
+          "time": 38030
+        },
+        {
+          "line": "Let my servants and disciples cross the world-ocean",
+          "time": 40048
+        },
+        {
+          "line": "All my enemies be singled out and killed.380.",
+          "time": 42028
+        },
+        {
+          "line": "Protect me O Lord! with Thine own Hands and",
+          "time": 44045
+        },
+        {
+          "line": "relieve me from the fear of death",
+          "time": 46062
+        },
+        {
+          "line": "May Thou ever bestow Thy favours on my side",
+          "time": 48065
+        },
+        {
+          "line": "Protect me O Lord!Thou, the Supreme Destroyer.381.",
+          "time": 50060
+        },
+        {
+          "line": "Protect me, O Lord! Thou, the Protector, O Lord!",
+          "time": 52077
+        },
+        {
+          "line": "Most dear, the Protector of the Saints:",
+          "time": 54088
+        },
+        {
+          "line": "Friend of the poor and the Destroyer of the enemies",
+          "time": 57007
+        },
+        {
+          "line": "Thou art the Master of the fourteen worlds.382.",
+          "time": 58098
+        },
+        {
+          "line": "In due time Brahma appeared in physical form",
+          "time": 60096
+        },
+        {
+          "line": "In due time Shiva incarnated",
+          "time": 63022
+        },
+        {
+          "line": "In due time Vishnu manifested Himself",
+          "time": 65050
+        },
+        {
+          "line": "All this is the play of the Temporal Lord.383.",
+          "time": 67031
+        },
+        {
+          "line": "The Temporal Lord, who created Shiva, the Yogi",
+          "time": 69002
+        },
+        {
+          "line": "Who created Brahma, the Master of the Vedas",
+          "time": 71074
+        },
+        {
+          "line": "The Temporal Lord who fashioned the entire world",
+          "time": 73097
+        },
+        {
+          "line": "I salute the same Lord.384.",
+          "time": 75084
+        },
+        {
+          "line": "The Temporal Lord, who created the whole world",
+          "time": 77055
+        },
+        {
+          "line": "Who created gods, demons and yakshas",
+          "time": 80008
+        },
+        {
+          "line": "He is the only one from the beginning to the end",
+          "time": 82040
+        },
+        {
+          "line": "I consider Him only my Guru.385.",
+          "time": 84012
+        },
+        {
+          "line": "I salute Him, none else but Him",
+          "time": 86015
+        },
+        {
+          "line": "Who has created Himself and His subjects",
+          "time": 88044
+        },
+        {
+          "line": "He bestows Divine virtues and happiness on His servants",
+          "time": 90064
+        },
+        {
+          "line": "He destroys the enemies instantly.386.",
+          "time": 92095
+        },
+        {
+          "line": "He knows the inner feelings of every heart",
+          "time": 94066
+        },
+        {
+          "line": "He knows the anguish of both good and bad",
+          "time": 96080
+        },
+        {
+          "line": "From the ant to the mighty elephant",
+          "time": 98070
+        },
+        {
+          "line": "He casts His Graceful glance on all and feels pleased.387.",
+          "time": 100082
+        },
+        {
+          "line": "He is pained when He sees His saints in grief",
+          "time": 102096
+        },
+        {
+          "line": "He is happy when His saints are happy",
+          "time": 104093
+        },
+        {
+          "line": "He knows the agony of everyone",
+          "time": 106091
+        },
+        {
+          "line": "He knows the innermost secrets of every heart.388.",
+          "time": 108086
+        },
+        {
+          "line": "When the Creator projected Himself",
+          "time": 110094
+        },
+        {
+          "line": "His creation manifested itself in innumerable forms",
+          "time": 112079
+        },
+        {
+          "line": "When at any time He withdraws His creation",
+          "time": 114082
+        },
+        {
+          "line": "All the physical forms are merged in Him.389.",
+          "time": 116079
+        },
+        {
+          "line": "All the bodies of living beings created in the world",
+          "time": 118077
+        },
+        {
+          "line": "Speak about Him according to their understanding",
+          "time": 120081
+        },
+        {
+          "line": "But Thou, O Lord! live quite apart from everything",
+          "time": 122073
+        },
+        {
+          "line": "This fact is known to the Vedas and the learned.390.",
+          "time": 124049
+        },
+        {
+          "line": "The Lord is Formless, Sinless and shelterless:",
+          "time": 126068
+        },
+        {
+          "line": "He is the Primal Power, Blemishless, Beginningless and Unborn",
+          "time": 129006
+        },
+        {
+          "line": "The fool claims boastfully about the knowledge of His secrets,",
+          "time": 131018
+        },
+        {
+          "line": "which even the Vedas do not know.391.",
+          "time": 132097
+        },
+        {
+          "line": "The fool considers Him a stone,",
+          "time": 134092
+        },
+        {
+          "line": "but the great fool does not know any secret",
+          "time": 137034
+        },
+        {
+          "line": "He calls Shiva \"The Eternal Lord,\"",
+          "time": 139037
+        },
+        {
+          "line": "but he does not know the secret of the Formless Lord.392.",
+          "time": 141027
+        },
+        {
+          "line": "According to one's own intellect,",
+          "time": 143046
+        },
+        {
+          "line": "one describes Thee differently",
+          "time": 145039
+        },
+        {
+          "line": "The limits of Thy creation cannot be known",
+          "time": 147039
+        },
+        {
+          "line": "and how the world was fashioned in the beginning?393.",
+          "time": 149024
+        },
+        {
+          "line": "He hath only one unparalleled Form",
+          "time": 151048
+        },
+        {
+          "line": "He manifests Himself as a poor man or a king at different places",
+          "time": 153055
+        },
+        {
+          "line": "He created creatures from eggs, wombs and perspiration",
+          "time": 155039
+        },
+        {
+          "line": "Then He created the vegetable kingdom.394.",
+          "time": 157033
+        },
+        {
+          "line": "Somewhere He sits joyfully as a king",
+          "time": 159018
+        },
+        {
+          "line": "Somewhere He contracts Himself as Shiva, the Yogi",
+          "time": 161036
+        },
+        {
+          "line": "All His creation unfolds wonderful things",
+          "time": 163045
+        },
+        {
+          "line": "He, the Primal Power, is from the beginning and Self-Existent.395.",
+          "time": 165059
+        },
+        {
+          "line": "O Lord! now keep me under Your protection.",
+          "time": 168048
+        },
+        {
+          "line": "Protect my disciples and destroy the wicked ones.",
+          "time": 170000
+        },
+        {
+          "line": "All villains who cause disturbances,",
+          "time": 171077
+        },
+        {
+          "line": "and all infidels—destroy them in the battlefield.396.",
+          "time": 173072
+        },
+        {
+          "line": "O Supreme Destroyer! those who come to Your refuge,",
+          "time": 175066
+        },
+        {
+          "line": "their enemies die in great suffering.",
+          "time": 177066
+        },
+        {
+          "line": "Those persons who fall at Your Feet,",
+          "time": 179078
+        },
+        {
+          "line": "You remove all their troubles.397.",
+          "time": 181059
+        },
+        {
+          "line": "Those who meditate even once in this dark age,",
+          "time": 183048
+        },
+        {
+          "line": "death cannot come near them.",
+          "time": 185056
+        },
+        {
+          "line": "Your protection remains over them at all times,",
+          "time": 187088
+        },
+        {
+          "line": "and their enemies and misfortunes end instantly.398.",
+          "time": 189088
+        },
+        {
+          "line": "Upon whom You cast Your gracious glance,",
+          "time": 191087
+        },
+        {
+          "line": "their sufferings are removed in a moment.",
+          "time": 194012
+        },
+        {
+          "line": "All wealth and spiritual powers enter their home,",
+          "time": 196046
+        },
+        {
+          "line": "and no enemy can even touch their shadow.399.",
+          "time": 198034
+        },
+        {
+          "line": "He who remembers You even once,",
+          "time": 200042
+        },
+        {
+          "line": "You save him from the noose of death.",
+          "time": 202034
+        },
+        {
+          "line": "Those who utter Your Name,",
+          "time": 204046
+        },
+        {
+          "line": "are freed from poverty and wicked influences.400.",
+          "time": 206038
+        },
+        {
+          "line": "O The Lord of Sword, I seek Your protection.",
+          "time": 208043
+        },
+        {
+          "line": "With Your Hands you have guarded me",
+          "time": 210091
+        },
+        {
+          "line": ". At All Times be my Support.",
+          "time": 212098
+        },
+        {
+          "line": "Save me from wickedness and pain.",
+          "time": 214091
+        },
+        {
+          "line": "The Mother of the world has been kind towards me and I have completed the book this auspicious night;",
+          "time": 217041
+        },
+        {
+          "line": "The Lord is the destroyer of all the sins of the body and all the malicious and wicked persons.",
+          "time": 221026
+        },
+        {
+          "line": "When Mahakal became kind, He immediately caused me to complete this book;",
+          "time": 225008
+        },
+        {
+          "line": "He will obtain the fruit desired by the mind (who will read or listen to this book) and no suffering will occur to him.",
+          "time": 229033
+        },
+        {
+          "line": "ARRIL",
+          "time": 233034
+        },
+        {
+          "line": "The dumb, who will listen to it, will be blessed with the tongue to speak; the fool, who will listen to it attentively, will get wisdom;",
+          "time": 234014
+        },
+        {
+          "line": "The suffering, pain and fear of the person will depart who recite Chaupai even once.",
+          "time": 242094
+        }
+      ],
+      "spanish_lyrics": [
+        {
+          "line": "El Khalsa pertenece a Dios, y la victoria pertenece a Dios.",
+          "time": 24
+        },
+        {
+          "line": "Discurso del poeta.",
+          "time": 9024
+        },
+        {
+          "line": "Chaupai",
+          "time": 10027
+        },
+        {
+          "line": "¡Protégeme, oh Señor!, con Tus propias Manos",
+          "time": 11096
+        },
+        {
+          "line": "que se cumplan todos los deseos de mi corazón.",
+          "time": 13077
+        },
+        {
+          "line": "Que mi mente descanse bajo Tus Pies",
+          "time": 15065
+        },
+        {
+          "line": "Sosténme, considerándome como Tuyo.377.",
+          "time": 17042
+        },
+        {
+          "line": "¡Destruye, oh Señor!, a todos mis enemigos y",
+          "time": 19052
+        },
+        {
+          "line": "protégeme con Tus propias Manos.",
+          "time": 22023
+        },
+        {
+          "line": "Que mi familia viva en comodidad",
+          "time": 23085
+        },
+        {
+          "line": "y bienestar junto con todos mis sirvientes y discípulos.378.",
+          "time": 25077
+        },
+        {
+          "line": "¡Protégeme, oh Señor!, con Tus propias Manos",
+          "time": 27099
+        },
+        {
+          "line": "y destruye hoy a todos mis enemigos",
+          "time": 30014
+        },
+        {
+          "line": "Que todas las aspiraciones se cumplan",
+          "time": 32009
+        },
+        {
+          "line": "Que mi sed por el Nombre permanezca fresca.379.",
+          "time": 34005
+        },
+        {
+          "line": "Que no recuerde a nadie más excepto a Ti",
+          "time": 36024
+        },
+        {
+          "line": "Y obtenga de Ti todas las bendiciones necesarias",
+          "time": 38030
+        },
+        {
+          "line": "Permite que mis sirvientes y discípulos crucen el océano del mundo",
+          "time": 40048
+        },
+        {
+          "line": "Que todos mis enemigos sean señalados y destruidos.380.",
+          "time": 42028
+        },
+        {
+          "line": "¡Protégeme, oh Señor!, con Tus propias Manos y",
+          "time": 44045
+        },
+        {
+          "line": "libérame del temor a la muerte",
+          "time": 46062
+        },
+        {
+          "line": "Que siempre concedas Tus favores a mi lado",
+          "time": 48065
+        },
+        {
+          "line": "Protégeme, oh Señor, Tú, el Supremo Destructor.381.",
+          "time": 50060
+        },
+        {
+          "line": "¡Protégeme, oh Señor! Tú, el Protector, oh Señor!",
+          "time": 52077
+        },
+        {
+          "line": "El más amado, el Protector de los Santos:",
+          "time": 54088
+        },
+        {
+          "line": "Amigo de los pobres y Destructor de los enemigos",
+          "time": 57007
+        },
+        {
+          "line": "Tú eres el Señor de los catorce mundos.382.",
+          "time": 58098
+        },
+        {
+          "line": "A su debido tiempo Brahma apareció en forma física",
+          "time": 60096
+        },
+        {
+          "line": "A su debido tiempo Shiva encarnó",
+          "time": 63022
+        },
+        {
+          "line": "A su debido tiempo Vishnu se manifestó",
+          "time": 65050
+        },
+        {
+          "line": "Todo esto es el juego del Señor Temporal.383.",
+          "time": 67031
+        },
+        {
+          "line": "El Señor Temporal, que creó a Shiva, el Yogi",
+          "time": 69002
+        },
+        {
+          "line": "Que creó a Brahma, el Maestro de los Vedas",
+          "time": 71074
+        },
+        {
+          "line": "El Señor Temporal que formó el mundo entero",
+          "time": 73097
+        },
+        {
+          "line": "Yo saludo a ese mismo Señor.384.",
+          "time": 75084
+        },
+        {
+          "line": "El Señor Temporal, que creó todo el mundo",
+          "time": 77055
+        },
+        {
+          "line": "Que creó dioses, demonios y yakshas",
+          "time": 80008
+        },
+        {
+          "line": "Él es el único desde el principio hasta el fin",
+          "time": 82040
+        },
+        {
+          "line": "Lo considero solo a Él como mi Guru.385.",
+          "time": 84012
+        },
+        {
+          "line": "Lo saludo a Él, a nadie más que a Él",
+          "time": 86015
+        },
+        {
+          "line": "Quien se ha creado a Sí mismo y a Sus criaturas",
+          "time": 88044
+        },
+        {
+          "line": "Él otorga virtudes divinas y felicidad a Sus siervos",
+          "time": 90064
+        },
+        {
+          "line": "Él destruye a los enemigos al instante.386.",
+          "time": 92095
+        },
+        {
+          "line": "Él conoce los sentimientos internos de cada corazón",
+          "time": 94066
+        },
+        {
+          "line": "Él conoce la angustia tanto de los buenos como de los malos",
+          "time": 96080
+        },
+        {
+          "line": "Desde la hormiga hasta el poderoso elefante",
+          "time": 98070
+        },
+        {
+          "line": "Él lanza Su mirada llena de gracia sobre todos y se complace.387.",
+          "time": 100082
+        },
+        {
+          "line": "Él sufre cuando ve a Sus santos en aflicción",
+          "time": 102096
+        },
+        {
+          "line": "Él es feliz cuando Sus santos son felices",
+          "time": 104093
+        },
+        {
+          "line": "Él conoce la agonía de todos",
+          "time": 106091
+        },
+        {
+          "line": "Él conoce los secretos más profundos de cada corazón.388.",
+          "time": 108086
+        },
+        {
+          "line": "Cuando el Creador se proyectó a Sí mismo",
+          "time": 110094
+        },
+        {
+          "line": "Su creación se manifestó en innumerables formas",
+          "time": 112079
+        },
+        {
+          "line": "Cuando en cualquier momento retira Su creación",
+          "time": 114082
+        },
+        {
+          "line": "Todas las formas físicas se fusionan en Él.389.",
+          "time": 116079
+        },
+        {
+          "line": "Todos los cuerpos de los seres vivos creados en el mundo",
+          "time": 118077
+        },
+        {
+          "line": "Hablan de Él según su entendimiento",
+          "time": 120081
+        },
+        {
+          "line": "Pero Tú, oh Señor, vives totalmente aparte de todo",
+          "time": 122073
+        },
+        {
+          "line": "Este hecho es conocido por los Vedas y por los sabios.390.",
+          "time": 124049
+        },
+        {
+          "line": "El Señor es Sin Forma, Sin Pecado y sin necesidad de refugio:",
+          "time": 126068
+        },
+        {
+          "line": "Él es el Poder Primordial, Sin Mancha, Sin Principio y No Nacido",
+          "time": 129006
+        },
+        {
+          "line": "El necio proclama orgullosamente conocer Sus secretos,",
+          "time": 131018
+        },
+        {
+          "line": "que ni siquiera los Vedas conocen.391.",
+          "time": 132097
+        },
+        {
+          "line": "El necio lo considera una piedra,",
+          "time": 134092
+        },
+        {
+          "line": "pero el gran necio no conoce ningún secreto",
+          "time": 137034
+        },
+        {
+          "line": "Llama a Shiva \"El Señor Eterno\",",
+          "time": 139037
+        },
+        {
+          "line": "pero no conoce el secreto del Señor Sin Forma.392.",
+          "time": 141027
+        },
+        {
+          "line": "Según la propia inteligencia,",
+          "time": 143046
+        },
+        {
+          "line": "uno Te describe de manera diferente",
+          "time": 145039
+        },
+        {
+          "line": "Los límites de Tu creación no pueden ser conocidos",
+          "time": 147039
+        },
+        {
+          "line": "y ¿cómo fue formado el mundo al principio?393.",
+          "time": 149024
+        },
+        {
+          "line": "Él tiene solo una Forma inigualable",
+          "time": 151048
+        },
+        {
+          "line": "Él se manifiesta como un pobre o un rey en diferentes lugares",
+          "time": 153055
+        },
+        {
+          "line": "Él creó criaturas de huevos, vientres y sudor",
+          "time": 155039
+        },
+        {
+          "line": "Luego creó el reino vegetal.394.",
+          "time": 157033
+        },
+        {
+          "line": "En algún lugar Él se sienta alegremente como un rey",
+          "time": 159018
+        },
+        {
+          "line": "En algún lugar se contrae como Shiva, el Yogi",
+          "time": 161036
+        },
+        {
+          "line": "Toda Su creación despliega cosas maravillosas",
+          "time": 163045
+        },
+        {
+          "line": "Él, el Poder Primordial, existe desde el principio y por Sí mismo.395.",
+          "time": 165059
+        },
+        {
+          "line": "¡Oh Señor! ahora mantenme bajo Tu protección.",
+          "time": 168048
+        },
+        {
+          "line": "Protege a mis discípulos y destruye a los malvados.",
+          "time": 170000
+        },
+        {
+          "line": "Todos los villanos que causan disturbios,",
+          "time": 171077
+        },
+        {
+          "line": "y todos los infieles—destrúyelos en el campo de batalla.396.",
+          "time": 173072
+        },
+        {
+          "line": "¡Oh Supremo Destructor! aquellos que vienen a Tu refugio,",
+          "time": 175066
+        },
+        {
+          "line": "sus enemigos mueren en gran sufrimiento.",
+          "time": 177066
+        },
+        {
+          "line": "Aquellos que caen a Tus Pies,",
+          "time": 179078
+        },
+        {
+          "line": "Tú eliminas todos sus problemas.397.",
+          "time": 181059
+        },
+        {
+          "line": "Aquellos que meditan incluso una vez en esta era oscura,",
+          "time": 183048
+        },
+        {
+          "line": "la muerte no puede acercarse a ellos.",
+          "time": 185056
+        },
+        {
+          "line": "Tu protección permanece sobre ellos en todo momento,",
+          "time": 187088
+        },
+        {
+          "line": "y sus enemigos y desgracias terminan al instante.398.",
+          "time": 189088
+        },
+        {
+          "line": "Sobre quien lanzas Tu mirada llena de gracia,",
+          "time": 191087
+        },
+        {
+          "line": "sus sufrimientos se eliminan en un momento.",
+          "time": 194012
+        },
+        {
+          "line": "Toda riqueza y poderes espirituales entran en su hogar,",
+          "time": 196046
+        },
+        {
+          "line": "y ningún enemigo puede siquiera tocar su sombra.399.",
+          "time": 198034
+        },
+        {
+          "line": "Aquel que Te recuerda incluso una vez,",
+          "time": 200042
+        },
+        {
+          "line": "Tú lo salvas del lazo de la muerte.",
+          "time": 202034
+        },
+        {
+          "line": "Aquellos que pronuncian Tu Nombre,",
+          "time": 204046
+        },
+        {
+          "line": "son liberados de la pobreza y de influencias malignas.400.",
+          "time": 206038
+        },
+        {
+          "line": "Oh Señor de la Espada, busco Tu protección.",
+          "time": 208043
+        },
+        {
+          "line": "Con Tus Manos me has protegido",
+          "time": 210091
+        },
+        {
+          "line": "En todo momento sé mi Sustento.",
+          "time": 212098
+        },
+        {
+          "line": "Sálvame de la maldad y del dolor.",
+          "time": 214091
+        },
+        {
+          "line": "La Madre del mundo ha sido bondadosa conmigo y he completado el libro esta noche auspiciosa;",
+          "time": 217041
+        },
+        {
+          "line": "El Señor es el destructor de todos los pecados del cuerpo y de todas las personas maliciosas y perversas.",
+          "time": 221026
+        },
+        {
+          "line": "Cuando Mahakal se volvió bondadoso, Él hizo que completara este libro de inmediato;",
+          "time": 225008
+        },
+        {
+          "line": "Él obtendrá el fruto deseado por la mente (quien lea o escuche este libro) y ningún sufrimiento le ocurrirá.",
+          "time": 229033
+        },
+        {
+          "line": "ARRIL",
+          "time": 233034
+        },
+        {
+          "line": "El mudo, que lo escuche, será bendecido con lengua para hablar; el necio, que lo escuche atentamente, obtendrá sabiduría;",
+          "time": 234014
+        },
+        {
+          "line": "El sufrimiento, el dolor y el miedo de la persona desaparecerán si recita Chaupai aunque sea una vez.",
+          "time": 242094
+        }
+      ],
+      "hindi_lyrics": [
+        {
+          "line": "वाहेगुरु जी का खालसा वाहेगुरु जी की फतेह॥",
+          "time": 24
+        },
+        {
+          "line": "कब्यो बाच बेनती ॥",
+          "time": 9024
+        },
+        {
+          "line": "चौपई ॥",
+          "time": 10027
+        },
+        {
+          "line": "हमरी करो हाथ दै रछा ॥",
+          "time": 11096
+        },
+        {
+          "line": "पूर्ण होइ चित की इच्छा ॥",
+          "time": 13077
+        },
+        {
+          "line": "तव चरणन मन रहै हमारा ॥",
+          "time": 15065
+        },
+        {
+          "line": "अपना जान करो प्रतिपारा ॥३७७॥",
+          "time": 17042
+        },
+        {
+          "line": "हमरे दुष्ट सभै तुम घावहु ॥",
+          "time": 19052
+        },
+        {
+          "line": "आपु हाथ दै मोहि बचावहु ॥",
+          "time": 22023
+        },
+        {
+          "line": "सुखी बसै मोरो परिवारा ॥",
+          "time": 23085
+        },
+        {
+          "line": "सेवक सिख्य सभै करताaraa ॥३७८॥",
+          "time": 25077
+        },
+        {
+          "line": "मो रछा निजु कर दै करियै ॥",
+          "time": 27099
+        },
+        {
+          "line": "सਭ बैरिन कौ आज संघरियै ॥",
+          "time": 30014
+        },
+        {
+          "line": "पूर्ण होइ हमारी आसा ॥",
+          "time": 32009
+        },
+        {
+          "line": "तो‍रि भजन की रहै पियासा ॥३७९॥",
+          "time": 34005
+        },
+        {
+          "line": "तुमहि छाड़ि कोई अवर न ध्याऊ ॥",
+          "time": 36024
+        },
+        {
+          "line": "जो बर चाहौं सु तुम ते पाऊ ॥",
+          "time": 38030
+        },
+        {
+          "line": "सेवक सिख्य हमारे तारियहि ॥",
+          "time": 40048
+        },
+        {
+          "line": "चुन चुन स्त्रु हमारे मारियहि ॥३८०॥",
+          "time": 42028
+        },
+        {
+          "line": "आपु हाथ दै मुझै उबरियै ॥",
+          "time": 44045
+        },
+        {
+          "line": "मरण काल का त्रास निवारियै ॥",
+          "time": 46062
+        },
+        {
+          "line": "हूजो सदा हमारे पछा ॥",
+          "time": 48065
+        },
+        {
+          "line": "श्री असिधुज जू करियहु रछा ॥३८१॥",
+          "time": 50060
+        },
+        {
+          "line": "राखि लेहु मुहि राखनहारे ॥",
+          "time": 52077
+        },
+        {
+          "line": "साहिब संत सहाए पियारे ॥",
+          "time": 54088
+        },
+        {
+          "line": "दीनबन्धु दुष्टन के हंता ॥",
+          "time": 57007
+        },
+        {
+          "line": "तुम हो पुरी चतुरदस कंता ॥३८२॥",
+          "time": 58098
+        },
+        {
+          "line": "काल पाइ ब्रहमा बपु धरा ॥",
+          "time": 60096
+        },
+        {
+          "line": "काल पाइ शिव जू अवतरा ॥",
+          "time": 63022
+        },
+        {
+          "line": "काल पाइ करि बिसन प्रकाशा ॥",
+          "time": 65050
+        },
+        {
+          "line": "सकल काल का कीया तमासा ॥३८३॥",
+          "time": 67031
+        },
+        {
+          "line": "जवन काल जोगी शिव कीयो ॥",
+          "time": 69002
+        },
+        {
+          "line": "बेद राज ब्रहमा जू थीयो ॥",
+          "time": 71074
+        },
+        {
+          "line": "जवन काल सभ लोक सवारा ॥",
+          "time": 73097
+        },
+        {
+          "line": "नमस्कार है ताहि हमारा ॥३८४॥",
+          "time": 75084
+        },
+        {
+          "line": "जवन काल सभ जगत बनायो ॥",
+          "time": 77055
+        },
+        {
+          "line": "देव दैत जछन उपजायो ॥",
+          "time": 80008
+        },
+        {
+          "line": "आदि अंति एकै अवतारा ॥",
+          "time": 82040
+        },
+        {
+          "line": "सोई गुरू समझियहु हमारा ॥३८५॥",
+          "time": 84012
+        },
+        {
+          "line": "नमस्कार तिस ही को हमारी ॥",
+          "time": 86015
+        },
+        {
+          "line": "सकल प्रजा जिन आप सवारी ॥",
+          "time": 88044
+        },
+        {
+          "line": "सिवकन को सिवगुन सुख दीयो ॥",
+          "time": 90064
+        },
+        {
+          "line": "स्त्रुन को पल मो बध कीयो ॥३८६॥",
+          "time": 92095
+        },
+        {
+          "line": "घट घट के अंतर की जानत ॥",
+          "time": 94066
+        },
+        {
+          "line": "भले बुरे की पीर पछानत ॥",
+          "time": 96080
+        },
+        {
+          "line": "चीटी ते कुंचर अस्थूला ॥",
+          "time": 98070
+        },
+        {
+          "line": "सभ पर कृपा दृष्टि करि फूला ॥३८७॥",
+          "time": 100082
+        },
+        {
+          "line": "संतन दुख पाए ते दुखी ॥",
+          "time": 102096
+        },
+        {
+          "line": "सुख पाए साधन के सुखी ॥",
+          "time": 104093
+        },
+        {
+          "line": "एक एक की पीर पछानै ॥",
+          "time": 106091
+        },
+        {
+          "line": "घट घट के पट पट की जानै ॥३८८॥",
+          "time": 108086
+        },
+        {
+          "line": "जब उदकरख करा करतारा ॥",
+          "time": 110094
+        },
+        {
+          "line": "प्रजा धरत तब देह अपारा ॥",
+          "time": 112079
+        },
+        {
+          "line": "जब आकरख करत हो कभीऊँ ॥",
+          "time": 114082
+        },
+        {
+          "line": "तुम मै मिलत देह धर सभहूँ ॥३८९॥",
+          "time": 116079
+        },
+        {
+          "line": "जेते बदन सृष्टि सभ धारै ॥",
+          "time": 118077
+        },
+        {
+          "line": "आपु आपुनी बूझि उचारै ॥",
+          "time": 120081
+        },
+        {
+          "line": "तुम सभ ही ते रहत निरालम ॥",
+          "time": 122073
+        },
+        {
+          "line": "जानत बेद भेद अरु आलम ॥३९०॥",
+          "time": 124049
+        },
+        {
+          "line": "निरंकार नृबिकार नृलंभ ॥",
+          "time": 126068
+        },
+        {
+          "line": "आदि अनील अनादि असंभ ॥",
+          "time": 129006
+        },
+        {
+          "line": "ता का मूड़ उचारत भेदा ॥",
+          "time": 131018
+        },
+        {
+          "line": "जा को भाव न पावत बेदा ॥३९१॥",
+          "time": 132097
+        },
+        {
+          "line": "ता कौ करि पाहन अनुमानत ॥",
+          "time": 134092
+        },
+        {
+          "line": "महामूड़ कछु भेद न जानत ॥",
+          "time": 137034
+        },
+        {
+          "line": "महादेव कौ कहत सदा सिव ॥",
+          "time": 139037
+        },
+        {
+          "line": "निरंकार का चीनत नहि भिव ॥३९२॥",
+          "time": 141027
+        },
+        {
+          "line": "आपु आपुनी बुधि है जेती ॥",
+          "time": 143046
+        },
+        {
+          "line": "बरनत भिन्न भिन्न तुम्हि तेती ॥",
+          "time": 145039
+        },
+        {
+          "line": "तुमरा लिखा न जाए पसारा ॥",
+          "time": 147039
+        },
+        {
+          "line": "किह बिधि सजा प्रथम् संसारा ॥३९३॥",
+          "time": 149024
+        },
+        {
+          "line": "एकै रूप अनूप सरूपा ॥",
+          "time": 151048
+        },
+        {
+          "line": "रंक भयो राव कही भूपा ॥",
+          "time": 153055
+        },
+        {
+          "line": "अंडज जेरज सेतज कीनी ॥",
+          "time": 155039
+        },
+        {
+          "line": "उत्भुज खानि बहुरि रचि दीनी ॥३९४॥",
+          "time": 157033
+        },
+        {
+          "line": "कहूँ फू‍लि राजा ह्वै बैठा ॥",
+          "time": 159018
+        },
+        {
+          "line": "कहूँ सिमटि भयो संकर इकैठा ॥",
+          "time": 161036
+        },
+        {
+          "line": "सगरी सृष्टि दिखाइ अचंभव ॥",
+          "time": 163045
+        },
+        {
+          "line": "आदि जुगादि सरूपสุयंभव ॥३९५॥",
+          "time": 165059
+        },
+        {
+          "line": "अब रचा मेरी तुम करो ॥",
+          "time": 168048
+        },
+        {
+          "line": "सिख्य उबारि असिख्य संघरो ॥",
+          "time": 170000
+        },
+        {
+          "line": "दुष्ट जिते उठवत उत्पाता ॥",
+          "time": 171077
+        },
+        {
+          "line": "सकल मलेछ करो रण घाता ॥३९६॥",
+          "time": 173072
+        },
+        {
+          "line": "जे असिधुज तव सरनी परे ॥",
+          "time": 175066
+        },
+        {
+          "line": "तिन के दुष्ट दुखित ह्वै मरे ॥",
+          "time": 177066
+        },
+        {
+          "line": "पुरख जवन पगु परे तिहारे ॥",
+          "time": 179078
+        },
+        {
+          "line": "तिन के तुम संकट सभ टारे ॥३९७॥",
+          "time": 181059
+        },
+        {
+          "line": "जो कलि कौ इक बार धिऐहै ॥",
+          "time": 183048
+        },
+        {
+          "line": "ता के काल निकटि नहि ऐहै ॥",
+          "time": 185056
+        },
+        {
+          "line": "रचा होइ ताहि सभ काला ॥",
+          "time": 187088
+        },
+        {
+          "line": "दुष्ट अरिस्ट टरैं तत्काला ॥३९८॥",
+          "time": 189088
+        },
+        {
+          "line": "कृपा दृष्टि तन जाहि निहरिहो ॥",
+          "time": 191087
+        },
+        {
+          "line": "ता के ताप तनक महि हरिहो ॥",
+          "time": 194012
+        },
+        {
+          "line": "रिधि सिद्धि घर मो सभ होई ॥",
+          "time": 196046
+        },
+        {
+          "line": "दुष्ट छाह छ्वै सकै न कोई ॥३९९॥",
+          "time": 198034
+        },
+        {
+          "line": "एक बार जिन तुमै संभारा ॥",
+          "time": 200042
+        },
+        {
+          "line": "काल फास ते ताहि उबारा ॥",
+          "time": 202034
+        },
+        {
+          "line": "जिन नर नाम तिहारो कहा ॥",
+          "time": 204046
+        },
+        {
+          "line": "दारिद् दुष्ट दोष ते रहा ॥४००॥",
+          "time": 206038
+        },
+        {
+          "line": "खड़गकेतु मै सरन तिहारी ॥",
+          "time": 208043
+        },
+        {
+          "line": "आपु हाथ दै लेहु उबारी ॥",
+          "time": 210091
+        },
+        {
+          "line": "सरब ठौर मो होहु सहाई ॥",
+          "time": 212098
+        },
+        {
+          "line": "दुष्ट दोष ते लेहु बचाई ॥४०१॥",
+          "time": 214091
+        },
+        {
+          "line": "कृपा करी हम पर जगमाता ॥ ग्रंथ करा पूर्ण शुभ राता ॥",
+          "time": 217041
+        },
+        {
+          "line": "किलबिख सकल देह को हरता ॥ दुष्ट दोखियन को छै करता ॥२६॥",
+          "time": 221026
+        },
+        {
+          "line": "श्री असिधुज जब भए दयाला ॥ पूर्ण करा ग्रंथ ततकाला ॥",
+          "time": 225008
+        },
+        {
+          "line": "मन बांचत फल पावै सोई ॥ दूख न तिसै ब्यापत कोई ॥२७॥",
+          "time": 229033
+        },
+        {
+          "line": "अड़िल्ल ॥",
+          "time": 233034
+        },
+        {
+          "line": "सुनै गुंग जो याहि सु रसना पावई ॥ सुनै मूढ़ चित लाइ चतुरता आवई ॥",
+          "time": 234014
+        },
+        {
+          "line": "दूख दरद भौ निकट न तिन नर के रहै ॥ हो जो याकी एक बार चौपई को कहै ॥२८॥",
+          "time": 242094
+        }
+      ]
+    }
+  ],
+  "info": "testings"
+}

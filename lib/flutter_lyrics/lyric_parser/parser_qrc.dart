@@ -11,7 +11,7 @@ class ParserQrc extends LyricsParse {
 
   RegExp advancedValuePattern = RegExp(r"\[(\d*,\d*)\]");
 
-  ParserQrc(String lyric) : super(lyric);
+  ParserQrc(super.lyric);
 
   @override
   List<LyricsLineModel> parseLines({bool isMain = true,bool isMid = false, bool isSpanish = false, bool isHindi = false}) {

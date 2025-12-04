@@ -165,11 +165,11 @@ class EmailSubscribeScreen extends StatelessWidget {
                                   },
                                   // Button styling with theme support
                                   style: ButtonStyle(
-                                    backgroundColor: MaterialStateProperty.all(
+                                    backgroundColor: WidgetStateProperty.all(
                                         themeProvider.darkTheme
                                             ? Colors.white // White background for dark theme
                                             : const Color(0XFF24163A)), // Dark background for light theme
-                                    shape: MaterialStateProperty.all(
+                                    shape: WidgetStateProperty.all(
                                       RoundedRectangleBorder(
                                         borderRadius: BorderRadius.circular(15), // Rounded corners
                                       ),

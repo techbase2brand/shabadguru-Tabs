@@ -136,60 +136,75 @@ class _PlayerControlsState extends State<PlayerControls> {
                       StreamBuilder<MediaState>(
                         stream: mediaStateStream, // Listen to media state
                         builder: (context, snapshot) {
+                          // Determine if previous track is available
+                          final list = widget.listOfShabads;
+                          final currentIndex =
+                              list.indexWhere((e) => e == widget.shabadData);
+                          final hasPrev = list.length > 1 && currentIndex > 0;
+
                           return IconButton(
-                            onPressed: () {
-                              if (widget.listOfShabads.length > 1) { // Check if multiple tracks available
-                                int playingIndex = widget.listOfShabads
-                                    .indexWhere((element) =>
-                                        element == widget.shabadData); // Find current track index
-                                if (playingIndex <
-                                        widget.listOfShabads.length &&
-                                    playingIndex > 0) { // Check if not first track
-                                  // Stop current audio
-                                  audioHandler!.pause();
-                                  audioHandler!.stop();
-                                  audioHandler = null;
-                                  playingLyricModel = null;
-                                  playingNormalLyrics = '';
-                                  playingEnglishLyrics = '';
-                                  playingTranslationLyrics = '';
-                                  controller.sheetHeight = 0.1; // Collapse sheet
-                                  if (shuffleOn) {
-                                    // Play random previous track
-                                    if (getRandomNumberFromList() > 0) {
-                                      controller.shabadData =
-                                          widget.listOfShabads[
-                                              getRandomNumberFromList()];
-                                      controller.playerLoading = true;
-                                      playingShabadData = controller.shabadData;
-                                      controller.update();
-                                      controller.onInit();
-                                    }
-                                  } else {
-                                    // Play previous track in sequence
-                                    int indexOfPlayingShabad = widget
-                                        .listOfShabads
-                                        .indexWhere((element) =>
-                                            element == widget.shabadData);
-                                    if (indexOfPlayingShabad > 0) {
-                                      controller.shabadData =
-                                          widget.listOfShabads[
-                                              indexOfPlayingShabad - 1];
-                                      controller.playerLoading = true;
-                                      playingShabadData = controller.shabadData;
-                                      controller.update();
-                                      controller.onInit();
+                            onPressed: hasPrev
+                                ? () {
+                                    if (widget.listOfShabads.length > 1) {
+                                      int playingIndex = widget.listOfShabads
+                                          .indexWhere((element) =>
+                                              element == widget.shabadData);
+                                      if (playingIndex <
+                                              widget.listOfShabads.length &&
+                                          playingIndex > 0) {
+                                        // Stop current audio
+                                        audioHandler!.pause();
+                                        audioHandler!.stop();
+                                        audioHandler = null;
+                                        playingLyricModel = null;
+                                        playingNormalLyrics = '';
+                                        playingEnglishLyrics = '';
+                                        playingTranslationLyrics = '';
+                                        controller.sheetHeight =
+                                            0.1; // Collapse sheet
+                                        if (shuffleOn) {
+                                          // Play random previous track
+                                          if (getRandomNumberFromList() > 0) {
+                                            controller.shabadData =
+                                                widget.listOfShabads[
+                                                    getRandomNumberFromList()];
+                                            controller.playerLoading = true;
+                                            playingShabadData =
+                                                controller.shabadData;
+                                            controller.update();
+                                            controller.onInit();
+                                          }
+                                        } else {
+                                          // Play previous track in sequence
+                                          int indexOfPlayingShabad = widget
+                                              .listOfShabads
+                                              .indexWhere((element) =>
+                                                  element == widget.shabadData);
+                                          if (indexOfPlayingShabad > 0) {
+                                            controller.shabadData =
+                                                widget.listOfShabads[
+                                                    indexOfPlayingShabad - 1];
+                                            controller.playerLoading = true;
+                                            playingShabadData =
+                                                controller.shabadData;
+                                            controller.update();
+                                            controller.onInit();
+                                          }
+                                        }
+                                      }
                                     }
                                   }
-                                }
-                              }
-                            },
+                                : null,
                             icon: SvgPicture.asset(
                               rewindSvg, // Previous track icon
                               width: 22,
                               height: 22,
-                              color:
-                                  themeProvider.darkTheme ? Colors.white : null, // Icon color based on theme
+                              color: hasPrev
+                                  ? (themeProvider.darkTheme
+                                      ? Colors.white
+                                      : null)
+                                  : Colors.grey
+                                      .shade400, // Disabled look when no previous track
                             ),
                           );
                         },
@@ -225,89 +240,116 @@ class _PlayerControlsState extends State<PlayerControls> {
                       StreamBuilder<MediaState>(
                         stream: mediaStateStream,
                         builder: (context, snapshot) {
-                          return IconButton(
-                            onPressed: () {
-                              if (widget.listOfShabads.length > 1) {
-                                int indexOfPlayingShabad = widget.listOfShabads
-                                    .indexWhere((element) =>
-                                        element == widget.shabadData);
-                                if (indexOfPlayingShabad + 1 <
-                                    widget.listOfShabads.length) {
-                                  audioHandler!.pause();
-                                  audioHandler!.stop();
-                                  audioHandler = null;
-                                  playingLyricModel = null;
-                                  playingNormalLyrics = '';
-                                  playingEnglishLyrics = '';
-                                  playingTranslationLyrics = '';
-                                  controller.sheetHeight = 0.1;
+                          // Determine if next track is available
+                          final list = widget.listOfShabads;
+                          final currentIndex =
+                              list.indexWhere((e) => e == widget.shabadData);
+                          final hasNext = list.length > 1 &&
+                              currentIndex >= 0 &&
+                              currentIndex < list.length - 1;
 
-                                  if (shuffleOn) {
-                                    if (getRandomNumberFromList() <
-                                        widget.listOfShabads.length) {
-                                      controller.shabadData =
-                                          widget.listOfShabads[
-                                              getRandomNumberFromList()];
-                                      playingShabadData = controller.shabadData;
-                                      controller.playerLoading = true;
-                                      controller.update();
-                                      controller.onInit();
-                                    }
-                                  } else {
-                                    int indexOfPlayingShabad = widget
-                                        .listOfShabads
-                                        .indexWhere((element) =>
-                                            element == widget.shabadData);
-                                    if (indexOfPlayingShabad + 1 <
-                                        widget.listOfShabads.length) {
-                                      controller.shabadData =
-                                          widget.listOfShabads[
-                                              indexOfPlayingShabad + 1];
-                                      playingShabadData = controller.shabadData;
-                                      controller.playerLoading = true;
-                                      controller.update();
-                                      controller.onInit();
+                          return IconButton(
+                            onPressed: hasNext
+                                ? () {
+                                    if (widget.listOfShabads.length > 1) {
+                                      int indexOfPlayingShabad =
+                                          widget.listOfShabads.indexWhere(
+                                              (element) =>
+                                                  element == widget.shabadData);
+                                      if (indexOfPlayingShabad + 1 <
+                                          widget.listOfShabads.length) {
+                                        audioHandler!.pause();
+                                        audioHandler!.stop();
+                                        audioHandler = null;
+                                        playingLyricModel = null;
+                                        playingNormalLyrics = '';
+                                        playingEnglishLyrics = '';
+                                        playingTranslationLyrics = '';
+                                        controller.sheetHeight = 0.1;
+
+                                        if (shuffleOn) {
+                                          if (getRandomNumberFromList() <
+                                              widget.listOfShabads.length) {
+                                            controller.shabadData =
+                                                widget.listOfShabads[
+                                                    getRandomNumberFromList()];
+                                            playingShabadData =
+                                                controller.shabadData;
+                                            controller.playerLoading = true;
+                                            controller.update();
+                                            controller.onInit();
+                                          }
+                                        } else {
+                                          int indexOfPlayingShabad = widget
+                                              .listOfShabads
+                                              .indexWhere((element) =>
+                                                  element == widget.shabadData);
+                                          if (indexOfPlayingShabad + 1 <
+                                              widget.listOfShabads.length) {
+                                            controller.shabadData =
+                                                widget.listOfShabads[
+                                                    indexOfPlayingShabad + 1];
+                                            playingShabadData =
+                                                controller.shabadData;
+                                            controller.playerLoading = true;
+                                            controller.update();
+                                            controller.onInit();
+                                          }
+                                        }
+                                      }
                                     }
                                   }
-                                }
-                              }
-                            },
+                                : null,
                             icon: SvgPicture.asset(
                               forwardSvg,
                               width: 22,
                               height: 22,
-                              color:
-                                  themeProvider.darkTheme ? Colors.white : null,
+                              color: hasNext
+                                  ? (themeProvider.darkTheme
+                                      ? Colors.white
+                                      : null)
+                                  : Colors.grey.shade400,
                             ),
                           );
                         },
                       ),
                       // Shuffle button
-                      GestureDetector(
-                        onTap: () {
-                          shuffleOn = !shuffleOn; // Toggle shuffle mode
-                          controller.update(); // Update UI
-                        },
-                        child: Container(
-                          height: 50, // Button height
-                          width: 50, // Button width
-                          decoration: BoxDecoration(
-                            shape: BoxShape.circle, // Circular button
-                            color: shuffleOn
-                                ? secondPrimaryColor // Gold when active
-                                : Colors.transparent, // Transparent when inactive
+                      Builder(builder: (context) {
+                        // Shuffle only makes sense when there is more than one track
+                        final bool canShuffle =
+                            widget.listOfShabads.length > 1;
+                        return GestureDetector(
+                          onTap: canShuffle
+                              ? () {
+                                  shuffleOn = !shuffleOn; // Toggle shuffle mode
+                                  controller.update(); // Update UI
+                                }
+                              : null,
+                          child: Container(
+                            height: 50, // Button height
+                            width: 50, // Button width
+                            decoration: BoxDecoration(
+                              shape: BoxShape.circle, // Circular button
+                              color: !canShuffle
+                                  ? Colors.grey.shade300 // Disabled background
+                                  : shuffleOn
+                                      ? secondPrimaryColor // Gold when active
+                                      : Colors.transparent, // Transparent when inactive
+                            ),
+                            padding: const EdgeInsets.all(15), // Button padding
+                            child: SvgPicture.asset(
+                              shuffleSvg, // Shuffle icon
+                              color: !canShuffle
+                                  ? Colors.grey.shade500 // Disabled icon
+                                  : shuffleOn
+                                      ? Colors.white // White when active
+                                      : themeProvider.darkTheme
+                                          ? Colors.white // White for dark theme when inactive
+                                          : Colors.black, // Black for light theme when inactive
+                            ),
                           ),
-                          padding: const EdgeInsets.all(15), // Button padding
-                          child: SvgPicture.asset(
-                            shuffleSvg, // Shuffle icon
-                            color: shuffleOn
-                                ? Colors.white // White when active
-                                : themeProvider.darkTheme
-                                    ? Colors.white // White for dark theme when inactive
-                                    : Colors.black, // Black for light theme when inactive
-                          ),
-                        ),
-                      ),
+                        );
+                      }),
                     ],
                   ),
                   const SizedBox(

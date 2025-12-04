@@ -46,7 +46,7 @@ class SettingController extends GetxController {
   }
 
   // Update font size preference and save to local storage
-  updateFontSizePref(String value) async {
+  Future<void> updateFontSizePref(String value) async {
     fontSizeValue.value = value; // Update observable value
     await SharedPref.saveFontPref(value); // Save to local storage
   }

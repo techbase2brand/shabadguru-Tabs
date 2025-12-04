@@ -2,7 +2,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:shabadguru/utils/assets.dart';
-import 'package:shabadguru/utils/colors.dart';
 import 'package:shabadguru/utils/dark_mode/app_state_notifier.dart';
 import 'package:shabadguru/utils/global.dart';
 

@@ -235,7 +235,7 @@ class MusicPlayerController extends GetxController {
                   ElevatedButton(
                     style: ButtonStyle(
                         backgroundColor:
-                            MaterialStateProperty.all(darkBlueColor)), // Button background
+                            WidgetStateProperty.all(darkBlueColor)), // Button background
                     onPressed: () {
                       Navigator.of(context).pop(); // Close bottom sheet
                     },
@@ -336,7 +336,8 @@ class MusicPlayerController extends GetxController {
             }
           }
           translationLyrics = '';
-          if (shabadData.englishTransLyrics != null) {
+          // Check shabadData for lyrics (loaded from local JSON for Nitnem)
+          if (shabadData.englishTransLyrics != null && shabadData.englishTransLyrics!.isNotEmpty) {
             for (var i = 0; i < shabadData.englishTransLyrics!.length; i++) {
               String lyrics =
                   '[${printDuration(Duration(milliseconds: shabadData.englishTransLyrics![i].time))}] ${shabadData.englishTransLyrics![i].line}';
@@ -346,8 +347,8 @@ class MusicPlayerController extends GetxController {
           }
 
           englishLyrics = '';
-
-          if (shabadData.englishLyrics != null) {
+          // Check shabadData for lyrics (loaded from local JSON for Nitnem)
+          if (shabadData.englishLyrics != null && shabadData.englishLyrics!.isNotEmpty) {
             for (var i = 0; i < shabadData.englishLyrics!.length; i++) {
               String lyrics =
                   '[${printDuration(Duration(milliseconds: shabadData.englishLyrics![i].time))}] ${shabadData.englishLyrics![i].line}';
@@ -357,7 +358,8 @@ class MusicPlayerController extends GetxController {
           }
 
           spanishLyrics = '';
-          if (shabadData.spanishLyrics != null) {
+          // Check shabadData for lyrics (loaded from local JSON for Nitnem)
+          if (shabadData.spanishLyrics != null && shabadData.spanishLyrics!.isNotEmpty) {
             for (var i = 0; i < shabadData.spanishLyrics!.length; i++) {
               String lyrics =
                   '[${printDuration(Duration(milliseconds: shabadData.spanishLyrics![i].time))}] ${shabadData.spanishLyrics![i].line}';
@@ -367,8 +369,8 @@ class MusicPlayerController extends GetxController {
           }
 
           hindiLyrics = '';
-
-          if (shabadData.hindiLyrics != null) {
+          // Check shabadData for lyrics (loaded from local JSON for Nitnem)
+          if (shabadData.hindiLyrics != null && shabadData.hindiLyrics!.isNotEmpty) {
             for (var i = 0; i < shabadData.hindiLyrics!.length; i++) {
               String lyrics =
                   '[${printDuration(Duration(milliseconds: shabadData.hindiLyrics![i].time))}] ${shabadData.hindiLyrics![i].line}';
@@ -384,32 +386,42 @@ class MusicPlayerController extends GetxController {
           playingSpanishLyrics = spanishLyrics;
           playingHindiLyrics = hindiLyrics;
 
+          // Build lyrics model - use any available lyrics, even if normalLyrics is empty
+          LyricsModelBuilder modelBuilder = LyricsModelBuilder.create();
+          
+          // Use normalLyrics (Punjabi) as main if available, otherwise use first available language
           if (normalLyrics.isNotEmpty) {
-            LyricsModelBuilder modelBuilder =
-                LyricsModelBuilder.create().bindLyricToMain(normalLyrics);
-
-            if (isEnglishLyricsSelected.value && translationLyrics.isNotEmpty) {
-              modelBuilder.bindLyricToMid(translationLyrics);
-            }
-
-            if (isEnglishLyricsSelected.value && englishLyrics.isNotEmpty) {
-              modelBuilder.bindLyricToExt(englishLyrics);
-            }
-
-            if (isSpanishLyricsSelected.value && spanishLyrics.isNotEmpty) {
-              modelBuilder.bindLyricToSpanish(spanishLyrics);
-            }
-
-            if (isHindiLyricsSelected.value && hindiLyrics.isNotEmpty) {
-              // modelBuilder.bindLyricToHindi(hindiLyrics);
-              String correctedHindiLyrics = correctHindiLyrics(hindiLyrics);
-              modelBuilder.bindLyricToHindi(correctedHindiLyrics);
-            }
-
-            lyricModel = modelBuilder.getModel();
-          } else {
-            lyricModel = LyricsModelBuilder.create().getModel();
+            modelBuilder.bindLyricToMain(normalLyrics);
+          } else if (translationLyrics.isNotEmpty) {
+            modelBuilder.bindLyricToMain(translationLyrics);
+          } else if (englishLyrics.isNotEmpty) {
+            modelBuilder.bindLyricToMain(englishLyrics);
+          } else if (spanishLyrics.isNotEmpty) {
+            modelBuilder.bindLyricToMain(spanishLyrics);
+          } else if (hindiLyrics.isNotEmpty) {
+            String correctedHindiLyrics = correctHindiLyrics(hindiLyrics);
+            modelBuilder.bindLyricToMain(correctedHindiLyrics);
           }
+
+          if (isEnglishLyricsSelected.value && translationLyrics.isNotEmpty) {
+            modelBuilder.bindLyricToMid(translationLyrics);
+          }
+
+          if (isEnglishLyricsSelected.value && englishLyrics.isNotEmpty) {
+            modelBuilder.bindLyricToExt(englishLyrics);
+          }
+
+          if (isSpanishLyricsSelected.value && spanishLyrics.isNotEmpty) {
+            modelBuilder.bindLyricToSpanish(spanishLyrics);
+          }
+
+          if (isHindiLyricsSelected.value && hindiLyrics.isNotEmpty) {
+            // modelBuilder.bindLyricToHindi(hindiLyrics);
+            String correctedHindiLyrics = correctHindiLyrics(hindiLyrics);
+            modelBuilder.bindLyricToHindi(correctedHindiLyrics);
+          }
+
+          lyricModel = modelBuilder.getModel();
 
           // if (isEnglishLyricsSelected.value &&isTranslationLyricsSelected.value &&englishLyrics.isNotEmpty &&translationLyrics.isNotEmpty) {
           //   if (normalLyrics.isNotEmpty) {
@@ -633,10 +645,33 @@ class MusicPlayerController extends GetxController {
 
   // Correct Hindi lyrics encoding issues
   String correctHindiLyrics(String input) {
+    // Check if the text already contains valid Hindi (Devanagari) characters
+    // Hindi/Devanagari script range: U+0900 to U+097F
+    bool hasValidHindi = false;
+    for (int i = 0; i < input.length; i++) {
+      int codeUnit = input.codeUnitAt(i);
+      // Check for Devanagari script range (U+0900 to U+097F) or common Hindi characters
+      if ((codeUnit >= 0x0900 && codeUnit <= 0x097F) || 
+          (codeUnit >= 0x0980 && codeUnit <= 0x09FF)) { // Bengali/Assamese (similar)
+        hasValidHindi = true;
+        break;
+      }
+    }
+    
+    // If text already contains valid Hindi characters, return as is (for Nitnem)
+    if (hasValidHindi) {
+      return input;
+    }
+    
+    // Otherwise, apply correction for Banis/Raags with encoding issues
     // Assuming the input string contains improperly rendered Unicode
-    List<int> bytes =
-        input.codeUnits; // Convert the string to UTF-16 code units
-    return utf8.decode(bytes); // Decode it to proper UTF-8 string
+    try {
+      List<int> bytes = input.codeUnits; // Convert the string to UTF-16 code units
+      return utf8.decode(bytes); // Decode it to proper UTF-8 string
+    } catch (e) {
+      // If decoding fails, return original text
+      return input;
+    }
   }
 
   // Change lyrics language selection and rebuild lyrics model

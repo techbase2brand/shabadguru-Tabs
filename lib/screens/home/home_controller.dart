@@ -16,6 +16,7 @@ import 'package:shabadguru/network_service/api.dart';
 import 'package:shabadguru/network_service/models/popular_bannis.dart';
 import 'package:shabadguru/network_service/models/popular_raags_model.dart';
 import 'package:shabadguru/network_service/models/shabad_raag_model.dart';
+import 'package:shabadguru/network_service/models/nitnem_model.dart';
 import 'package:shabadguru/utils/assets.dart';
 import 'package:shabadguru/utils/dark_mode/app_state_notifier.dart';
 import 'package:shabadguru/utils/routes.dart';
@@ -39,9 +40,11 @@ class HomeController extends GetxController {
   List<ShabadData> recentData = []; // Recently played shabads list
 
   PopularBannisModel? popularBannisModel; // Popular banis data model
+  NitnemModel? nitnemModel; // Nitnem data model
 
   final String homePageData = 'home_page_data'; // Shared preferences key for home data
   final String banisData = 'banis_data'; // Shared preferences key for banis data
+  final String nitnemDataKey = 'nitnem_cached_data'; // Shared preferences key for nitnem data
 
   List<RaagData> popularRaagsList = []; // List of popular raags
 
@@ -49,6 +52,7 @@ class HomeController extends GetxController {
   RxBool raagsSelected = true.obs; // Raags tab selected state
   RxBool preRaagsSelected = false.obs; // Pre-raags tab selected state
   RxBool postRaagsSelected = false.obs; // Post-raags tab selected state
+  RxBool nitnemSelected = false.obs; // Nitnem tab selected state
 
   final GlobalKey<ScaffoldState> keyScaffold = GlobalKey(); // Scaffold key for drawer
   final GlobalKey<ScaffoldState> keyScaffoldBanis = GlobalKey(); // Scaffold key for banis drawer
@@ -66,11 +70,13 @@ class HomeController extends GetxController {
     super.onInit();
     featuredList.add(FeaturedModel(title: 'All Raags', image: raagsSvg));
     featuredList.add(FeaturedModel(title: 'Popular Banis', image: banisSvg));
+    featuredList.add(FeaturedModel(title: 'Nitnem', image: nitnemSvg)); // Nitnem with custom icon
     featuredList
         .add(FeaturedModel(title: 'The Kirtanis', image: theKirtanisSvg));
     getHomeLocalData();
     // getHomeData();
     getRecentData();
+    getNitnemData(); // Load Nitnem data
     requestNotificationPermission();
     // getBannisData();
 
@@ -313,6 +319,7 @@ class HomeController extends GetxController {
     postRaagsSelected.value = true;
     preRaagsSelected.value = false;
     raagsSelected.value = false;
+    nitnemSelected.value = false;
     update();
   }
 
@@ -320,6 +327,7 @@ class HomeController extends GetxController {
     postRaagsSelected.value = false;
     preRaagsSelected.value = false;
     raagsSelected.value = true;
+    nitnemSelected.value = false;
     update();
   }
 
@@ -327,7 +335,59 @@ class HomeController extends GetxController {
     postRaagsSelected.value = false;
     preRaagsSelected.value = true;
     raagsSelected.value = false;
+    nitnemSelected.value = false;
     update();
+  }
+
+  void updateNitnem() {
+    postRaagsSelected.value = false;
+    preRaagsSelected.value = false;
+    raagsSelected.value = false;
+    nitnemSelected.value = true;
+    update();
+  }
+
+  // Load Nitnem data from API with cache fallback
+  Future<void> getNitnemData() async {
+    // First, try to load from cache
+    await loadNitnemFromCache();
+    
+    // Then fetch fresh data from API
+    apiRepository.getNitnem().then((value) {
+      if (value.error == null) {
+        nitnemModel = value;
+        String rawJson = jsonEncode(nitnemModel!.toJson());
+        saveNitnemToCache(rawJson);
+        update();
+      }
+    }).catchError((error) {
+      print("Error fetching Nitnem from API: $error");
+    });
+  }
+
+  // Load cached Nitnem data
+  Future<void> loadNitnemFromCache() async {
+    try {
+      final sharedPref = await SharedPreferences.getInstance();
+      final cachedData = sharedPref.getString(nitnemDataKey);
+      if (cachedData != null) {
+        final data = jsonDecode(cachedData);
+        nitnemModel = NitnemModel.fromJson(data);
+        update();
+      }
+    } catch (e) {
+      print("Error loading cached Nitnem data: $e");
+    }
+  }
+
+  // Save Nitnem data to cache
+  Future<void> saveNitnemToCache(String data) async {
+    try {
+      final sharedPref = await SharedPreferences.getInstance();
+      await sharedPref.setString(nitnemDataKey, data);
+    } catch (e) {
+      print("Error saving Nitnem data to cache: $e");
+    }
   }
 
   void initializeNotifications() async {

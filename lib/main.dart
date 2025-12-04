@@ -65,7 +65,7 @@ Future<void> main() async {
 }
 
 // Manages notifications when app is in background
-backgroundHandler(NotificationResponse details) {
+void backgroundHandler(NotificationResponse details) {
   // Put notification management code here.
 }
 
